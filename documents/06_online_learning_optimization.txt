@@ -1,0 +1,906 @@
+# CS 395T — Online Learning and Optimization
+# 1. On msaihub Reviews, filter by "Online Learning and Optimization" (NOT plain "Optimization" — that's file 05).
+# 2. Run scripts/scrape_msaihub_reviews.js in the browser console.
+# 3. Paste the clipboard output below (it already has --- separators).
+# Lines starting with # are ignored during ingestion.
+
+Title: OLO 2026
+Term: Online Learning and Optimization - Spring 2026
+Posted: 5/7/2026 3:13 PM GMT-7
+Rating: 2
+Difficulty: 7
+Textbook: 3
+Lectures: 3
+Professor: 3
+Piazza: 3
+Workload: 20 hours per week
+
+Review:
+Pros:
+
+1. The second part of the exam is slightly easier to understand compared to the first part.
+2. Reviewers give everyone mostly 95-100%
+3. Eric is a TA lead did a great job
+
+Cons:
+
+1. exam is very difficult to understand.
+2. There is too much information, which makes it hard to process and study effectively. Some questions feel unclear or difficult to answer, making performance depend partly on luck.
+3. Videos are extremely long, and even after watching them twice, I still struggle to understand the content. Part 1 (Need to spend more than 6-10 hours to watch video a week)
+4. The curve works a bit strangely. The instructor bumps grades up by one letter: B- to B+, C+ to B-, and B+ to A-. However, if your grade is already high (A-), no curve is applied. It would be better if the instructor added a constant number of points to all students’ grades so that it would be fairer.
+
+Detailed Review:
+
+This is the first time in Spring 2026 that protected exams have been applied. The first part of the exam is very difficult to understand, with a large amount of information that is not easy to process. The second part is slightly better, but it is still quite challenging overall.
+
+I am not sure whether many students fully understand all the material, but based on comments in our channel, it seems that luck plays a significant role in achieving a good result, since some questions are difficult to interpret or answer. Overall, while part 2 is an improvement, the exam remains quite difficult. Based on my experience, I would not suggest taking this course
+
+---
+
+Title: Interesting topics, average course
+Term: Online Learning and Optimization - Spring 2026
+Posted: 3/1/2026 4:05 PM GMT-8
+Rating: 5
+Difficulty: 5
+Textbook: 4
+Lectures: 4
+Professor: 4
+Piazza: 6
+Workload: 15 hours per week
+
+Review:
+Pros:
+1. Very interesting topics
+2. Reasonable pace
+3.
+
+Cons:
+1. lectures of Optimization part is very repetitive and slow. Professor is not appreciating that students are watching it online and he should come with half prepared slides and only need to fill in details. Second part was better in that respect, but his lectures had its own share of problems.
+2. Exams do not correlate with suggested importance of topics
+3. Peer reviewers - some of them were real high school children with no capacity to understand rubrics, and deducted point without much explanation so that peers have less points. TAs don't care (perhaps UT should care and avoid admitting people like that)
+4. Poorest starter code I have seen in the program so far, especially for the second part, code was assembled by some previous grad students with confusing comments and some silly bugs. Even in the era of copilot, course staff did not tidy it up before current run (which shows course is abandoned..)
+
+Detailed Review:
+
+Taking Optimization first is helpful
+
+---
+
+Title: Boring and abandon
+Term: Online Learning and Optimization - Spring 2025
+Posted: 5/28/2025 6:37 AM GMT-7
+Rating: 3
+Difficulty: 4
+Textbook: 4
+Lectures: 2
+Professor: 3
+Piazza: 4
+Workload: 8 hours per week
+
+Review:
+Pros:
+1. Easy class
+2. Low time commitment
+3.
+
+Cons:
+1. Extremely boring lectures (long proofs)
+2. Poor communication
+3.
+
+Detailed Review:
+First half of the semester was more time than the second half. They are each taught by different professors. Second half legitimately took probably 1-3 hours a week to do the homework. First half was probably closer to 10-15 hours.
+
+Peer grading is ok but this class turned into everyone gets 100% rather quickly. The professors and TAs did almost nothing all semester. Students graded others and mostly gave our 100s, then that is the grade we got. I won't complain about a good grade but there was nothing constructive about this and I did not know if my answers were actually correct because we were graded on "effort".
+
+The exams were quite hard but it was fine because they curved the final and the homeworks made up for a poor midterm.
+
+The lectures were terribly boring and not all that useful. At least the second half the professor published his notes, the content was much easier though.
+
+I would recommend for the grade boost but would not if your goal is to learn a lot.
+
+---
+
+Title: UT should be ashamed of this course
+Term: Online Learning and Optimization - Spring 2025
+Posted: 5/26/2025 6:51 AM GMT-7
+Rating: 2
+Difficulty: 4
+Textbook:
+Lectures: 3
+Professor: 4
+Piazza: 1
+Workload: 20 hours per week
+
+Review:
+Pros:
+1. Nice topics
+2. Good % for homeworks
+3. Some homeworks are easy
+
+Cons:
+1. The worst organization I've seen
+2. 1st part homeworks are unnecessarily difficult (read the detailed review)
+3. Grading is NOT clear, exams are unfair (read the detailed review).
+
+Detailed Review:
+
+If you are reading this, let me say that I was in your position 6 months ago, and yes, as you have read the other reviews I tried to give this class an "opportunity" since they have nice topics in the syllabus, and please don't get me wrong, the topics are good (maybe 8.5/10) but the way the staff carried the course and the way the course is graded is the worst I have seen during my master (MSCS).
+
+The first part is full theory and a part of algorithms, but I did some of the same algorithms in the ML class (10/10 class) and I took like 2 hours per homework, but here we took like 9 hours per homework NOT for the difficulty of the topic but the template the professor uses in his code, you will spend like 2 hours only trying to understand the data structures and algorithms they use, like put a for in a method, or renaming the same method 3 times, and again the topics of the homework were not difficult, but leading with the template is awful. Also, the first exam was like 9 questions of the theory that we did NOT see in class, but you "should" Intuit, and 4 about the algorithms, in our case one was wrongly formulated, and they did not give us the extra point, even they regarded some points.
+
+The second part was easier, but monotonous, and they have some "optional" modules, so be careful if you are going late with the lectures, so you can skip them, and in fact, the second exam was too bad, they had many ambiguous question that actually could have more than one answer, and we all got mad since the semester ended and they did not realize the grades and archived the course, so we could not ask for a regrade or something.
+
+Actually, the worst ED / piazza / staff I have ever faced, the professors were inexistent (only 2 comments in the whole semester) and it was like only one TA that answered 1 out of 20 posts or questions.
+
+If you have the opportunity to take this course, avoid it and take ML instead.
+
+---
+
+Title: Worst Class I Have Ever Taken
+Term: Online Learning and Optimization - Spring 2025
+Posted: 5/6/2025 3:06 PM GMT-7
+Rating: 1
+Difficulty: 2
+Textbook: 5
+Lectures: 1
+Professor: 1
+Piazza: 1
+Workload: 8 hours per week
+
+Review:
+Pros:
+1. Homework, especially in the second half, is extremely easy.
+2. Peer-based grading, so if your classmates are chill you'll get a 100 on every homework
+
+Cons:
+1. Lectures are complete and utter garbage.
+2. Peer-based grading, because the professors and TAs cannot be bothered to do their jobs, and ask you to do it for them.
+3. Very very terrible communication, constant complaints on Ed for being unable to contact either professor or the TAs.
+
+Detailed Review:
+This was, genuinely, the worst class I have ever taken. It is a Frankenstein course, in which two different courses with very little to do with one another are sloppily smashed together. The first half is absolutely awful. The professor just throws up a bunch of proofs with no explanation whatsoever as to how the content is applied. There is exam study guide, just "watch the lectures and know the algorithms". The assignments are mindless code implementation of the algorithms, and since the class is designed to require as little work as possible for the staff, every single assignment is peer-graded. While this makes assignments extremely easy, it teaches you nothing and you just sit and hope that your classmates, who are likely as confused as you are, just click through and give you 3's. There is also no grace period for late homework, which is ironic because the professors are not expected to do anything on time.
+
+The second half of the course is the same, but the lectures are slightly more understandable, and the homework is considerably easier. The second exam guidance was "study everything from part 2 of the course. No book, a single page of notes". Utter garbage, and, as of May 6 (grades are due May 7), we have gotten no feedback, and 3 EdStem posts are currently sitting ignored with over 40 likes from students wanting their grades. Disgusting behavior.
+
+This course needs to be launched into the sun. Do not take this course unless you truly do not care about learning anything, and only want an easy grade.
+
+---
+
+Title: No idea what was going on
+Term: Online Learning and Optimization - Spring 2024
+Posted: 8/27/2024 1:31 PM GMT-7
+Rating: 2
+Difficulty: 4
+Textbook:
+Lectures: 2
+Professor: 2
+Piazza: 5
+Workload: 10 hours per week
+
+Review:
+Pros:
+1. If you like proofs this is your class
+
+Cons:
+1. If you don't like proofs this isn't your class
+
+Detailed Review:
+
+The lectures felt super rushed. The homeworks were not bad at all, they were actually fairly straight forward. The exams however were pretty difficult but its open notes. Ed was pretty much useless because a majority of student questions were simply left unanswered to the point I saw other students helping them. It just seems like the professor is teaching this class because he has to...
+
+---
+
+Title: I wanted to like this course
+Term: Online Learning and Optimization - Spring 2024
+Posted: 5/7/2024 7:50 PM GMT-7
+Rating: 2
+Difficulty: 4
+Textbook: 2
+Lectures: 4
+Professor: 3
+Piazza: 1
+Workload: 12 hours per week
+
+Review:
+Pros:
+1. A big chunk of the grade comes from homework
+2. Optimization half had challenging homework and good lectures
+3. Lighter second half
+
+Cons:
+1. Little to no TA or professor engagement aside from office hrs
+2. Multiple choice exams with little feedback
+3. Second half assignments too simple
+
+Detailed Review:
+First half: I liked the first half lectures and assignments but I wish there were some more proof-based assignments too as these would have helped for the exam and general learning. Some of the material was covered in Optimization but presented in a different way. It goes fast and I don't think I would have understood it as deeply if I didn't have Optimization beforehand. Avg 15 hrs/wk
+
+Second half: The lectures were interesting, but most of the homework code was filled in for us and I do not feel like I learned enough. The professor did try to connect the concepts to real-life examples which was helpful. In many cases the grading rubrics were not even applicable for the current iteration of the class or topic (and a lot of that was never fixed or acknowledged). Avg 8 hrs/wk
+
+Exams: Aside from unhelpful guidance that exams are based on lecture content, students had no idea what to expect. The first exam was awful, mean scores in 'F' range, and students did not get to review exam solutions until nearly the end of the course. The second exam was better, but again due to lack of communication it was a very frustrating experience.
+
+Many student questions were unanswered on Ed. Conceptual questions in particular (not directly related to homework links/homework grading questions) were not answered very often, but luckily students stepped in to help each other. I felt like the staff did not care about students in this class and the learning opportunities were diminished because of this. Having taken Optimization I was really looking forward to this class but the exams and lack of support left a poor impression.
+
+---
+
+Title: Abandoned class
+Term: Online Learning and Optimization - Spring 2024
+Posted: 5/7/2024 6:25 PM GMT-7
+Rating: 3
+Difficulty: 2
+Textbook: 2
+Lectures: 6
+Professor: 3
+Piazza: 4
+Workload: 3 hours per week
+
+Review:
+Pros:
+1. TAs are generally responsive on Ed. For example, I managed to get responses usually within ~1day for matters like faulty submission. For some reason it's easy to get a response for a new thread, but not so easy if it's questions asked in an existing thread.
+2. Syllabus covers pretty interesting topics.
+3. Generous grading (it seems). Both exams are actually in multi-choice format. For second exam you get full marks if you can answer at least 8 out of 13 correctly.
+4. Lecture content from both profs are actually pretty good. For those saying it's dry, do remember that this is a theory course.
+
+Cons:
+1. VERY low effort from the Professors. Zero interaction whatsoever. For the first mid-term, several people was pushing for solutions to the questions to learn from their mistakes - as far as I know the TAs tried to email the profs several times but no response, in the end it took months.
+2. Assignments from first half was acceptable - i.e. I could still learn from the implementation and reinforced what I learned from the lecture, but the grading rubric etc could be misleading sometimes, showing that it was not properly refined prior to the course. Assignments from the second half was too simple, and I agree with other reviews that it's not really reinforcing much what's learned in the lecture. I can hardly imagine any reason as to not being able to score full marks. To put it quite literally, in every single assignment, as long as your final graph looks like a y = log(x) or y = sqrt(x), you're good to go. The weekly assignment link, like mentioned in other reviews, can sometimes be broken due to a silly copy-paste action from TAs/prof, i.e. the copy-pasting process added something into the URL and causes it to be broken. Grading rubric for this second half was also poorly done and obviously meant for previous semesters, showing the TAs/profs really didn't bother to correct this at all.
+3. It's funny writing this now (as of today) because as soon as the final exam was graded, the Ed was archived almost instantaneously. Not sure if this is done by the TA/professors, but it's just unnerving to see such quick response to put an end to the course, leaving many questions in the board unanswered.
+
+Detailed Review:
+Overall I walked away from this course having learned something useful (from both halves of the course). While this may well be what the Profs have intended for all of us, I do think we as students should make it loud and clear that the current way of managing this online course is not how an online course should be treated. The lectures have been pre-recorded in earlier semesters which means there's already zero effort in this semester in terms of lectures. Yet this is coupled also with zero effort in grading (because it's automated), zero effort in helping out in Ed and zero effort in maintaining the assignments.
+I do think future students reading this should strongly voice their concerns in their communication with the university with regards of what kind of role the professors are expected to play in online courses. I'm 2 years into the program now, and it seems overall it's just a bag of mixed feelings - some professors really put in a lot of effort (e.g. NLP), and some are non-existent throughout the entire course. WHAT'S THE UNIVERSITY'S STANCE ON THIS?
+
+To end this review with a constructive feedback, I would suggest the profs to either take reference to how other online courses in MSCS have been run successfully, or at least manage the expectation about their commitment to the course right from the start.
+
+---
+
+Title: Poorly Run
+Term: Online Learning and Optimization - Spring 2024
+Posted: 5/7/2024 7:19 AM GMT-7
+Rating: 2
+Difficulty: 4
+Textbook: 4
+Lectures: 4
+Professor: 2
+Piazza: 2
+Workload: 10 hours per week
+
+Review:
+Pros:
+1. Lectures are good in terms of material covered.
+2. Assignments help with learning key algorithms.
+3. Theory credit achieved.
+
+Cons:
+1. Lectures are extremely boring.
+2. Assignments do not help learn the theory behind the algorithms, this does not feel like a theory course.
+3. Exams are multiple choice, another odd decision for a so-called theory course. They test your test taking and guessing skills more than knowledge of the subject.
+
+Detailed Review:
+Let me start by saying that I took this course to knock out the required theory credit. It was not something I went into expecting to enjoy. While I did find the lectures very dry, I surprisingly found the subject matter covered by the course to be quite interesting at first. I was learning quite a bit for the first month or so at least. Unfortunately, this course suffers greatly due to poor communication and poor grading metrics. I found myself becoming less and less interested as the semester progressed as a result.
+
+TLDR: It's hard to stay motivated for a course when the professors quite clearly don't care about it, or have any respect for the students paying to take it.
+
+It's not a good sign when a week into the course the Ed Discussion forum for it still hasn't been activated. Office hours didn't start until after the first graded assignment was due. It got worse from there. More often than not the link for the assignment would be broken or missing until students pointed it out and TAs got around to fixing it a few days later. The solution would likewise often be missing when it came time for peer reviews. You'd think eventually they'd have figured this out, but no. Grading rubrics often didn't even match the correct assignment, and questions about this often weren't even acknowledged by TAs. By the time the final exam came around details were non-existent. We were apparently permitted 2 pages of prepared notes, but we weren't told this until actually clicking to start the exam. I got the impression the TAs were not being provided necessary information by the professors, and of course the professors did not interact with the class at all.
+
+The grading of this course is designed solely to be as close to zero effort as possible for the course staff rather than to be fair or to encourage learning. 70% is from peer graded assignments, and the remaining 30% is from auto graded multiple choice exams. I found the assignments to be a useful part of the course, but the OL ones are perhaps too simplified. The exams were utterly worthless; your score might as well be randomly generated. I think they somehow succeeded in making me unlearn some of the material. I say that as someone who somehow managed to score in the top quartile on the midterm.
+
+For someone looking for a theory credit that doesn't actually require you to learn the theory, go for it I guess. The assignments are all simple to moderate difficulty python projects. While proofs are presented if you want to dive deeper, the way the course is delivered provides no incentive for you to do so. Courses administered this poorly cheapen the program. Students deserve better, the program deserves better.
+
+---
+
+Title: One of the worst courses, the dullest, the most chaotic and disorganized.
+Term: Online Learning and Optimization - Spring 2024
+Posted: 5/6/2024 2:05 PM GMT-7
+Rating: 1
+Difficulty: 4.5
+Textbook: 2
+Lectures: 2
+Professor: 1
+Piazza: 1
+Workload: 12 hours per week
+
+Review:
+Pros:
+1. Easy course if you are a TA, because you can be the biggest disappointment ever and still get away with it.
+2. Easy course if you are a professor, because you need to spend 0 effort or care.
+3. I'm trying hard but can't come up with a 3rd Pro.
+
+Cons:
+1. Horrible logistics
+2. Useless TAs (and professors), no guidance whatsoever
+3. Dull content, nothing exciting (they make it unexciting, I should say)
+4. Weak, useless assignments and extremely poor solution sets
+5. Contact me personally and I'd be happy to spell out 100 more cons.
+
+Detailed Review:
+
+I felt it was one of the most horrible courses, if not the most. Previously, RL took that position and I didn't expect anything to top it; this program continues to surprise me! Professors and TAs both were almost non-existent. TAs were a complete disappointment, and professors didn't care a single bit.
+
+- Course logistics: What even was that, if any?
+
+- Course content: The first half was fine, but the prof makes zero effort to make anything interesting. Second half was so dull I kept beating a dead horse trying to find any little spark.
+
+- Edstem: There were only questions, no answers. For example, 4 days into the final exam window, we would still not know what the exam structure is (we never knew, if you didn't see that already). The TA (I want to spell out the name but I'll let go) responds after a lifetime saying "refer to practice questions" and unsurprisingly, no practice questions ever existed. Apparently a few weeks into the course, the consensus was already established that nobody cares about this class, it just exists.
+
+- Exams: I liked and enjoyed the quality of exams, they make you think (sometimes out of the box) and actually apply the concepts which you never do (or should I say - they never let you do) in the entire course. Unfortunately, I see many students struggle here and it makes complete sense because you don't get exposed to anything of good quality throughout the semester except the problems all of a sudden in the exam.
+
+- Final thoughts: I regret taking it but if any consolation (if at all), it cleared one theory requirement.
+
+- Overall: Stay away, take other theory class(es). I would give this class a negative rating if it were possible.
+
+Update: There was utter confusion regarding grading with many students left hanging and frustrated. As usual, there were only questions with no responses on Ed. One fine day the professor woke up from a semester-long nap and posted on Ed about the grading. And IMMEDIATELY, the course was archived which means no one can ask any potential queries. They messed up the grading of at least one student as I know of, and I'm sure it has been a nightmare for him/her to deal with this. On another note, they apparently made the grading stricter this time, with no curve. Though I personally wasn't affected by this part as I did exams very well, many students had a rough mid term so it possibly affected their grade.
+
+---
+
+Title: OLO Spring 2023
+Term: Online Learning and Optimization - Spring 2023
+Posted: 5/2/2023 10:20 AM GMT-7
+Rating: 3
+Difficulty: 3
+Textbook:
+Lectures: 4
+Professor: 4
+Piazza: 3
+Workload: 10 hours per week
+
+Review:
+Pros:
+1. Covers two different and interesting concepts
+2. HWs are all Python-based implementations of algorithms discussed in lectures
+3. HWs are most of the grade (70%)
+
+Cons:
+1. Really should just be two separate courses
+2. Didn't feel well prepared for the exams based on the lectures and HWs
+
+Detailed Review:
+This really is two separate half-courses merged into one, which I thought was a shame as both topics are interesting and deserve their own class.
+
+The homeworks in the first half (Optimization) are much more involved than the second half (Online Learning), probably allocating an average of 8-10 hours vs 1-2 hours. I think this is mostly a function of the half-and-half split that is this course. Both topics would be better served to be developed further and with more meaningful homeworks/examples than can be done in the half-course given for each subject.
+
+---
+
+Title: Painful
+Term: Online Learning and Optimization - Spring 2022
+Posted: 4/20/2023 1:49 PM GMT-7
+Rating: 2
+Difficulty: 4
+Textbook: 4
+Lectures: 3
+Professor: 2
+Piazza: 5
+Workload: 10 hours per week
+
+Review:
+Pros:
+1. Easy second half
+
+Cons:
+1. No cohesion between videos, assignments, and exams
+2. Challenging first half, but not in a good way
+
+Detailed Review:
+Videos, assignments, and exam did not line up appropriately.
+The videos were poorly divided with large amounts of time being devoted to proofs but minimal time being given to motivation. The professor would work through complex substitutions in the proof with absolutely no knowledge on my part of why the substitution was made or what was being worked towards. I desperately needed more information on *why* things were being done rather than the math that showed that the proof worked in a certain way.
+The assignments often took the result and just had us implement them - the result seemed to be made obscure in the video maybe to make the homework more challenging, but needing to make the result from the video obscure points to more of a problem with the homework. The algorithm that the professor comes to in the video should be clear.
+Many of the algorithms (for example stochastic gradient descent) were extremely easy to understand intuitively, and I'm not sure why the structure wasn't an intuitive explanation followed by a proof - the proof left me more confused and then I had to step back separately to figure out what was happening and come to the intuitive explanation myself.
+The exam tested the definitions from the videos when the homeworks hadn't. I believe the homeworks had no definition-based questions because they needed to be peer-graded. However, there could have at least been some multiple choice questions on homeworks to give a taste of what the exam would be like. No practice exam was provided because the class leadership did not want to make an additional exam.
+This class left me feeling more stressed than educated.
+
+---
+
+Title: Did not like this course
+Term: Online Learning and Optimization - Spring 2022
+Posted: 7/6/2022 10:21 PM GMT-7
+Rating: 2
+Difficulty: 6
+Textbook:
+Lectures: 3
+Professor: 5
+Piazza: 7
+Workload: 10 hours per week
+
+Review:
+I did not learn much from this course and just tried to finish the assignments.
+
+---
+
+Title: First Half = very bad; Second Half = kind of neat; Total = underwhelming but you can knock a credit out.
+Term: Online Learning and Optimization - Spring 2022
+Posted: 5/27/2022 9:26 AM GMT-7
+Rating: 3
+Difficulty: 6
+Textbook: 1
+Lectures: 3
+Professor: 3
+Piazza: 2
+Workload: 15 hours per week
+
+Review:
+Pros:
+1. The second half was interesting.
+2. It's over and I passed
+3. Heavy curve if you keep up with all assignment and study for final(s)
+
+Cons:
+1. The first half is mostly long videos of proofs.
+2. For me, this was dense, in one ear, take the test, and out the other math. I don't work in ML so I'm not sure very much of this is going to stick long term.
+3. Alex the TA basically provided all support and teaching outside of the prerecorded lectures and I think he's graduating, so good luck getting help from Prof's or other TA's.
+
+Detailed Review:
+The ratings of this review are skewed since this is kind of two courses baked into one. I strongly disliked the first half of the course and thought the second half was fairly interesting. So I would give the optimization part of this course a 1 Star for every metric and the Online Learning portion a 5/6 for most metrics. This was one of my first courses in the program so I guess I'm not totally sure if there is a little expectation vs reality about the program in general or if this course was just pretty bad but if one has to do ten more classes like this to get a degree I will probably wish I hadn't done the program.
+
+The second half of the course was interesting and seemed to present ideas that had a little more take home value for someone not working on deep math proofs professionally.
+
+I can't quite tell if the prof's of this course care at all about the online portion of their job. I assume that they're interesting, good teachers in person. But they came across as kind of aloof for this course. In optimization there was some talk of explanations of the answers to the final that it seemed like everyone bombed - that of course never happened. For the second portion of the class they never even released peoples grades for the final. That being said, I think if you took both finals they gave you a decent grade so I don't want to be too hard on them because I appreciate that part of the course, but in general the course gives the impression that UT doesn't really care about online students and looks at this program as a way to drive massive revenue from around the world at basically zero marginal cost per student.
+
+---
+
+Title: Frankenstein course with generous grading
+Term: Online Learning and Optimization - Spring 2022
+Posted: 5/23/2022 2:03 PM GMT-7
+Rating: 6
+Difficulty: 4
+Textbook: 3
+Lectures: 4
+Professor: 5
+Piazza: 3
+Workload: 10 hours per week
+
+Review:
+Pros:
+1. Monotinically decreasing difficulty and time commitment
+2. Fair homework assignments and generous peer-grading rubrics
+3. Generous optimization curve and forgiving online learning midterm
+
+Cons:
+1. Unnecessarily difficult optimization midterm
+2. Lack of responsiveness on Piazza from the TAs
+3. The grading and exams feel like one giant black box
+
+Detailed Review:
+The first half of the course is full of math-heavy proofs and requires more work than the second half of the course. Students can expect to spend 10-15 hours a week on the optimization of the course, while online learning is 5-10 hours per week. The professor does a good job at explaining the algorithms and is responsive on Piazza. The optimization exam is fully multiple-choice with 8+ answer choices and required the most detailed understanding of the algorithms. The professor did an excellent job of detailing what types of questions would be on the midterm, but I still felt there was no meaningful way to prepare for it. Even though this exam was curved at the end of the course, students were never given an opportunity to discuss the exam questions, leaving a learning gap in the content. The exam was never disclosed, but it was likely in the F grade range. It was so difficult and never reviewed that I question if I really learned anything. Also, the TAs left several Piazza posts unanswered throughout the course but more so after the first midterm for some reason. The TAs were great and helpful when they did respond.
+
+The online learning portion of the course, by contrast, skipped over all the proofs in lectures and the comparison between algorithms was clearer. The second half of the course includes many optional topics and there are weeks where students get a break from weekly homeworks which was nice. The online learning midterm was generous in its format (multiple choice with 4 answer choices) and its grading rubric, but the exam did an excellent job of allowing the students to really learn the topics in the course. There was also a very helpful exam review by the TA prior to the second midterm. I thoroughly enjoyed this section of the course.
+
+Overall, it was a fair to generous course and parts of it was fun. It felt like two distinct courses oddly put together in a Frankenstein fashion with sporadic TA support, but there are optimal lectures that tie the two courses together. It is a good class to take early in the program, and optimization is not required as a prerequisite and is not needed to get an A. While I wish there was more grading transparency, the instructors took care of the students in the end.
+
+---
+
+Title: Muddled!
+Term: Online Learning and Optimization - Spring 2022
+Posted: 5/19/2022 11:35 AM GMT-7
+Rating: 2
+Difficulty: 3
+Textbook: 4
+Lectures: 5
+Professor: 5
+Piazza: 4
+Workload: 6 hours per week
+
+Review:
+Pros:
+1. Math heavy “intro” to proving performance bounds of many algorithms
+2. Simple, conceptual intro to the online learning problem
+3. Easy! Ish, more on that later
+
+Cons:
+1. Two totally disjoint classes; this is kind of fine but you don’t get to some neat conclusion at the end like you might hope
+2. Assignments, tests and lectures didn’t feel like they were designed to teach the same type of understanding of the material
+3. Not sure what I will remember from this class beyond the very basic framework of the problems
+
+Detailed Review:
+Optimization half: gnarly math lectures. Would have taken a lot of effort to really absorb all the math (maybe less so if you had already taken Optimization).
+
+But then the homeworks were quite easy; you could basically code up a given algorithm from the Wikipedia description. So I didn’t really focus on understanding the lectures at a deep level. And then the test was extremely hard. Multiple choice, but with tons of options. I felt really good when, after a lot of math, I got to answers that were on the list of choices! But mostly I got those questions wrong anyway. Never found out how/why.
+
+Online Learning half: much gentler lectures focusing on the problem in general. Similar homework.
+
+Not a terrible class, but I would avoid it unless you feel like you need superficial exposure to both topics. If you have the time/energy you could get a lot more out of it, but you could also just do that on your own.
+
+Seems like maybe everyone just gets an A at the end? Unclear, opaque grading. They never released the scores from either test, and it’s super easy to get full credit on the peer graded homework.
+
+---
+
+Title: Learning Online Learning and Optimization Online
+Term: Online Learning and Optimization - Spring 2022
+Posted: 5/18/2022 4:58 PM GMT-7
+Rating: 6
+Difficulty: 5
+Textbook: 6
+Lectures: 6
+Professor: 7
+Piazza: 7
+Workload: 11 hours per week
+
+Review:
+Pros:
+1. Puns
+2. Piazza Support from TAs and Instructors
+3. Generous Curve
+
+Cons:
+1. Extremely Difficult Midterm
+2. First Half of the Course Homework Pace
+3. Stress
+
+Detailed Review:
+The midterm and final were more YOLO than OLO. The final was an adversarial multi-armed bandit.
+
+Alex was great. Being an MSCSO student, he did great. Hopefully, more MSCSO students can fill his shoes.
+
+The first half of the course was pretty brutal with homework due every week. I didn't really start to connect the dots until studying for the midterm. The midterm was an extremely difficult, multiple-choice test. The second half of the course was lighter, but still very stressful after seeing my midterm grade. Thankfully there was a generous curve at the end.
+
+I did not take Optimization prior to this course. I don't know if taking Optimization first would have really been better. I think I would have done better on the midterm, but overall I did well and was happy with my grade after the curve. The Optimization portion was just brutal for me.
+
+---
+
+Title: Fun course
+Term: Online Learning and Optimization - Spring 2022
+Posted: 5/16/2022 2:31 PM GMT-7
+Rating: 6
+Difficulty: 5
+Textbook: 5
+Lectures: 6
+Professor: 6
+Piazza: 7
+Workload: 15 hours per week
+
+Review:
+Optimization (first part):
+I took this class immediately after taking Optimization with Prof. Caramanis. At first I thought the Optimization part was going to be a piece of cake, and while it's definitely true that it helped having taken the previous class, it didn't make it easy. I still had to put in a lot of hours to get the assignments in correct shape. The first Midterm was very theoretical and I did poorly, and I did ok with the homeworks. It's a very important topic, nonetheless, so I would recommend taking some sort of Optimization class while doing this degree
+
+Online Learning (second part):
+This was a concept that was completely new to me, and I had a lot of fun. The assignments were kind of binary in their difficulty ... if you didn't "get" it, it's very impossible, but once it clicks it becomes very intuitive. The second midterm was much more manageable, and there were no proofs, just a big picture understanding of the concepts.
+
+Language: Python. My level is somewhere between beginner and intermediate, so a more advanced student will probably find the Assignments easier than I did. It would very difficult to take this class with only basic Python capabilities (although I suppose that's true for the whole MS). Finally, the Online Learning part could have been much more difficult (if you dive into the proofs), but I guess out of time constraints Prof. Shakkottai decided to just test us on the algorithms and the general concepts.
+
+Don't know my grade yet. But overall, a great class.
+
+---
+
+Title: Tough first half, easy second half
+Term: Online Learning and Optimization - Spring 2022
+Posted: 5/13/2022 3:25 AM GMT-7
+Rating: 5
+Difficulty: 5
+Textbook: 4
+Lectures: 7
+Professor: 7
+Piazza: 7
+Workload: 9 hours per week
+
+Review:
+Pros:
+1. A lot of different techniques covered
+2. Both the lecturers taught their content very well
+3. Helpful TAs
+
+Cons:
+1. Some of the assignments in the first half of the course were hard
+2. Difficult midterm exam
+3. First half of the course was very fast-paced
+
+Detailed Review:
+One of the pre-requisites of this course is Optimization, but you don't need it. Apart from that, you will require knowledge of linear algebra, probability, and derivatives. I hadn't taken Optimization before this course, so the first half of this course was very fast-paced for me. Both the professors taught their subject material comprehensively, even providing basic reviews of mathematical concepts wherever needed. There were 14 assignments in total, 2 of which had nothing to submit. The assignments made up 70% of the total grade and were peer-graded. There was a mid-term and a final exam, each counting for 15% of the total grade.
+
+The first half of the course was very math-intensive and required a lot of effort on my part to complete the assignments. Some of the assignments were related to softmax regression which wasn't taught during this course, so I had to spend a lot of time researching it and trying to implement it. The assignments were to be submitted almost every week which made this course very fast-paced. The final two assignments for the first half of the course and the mid-term exam were in quick succession, so that was very exhausting. The mid-term exam was very hard, even though it was multiple choice.
+
+The second half of the course was a lot lighter than the first half. The professor would explain the possible uses of the online learning algorithms and the assignments were easy to complete. The courseload dropped significantly during the second half.
+The course workload for optimization was around 12 hours/week and around 4 to 5 hours/week for online learning.
+
+It was a fairly decent class, with a high workload at the start, and reduced after the mid-terms. The TAs were responsive on Piazza, especially Alex Stoken. I would recommend this class, but you need to manage your time properly, at least for the first half of the course. I am glad that I took this course, instead of taking Optimization for an entire semester because I am not very interested in that kind of material.
+
+---
+
+Title: Good class. Exercises are fun but simple and exams are quite hard
+Term: Online Learning and Optimization - Spring 2022
+Posted: 5/11/2022 6:36 AM GMT-7
+Rating: 5
+Difficulty: 3
+Textbook: 6
+Lectures: 5
+Professor: 5
+Piazza: 7
+Workload: 10 hours per week
+
+Review:
+Pros:
+1. Exercises are fun and do not take a lot of time to implement, it does not require a lot of setup
+2. Algorithms and concepts are explained simply, you get how they work
+3. Workload is acceptable
+
+Cons:
+1. Lectures are packed in long videos. Would be better to have several 7-10 mins sections than a 40-minutes block
+2. Exams are insane. They ask very detailed questions about specifics of the algorithms/reasoning behind.
+3. Exercises could go deeper. All follow the same patter and leave small to no room for explore
+
+Detailed Review:
+I liked this class. The workload is light although the topics are very interesting. Exercises are fun to do and require little to not setup and it is easy to see them work. Main concepts are easy to understand but there is a lot of details that are complex and hard to learn in just one semester.
+
+The class, as you may note, is divided in two sections. I liked both although I had problems with the second one. Something in the teacher's way of explaining things made difficult for me to grasp some of the details. It might just be me, but I feel that the prof. went several times through the same concept over and over in most of the lectures and didn't explain clearly some of the important ones.
+
+Exams are plain complicated. You are asked a lot of complex details about the algorithms studied and you are put in scenarios were you need to figure out if the algorithm in question would perform good or bad (or even better or worst than others). Put attention to the technical details in the lectures because they will be useful during exams.
+
+The recommended textbooks are quite good, it is worth reviewing them after lectures to have a better grasp of the details. As I mentioned before, the lectures should be divided in small sections so it is easier to go through them. The notes are helpful but I have to admit that both profs. have a complicated calligraph.
+
+Both teachers are quite good. I recommend this class. TAs support was very good as well, special mention to Alex Stoken who was very responsive, patient and helpful when answering doubts through Piazza.
+
+---
+
+Title: Not fun and quite hard
+Term: Online Learning and Optimization - Spring 2022
+Posted: 5/10/2022 3:41 PM GMT-7
+Rating: 3
+Difficulty: 6.5
+Textbook: 2
+Lectures: 3
+Professor: 3
+Piazza: 5.5
+Workload: 12 hours per week
+
+Review:
+Pros:
+1. The second half of the class was reasonable
+2. The homeworks started to click eventually (but at the end)
+3. The TAs were pretty helpful
+
+Cons:
+1. Lectures were dry and just full of proofs (especially in the Optimization (first) half)
+2. The first half had some really hard homeworks
+3. The first midterm exam was so hard
+4. The textbook (from the second half) was also dry and full of proofs. You have to hunt around for Medium articles that have explanations and sample code
+
+Detailed Review:
+I was seriously fooled by the pre-existing reviews and did not expect to get slammed the way I did this semester. The optimization part of the class is super hard and the lectures are just filled with proofs. Not an easy class at all - especially since so much of the HW is built around pulling the proofs into code (and there are no examples, reference points, and the template code is often buggy or confusing). The professors are both nice and involved, but I really wish that the content was easier to understand.
+
+---
+
+Title: Great Course Overall
+Term: Online Learning and Optimization - Spring 2022
+Posted: 5/9/2022 1:17 PM GMT-7
+Rating: 6
+Difficulty: 6
+Textbook: 7
+Lectures: 7
+Professor: 7
+Piazza: 7
+Workload: 15 hours per week
+
+Review:
+Pros:
+1. Both the lecturers did an amazing job of explaining their respective parts along depth and breadth.
+2. I am glad I took this course after Deep Learning, gave me a good understanding of how some of the nuts and bolts work.
+
+
+Cons:
+1. Assignments for the second half got a bit repetitive.
+
+
+Detailed Review:
+
+Overall pretty well run course, TA support was excellent. Personally, I was not prepared for the difficulty level this course offered. Based on the review at the time. It seemed that this would be a pretty casual course. 2 assignments in, the difficulty gradually started to increase for optimization until the second half started. Exam was pretty difficult as well.
+
+---
+
+Title: Heavily Front-Loaded Course, Easy Second Half
+Term: Online Learning and Optimization - Spring 2022
+Posted: 5/1/2022 6:47 PM GMT-7
+Rating: 3.5
+Difficulty: 3
+Textbook: 5
+Lectures: 6
+Professor: 5
+Piazza: 6
+Workload: 10 hours per week
+
+Review:
+Pros:
+1. Rigorous Math (if you like that sort of thing)
+2. Exposure to lots of different topics
+3. Predictable schedule
+
+Cons:
+1. Multiple choice test format
+2. Uneven 1st / 2nd half difficulty
+3. Homework uninteresting
+
+Detailed Review:
+
+This course is taught in two sections. The first half covers classic optimization techniques (gradient descent, mirror descent, etc) while the second half covers bandit algorithms for online learning.
+
+I found the first half to be much more in-depth and difficult than the second. You will want to brush up on linear algebra, calculus and mathematical proofs before taking it on. The second half, while more conceptually interesting to me, was a bit of disappointment because then homework was very...basic. They provide a nice framework for the algorithm and you fill in the blanks, but I feel like you could develop it into something much more exploratory and worthwhile.
+
+Overall the course is easy, provided you keep up with the homeworks and do well on them (they are peer graded, and peers are generally very lenient on grading). Its a good 'filler' course...but you won't have a good project or satisfied feeling at the end of it.
+
+---
+
+Title: Decent Course
+Term: Online Learning and Optimization - Spring 2022
+Posted: 5/1/2022 3:54 PM GMT-7
+Rating: 5
+Difficulty: 2
+Textbook: 5
+Lectures: 5
+Professor: 6
+Piazza: 6
+Workload: 12 hours per week
+
+Review:
+Pros:
+1. Light workload
+2. Clear lectures
+3. Good communication on Piazza
+
+Cons:
+1. 2nd half of course does not encourage deep understanding
+2.
+3.
+
+Detailed Review:
+First half of the course is a breeze if you recently took Optimization -- extremely repetitive to that course. The workload was higher than the second half of the course, ~15-18 h/week.
+
+The second half of the course was just alright. The lectures are super high level and the homeworks, while helpful for understanding the algorithms, were extremely light and didn't encourage deeper understanding other than surface level implementation. ~8 h/week
+
+---
+
+Title: Massive Homework Load and a Reliance on Peer Grading Effort
+Term: Online Learning and Optimization - Spring 2022
+Posted: 3/4/2022 5:53 PM GMT-8
+Rating: 4
+Difficulty: 6
+Textbook: 1
+Lectures: 5
+Professor: 5
+Piazza: 5
+Workload: 20 hours per week
+
+Review:
+Pros:
+1. Professor is active on Piazza
+2. Some solid lecture content
+3.
+
+Cons:
+1. Homework pace encourages little comprehension
+2. Lectures don't line up with homework
+3. Exhausting pace
+
+Detailed Review:
+
+If i could summarize this class up in one word as a part time student / full time professional is... exhausting.
+
+Every single week we have homework due which encourages cramming lectures and trying to glean the most helpful bits. Unfortunately, most of the time in lectures is spent on proofs that might explain a certain theorem but definitely does not help with homeworks.
+
+Instead, you will find that you spend 90% of your time on Google trying to understand a problem or scrolling through Piazza for clarity to get you through the homework.
+
+Huge reliance on peer grading which is the only way that the course can exist since TAs would never be able to grade all the homeworks. You will also notice when grading, referencing the answer key is very difficult since most of the TA code is convoluted and most certainly won't pass a code review at any reputable tech company. Ironically, this is what you need to measure other's homework to.
+
+About 1/2 of the way through so stay tuned for an update after midterms.
+
+Summary: Tons of work (especially if not a full time student), and little time for comprehension. On the plus side, a talented professor who is relatively inspirational.
+
+---
+
+Title: Good course but needs more interesting assignments
+Term: Online Learning and Optimization - Spring 2021
+Posted: 5/12/2021 10:39 AM GMT-7
+Rating: 5.5
+Difficulty: 3
+Textbook: 7
+Lectures: 6
+Professor: 7
+Piazza: 7
+Workload: 9 hours per week
+
+Review:
+Pros:
+1. Great lecture quality and TA support
+2. Improves your numpy and python coding skills
+3. Great topics especially in OL portion
+
+Cons:
+1. Assignments could be more interesting than implementing algorithms
+2. Some overlap with RL course
+
+Detailed Review:
+
+This course is 2 classes in 1. The first portion is more challenging if you haven't taken Optimization but still the prof takes the time to review key concepts. The second portion is very easy if you have taken RL class. Overall great lecture quality and a very interesting topic.
+
+---
+
+Title: Two courses in one
+Term: Online Learning and Optimization - Spring 2021
+Posted: 5/10/2021 8:32 PM GMT-7
+Rating: 5
+Difficulty: 2
+Textbook:
+Lectures: 5
+Professor: 6
+Piazza: 5
+Workload: 5 hours per week
+
+Review:
+Pros:
+1. Optimization: found it very relevant as a data scientist - I actually decided to use Nesterov acceleration for an NLP project to speed up training time.
+2. Online learning: interesting topic and also can be relevant for data scientists.
+3. Both professor were fairly active on Piazza.
+
+Cons:
+1. Peer grading - most were chill - I just hate peer grading.
+2. Since optimization is its own course (with quite a bit of overlap I'm told), I'd rather wish OL portion was more fleshed out as a full course. There is no reason to combine these two, as they are fairly standalone topics.
+
+Detailed Review:
+I'm just glad I didn't have to take Optimization. Both halves of the course were decent. The two halves course is something I'm still getting used to - it was quite similar to ML - except these are fairly disjoint topics. In the first half (optimization), the lectures were quite verbose going through all the proofs in detail, while in the second half (bandits), the lectures rarely covered any proofs and told us to read the notes, and also made good portion of the material optional. Spent about 6-7 hours/wk for optimization and 3-4 hours/wk for bandits.
+
+---
+
+Title: Repeat of other classes
+Term: Online Learning and Optimization - Spring 2021
+Posted: 5/10/2021 8:18 PM GMT-7
+Rating: 3
+Difficulty: 3
+Textbook: 5
+Lectures: 4
+Professor: 5
+Piazza: 6
+Workload: 7 hours per week
+
+Review:
+Pros:
+1. Not to a big time commitment
+2. Professors and TA were helpful
+
+Cons:
+1. Mostly covered content from other classes
+
+
+Detailed Review:
+This class kind of felt like a weird hybrid between the Optimization and Renforcement Learning courses. The first half of the course is basically a review of optimization (which is weird since that's a pre-req for the course) and the second half is a different take on concepts covered in Renforcement Learning. The concepts are all taught at a pretty theoretical level without a ton of real world examples, so for me at least it felt pretty dry. Homeworks were pretty straight forward but occasionally involved a lot of sitting around waiting for stuff to run on Google Colab. Peer grading was designed to be super generous and those homeworks comprise 70% of the grade. The TA and professors were generally responsive to questions on Piazza and willing to move things around as needed.
+
+---
+
+Title: 
+Term: Online Learning and Optimization - Spring 2020
+Posted: 3/5/2021 9:12 AM GMT-8
+Rating: 5.5
+Difficulty: 4
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 9 hours per week
+
+Review:
+Dr Caramanis is a very patient and detailed professor, and I really enjoyed his lectures. He does a great job at tying each lecture together, by reviewing the previous section before moving on to new material. I've had no exposure to Optimization at all, and so I greatly appreciated that aspect. Despite the "hand holding", his lectures are great. Most topics are covered surprisingly clearly, often with great visualization and examples. He was very responsive on Piazza as well. The part I didn't like was the homework. It could have been my lack of exposure to the subject material, but I felt like I completely understood what he was teaching in class, but the homework problem statements would make no sense to me. It would take me 10-ish hours to do the homework, half of which was just understanding what the question was asking. The homework was usually a python Jupiter Notebook hosted on collab that we needed to fill out and then share with the TA for grading. The final was a bit of a curveball. There were theory quesions, which I expected, and application questions that required some computation by hand, but it required an approach we had never done before and I hadn't prepared for.
+
+The Online Learning portion was also pretty great. The lectures were *very* high level, but the professor provided all his notes that the nitty gritty details he'd skipped in lectures. If you were more interested in the details he encouraged you to go through his notes and the book yourself, but largly doing so wasn't required. The homeowork was pretty straightforward, though it could be frustrating when you didn't see the results you expected because the TA didn't offer much help if you were stuck. I'd often get the algorithm implemented relatively quickly, but then have to spend several hours tuning it until I'd get the results to look they way they needed to. Additionally, the homework was usually small "toy" problems that were fine to begin with, but I think it would have been cool to have been given a larger, real-world dataset for the last assignments and try applying what you'd learned to that.
+
+Overall it was a good class that I'd recommend
+Expanded Grading
+Difficulty: 4 Optimization, 2 OL
+Workload: 10 Optimization, 8 OL
+
+---
+
+Title: 
+Term: Online Learning and Optimization - Spring 2020
+Posted: 3/5/2021 9:12 AM GMT-8
+Rating: 4.75
+Difficulty: 4
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 9 hours per week
+
+Review:
+Important Note: you don't actually have to take Optimization before this course. It's listed as a prereq, but many of us did not and did well in the course. Both instructors are very high quality. The assignments for both sections are just Python implementations of algorithms in Jupyter Notebooks. Optimization had one midterm/final for that portion of the class, and it's the same for OL. Both are only worht 15% of your grade. That being said, the Optimization midterm is a ~20 question multiple choice test that focused on core concepts and then being able to do one step of the algorithms learned in class. The final for the OL is 5 short answer problems testing a qualitative understanding of key concepts. The assignments for the Optimization component could sometimes take more than 10 hours. The OL assignments were less involved. Optimization would post ~3 hrs of lectures and week and OL would average around 2. The difficulty drops noticeable for the OL section. I personally didn't like the Optimization portion because I wasn't very interested in the material. If you like learning the theory behind optimization algorithms, then you'll dig it. I found OL super interesting because you're basically learning the theory behind how to build optimal recommendation systems. They also curved the class HEAVILY in the end. They were very generous.
+Expanded Grading
+Difficulty: 4 Optimization, 2 OL
+Workload: 11 Optimization, 7 OL
+Rating: 3 Optimization, 4 OL
+debugger eval code:101:11
+

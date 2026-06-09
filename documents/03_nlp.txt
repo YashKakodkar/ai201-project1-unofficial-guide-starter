@@ -1,0 +1,1024 @@
+# CS 388 — Natural Language Processing
+# 1. On msaihub Reviews, filter by "Natural Language Processing". 2. Run scripts/scrape_msaihub_reviews.js
+#    in the browser console. 3. Paste the clipboard output below (it already has --- separators).
+# Lines starting with # are ignored during ingestion.
+
+Title: Perfect Last ML Class to Take
+Term: Natural Language Processing - Fall 2024
+Posted: 4/30/2025 7:58 PM GMT-7
+Rating: 5.5
+Difficulty: 5.5
+Textbook:
+Lectures: 7
+Professor: 7
+Piazza: 6
+Workload: 15 hours per week
+
+Review:
+Pros:
+1. Literally the title - best class to end on if you plan to take all of the ML classes (I will explain why below)
+2. Professor was very knowledgeable, explained concepts well, and actually tried to engage on the discussion forum
+3. Homeworks have a ton of the boring boilerplate code already done for you, so you can focus on actually applying the NLP concepts
+4. You actually are encouraged to use LLMs which was really funny and cool to me.
+
+Cons:
+1. I never like classes with final projects and this one was time consuming and took a very long time to actually wrap your mind around and understand what you had to do (but graded very nicely)
+2. Having to grade your peers' homeworks is always annoying.
+3. It's annoying that you're forced to do all of the problem sets after each module. They're all due at the very end of the class and I think most people naturally just wait till the very end to be done with them. Very much a "came in one ear, came out the other ear" situation.
+4. (Slight con) Lectures became hard to follow at the very end of the course, I think both because concepts became more obscure and we were focused more on the final project.
+
+Detailed Review:
+
+Professor does a fantastic job in a very clear and concise way at reviewing quite literally the fundamentals of all the other ML classes in the program (ML/DL/RL) at the very beginning of the class. It did a great job to reinforce everything I have learned and help me really understand what the ultimate motivation of ML actually is. And that was exactly the order I took the classes, with this being the last, so I thought it ended up perfect. I definitely would not take this class first, nor would I take it before DL since you definitely do use neural networks, but you could take it before RL since there's little overlap.
+
+Reiterating the above, professor was great. Definitely very knowledgeable and cares a ton about the class. Definitely came out of here, having a much better understanding of NLP.
+
+I think the hours per week is a little misleading that you see. It's lopsided imo: you do not have something due every week, and some homeworks were pretty easy. But the final project took a lot of time, so it's hard to give an overall average. I did take this class with another class (SIMPL) and it was doable, but not without a lot of questioning my life's decisions, especially when SIMPL had it's big assignment/exams due and when this class had its midterm and final paper due. Looking bad, I still think its doable if anyone is interested in doubling up and trying to finish the program ASAP.
+
+Homeworks were fair, some were easy, I think a couple were a little tough. But overall not too bad. And they were designed very well too to help reinforce the concepts.
+
+Midterm was fair, but definitely had a lot of questions that were tricky. You really need to understand what is going on for the conceptual questions, and really need to understand how to do the math calculations, especially attention.
+
+Final project was personally a big time sink but again that was because it took me a really long time to understand what actually had to be done. I think the professor kept it very open ended on purpose to give us freedom, but most of us really just wanted to do the right amount to get an A. Assuming it doesn't change, hopefully this helps: You are asked to choose some NLP model (four are specifically recommended to you) and then choose some standard dataset (again, a few are recommended to you) and analyze with the model and figure out how to fix its shortcomings. Then you given of a ton of papers that did essentially just that, in many, many different ways. My advice to you is that your grade is ultimately determined by how much effort/how unique your approach was, or well really, how many "twists" you applied to the basic path here: Let's say you pick a model, pick a dataset, find where the model's shortcomings are (there was emphasis here), create a new dataset based on a shortcoming you found, train on that new dataset (you can just an LLM to generate this), then show the results on the old dataset and the new dataset, and analyze and ascertain what happened and why (there is massive emphasis on this final part). That approach is basically what is more or less outlined in the last homework and discussed in class, and would probably get you somewhere in the B range on the project. To get a higher grade comes down to the number of "twists" you apply to this basic path. What if you choose two models instead and follow the same path and then compare them both? What if instead of one dataset, you chose two datasets instead? What if instead of generating one dataset based on one shortcoming, you generate datasets for each shortcoming you found? How could you go above and beyond just doing a basic analysis of the results (a couple papers do this in clever ways)? Really just think about the ways you can enhance the basic path and make it more involved/complex, as the more effort is shown, the better your grade will be. Do that, and make sure to really analyze your results well and you will definitely get an A.
+
+---
+
+Title: A fast track to the cutting edge
+Term: Natural Language Processing - Fall 2023
+Posted: 5/21/2024 12:04 PM GMT-7
+Rating: 7
+Difficulty: 5
+Textbook: 2
+Lectures: 7
+Professor: 7
+Piazza: 6
+Workload: 15 hours per week
+
+Review:
+Pros:
+1. Relevant, updated content
+2. Challenging, thought provoking homework
+3. Enthusiastic professor (who was also engaged with the class)
+
+Cons:
+1. Timed midterm
+2.
+3.
+
+Detailed Review:
+
+I took this course after it had been refreshed in Fall 2023. I see this falling into two chunks: NLP without transformers, and NLP with transformers. For completeness, the professor goes over a good portion of NLP before transformers came on the scene, but acknowledges which things are no longer really being used, so we don't focus on those (which I appreciate). The transformers chunk is where I feel like I learned the most, because I hadn't worked with them before this (Instead of just using a transformers library, you implement them from scratch!) After the midterm, the lectures become less intense, which was helpful in completing the last homework(s) and project. I think the project is unchanged from previous years, but I liked that it was fairly open-ended and you could take it any direction you wanted. I like that there was a lot of focus on critical thinking about the output of the models in this class and how to identify or maybe fix some of the problems you see or explain some behavior (it's not just programming).
+
+I would suggest anyone new to Pytorch to take DL before this only because there can be a learning curve with that (DL has a very good intro to Pytorch; NLP will introduce you as well, but you are expected to zoom up to speed quickly). As with most other courses some linear algebra and probability would also be useful but not in-depth. TAs were very helpful. Even the professor was active on Ed occasionally! The workload in this class was more intense at the end of the course due to the final project. I don't think I referenced the book beyond the first half of the class very often, but it's useful to supplement the lectures.
+
+Overall this was a great course. The class went by super fast, but it was worth it to feel freshly up-to-date at the end!
+
+---
+
+Title: Great Intro Class
+Term: Natural Language Processing - Fall 2023
+Posted: 3/4/2024 7:15 PM GMT-8
+Rating: 7
+Difficulty: 5
+Textbook:
+Lectures: 7
+Professor: 7
+Piazza: 7
+Workload: 30 hours per week
+
+Review:
+Pros:
+1. Learned a lot with no prior experience in NLP
+2. Projects taught me a lot, TA's were very helpful.
+3. It is engaging material and the papers are very relevant (mostly, some are quickly outdated).
+
+Cons:
+1. Some of the python libraries have a learning curve if you are new to them. I spent 40+ hours on some projects as a result.
+2. The midterm felt kind of silly and there could have been better preparation materials provided.
+3.
+
+Detailed Review:
+This was a fantastic introduction to the program. The professor was amazing, everything was explained very well. The lectures were engaging, the TA's were really good. I had no prior experience with NLP, and was able to pick up the necessary skills along the way. The notes are helpful as well. I would say to be sure you read the papers, as those have a lot of important information. Since I had no prior experience here, and my math was lacking, I did spend an inordinate amount of time some weeks on the projects. The class was project based. People had told me to take ALA first, but I didn't find that I needed it. I am actually taking ALA now, and I think it is harder than this class.
+
+---
+
+Title: Good Course with Plenty of Effort to Keep Content Current
+Term: Natural Language Processing - Fall 2024
+Posted: 1/1/2024 9:04 AM GMT-8
+Rating: 5
+Difficulty: 4
+Textbook: 7
+Lectures: 6
+Professor: 6
+Piazza: 6
+Workload: 11 hours per week
+
+Review:
+Pros:
+1. UT/program/professors actively updating content for this course given changing NLP landscape
+2. Manageable workload; front-loaded and predictable
+3. Lecture clear and concise
+
+Cons:
+1. Lack of in-depth coverage on derivations/theory etc. in lectures / testable and project content
+2.
+3.
+
+Detailed Review:
+
+Good course, very doable even without having taken other ML courses / any experience in pytorch.
+
+The amount you get from this course will be proportional to the effort put in, specifically if you refer to the research papers referenced by the professor's website. Referring to just the lectures and putting in minimal effort to the projects can still get you an A, but won't truly prepare you for further NLP endeavors without significantly more initiative from the student.
+
+---
+
+Title: Overall, Amazing Class
+Term: Natural Language Processing - Fall 2023
+Posted: 12/19/2023 1:39 PM GMT-8
+Rating: 7
+Difficulty: 4.5
+Textbook: 1
+Lectures: 6
+Professor: 7
+Piazza: 7
+Workload: 6 hours per week
+
+Review:
+Pros:
+1. Assignments force you to implement theory from scratch into code, especially useful for transformers assignment
+2. Exam fair
+3. Final project (mine was on data artifacts) teaches you a lot about HuggingFace pretrained model training, fine-tuning, Trainers, good code practices and writing a research paper, just devote ample time, and is graded appropriately
+4. Excellent survey of topics (too many to list all) but love the inclusion of NLP use cases like summarization, machine translation, factuality, ethics and vision, chatbots, and so much more...
+5. Dr. Durrett is highly knowledgeable and highly regarded, you will not do wrong taking this class
+6. No better time to take this class with the rise of focus on ChatGPT, Llama, and LLMs
+
+Cons:
+1. Transformers assignment is difficult, so devote ample time (A3); A1 (logistic regression and perceptron) and A2 (embeddings) are not too difficult, but the transformers assignment took me about 2-3 weeks. A4 on factuality is again very easy, thus a left skewed distribution in difficulty
+2. Exam too focused on transformer theory
+3. Sometimes the content gets highly involved, but such is the nature of a grad elective class
+4. Like another comment said, the highly organized structure will make you sad for future classes organization wise
+
+Additional Note: I took this class my first semester of the program. A0 helped me review what I needed coming in (LA, prob, calculus, and basic NLP knowledge) and A1 helped me hone my knowledge of classes and OOP in python. The learning curve for review was steep, but this proves you don't need to do data structures before NLP. This is assuming you've been exposed to OOP before in your life (I went to UT for undergrad and did the CS elements - CS 313E with Mitra earlier which immensely helped).
+
+---
+
+Title: I liked it
+Term: Natural Language Processing - Fall 2023
+Posted: 12/19/2023 7:04 AM GMT-8
+Rating: 6
+Difficulty: 4
+Textbook:
+Lectures: 7
+Professor: 7
+Piazza: 3
+Workload: 7 hours per week
+
+Review:
+Pros:
+1. Lectures are excellent. Not 45 minute ramblings like other classes I've taken. 5 to 15 minutes of good content.
+2. Assignments were of reasonable difficulty.
+3. Updated yearly with new content like ChatGPT, transformers, and more
+
+Cons:
+1. Course is spread out over several websites/services and you can forget things (more below)
+2. Majority of the work is front loaded to give you time on the final project (can be a pro depending on your schedule)
+3. This course will make you wish all other MSDS courses had this level of care and attention.
+
+Detailed Review:
+
+I felt taking DL before this course was helpful but not necessary, DSA probably should be required.
+
+The only problem with this course is organization in terms of where all of the learning materials are stored. In prepping for the midterm, I completely missed one of the study resources that was on edX and not on Prof Durrett's website. I also watched a lot of the lectures on youtube and almost forgot to do the quiz questions on edX. Submitting assignments is on gradescope which you get to from another service called canvas. I understand this is likely out of the control of the MSDS staff but I feel like this is getting out of hand. Also, I just feel for the TAs who have to answer the same question 4-5 times a week on Ed about these systems.
+
+Other than that, I thought this was probably the best course I've taken in the program so far. Definitely consider taking NLP as one of your elective 2 courses. There were ~500 students in this class so clearly others are doing the same.
+
+---
+
+Title: Material interesting but had some issues
+Term: Natural Language Processing - Fall 2023
+Posted: 12/16/2023 10:51 AM GMT-8
+Rating: 3
+Difficulty: 4
+Textbook:
+Lectures: 3
+Professor: 3
+Piazza: 4
+Workload: 25 hours per week
+
+Review:
+Pros:
+1. Learned about transformers.
+2. Assignments were overall okay.
+3. Read some cool papers in nlp.
+
+Cons:
+1. New material had some issues.
+2. Very strict grading from staff / peer reviews were not great.
+3. Final project was very limited in scope.
+
+Detailed Review:
+I think overall this course was okay. The only issue was it was revamped because of the hype with chatgpt. This translated to some hiccups with the new assignments. For example, there were some bugs and issues within the new assignments.
+
+The professor, Greg, was very responsive. My only issue with him is he does not really wiggle with grading. There were several questions on the midterm that could have been improved and instead of correcting/acknowledging this, student complaints were pretty much ignored. Regrade requests were also pretty strict, or ignored completely.
+
+Peer reviews were as expected, everywhere. The TA grading for the final project (or any written part for an assignment) also seemed a bit random. I think this is due to the enormous class size, so you can imagine a TA takes like 5 minutes to "grade". This results in suboptimal grading for students.
+
+Another note about the final project is that it is very limited in scope. You basically have to analyze datasets and your strategies to improve existing model performance. I think this was done to minimize staff burden in grading (you just see slight variations of student work based off the same scope). Unfortunately, as mentioned above, this resulted in less than ideal grading. What I would have preferred was the ability to work on any NLP-related final project I wanted to, but oh well.
+
+---
+
+Title: Fantastic course
+Term: Natural Language Processing - Fall 2023
+Posted: 12/15/2023 10:12 AM GMT-8
+Rating: 7
+Difficulty: 4
+Textbook: 1
+Lectures: 6
+Professor: 6
+Piazza: 5
+Workload: 6 hours per week
+
+Review:
+Pros:
+1. Covers a lot of useful information
+2. Project assignments are kept current based on latest developments.
+
+
+Cons:
+1. Multiple choice questions on the midterm were frustrating
+2. Office hours were not helpful
+
+
+Detailed Review:
+
+Overall, this is a great course and the lectures were interesting with a lot of relevant information. The professor does a great job explaining topics and the relevant recent advances in the field. This has been my favorite class to-date in the program.
+
+The overall workload isn't too bad, although the amount of time spent on each project can vary greatly:
+Project 1: 8 hours
+Project 2: 4 hours
+Project 3: 20 hours
+Project 4: 5 hours
+Final project: 30 hours
+
+The main drawback is that I found the office hours worthless, as the TAs offered little useful guidance on projects.
+
+---
+
+Title: Decent course but didn't live up to the hype based on past reviews
+Term: Natural Language Processing - Fall 2023
+Posted: 12/14/2023 5:44 PM GMT-8
+Rating: 4
+Difficulty: 7
+Textbook:
+Lectures: 6
+Professor: 7
+Piazza: 7
+Workload: 18 hours per week
+
+Review:
+I took this course based on the past reviews in MSCShub and due to the hype on LLMs. While the lectures by Prof Durrett were good, I feel like this course has got far better reviews than it deserves due to the active participation of the professor and TAs on Ed Discussions. Though I ended up with a good grade (A), this was a very challenging course and I was stressed all the time
+
+
+Pros:
+1. Professor is extremely active on the ed discussion and very approachable.
+2. Easier final project (the major part of the final project is about training models and analyzing the results , not coding). Average score on final project is low 90s.
+3. Lectures were quite engaging and concise.
+4. Very hot topic.
+
+
+Cons:
+1. Assignments 2 and 3 were difficult and push you to the limits.
+2. Midterm was quite tricky and test your ability to implement algorithms on a paper.
+3. Impossible to get full credits on final project as we were told that even great projects that has little or no issues can get lower credits.
+4. Need to get GPU or Colab premium
+
+Detailed Review:
+
+This course has a charismatic professor who is quite active on Ed Discussions and even replies to student questions. While his lectures were good and succinct, the assignments were a big step up from the lectures. In particular, Assignments 2 and 3 were super hard, and so was the midterms. Final project in comparison is relatively easy as the critical tasks for the fp was training the model and analysis of the results.
+
+This course is among the difficult courses I have taken in the MSCS and certainly needs far more efforts that the one mentioned in past reviews.
+
+---
+
+Title: Excellent class, one of the best in the program
+Term: Natural Language Processing - Fall 2023
+Posted: 12/14/2023 4:58 AM GMT-8
+Rating: 7
+Difficulty: 4
+Textbook:
+Lectures: 6
+Professor: 7
+Piazza: 6
+Workload: 13 hours per week
+
+Review:
+Pros:
+1. Content is very engaging and relevant
+2. Assignments directly tied to relevant NLP models
+3. Final project allows creativity
+
+Cons:
+1. Lecture content after the midterm seems a bit forgotten/glossed over
+2.
+3.
+
+Detailed Review:
+This is one of the best courses in the program! The content is very engaging and the professor is very knowledgeable and passionate about the subject. Lectures are concise yet informative, and cover a lot of relevant material that includes both models as well as fundamental math/statistical frameworks.
+
+The 4 programming assignments are well-balanced and vary from reasonably straightforward to fairly challenging (Assignment 3). The implementation here is very useful to get good practice with pytorch and understanding the different components of the models.
+
+I found the midterm exam to be quite tricky, and got a lower mark here than everywhere else in the class. Be sure to do all of the edX exercises fully and study all past exam questions thoroughly to get an idea of the types of questions asked.
+
+The final project was open and intended for critical thought. I enjoyed this wrap up to the course as it not only forced a different type of analysis, but also required a very thoughtful written report to clearly communicate ideas.
+
+The only knock on the course was that the lecture content after the midterm seems a bit forgotten, as there isn't a strong reason to dive deeply into the content since there is no evaluation on it.
+
+Overall, this course is fantastic and executed very well!
+
+---
+
+Title: Amazing Class
+Term: Natural Language Processing - Fall 2023
+Posted: 12/13/2023 9:03 PM GMT-8
+Rating: 7
+Difficulty: 3
+Textbook:
+Lectures: 6
+Professor: 7
+Piazza: 7
+Workload: 5 hours per week
+
+Review:
+Pros:
+1. Great TAs who are very responsive
+2. Projects are interesting
+3. The materials are high quality
+
+Cons:
+1. Wish there were more videos as some things seemed a little rushed
+
+Detailed Review:
+Honesty, this will probably be the best class in the masters program. Dr. Durrett is a great professor who enjoys teaching this material. All of the videos and projects were carefully planned and thought out. Tons of office hours and the TAs are very responsive and helpful. Overall, really enjoyed this class. The midterm was a bit stressful for me but they provide previous years' exams to help you study. The final project was done either alone or with a partner but if you do choose to work with someone, know you have to do more all together. The material itself was very interesting to me and relevant.
+
+---
+
+Title: Solid class
+Term: Natural Language Processing - Fall 2023
+Posted: 12/11/2023 1:25 PM GMT-8
+Rating: 6
+Difficulty: 4
+Textbook: 2
+Lectures: 6
+Professor: 6
+Piazza: 6
+Workload: 10 hours per week
+
+Review:
+Pros:
+1. Up to date material
+2. Good professor
+3. Interesting assignments
+
+Cons:
+1. Final is a bit meh
+2.
+3.
+
+Detailed Review:
+
+This is my 8th course in the program and I think it's safe to say my favorite. The material is new, the professor is good, and the TA support in Ed was attentive. I'd recommend the course. The only thing I didn't love was the final - it was very open ended, which made it kind of confusing. I spent a week just trying to interpret the prompt.
+
+A few things to note:
+1) The course assumes knowledge of PyTorch. I'd either take DL beforehand or do a crash course in PyTorch so the learning curve isn't so steep.
+2) The workload is moderate, but ramps up towards the end with the final. There was definitely a lull between assignment 4 and the final. I paired this class with CSML and it was doable. I'd say I averaged ~10 hours a week, maybe less.
+3) The autograder makes getting a high score on the assignments pretty easy. I got 100% on all the assignments except for one without much trouble.
+4) The midterm is fair, but requires a good amount of preparation. I probably studied for 10 hours or so.
+
+So in summary, good course, would recommend.
+
+---
+
+Title: Excellent evolving course!
+Term: Natural Language Processing - Fall 2023
+Posted: 12/10/2023 5:57 PM GMT-8
+Rating: 7
+Difficulty: 4
+Textbook:
+Lectures: 6
+Professor: 7
+Piazza: 7
+Workload: 12 hours per week
+
+Review:
+Pros:
+1. Revamped course structure and material to address new innovations in NLP
+2. All graded material is well put together and expectations are clear
+3. Several responsive and supportive TAs
+
+Cons:
+1. Ed, despite being much better than Piazza, is hard to navigate due to sheer number of posts.
+
+Detailed Review:
+I have a lot of respect for the professor and other teaching staff in this course for revamping it to be incredibly up-to-date to the current trends in NLP. Even though some of the lectures and assignments were new, everything went relatively smoothly in this course too, with any hiccups being promptly and clearly addressed by the teaching staff.
+
+While not strictly required, I would highly recommend taking Deep Learning first or concurrently with this class as the assignments ramp up quite quickly in difficulty and adequate experience working with PyTorch and tensors is the first step to success on the assignments.
+
+The lectures cover a plethora of topics in NLP, most of which unfortauntely does not show up in the assignments, but the professor provides several papers and other resources throughout the course to dive deeper into specific NLP domains on your own if you wish. Right now, the course is heavily focused on building up to the Transformer architecture and the GPTs that resulted from it, but I would not be surprised if in future semesters this class adapts and provides a more balanced curriculum.
+
+Expectations for grading across all assignments in this class are as clear as possible. Questions on EdX are given effectively infinite tries and the assigments can be submitted as many times as needed through the autograder with full feedback on performance. The midterm, despite covering different material from previous semesters of this course, was pretty straightforward given the resources the course staff provided for studying. The final project, which is essentially a miniature open-ended research project had very thorough instructions, references, and support on Ed.
+
+Overall, I felt that I learned a great deal in this class and it is definitely worth taking as one of the electives in this program if you want to get an introduction to the domain of NLP.
+
+---
+
+Title: Excellent course, but some prereqs help
+Term: Natural Language Processing - Fall 2022
+Posted: 1/8/2023 5:16 PM GMT-8
+Rating: 7
+Difficulty: 5
+Textbook:
+Lectures: 6
+Professor: 6
+Piazza: 7
+Workload: 17 hours per week
+
+Review:
+Pros:
+1. Projects. Seriously, I loved the projects
+2. Responsive TAs
+3. Up-to-date
+
+Cons:
+1. ALLOT of students. It's popular for a reason
+2. Uneven time commitment (projects had varying degrees of difficulty)
+3. Really, that's about it. I can't think of a third con.
+
+Detailed Review:
+
+I finished this course just as ChatGPT hit the news. I kind of what to see how the coursework changes in the following semesters. This area is so active, in only a few years, resources can be completely deprecated. And that is a good thing!
+
+I took this as my second course. If I were to reconsider, I probably would take Machine Learning into Deep Learning (not taken yet) and finally into NLP. The DL though is very much optional, but could be helpful as NLP is dominantly concerned with Neural Networks. If you don't already have an ML background, I would consider that course a firm prerequisite.
+
+---
+
+Title: NLP Fall 2022
+Term: Natural Language Processing - Fall 2022
+Posted: 12/20/2022 3:41 PM GMT-8
+Rating: 4
+Difficulty: 4
+Textbook:
+Lectures: 5
+Professor: 7
+Piazza: 7
+Workload: 15 hours per week
+
+Review:
+Pros:
+1. Course material covered up-to-date topics
+2. Professor was highly engaged
+3. Well-designed assignments
+
+Cons:
+1. A lot of scattered topics
+2. Not much assignment coverage in the last part of the class
+3. Some of the topics could have been explained better
+
+Detailed Review:
+I didn't enjoy this course as much as some of the other reviewers. The course covered a wide range of topics in NLP that didn't necessarily follow from each other. This can be good if you want exposure into a lot of different topics in NLP. On the other hand it made the course feel unfocused and it was hard watching through the many hours of lectures.
+One great thing about the course was that the professor was very involved on Piazza and was committed to updating the course materials with recent topics in the field.
+The assignments in the first half were a good way to revise the materials covered in the lectures but towards the end of the course they became irrelevant to the assignments.
+
+---
+
+Title: Great Professor and Assignments
+Term: Natural Language Processing - Fall 2022
+Posted: 12/16/2022 4:33 PM GMT-8
+Rating: 7
+Difficulty: 5
+Textbook: 2
+Lectures: 6
+Professor: 7
+Piazza: 7
+Workload: 8 hours per week
+
+Review:
+Pros:
+1. Lot of engagement by professor and TAs on Piazza and office hours
+2. Material was well presented and enjoyable to learn
+3. Material was revamped by professor to keep more up to date with latest research and best language models
+
+Cons:
+1. Midterm was a bit tricky, required some decent time to study
+
+
+Detailed Review:
+
+Professor / TAs: The professor was very engaged throughout the semester in the course forums and hosted an office hours to go over extra material relevant to the fifth assignment. TAs were also very engaged and helpful in office hours. The lectures were clear to understand and I overall enjoyed watching them.
+
+Textbook - I didn't read the textbook much, but the few times I did it appeared to be an ok reference. Certainly not needed to do well in the course though.
+
+Assignments - All of the assignments were mostly just implementing to PyTorch to solve a language problem. All of the problems were simple enough to train the models on a laptop (except the final project). Overall the assignments did a good job building up from simple models like perceptron up to implementing your own attention based model "from scratch" using only simple PyTorch modules. Overall the assignments only took me around 10 hours max each, but I still learned a lot from them. You get unlimited attempts at the autograder, so I got a 100 on each like many other students.
+
+EdX assignments - some of the questions were a bit hard, but you get unlimited attempts so they are freebies.
+
+Midterm - The midterm was pretty tough in my opinion. I ended up making a good grade of 87, but that was also after going though each of the posted practice midterms and correcting everywhere I made a mistake. However without the midterm, I likely would have only walked away with a passing knowledge of the material, so I think it ended up being a good call by the professor to include it.
+
+Final Project - This involved writing a 4-8 page paper by reviewing and expanding upon some recent work in NLP. Overall I enjoyed the assignment like others in the class. It did involve quite a bit of time though. I had to read quite a few papers, train a fairly large language model using hugging face, and analyze and attempt to improve the results of the model. You can optionally partner up as well.
+
+Overall I enjoyed the course and can see why so many students also rate this class so highly, even if you don't foresee using NLP in the future.
+
+---
+
+Title: One of the best courses
+Term: Natural Language Processing - Fall 2022
+Posted: 12/12/2022 7:31 AM GMT-8
+Rating: 7
+Difficulty: 6
+Textbook: 4
+Lectures: 6
+Professor: 7
+Piazza: 7
+Workload: 14 hours per week
+
+Review:
+Pros:
+1. Highly relevant coursework content that touches on both fundamentals and latest things in NLP
+2. The TAs+professor are very active in Piazza
+3. Very well-crafted assignments, mid-term and final project
+
+Cons: N/A
+
+Detailed Review:
+
+I took this alongside DL and RL in the same semester, and should be qualified to say that NLP is really the most recommended course among them. It's both funny and sad to see the big contrast in Piazza response for some of these courses towards the end of the course. I wouldn't comment too much on DL and RL here, but the response from students in NLP's Piazza was overwhelmingly positive and encouraging. You can almost see everyone agreeing that they've truly learned from the course and some of them even become interested to continue pursuing this path.
+
+The overall effort that the teaching team (TA+professor) puts into the course is obvious. In terms of programming assignments, they are challenging (yet manageable) as compared to other courses I've taken. There's also great design in terms of making the models accessible (NLP is famous for large language models that most people don't have access to/can't afford to run), and in most assignments you can really get away with using just CPU. The final project, while benefits from using GPU, also allows weaker GPUs to be used (I used my old 1080Ti) and it was more than sufficient. This wouldn't be possible if the instructors didn't put effort to scope the project - and they actually helped to narrow it down to one of the best performing lightweight model at the time of writing. They actually also revamped some of the assignments this semester to make it more relevant in light of recent developments in NLP. I can assure you of how annoying it can be to take other courses that recycle old materials blindly. In the end, I think what really matters is whether the team (professor + TAs) actually put effort into developing the course, in the case of NLP, they've done more than expected.
+
+The graded homework questions in EDX are mostly giveaway questions since you have a lot of attempts to get them correct, but I find them generally useful as checkpoints to see if we truly understand the material.
+
+There was also a midterm for this semester. The effort put in to ensure that everything goes smoothly was also super encouraging. There was even materials prepared prior to exam to get everyone in sync of the questions to be expected. Overall material was challenging yet motivating enough as long as you've prepared for it. Generally the grading is fair - you get points even if you're wrong in the absolute answers as long as you show that you understand the concepts. Read the review about RL and you understand how different things can be.
+
+The final project is around a relevant topic and offers two different paths to choose from. There's sufficient time for us to explore what we want to do (I think it was a month's time?), we can choose to do solo or pair up. There was also peer review, but I'm glad that the instructors are the ones who decide on the final grade (in contrast to courses who just use student's peer review feedback directly).
+
+Overall, I find it rare that there's an online course that's so well-crafted. There are online courses that will inevitably give you the impression that they're trying to milk with minimal effort using some old content, but this course is by far the opposite of that. I just wanted to say that Prof. Durrett and his team has really done so well for this course that I'm glad I took it in my first semester, and this makes me look forward to other courses. DL imo is also well done, and I'll write in another feedback. RL pales in comparison, unfortunately, in terms of how well prepared the course materials are. I've similarly written a detailed review for RL.
+
+---
+
+Title: NLP Fall 2022
+Term: Natural Language Processing - Fall 2022
+Posted: 12/10/2022 9:58 AM GMT-8
+Rating: 7
+Difficulty: 4
+Textbook:
+Lectures: 6
+Professor: 7
+Piazza: 7
+Workload: 11 hours per week
+
+Review:
+Pros:
+1. Really interesting topic with a lot of immediate relevance for current research and applications.
+2. Lectures are well done, assignments progress evenly in difficulty, introduce you to a broad range interesting applications and techniques using PyTorch.
+3. Content feels updated with discussion on latest approaches from past few years
+4. Midterm did a good job at reflecting material taught in lectures, plus lots of prep materials were given for it ahead of time (extra homework problems, previous exams)
+5. Plenty of time given for the Final Project (4+ weeks), which was a cool opportunity to use a real, modern and fairly large deep neural network through the Huggingface library for exploring a topic of your interest.
+
+Cons: N/A
+
+Detailed Review:
+Highly recommended. Even if you're not interested in NLP as a specific discipline (I wasn't), you'll learn a lot from this class about modeling problems in general, statistical techniques for approaching those problems, and get lots of experience with PyTorch (plus Huggingface which is really cool). Recommend touching up on your probability theory (nothing more than an undergrad level) which will help you understand some of the approaches discussed, and spend a little extra time getting to know the PyTorch library (there are plenty of tutorials online to quickly get you up to speed to do the homeworks, plus its covered well in the lectures).
+
+---
+
+Title: NLP F21
+Term: Natural Language Processing - Fall 2021
+Posted: 8/10/2022 9:31 PM GMT-7
+Rating: 5
+Difficulty: 7
+Textbook: 1
+Lectures: 4
+Professor: 5
+Piazza: 4
+Workload: 18 hours per week
+
+Review:
+Pros:
+1. The lecture describe the course usefulness in daily life
+2. Many techniques exposed to student
+
+Cons:
+1. Programming is hard
+
+Detailed Review:
+Basically this course is count as math heavy because we implement complex mathematical formulation into python code. As a software engineer who has decent knowledge in Django, I find this course is hard. Maybe because I don't take ALA and ML class first before taking this course. I suggest if you want to take this course, you must strengthen your mathematical knowledge. The code mostly implement the complex math equation from lecture. There is a reason why this course is count as "Intermediate" and not "Introductory" by edX MCSO Central.
+
+---
+
+Title: A Good First Class
+Term: Natural Language Processing - Spring 2021
+Posted: 1/2/2022 9:49 PM GMT-8
+Rating: 7
+Difficulty: 4
+Textbook:
+Lectures: 6
+Professor: 6
+Piazza: 7
+Workload: 5 hours per week
+
+Review:
+Pros:
+1. Python programming for all assignments. Python familiar peeps would have absolutely no problem
+2. Lecturer and TAs are very responsive on Piazza and gradescope in convenient to use
+3. Materials such as lecture notes are quite good but you do have to read up some things on your own
+
+Cons:
+1. One of the assignments needs Java and no installation instructions were provided
+2. Libraries used for each assignment are not in the assignment question
+3. Some assignments are hyperparameter tuning heavy
+
+Detailed Review:
+
+If you have decent math, stats, and Python background, this class can be enjoyable. Else, you'd find yourself spending time looking up the fundamentals.
+
+---
+
+Title: Great course!
+Term: Natural Language Processing - Fall 2021
+Posted: 12/23/2021 8:19 PM GMT-8
+Rating: 6.5
+Difficulty: 5
+Textbook:
+Lectures: 7
+Professor: 7
+Piazza: 7
+Workload: 10 hours per week
+
+Review:
+Pros:
+1. Great lectures! I found the first 2 weeks a bit boring/simple because I had some ML knowledge already, but then it ramped up and became a lot more interesting. Lecture content is quite modern (referring to things from 2019/20).
+2. Good assignments (conceptually valuable, scaffold code always provided, not too difficult).
+3. Excellent TA presence on Piazza (and Prof Durrett also replied to the more intricate questions)
+
+Cons:
+1. It was not clear how sophisticated our final project needed to be, which was a bit nerve-wracking (they made a new final project this semester). Prof Durrett sort of clarified later on that our projects didn't need to be too complicated, but still the expectations weren't clear. Admittedly, I did start the final project very late.
+2.
+3.
+
+Background: Maths + CS background. First semester of the program. Did Parallel Systems too. Got an A in this course.
+
+Detailed Review:
+
+---
+
+Title: A high quality survey of modern NLP
+Term: Natural Language Processing - Fall 2021
+Posted: 12/19/2021 9:40 AM GMT-8
+Rating: 7
+Difficulty: 5
+Textbook:
+Lectures: 7
+Professor: 7
+Piazza: 7
+Workload: 12 hours per week
+
+Review:
+Pros:
+1.
+2.
+3.
+
+Cons:
+1.
+2.
+3.
+
+Detailed Review:
+
+Loved this course. Fast paced, but doable with a background in ML. Many different papers/techniques are touched on, and this course provides a solid foundation for more advanced ML research.
+
+---
+
+Title: Great professor, great course.
+Term: Natural Language Processing - Fall 2021
+Posted: 12/16/2021 7:35 PM GMT-8
+Rating: 7
+Difficulty: 6
+Textbook:
+Lectures: 6
+Professor: 7
+Piazza: 7
+Workload: 5 hours per week
+
+Review:
+Pros:
+1. Very well presented material. Shorter videos 10-15 minutes split logically. Best virtual presentation of material I have seen so far.
+2. Great TAs and course staff, very responsive on Piazza and not overly paranoid on cheating because the course is well structured.
+3. Programming assignments only and a final project, no tests!
+
+Cons:
+1. Programming assignments take some getting used to, I required office hours and TA help often
+
+Detailed Review:
+
+The course comprises 5 Programming Assignments and a Final Project. No tests outside of some basic questions on Edx following videos which you have infinite retries.
+
+The material is released weekly in sets of short videos, but the previous semester course is also available in a separate website if you want to work ahead, although there can be some small tweaks on the assignments. This semester for example had a very different format for the Final Project, but other programming assignments were mostly the same.
+
+For the programming assignments, you get some scaffolding code which is typically well documented, but there are some tricky areas and functions that you sometimes do not use unless you want to go above and beyond in your experiments. I ended up not working ahead of schedule due to my work schedule. In general, I did not feel very pressed for time except for Assignments 3 and 5 which tend to be the harder projects. These assignments are significantly harder so start early! I attended TA office hours semi-weekly and especially close to the deadline, and very often some pseudo-code discussions would come up that were very helpful. There are a lot of different possible solutions and the TAs tend not to recommend you follow a specific method, which I appreciate because it allows you to learn some trade-offs on implementation of the models. This makes piazza discussions regarding approach interesting:
+
+Can I do this?
+- Yes. I think that would also work.
+
+So make sure you ask the right questions like: I went for this approach and I am hitting this problem, what do you suggest?
+
+The assignments use Pytorch and different types of Neural Networks. I did not know Neural Networks outside of the brief introduction we had in ML. I also did not know PyTorch because I did not take Deep Learning prior to this, but managed an a good grade anyway. I am very comfortable programming in general and picking up new frameworks so I relied mostly on this to get through the course. Professor Greg is an outstanding lecturer and very easy to understand, I am happy I got my neural network introduction in this course. However, I do think taking ML before this is a good idea.
+
+TAs are just outstanding, flat out the best I have had in the program. They are helpful even on debugging your code on break-out sessions, which is actually really hard to do for these models. The TAs that have worked on the assignment recently tend to be a lot more specific in their guidance, and that can be a big help. You do get the occasional wrong advice by accident, so follow your instincts and give yourself time to work through this. Programming assignments are tricky to guide people through, there are so many different ways to code a solution.
+
+The Final Project was very interesting, this year they gave us an option to partner up with someone and you have to read papers from recent NLP research, and explore datasets and come up with potential experiments and improvements. You have to write a paper on your approach in a similar format as the research papers. There is plenty of room to innovate and explore new ideas, and not as focused on the results so much as the analysis and the write-up. This is peer-graded but reviewed by the course staff which is again, a much better way to do peer grading. It is almost like the people who designed this course still remember how it is to be a student and truly care.
+
+Bottom line: I wish other courses were structured this well. This is a course designed to teach the concepts in a new and evolving field of research. Great scheduling, pace, format, assignments, and staff. You can easily understand and assess your knowledge and predict your grade as you go.
+
+---
+
+Title: Took this class my first semester
+Term: Natural Language Processing - Fall 2021
+Posted: 12/15/2021 6:36 PM GMT-8
+Rating: 6
+Difficulty: 5.5
+Textbook:
+Lectures: 6
+Professor: 6
+Piazza: 7
+Workload: 15 hours per week
+
+Review:
+Pros:
+1. well organized lectures and materials
+2. active support from TA's
+3. interesting assignments
+
+Cons:
+1. Difficult at times
+2.
+3.
+
+Detailed Review:
+
+I took NLP in my first semester of starting the program. I have a background in engineering, not CS, but did a fair amount of preparation beforehand. Even then, I experienced a steep learning curve at the beginning of the course. If you are in a similar situation be prepared to catch up on: numerical methods, statistics and coding in python.
+
+Initially, I was unfamiliar with the code framework and had a mini freak-out and thought I would have to drop the course. But, put in the time and you will eventually get through :). I found the Piazza support to be active and helpful, as well as TA office hours (if you came prepared).
+
+The best part of this course was the organization of lectures and assignments. With course material, you truly get exposed to state-of-the-art concepts and the lectures even include references to a bunch of recent papers if you enjoy exploring academically.
+
+The 5 assignments are well thought out and will challenge you. I recommend starting them earlier than later to leave ample time for de-bugging and hyperparameter tuning. Grading is done online instantly, so that's nice.
+
+Assignment (Hours Required for a non-CS background person)
+1 (15) - (had to learn Python)
+2 (10)
+3 (20) -- difficult
+4 (15)
+5 (25) -- difficult
+
+If I had to improve the course, I would have liked additional assignments that were more "fun" and less theory heavy. Like, just show me some cool stuff.
+
+Overall - great course but be prepared to work if its your 1st semester
+
+---
+
+Title: Good introduction to NLP
+Term: Natural Language Processing - Spring 2021
+Posted: 12/13/2021 8:50 AM GMT-8
+Rating: 7
+Difficulty: 3
+Textbook: 1
+Lectures: 6
+Professor: 6
+Piazza: 7
+Workload: 10 hours per week
+
+Review:
+Pros:
+1. Unlimited number of submission
+2. Hands on
+3. Well structured
+
+Cons:
+1. Not enough content
+2.
+3.
+
+Detailed Review:
+Very good class. However, I'm not sure I'm ready to tackle real problems (even though I got a 115% grade)
+
+---
+
+Title: Good Applications Course
+Term: Natural Language Processing - Fall 2021
+Posted: 12/12/2021 7:45 PM GMT-8
+Rating: 5
+Difficulty: 5
+Textbook:
+Lectures: 5
+Professor: 5
+Piazza: 5
+Workload: 6 hours per week
+
+Review:
+Pros:
+1. Deep dive into sub-domains in NLP
+2. Hands-on projects with helpful TA support
+3.
+
+Cons:
+1. Course content not exactly up-to-date. No projects on transformers
+2.
+3.
+
+Detailed Review:
+Jifan Chen is the best TA for this course. He was super helpful during Office Hours and had answers to all my questions.
+
+---
+
+Title: Review from someone with 0 ML/Pytorch experience
+Term: Natural Language Processing - Fall 2021
+Posted: 12/10/2021 12:59 PM GMT-8
+Rating: 5
+Difficulty: 6
+Textbook:
+Lectures: 4
+Professor: 6
+Piazza: 7
+Workload: 20 hours per week
+
+Review:
+Pros:
+1. Interesting topics
+2. TAs and professor helpful on piazza
+3. Really develops your python and ML skills
+
+Cons:
+1. VERY difficult with no prior ML and Pytorch experience, BIG difficulty spike after A2
+2. Can get overwhelming since you only have 2 weeks for some of the assignments
+3. Lectures after A3 aren't helpful with the homework
+
+Detailed Review:
+
+Note: I had a good amount of python and no ML experience prior to this course. This is the 4th class I've taken
+
+This class gives a great intro to NLP. The cadence is completing the 2-week modules of lectures and supporting questions on EdX, then doing the 5 homework assignments in total. The final was to make a change to a model and write a paper on it.
+
+The pros are that the lectures are very interesting and the assignments are well thought out. The TAs and professor were great too. Also, I enjoyed the subject and writing for the final, and I became much more competent with PyTorch.
+
+For me, the class was not smooth sailing at all though. The first four weeks and two assignments were fine. I watched the lectures and completed the assignments in ~10 hours with only asking one question on piazza. Once assignment 3 hit, it got a LOT more demanding. I easily put in 30hr or more into A3 and still ended up not getting an A. A4 and A5 did not get easier as the relevant lectures gave little technical direction. During this section, I had to take off days at work to make sure I could get everything completed.
+
+With the grading scale being "Hit this accuracy or you get an F," this was not welcoming to newbies unless you absolutely no-life the last half of the course like I did. I ended up with a good grade, but this was easily the hardest course I've taken.
+
+---
+
+Title: Good course, but kicked my butt first semester
+Term: Natural Language Processing - Spring 2020
+Posted: 8/22/2021 12:52 PM GMT-7
+Rating: 6
+Difficulty: 7
+Textbook:
+Lectures: 5
+Professor: 6
+Piazza: 5
+Workload: 20 hours per week
+
+Review:
+Pros:
+1. Interesting course - you'll learn a lot
+2. Great instructor, even better TAs
+
+Cons:
+1. Very difficult course
+
+Detailed Review:
+I am from the MSDS program with little programming experience, so keep that in mind for this review. This was a very interesting course, but almost overwhelming during my first semester. I had to brush up on my programming skills very quickly, and I lacked a lot of the math and algorithms background. I found that the lectures didn't help me too much with the assignments because they were at such a high level compared to the homework. I also felt like some of the lectures and assignments had slightly conflicting ideas because the lectures would tell you to approach a problem one way, and the homework would suggest something else. I relied heavily on office hours and wished they were structured a little better. Maybe it's changed since then, but I found myself sitting in office hours for hours on some days waiting for my turn for a TA to look at my code. I found that was very inefficient. I could have used Piazza, but I found it overwhelming sometimes because there were so many questions and queries. Every day. Maybe updated instructions for the homeworks or a better explanation of the starter code would have helped a lot decipher each assignment. Homework assignments 3 and 5 almost broke me. I think I cried just about every other week but still managed to pull an A.
+
+---
+
+Title: Comprehensive Intro to NLP
+Term: Natural Language Processing - Spring 2021
+Posted: 8/11/2021 6:33 AM GMT-7
+Rating: 7
+Difficulty: 5
+Textbook:
+Lectures: 7
+Professor: 7
+Piazza: 7
+Workload: 15 hours per week
+
+Review:
+Pros:
+1. The course material was amazing--the professor's lectures to go over background, theory, applications, and practical considerations and cover a broad range of topics. For those who wanted to dive into the research further, references to papers and additional materials were plentiful.
+2. The professor and TAs are incredible human beings. The responses on Piazza were extremely detailed and provided great guidance on implementing and debugging the assignments. It felt like the professor and TAs were genuinely passionate about the material and excited to help students learn and engage with it.
+3. The material is approachable, even for people without DL/NLP experience.
+
+Cons:
+1. This might just be for this semester since they were still figuring out some of the logistics, but 2 of the assignments couldn't be graded via the automated grader (since the grading process includes running your training code to produce a trained model). There were early intakes for these assignments so that you could test out your code and its performance, but if you missed those, it could be a gamble as to whether your code fails due to environment differences on the final grader.
+2. The final project is partially peer-graded (although TAs do review them as well), so grading could be inconsistent.
+3. Solutions for assignments were not posted, so even if you are able to do well on assignments, you don't have anything to compare your implementation to in order to figure out if you actually implemented things correctly.
+
+---
+
+Title: Solid intro to NLP
+Term: Natural Language Processing - Spring 2021
+Posted: 5/10/2021 7:30 PM GMT-7
+Rating: 6
+Difficulty: 3
+Textbook:
+Lectures: 6
+Professor: 7
+Piazza: 7
+Workload: 8 hours per week
+
+Review:
+Pros:
+1. Great lectures and active participation from the professor
+2. Awesome support from the TAs
+3. Covers state of the art techniques and projects to learn them first-hand
+
+Cons:
+1. Projects are auto-graded and based on performance mostly - lots of hyper-parameters tuning.
+2. Interesting field, but very niche - many of the techniques might not be very applicable to other ML/CS areas
+
+Detailed Review:
+This is a well taught course that surveys quite a few different methods in NLP. The professor and TAs were great. The projects are not particularly difficult although some parts can get tricky (e.g. Viterbi, seq2seq, etc). Once I got the core implementation down, I spent most of the time on hypertuning to reach the required level for full marks. Looking back, I'm not sure if that was the best time spent learning the course. The final project is much more open-ended and exploratory - although by then I had a 120% average thanks to extra credit, so I spent less effort compared to earlier projects and focused on other courses. While I enjoyed the course, I wonder how useful this course is. Even as a data scientist there are fairly limited use cases for the topics covered, considering SOTA models will require massive computing power and are already highly optimized. Since this is not a program (and course) for research I thought it's a valid question. 9/10
+
+---
+
+Title: NLP
+Term: Natural Language Processing - Spring 2021
+Posted: 5/8/2021 8:17 AM GMT-7
+Rating: 7
+Difficulty: 3
+Textbook: 3
+Lectures: 7
+Professor: 7
+Piazza: 7
+Workload: 10 hours per week
+
+Review:
+Pros:
+1. Fun assignments
+2. Interesting Lectures
+3. Helpful TA's
+4. You always know your grades before you submit.
+
+Cons:
+1. If you don't know Pytorch I could see this class moving quick.
+2.
+3.
+
+Detailed Review:
+This was a great course. All your grades are known before you submit the assignment (except on the final project) and it is easy enough to get an A if you put in the work. I would strongly suggest you take DL before this course though. Not knowing Pytorch could easily add 5-10 hours per assignment. I loved the assignments and found them quite interesting. The final project is nice because you can take it a lot of different directions. Just make sure you watch the lectures and schedule time to work on the homeworks and you will be good to go.
+
+---
+
+Title: Very good class
+Term: Natural Language Processing - Spring 2021
+Posted: 5/6/2021 4:05 PM GMT-7
+Rating: 7
+Difficulty: 4
+Textbook:
+Lectures: 6
+Professor: 7
+Piazza: 7
+Workload: 10 hours per week
+
+Review:
+Pros:
+1. Interesting content that is well taught
+2. Super helpful TAs + professors
+3. Interesting projects
+
+Cons:
+1. Some of the starter code is constructed a little weird and can take some time to figure out how to use.
+
+Detailed Review:
+This class is generally well taught and has a bunch of interesting content. Your grade is only based on assignments and a edx quizzes that have unlimited attempts. The assignments are fairly interesting and straightforward, and the TAs were very helpful if people got stuck. Occasionally the starter code for the projects was a bit weirdly constructed, but it didn't take too long to figure out what was required. The final project was open-ended and took a fair bit of work, but it was nothing ridiculous. The professor lectured well and there were usually papers to read if you wanted to go more in-depth. I might recommend taking Deep Learning before this class as the knowledge of pytorch is helpful.
+
+---
+
+Title: NLP
+Term: Natural Language Processing - Spring 2021
+Posted: 4/24/2021 5:54 AM GMT-7
+Rating: 7
+Difficulty: 4
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 10 hours per week
+
+Review:
+"Review at week 10, after assignments 1~5 were done
+The content is 50% from the undergraduate classroom course (CS378) and 50% from the graduate classroom course(CS388), though both classroom courses do have a lot of overlapping. It contains the literature as late as 2020. Lectures are 80% about the theory and 20% about literature survey. Presentation is organized by topics and topics may not necessarily tightly connect to each other. Not all topics are equally important, especially in the aspect of assignments. It is an overall a survey course with some emphases on the most popular methods. Some example codes are provided as jumpstarters though they are not discussed in lectures.
+The grade is completely assignment-based and the professor offered 15% extra credit (so 93 out of 115% to get A). With autograding and multiple chances to resubmit, you are quite sure what you can get. 4 (#1/2/4/final) assignments are taken from undegraduate course and 2 (#3/5) are from graduate course. Acutally these assignments were simplified with no write-ups required. Assignments are programmed in Python/Pytorch with some basic OOP skills needed. The implementation of Neural Network takes a significant percentage of the workload.
+I took ML but not deeping learning previously. I can generally finish the assignments independently without further TA input. Full credit thresholds are not hard to reach with a few hyperparameter trials. Estimated time for 5 biweekly assignments except the final project is 10/10/20/10/15 hours.
+Recommended for moderate difficulty, moderate workload, updated content and highly predictable outcome (Reviewer: SD)"
+debugger eval code:101:11
+

@@ -1,0 +1,2050 @@
+# CS 391L — Machine Learning
+# 1. On msaihub Reviews, filter by "Machine Learning". 2. Run scripts/scrape_msaihub_reviews.js
+#    in the browser console. 3. Paste the clipboard output below (it already has --- separators).
+# Lines starting with # are ignored during ingestion.
+
+Title: First half is horrible, second half is very well structured
+Term: Machine Learning - Spring 2026
+Posted: 5/17/2026 11:58 AM GMT-7
+Rating: 3.5
+Difficulty: 6
+Textbook: 3
+Lectures: 3.5
+Professor: 3.5
+Piazza: 5
+Workload: 7 hours per week
+
+Review:
+Pros:
+1. The second half of the course is expertly delivered
+2. Well paced as a summer course
+
+
+Cons:
+1. the first half of the course (see below)
+2. Lopsided semester if taken during spring/fall
+3. Hard to study for exams
+
+Detailed Review:
+the first half of the course is really bad. The homeworks, exams, and lectures all seemed like they were from entirely different courses. The lectures we did have were very short, and very hard to follow, and were inconsistent from what was on anything else. To make matters worse, there was absolutely no reference to follow from. The textbook used was also inconsistent with everything else going on.
+
+With that being said
+
+The second half of the course is actually super well organized, fair, and covered thoroughly quite a decent amount of content. The professor for the second half of the course actually has a very well written set of notes too for studying, etc.
+
+The first half of the course gets a 1/10 (1/7)
+the second half of the course gets a 10/10
+
+---
+
+Title: Learned a ton! Hard to prep for
+Term: Machine Learning - Fall 2025
+Posted: 2/18/2026 5:10 PM GMT-8
+Rating: 6
+Difficulty: 7
+Textbook: 3
+Lectures: 5
+Professor: 5
+Piazza: 6
+Workload: 20 hours per week
+
+Review:
+Pros:
+1. Rigorous statistical machine learning course - you will learn a ton
+2. well organized class
+3. interesting topics
+
+Cons:
+1. You need expertise in Probability, Statistics, Calculus, Linear Algebra, and Complexity Theory to be successful.
+2. programming hws should be harder
+3. compressed 12 week schedule
+
+Detailed Review:
+I really enjoyed this class and learned so much about statistical machine learning. The workload is very heavy if you are aiming for an A and don't have a math degree. The first 2 weeks are VERY heavy, so be prepared to come in on full steam. The class is only 12 weeks long even during the spring and fall when the semester is technically 15 weeks. The class would be SO much more manageable if the course were spread out to be over 15 weeks instead of 12 -- it would make the first couple weeks more reasonable.
+
+The first half of the class is taught by professor Klivans. The theory hws are very difficult. It helps to read the textbook before the lectures because the professor just dives in to the trees and assumes you understand the the forest. The exam for Part 1 was very fair. I think the MSCS students usually do best on this exam
+
+The second half of the class is taught by professor Liu. Students in the MSDS program thinks this half of the class is easy because they have taken courses on Probability, Regression, ++, and topics covered are similar. If you are in MSCS or MSAI, this half of the class will be hard! The exam for the second half covers topics not taught in the class, but I believe must have been covered in the probability/regression classes. This is super frustrating if you are not in MSDSO.
+
+So the exam for the first half of the class favors MSCS students. The exam for the second half of the class favors MSDS students. And if you look at the historical grades received by students taking ML in MSDSO, MSCSO, and MSAIO, you will find that MSAI students do noticeably worse than the other students ON AVERAGE, for whatever reason. (See https://reports.utexas.edu/spotlight-data/ut-course-grade-distributions). Your individual strengths and weaknesses will vary.
+
+To do well in the class you really need to be good at so many things. Linear Algebra, Calculus, Probability, Statistics, Algorithms, etc The topics are so varied that it is hard to prepare to take this class. That being said, I felt the class was rewarding, and I am very glad I took it.
+
+My main criticism is that it felt like the lectures started by the professor focusing on a particular detail, and you might be wondering what the topic is. A minute or two of broad description of the topic, would have been helpful instead of just diving in to a little detail. I suggest pausing the videos and looking up stuff, to make sure you are on the same page as the professor.
+
+I also wish the programming assignments would have been more challenging, particularly for the second half of the class.
+
+Overall a very interesting class. It is not an Intro to ML class. It assumes you already have introductory knowledge. If you don't have a super strong and recent math background, be prepared to put in extra hours.
+
+This is a very rigorous theoretical statistical machine learning class. Don't expect a practical programming class. It was interesting and rewarding for me personally. The drop rate for this class is very high because it is absolutely not a walk in the park or a class you can coast by in (unless you have a math phd).
+
+---
+
+Title: Math-heavy Machine Learning Course
+Term: Machine Learning - Fall 2025
+Posted: 12/13/2025 2:35 AM GMT-8
+Rating: 5.5
+Difficulty: 5.5
+Textbook: 1.5
+Lectures: 5
+Professor: 5
+Piazza: 6.5
+Workload: 15 hours per week
+
+Review:
+Pros:
+1. Lectures providing deeper insights into the math principles of some classic machine learning algorithms
+2. Introductions to some concepts that are not covered in most AI courses
+3. Responsive and helpful TAs
+
+Cons:
+1. Maths
+2. Peer-grading for homework is useless
+3. Not easy A, even if curved (but you may get a better grade if you are B- or C?)
+
+Detailed Review:
+This is my first semester course. I selected this course because I took an ML course during my undergrad as a minor course. However, this ML course is much more difficult than the ML course I took during my undergrad. I spent a lot of effort and got a marginal A.
+
+Generally, this course is a theoretical course and is math-heavy. This course includes two parts. The first part is Algorithm, which introduces the math principles of some commonly-used algorithms like decision trees, logistic regression, linear regression, AdaBoost, PCA, and SVD. The second part is statistical modeling, which covers MLE, Bayesian Inference, clustering(KMeans, EM, GMM), kernel regression, and neural networks.
+
+The difficulty decreases with the course progress. The first couple of weeks are the most difficult weeks, and some students quit during this period. What really impressed me was the PAC framework studied in the first week, which is a concept very hard to understand. There are 5 theory homeworks and 5 programming homeworks in this course. The first theory homework took me an entire weekend to finish. After solving the first two homeworks, the remaining homeworks would not take too much effort to finish.
+
+All the homeworks are peer-graded. To be honest, this method is useless, as most comments are useless. Some students didn't give you full marks even if your answer was totally correct. You need to request TAs for regrading. Fortunately, all TAs are very responsive, and I often get a higher mark after I submit my regrading requests.
+
+This course also includes two exams, each exam for one part. The exams require you to print all the materials. I think printing all materials is senseless, as the screen is proctored during the exam. The exams are more straightforward than the homework, but they are not easy, and you still need to work hard to get better grades, as the average exam grade is approximately B-. TAs would provide some practice questions before the exam. Answering those questions would be helpful for the exam.
+
+To sum up, this course requires some basic math background, and you would want to brush up on basic calculus, linear algebra, probability, and statistics before taking this course. It will return to you with insights into the foundation of ML. If you are ready for challenges and really want to learn something, this course would be a good course for you.
+
+---
+
+Title: Solid course on Machine Learning
+Term: Machine Learning - Fall 2024
+Posted: 1/10/2025 12:26 PM GMT-8
+Rating: 5
+Difficulty: 4.5
+Textbook: 2
+Lectures: 4
+Professor: 4.5
+Piazza: 5.5
+Workload: 12.5 hours per week
+
+Review:
+Pros:
+1. Good breath of topics from algorithms to statistical frameworks
+2. Homework has both theoretical and programming aspects
+3. Generous grade curve
+
+Cons:
+1. Peer grading on assignments
+2. First 2-3 weeks are very fast-paced and can be stressful
+3. Exam 1 is intentionally difficult
+
+Detailed Review:
+
+This is a good survey course of machine learning techniques with topics that cover both algorithms and statistics.
+
+The homeworks are useful as they have both theoretical and programming aspects. The first 2-3 weeks, however, move very quickly and the time commitment on homeworks is much higher than the rest of the course.
+
+Homework marks are almost always high, but the downside is that they are peer graded. I experienced at least 3 instances of students deliberately trying to lower my grade; fortunately, the T.A.s can correct this.
+
+Exam 1 (algorithms) is quite a bit harder than Exam 2, and marks reflect that (class average of 59% compared to ~78%). The final grade curve was quite generous.
+
+---
+
+Title: A good first course into AI
+Term: Machine Learning - Spring 2024
+Posted: 1/1/2025 5:18 PM GMT-8
+Rating: 5
+Difficulty: 6
+Textbook: 1
+Lectures: 5
+Professor: 5
+Piazza: 4
+Workload: 17 hours per week
+
+Review:
+Pros:
+1. A good dive into theory of ML to lay the foundation for the program.
+2. A good balance of theory and practice in homework assignments.
+3. Plenty of time to study for the exams.
+
+Cons:
+1. The textbook is one of the worst on this topic, wrong choice for the audience.
+2. Peer-grading wastes a good deal of time without any valuable feedback from 90% of peers.
+3. The second half of the class is shallow and does not prepare students for the exam.
+
+Detailed Review:
+The course tries to cover a large area of classic ML, which is honestly difficult. The first part is proof-heavy but that what distinguishes this course from many ML courses offered online. I personally found the theoretical foundation useful. The second part is a bit shallow and especially the homeworks do not prepare students for what they will be facing in the exam. But overall there is a good balance of theory and implementation in HWs to feel confident about the subject. Definitely recommend it before taking other courses in the program.
+
+The textbook is an absolute disaster. I read about 50% of the textbook during this course, most students skip it. But the book is written for mathematicians in my opinion. Does not offer much to the student.
+
+---
+
+Title: Solid theory-heavy course
+Term: Machine Learning - Fall 2024
+Posted: 12/22/2024 9:22 AM GMT-8
+Rating: 6
+Difficulty: 6
+Textbook: 5
+Lectures: 6
+Professor: 5
+Piazza: 7
+Workload: 15 hours per week
+
+Review:
+Pros:
+1. Solid lectures
+2. Very helpful team of TA’s/LF’s
+3. Shortened schedule
+
+Cons:
+1. Exam requirements are kind of tedious
+2. Loose peer grading guidelines
+
+Detailed Review:
+For context, I’m an MSDS student, and this is my 4th class after probability, data structures, and regression. I thought all three classes helped prepare me for this course, but if you’re not familiar with machine learning, taking probability as a prerequisite is a must, and you should have a good grasp of linear algebra and calculus, as well as Python for the programming assignments. There is a lot of overlap with other MSDS classes, especially in Liu’s half.
+
+I thought the lectures were solid. Both professors write out their lecture notes (Klivans in front of a classroom of students). The textbook for Kilvans’ section is pretty dense, though some of it does tie in directly to the homework. Liu provides his own supplementary textbook, which we were allowed to print out for the exam and more or less tracks with the lectures.
+
+The class was heavily theoretical, with a little bit of application mixed in here and there. Personally, I liked being able to learn how machine learning algorithms work under the hood and coding them out in Python. Parts of the programming assignments were plug-and-chug like others have noted, though other parts involved building algorithms from scratch, which helped me better understand them.
+
+The first couple of homework assignments are really intense, but the class eases up significantly after that. The LF’s were also extremely helpful during office hours and very responsive on Ed. Kudos to them, because it was a very large class (around 400 I think?) with students from MSDS, MSDS, and MSAI, and there were many technical kinks from the program transitioning to Canvas.
+
+When it came to peer grading, the staff didn’t really have any guidelines, other than to be lenient, so peer grades were all over the place for some people, and the Canvas system only did averages instead of medians. LF’s were willing to do regrades, with the caveat that they could either add or take away more points.
+
+The exams were pretty tough, especially the first one. In addition to that, we had to record ourselves taking them via webcam (understandable) and only use printed notes instead of electronic ones (tedious). The curve for final grades ended up being pretty generous. A raw score in the low 70’s was curved to a B-.
+
+---
+
+Title: Solid Course w/ Some Annoying Quirks
+Term: Machine Learning - Fall 2024
+Posted: 11/16/2024 11:12 AM GMT-8
+Rating: 5
+Difficulty: 5.5
+Textbook: 4
+Lectures: 6
+Professor: 6
+Piazza: 6
+Workload: 14 hours per week
+
+Review:
+Pros:
+1. Heavily focused on fundamentals of ML that often go neglected in other courses.
+2. Notes and Lectures are quite detailed, often didn't need to seek outside resources to understand the material.
+3. TAs and Office Hours were very helpful and among the best in the program.
+
+Cons:
+1. Peer Grading is annoying
+2. Exam format is quite restrictive
+3. First half of course can be difficult to understand at points, second half goes by very quickly.
+
+Detailed Review:
+I can overall say I'm glad I took this course, it was challenging but not too overwhelming (outside of the first 2 HW assignments). There's definitively more math required than other ML courses in the program (particularly calculus, linear algebra, and statistics) but that allows for a deeper understanding of the material than I got from the other classes on this topic. I'd say the first half of the course is generally more difficult from a conceptual point of view, while the second half requires more math but is overall more straightforward. The Office Hours and support on edx are also quite helpful, especially when compared to some of the other courses in this program.
+
+That being said, there are definitely a few features of this course that prevent it from being perfect. The required peer grading is annoying as many of the other students will randomly take off points from your assignment without comment even if it is virtually identical to the solution. There is an option for a regrade but, it can often take a while and it would just be easier overall either there was no peer grading or stricter guidelines were set for the peer graders. The exam format is also quite annoying: it's open book/notes, but only if they are printed out. For a program that is completely digital, it seems a bit backwards to force students to print the online material out, especially when we already have to share our screen for the exam anyway.
+
+---
+
+Title: Alot of theory
+Term: Machine Learning - Summer 2024
+Posted: 8/27/2024 1:36 PM GMT-7
+Rating: 6
+Difficulty: 7
+Textbook:
+Lectures: 6
+Professor: 7
+Piazza: 6
+Workload: 15 hours per week
+
+Review:
+Pros:
+1. Lecture goes into depth on ML
+2. Work load is balanced
+
+Cons:
+1. Very minimal implementation, huge on theory
+2. Exams are brutal
+
+Detailed Review:
+
+The lectures were great, the two professors went into detail on the theory and proofs behind ML concepts. The first half of the class was much harder than the second half. The exams were brutal but the curve is very generous, i.e a 73% was like a B- at the end.
+
+---
+
+Title: A good ML course
+Term: Machine Learning - Summer 2024
+Posted: 8/25/2024 8:35 AM GMT-7
+Rating: 6
+Difficulty: 5
+Textbook:
+Lectures: 7
+Professor: 7
+Piazza: 7
+Workload: 20 hours per week
+
+Review:
+Pros:
+1. lecture covers a lot of cut-edged ML technologies
+2. hands on project applied what you have learned
+3. fair work load even you don't have professional background
+
+Cons:
+1. fast paced learning
+2. not easy exam
+3. MATH MATH and MATH
+
+Detailed Review:
+it is a good course for you to get into ML area even though you don't have much ML experience. Heavy math in the later part of lecture, need to understand it to have a good performance in final. You need to really understand the concept of algorithms and will be tested on it. TAs are excellent, they will be very helpful to explain the algorithms.
+
+---
+
+Title: huge breadth, not much depth
+Term: Machine Learning - Summer 2024
+Posted: 8/14/2024 9:23 AM GMT-7
+Rating: 5
+Difficulty: 3
+Textbook: 1
+Lectures: 5
+Professor: 5
+Piazza: 7
+Workload: 5 hours per week
+
+Review:
+Pros:
+1. many topics covered
+2. short class, light workload except first week
+3. TAs/LF staff dedicated to student success
+
+Cons:
+1. nothing covered in much depth
+2. programming assignments too much handholding, too basic. could use more engagement with material.
+3. student grading lol
+
+Detailed Review:
+this course is like a tasting menu of many topics but with very small portions. the course covers a lot, but i felt we spend very little time on topics that can have dedicated courses of their own. it moves quickly, but not in a way where it's hard to follow. just that we don't cover much of anything in depth.
+
+the course has two parts and i personally found klivans's lectures were better motivated than liu's. liu has a wonderful draft textbook to accompany his lectures, but sometimes we were too in the weeds of mathematical derivations in lectures. missed the forest for the trees.
+
+overall, it's not a challenging course. there were many derivations in lectures, but it wasn't really a theory course. lectures and homework assignments were more than enough to be successful. there was also an extremely engaged group of LFs for this course who were very dedicated to student success. i think that helped a lot.
+
+---
+
+Title: Grind through the first part
+Term: Machine Learning - Summer 2024
+Posted: 8/13/2024 9:42 PM GMT-7
+Rating: 4
+Difficulty: 6
+Textbook: 6
+Lectures: 6
+Professor: 5
+Piazza: 7
+Workload: 8 hours per week
+
+Review:
+Pros:
+1. Second half is mostly review of the other DS courses
+2. Shorter than most other courses
+3. LFs/TAs were helpful
+
+Cons:
+1. Extremely fast paced at the beginning
+2. Somewhat strange exam proctoring rules
+3.
+
+Detailed Review:
+
+As many other reviews note, the first two homeworks are the hardest part of this course. I'd recommend reading the first three chapters of the textbook before starting the lectures, and I suggest watching Ben-David's lectures on youtube covering those same chapters. Klivans's lectures were good, but very dense, so supplementing with other sources for the first two homework assignments was needed for me.
+
+If you can get past that grind at the beginning it should be smooth sailing for most MSDS students as the second half is mostly review that hits on various topics from other courses. The homework also gets shorter and generally much easier as the course goes along.
+
+It is probably a good idea to save this course to the end of your program of work. It is not an introductory course into ML or statistical learning. You can build a foundation in ML by taking the other courses the degree program has to offer first. I took it as my ninth class and pretty much every class that I took before helped me be prepared for ML.
+
+As others have noted, it is also a fairly short class (only 8 weeks). I don't believe that schedule changes wether you are taking it in the summer vs the fall or spring. This makes it a pretty ideal summer class to take.
+
+The rules for exam taking was kinda strange. You had to record yourself with a webcam and record your screen, which I thought was fine. The exam was open book, BUT you had to print everything out. I ended up printing ~150 pages of notes between the two exams, which just ended up in the recycling bin after I took the test. Felt pretty wasteful and pretty unnecessary since we're recording our screens so it's pretty clear what notes we are looking at. I thought the exams were tough but fair. Average score for both were in the 70's.
+
+---
+
+Title: Balanced ML Course with Engaging Teachers, but Intense Start
+Term: Machine Learning - Spring 2023
+Posted: 8/11/2024 8:12 PM GMT-7
+Rating: 5
+Difficulty: 6
+Textbook: 4
+Lectures: 5
+Professor: 6
+Piazza: 5
+Workload: 4.1 hours per week
+
+Review:
+Pros:
+1. Great balance of theory and application
+2. Nice general perspective on supervised ML
+3. Very engaged teachers who teach on the students’ level
+
+Cons:
+1. First part of the class introduces ML in a “different” way
+2. First half of class is intense
+
+Detailed Review:
+Pros:
+
+1. This class ranges in the lecture and homework from theory to mathematical examples to implementing math in code to using some real packages. I loved this wide range of theory to application. It made the class feel very well rounded and helped me to understand things from the ground up
+
+2. Given I’ve had some previous experience with ML modeling, the way ML was brought up in the beginning of the class was a bit strange to me (PAC learning, function classes, etc). But over time I appreciated the theoretical approach. I was used to jumping straight into model training, prediction, accuracy and all of the buzz word terms. They also presented the concepts of K-Means, PCA, NNs, Kernel Methods and other topics in an easy-to-understand way. In general, the teaching approaches were engaging and refreshing.
+
+3. This course is broken up into 2 parts with a different professor for each part. I felt both professors were great teachers. The first part of the class is taught with Professor Klivans writing his lecture out on an iPad while addressing a room full of students. He asks a lot of questions and talks through everything he writes. The second part of the course is taught by Professor Liu. Liu writes out his whole lecture throughout the videos and talks through everything he writes (no reading through powerpoint slides). I found both lecture styles to be very engaging and interactive. This was one of my favorite parts of the course.
+
+Cons:
+
+1. As mentioned above, the introduction to ML by Professor Klivans is a bit different than the traditional approach to ML. I came to appreciate the perspective, but it was difficult to follow at first. Just beware the the first couple of units will take more time to decipher and digest than the rest of the class.
+
+2. On top of the different approach, the first half of the class is intense in general. The assignments are complex, the lectures are dense and the exam is difficult. I definitely think the material is valuable, but it can be a lot to get through, especially compared to the lighter second half of the class. Again, beware of this and try to plan more time for the first half of the class.
+
+Ultimately, I really enjoyed this course. The material was interesting, the professors were engaging and the course was impactful. The first half the course is intense, but getting through it will be valuable. Best of luck!
+
+---
+
+Title: Theoretical, not Practical Course
+Term: Machine Learning - Spring 2024
+Posted: 5/17/2024 4:17 PM GMT-7
+Rating: 5
+Difficulty: 4
+Textbook: 4
+Lectures: 6
+Professor: 5
+Piazza: 6
+Workload: 15 hours per week
+
+Review:
+Pros:
+1. Knew absolutely nothing about machine learning before this, so this was my first course. Gave me a theoretical motivation of machine learning and it seems way more like statistics and applied math than computer science. Was not as hard as I thought it would be
+2. Two separate professors so you get exposure to two different teaching styles.
+3. No final project, only two exams, so not as stressful at the end. And the exams cover completely separate material!
+4. The very last lecture directly connects to the Deep Learning class
+5. Textbook for second half was very helpful
+6. Curve was very generous honestly, an 85 was the cutoff for a solid A, A- was even lower. But most of the class was in the 70s/80s, so the cutoffs were actually quite close to each other.
+7. You can literally print all lectures and homeworks (and textbook for the second exam) to use in the exams
+8. TAs are super lenient and very nice
+9. You don't have to but it's a great opportunity to learn LaTeX for math typesetting
+
+Cons:
+1. Very little practical experience. The first half did have us use scikit-learn but honestly most of the work was really just python.
+2. Still not fully sure how all of this directly relates to the practical application of Machine Learning nowadays. Should study online resources to understand that
+3. Textbook for first half was somewhat helpful for one or two questions on the homeworks, but other than that, don't worry about it, especially for the first exam.
+3. Exams are actually somewhat difficult. The material is related to what is covered in the lectures and homeworks, so that's the not the problem. The bigger issue, especially for the first exam, is you really don't have enough time to complete it. You are only supposed to have 2 hours, and I finished all 6 questions in exactly 2 hours, but they give you an extra 30 minutes to account for uploading your video recording and taking pictures of and submitting your work. Make sure you really *know* the material. Just understanding the homeworks and lectures and especially practice exam at face value is not enough. Think about how the homework and practice exam questions could be asked in reverse, or with tangentially related questions. You really need to understand each major concept like PCA, SVD, K-means, etc which might entail watching some separate videos on them. You also for sure do not have enough time to be searching through all of your printed out reference material for each exam question. It takes a while to write out answers for the exam questions honestly. And to expand on the point of really knowing each topic, one example would be K-means. For K-means and other algorithms covered, they'll give you the psuedocode and explanations in words about how they work, with maybe one easy question on the homework covering a simple or an easier edge case. But do you really understand it enough to actually run the algorithm given the inputs? That's what they test you on the exam. Apply this line of thinking to other topics, in addition to what was already mentioned, and you'll be very well prepared to get a legit A without a curve.
+4. *****The overall difficulty of this class is HEAVILY dependent on your comfort with mathematics, period. I have an engineering background, so I took a lot of math classes, and have always genuinely loved math, and took more math classes beyond what was required for my minor. If this describes you or you even double majored in math, this class honestly will be fine for you and pretty straightforward. If you have not taken many math classes, like the bare minimum required for most computer science and software engineering curriculums, this class will definitely be hard. The difficulty rating of a 5 I think reflects the average but is definitely bimodal. 4 or even less than 4 for the former background, definitely 6 or higher for the latter background. It's not that you necessarily need to go take a full linear algebra class before hand, it's more you just need to be comfortable with the honestly annoying mathematical notation being used. And that just comes with time and repetition. If you think you fall under this, then to be safe, I would not take another class with this class. Also, it's unfortunate, but success on the exams definitely is influenced by comfort with math, purely because of the time constraints. Navigating matrix notation and operations, log and exponential operations, basic probability rules, recognizing groups of variables that are constants in complex mathematical equations, etc are required to get the correct answer. Sounds pretty basic, but can be tough during time constraints. I realize this paragraph has gone on very long, but I just wanted to address all of the discussion I saw on the discussion forums when the semester started, and what I read a lot online about the mathematical background required. I don't you need to know math concepts x, y, and z to say you are ready for this class, imo it's more learning x, y, and z indirectly gives you comfort with the topics I mentioned above. Nevertheless, don't let it deter you from the class, the curve really was pretty good, especially since most employers require a B- for reimbursement anyways.
+5. You have to peer grade other homeworks to get credit for your own homework which is extremely annoying. Please set reminders so you don't forget to do this
+
+Detailed Review:
+
+TAs were extremely lenient with grading. As long as you demonstrate understanding, they'll give you a lot of credit which was really nice. Combined with the generous curve, it's awesome. Course is divided into two halves; both professors are fine, but overall, I can say I understand parts of Machine Learning better, and can kinda see how the ideas could be used practically, but there's still a big gap in my understanding from the theory presented here and something useful in the real world. Homeworks are due roughly every 3 weeks and it's mostly theory, with some pretty easy programming since they have jupyter notebook templates you just fill in. Lectures are directly related to the homework, and even more so to the exam so in that sense they are very useful. But again, there is a gap in practical applications.
+
+I took this class together with Deep Learning and it was honestly fine. They're on the complete opposite spectrums for theory and practice so it worked out okay, but if you want to motivate and understand the theory behind Deep Learning better, then for sure take this first.
+
+I mention it in the emphasized #4 Con above, but if you like math and are comfortable with complicated notation, you can take this class with another class. Otherwise, do not take another class with this one.
+
+---
+
+Title: Amazing class but it's not really an intro ML class
+Term: Machine Learning - Fall 2023
+Posted: 1/28/2024 8:32 PM GMT-8
+Rating: 7
+Difficulty: 5
+Textbook: 2
+Lectures: 6
+Professor: 5
+Piazza: 5
+Workload: 8 hours per week
+
+Review:
+Pros:
+1. Learned a lot even as someone who has extensive ML experience
+2. Hard but fair exams
+3. Great TAs
+
+Cons:
+1. Second half of the class covers material that is covered in almost every MSDS stat course
+2. Profs completely absent from Ed
+3. Feels awkward in terms of math needed - at some points it's like they expect you to know lin alg extensively and at some points it seems like they try to dumb it down.
+
+Detailed Review:
+A better name for this course would be Statistical Learning. I have a lot of ML experience and I feel like I learned a lot. I pity people who had never seen any ML or statistics before coming into this class. HWs 1 and 2 are the hardest by far which is kind of a rude welcome. Would recommend StatQuest and Ritvikmath on YT as supplementary material. Grade was curved by a single +/- at the end of the semester.
+
+---
+
+Title: Difficult and unenjoyable theory-based course
+Term: Machine Learning - Fall 2023
+Posted: 11/16/2023 1:40 PM GMT-8
+Rating: 3
+Difficulty: 7
+Textbook: 2
+Lectures: 5
+Professor: 5
+Piazza: 7
+Workload: 16 hours per week
+
+Review:
+Pros:
+1. The lectures do a decent job of teaching the material.
+2.
+3.
+
+Cons:
+1. Both Exam 1 and Exam 2 are difficult and test material not directly covered in the lectures and homework assignments.
+2. The homework assignments in the first half of the course are very time consuming.
+3. Over 90% of this class is focused on theory, with very little time spent on programming or learning how these machine learning techniques can be used in practice.
+
+Detailed Review:
+
+I found this class to be quite difficult. This class assumes a strong background in linear algebra, matrix calculus, probability, and statistics. If your knowledge is weak in any of these areas, I highly recommend that you review that material before the course starts as the first half of the class is already very time consuming. The second half of the class is much more manageable in terms of workload. There are a few Python programming assignments but they are relatively simple and not covered on the exams so you can get by with a basic grasp of Python programming.
+
+---
+
+Title: Decent Course and intro of concepts, though structure is a bit poor
+Term: Machine Learning - Summer 2023
+Posted: 8/18/2023 11:40 AM GMT-7
+Rating: 4
+Difficulty: 4
+Textbook: 5
+Lectures: 3
+Professor: 4
+Piazza: 6
+Workload: 12 hours per week
+
+Review:
+Pros:
+1. Good intro to concepts in ML
+2. First 2 hw hard, but after that is rather easy
+3. Exams seem fair
+
+Cons:
+1. First half has lots of math, and prof expects you to know all the calculations
+2. First 2 HW are very hard
+3. Too theoretical, less practical
+
+Detailed Review:
+The class starts off very hard, and can be very intimidating, as I spent an insane amount of time on the first 2 HW's. Would recommend attending the office hours by the TA as they give many useful hints. This class does a good job of covering the mathematical side of machine learning, but is lacking on the practical side. Even the HW, even the programming parts were a lot of fill-in the blank styles of code. The exams are both fair imo, though I did like the second exam more. in terms of hours of work, it was more than average on account of it being a summer class. TA's were in general quite helpful and responsive, though the profs seemed to be MIA. Lectures for the first half also left something to be desired as they seemed to be recorded during the prof teaching the class in person so there are awkward breaks while he asks the class a question, and sometimes its a bit hard to hear what students in the class are saying.
+
+---
+
+Title: Disappointing
+Term: Machine Learning - Summer 2023
+Posted: 8/17/2023 3:25 PM GMT-7
+Rating: 2
+Difficulty: 2
+Textbook: 1
+Lectures: 2
+Professor: 4
+Piazza: 3
+Workload: 15 hours per week
+
+Review:
+Pros:
+1.
+2.
+3.
+
+Cons:
+1.
+2.
+3.
+
+Detailed Review:
+This class was a significant disappointment and a troubling reflection on higher education, leading me to question its true value. The material was disorganized and lacked a logical structure, causing students to struggle with what should have been a guided learning process but instead felt like fumbling without direction.
+
+The assignments and exams were an embarrassment, fit for a time when people still believed in witch trials. Most students already had access to these old, recycled assignments. Instead of rectifying this glaring issue, they simply threw a horde of TAs at it, tasked with hunting down plagiarism like it was some medieval inquisition. The sheer irony of this while suppressing the use of online resources, especially for programming, is a clear signal that the staff is woefully out of touch with any real life machine learning experience.
+
+The exam process added further frustration to an already troubled experience. Students were required to record themselves, refrain from using any digital materials, and potentially print hundreds of pages of notes. This process was not only inconvenient but also showed a lack of environmental consideration.
+
+In conclusion, this class is a significant disappointment, offering little in the way of coherent, current, and conscientious learning. Unfortunately, with no alternatives available, those considering this course should approach it with caution and be prepared for its shortcomings.
+
+---
+
+Title: Theory-centric focus on ML
+Term: Machine Learning - Spring 2023
+Posted: 4/15/2023 4:00 PM GMT-7
+Rating: 4
+Difficulty: 5
+Textbook: 4
+Lectures: 5
+Professor: 4
+Piazza: 4
+Workload: 8 hours per week
+
+Review:
+Pros:
+1. Heavy focus on theory behind various machine learning concepts
+2. Monotonically decreasing workload over the course of the semester
+
+Cons:
+1. Unorganized lectures (particularly in the first half) and material in general
+2. Shallow application of the material in programming assignments
+
+Detailed Review:
+Given the class is the length of a summer course regardless of when it is taught, it started off rough with hours of lectures and rigorous homework. However, as the semester went on the homeworks became shorter and shorter, while the lectures became overall a little less time consuming. Even though this class is heavily focused on machine learning theory, I feel in the end I really failed to grasp the relevance of most of it. I don't really think that this course fits well in the context of the program in general. Additionally, though a lot of important topics were covered, the order they were covered in was somewhat disorganized. For example, kernel methods were brought up in the first half briefly, but not really focused on until the end of the second half.
+
+In the first half, assignments are a pretty big step up from the lectures, but the TAs were very willing to assist with any questions people had on where to begin and such. The exams were fair, somewhat less difficult than the homeworks and you are given enough time to finish everything comfortable. The logistics of the exam are somewhat annoying, if they want to intrude on our privacy I don't see why we can't use electronic notes for example.
+
+The first half of the course comprises of recorded lectures from a class Dr. Klivans taught in the past. It was a mild inconvenience having him pause to let the class try to work things out or give answers to inaudible questions, but otherwise the lectures were decent. Some of the concepts could have done better with prepared materials however compared to writing on a tablet. Dr. Liu's half of the course is more organized and he is good at explaining the basic of the concepts in a clear way. As his lectures deep dived into the theory, I tended to get lost, but he also included his (unreleased?) textbook which helped solidify my understanding of the lecture overall.
+
+In the end, this class felt pretty middle of the road. I found myself watching ML content on Youtube to clarify a lot of what was covered in this course, and felt I gained more from that overall (Josh Starmer, RitvikMath, etc.) I think this is mostly a class where you need to be persistent early on, but once you are halfway through it is very doable.
+
+---
+
+Title: Overall Good Course
+Term: Machine Learning - Fall 2022
+Posted: 11/23/2022 1:01 PM GMT-8
+Rating: 5
+Difficulty: 4
+Textbook: 5
+Lectures: 5
+Professor: 4
+Piazza: 5
+Workload: 7 hours per week
+
+Review:
+Pros:
+1. Great TAs
+2. Overall useful material
+
+Cons:
+1. Two midterms (with some annoying policies)
+2. No professor presence on Piazza
+3. Compressed schedule (12 weeks vs 14)
+
+Detailed Review:
+
+TAs - Overall TAs did a great job. They were very active on Piazza, held lots of office hours with good times for working professionals, and were very prompt in grading both of the midterms (both graded and returned ~ a week)
+
+Homeworks - As others point out, homeworks get progressively easier as semester progresses. Overall they didn't take up too much time to complete on aggregate.
+
+Midterms - I didn't think the midterms were as difficult as mentioned in some other reviews and were fair in the material you were expected to know. TAs provided some practice exam materials which were around the same level of difficulty as the actual exam, so you weren't too surprised going into it. They also gave a pretty generous timeframe to take the exams. However you had to record yourself and can only bring in printed notes (no electronic notes). I found it super annoying to print out all the lectures notes for the exam, and you definitely want to print them out because you will almost certainly need to reference them extensively.
+
+Professors - They were completely absent from the course. This is the first course I've taken in the program where there was zero professor engagement. Dr. Klivans' recorded lecture were just ok in my opinion, however I did really enjoy Dr. Liu's teaching style and clarity.
+
+Schedule - The course was cut two weeks shorter than normal, making it run at around the same pace as a summer semester. At first this was pretty rough, especially during the first few weeks trying to balance the tougher assignments of this course along with work from the other course I was taking. However by the end of the semester it wasn't too bad to manage due to the easier assignments. In hindsight ended up being a good thing as I could focus all my attention on the final assignment in my other course.
+
+Prerequisites - This is a theory course, so honestly the more math taken beforehand the better in terms of preparedness. I took probability, regression, and LAFF prior to taking this course. Knowing probability and linear algebra is really critical to understanding the material in this course. Taking regression prior is also a major plus as there is a lot of overlap in the topics, and regression is definitely the easier of the two due to the lack of exams.
+
+---
+
+Title: Survive the Gauntlet then go
+Term: Machine Learning - Summer 2022
+Posted: 8/20/2022 9:51 AM GMT-7
+Rating: 5
+Difficulty: 5
+Textbook: 6
+Lectures: 3
+Professor: 4
+Piazza: 7
+Workload: 30 hours per week
+
+Review:
+Pros:
+1. Excellent TAs
+2. Deep Theory Dives
+3. Not bad for a first course
+
+Cons:
+1. The first half of the course is a gauntlet
+2. The assignments are not sufficiently updated between semesters, so some students essentially have cheat-sheets
+3. The lectures' usefulness was meh
+
+Detailed Review:
+Well, I'll give it this: as soon as I updated my linkedin with this course, I got contacted for a job interview, so that payoff was fast. I will reiterate what the other reviews say: survive the first half of the course, and the second will be comparatively easy. Also, don't panic if you don't feel like you did that well on the first exam. There is a curve. Note though: if they don't update assignments, the curve is likely to get even more skewed. Speaking of assignments, the theory HWs will take more of your time, but the two exams (not cumulative) are 60% of your grade. The programming was useful, but just not nearly as intense. Suggestion though is to do the theory first. It may give you a sense of the pseudocode you need. Finally, go to the office hours, and I mean all of them. I work full time, but I made slots for task. It paid off, heavily. The TAs provided instruction with real feedback. (Also, they kept up with Piazza quite well.) Note: I took this course during the summer, so it was compressed. My 30hrs per week would have been less during a normal semester. Also, I did not come from a CS background, so I definitely needed additional learning compared with the SWEs or stats people in the class.
+
+---
+
+Title: Tough but worthwhile
+Term: Machine Learning - Summer 2022
+Posted: 8/17/2022 9:03 PM GMT-7
+Rating: 6
+Difficulty: 5.5
+Textbook: 6
+Lectures: 5
+Professor: 4
+Piazza: 5
+Workload: 10 hours per week
+
+Review:
+Pros:
+1. Lowest HW grade dropped
+2. Engaging TAs
+3. Straightforward programming assignments
+
+Cons:
+1. Not much/any professor involvement in the course
+2. The theory HWs are often quite hard
+3. The exams are a mixed bag
+
+Detailed Review:
+Caveat -- I took this class in the condensed summer semester. I think it was a really good course, I learned a lot, but I definitely had to work my rear off every week to stay on top of things. The first two homeworks were really tough and will weed out a lot of people, but if you stick through those, you'll be fine.
+Be sure to take any and all questions that you have to the TA office hours, where you can have them offer hints or do a similar example. The lectures are pretty clear but it's really tough to know what to pay attention to since they do tend to go down rabbit holes with proving certain theorems etc. I think it was really useful to actually annotate the slides, so I was able to pay attention to what they were saying. Highly recommended over taking notes from scratch. The textbook/lecture notes from the second half of the course are also really useful for being able to reinforce the cascade of info from the videos.
+
+---
+
+Title: Theory heavy, intense first few weeks
+Term: Machine Learning - Summer 2022
+Posted: 8/10/2022 4:07 PM GMT-7
+Rating: 4
+Difficulty: 6
+Textbook: 6
+Lectures: 6
+Professor: 6
+Piazza: 6
+Workload: 10 hours per week
+
+Review:
+Pros:
+1. Lectures clear
+2. Book in second half useful
+3. Homeworks 3-6 easy
+
+Cons:
+1. Learn little relevant to machine learning in practice
+2. First two homeworks are difficult
+3. First few weeks are pretty grueling if taking during the condensed summer semester
+
+Detailed Review:
+
+I took this class in the summer - the first few weeks were a lot of work - pretty stressful to balance while also working. You can probably afford to phone it in on the first homework and drop it, since it's the hardest by a significant margin.
+
+Other than that, the lectures were fine. The assignments were fine. I thought the tests were tough - I was in the neighborhood of 80% on both. This'll be the first class of the five I've taken so far where my grade is below the average, so maybe it's just me. My skillset is definitely more programming than math, and this was certainly a math class, despite the programming components of the assignments.
+
+Speaking of, you won't come out of this class knowing much about how to implement machine learning in real life. That's a bit disappointing that a semester-long class can't do more in terms of preparing people to implement ML algorithms in the wild. But what can you do - it's not like you can take a different class and still get your degree.
+
+---
+
+Title: Feels more like an advanced statistics class
+Term: Machine Learning - Spring 2022
+Posted: 4/25/2022 7:34 PM GMT-7
+Rating: 4
+Difficulty: 5
+Textbook:
+Lectures: 4
+Professor: 5
+Piazza: 7
+Workload: 10 hours per week
+
+Review:
+Pros:
+1. Deep dive into nuts and bolts of the models
+2. Helpful TAs
+3. Second half was better
+
+Cons:
+1. First half of the course needs a revamp
+2. Exam has huge weightage but homework was demanding for first half. I suggest to make it 50:50
+3.
+
+Detailed Review:
+
+---
+
+Title: ML S22
+Term: Machine Learning - Spring 2022
+Posted: 1/27/2022 10:52 PM GMT-8
+Rating: 4
+Difficulty: 7
+Textbook: 3
+Lectures: 5
+Professor: 6
+Piazza: 4
+Workload: 17 hours per week
+
+Review:
+Cons:
+1. Both exams are hard
+2. Theory materials and homeworks from Adam are hard
+3. They gave a lot of textbooks and supplemental readings but didn't tell us which part were recommended to read
+4. Grading policy is extremely harsh
+
+Detailed Review:
+This course is very math heavy, if you don't have decent knowledge in math, I suggest you learn all the prerequisite requirements mentioned before taking this course. Before exams, both lecturer gave us exam practice which I still able to solve because it is not that hard. But the exams is on different level, it is different from what you learn on lecture, homework, or exam practice (although there are small amounts of content we learn from lecture shows up at exam). The TAs are sometimes miss/forget/late for the zoom session. This is an application course, but the content of this course seems doesn't represent it, more theory than code. With the high level difficulty of this course, the grading was really harsh even after curved, I scored 87 but only get a B+.
+
+---
+
+Title: Overall good course for understanding the foundations of ML
+Term: Machine Learning - Fall 2021
+Posted: 12/27/2021 12:55 PM GMT-8
+Rating: 6
+Difficulty: 5
+Textbook: 5
+Lectures: 6
+Professor: 6
+Piazza: 6
+Workload: 16 hours per week
+
+Review:
+Pros:
+1. Exposure to a broad range of topics in ML
+2. A few theoretical ML topics are covered (PAC-Learning)
+3. Exams that challenge your understanding of the material
+
+Cons:
+1. Unevenness of homework difficulty/effort
+2. Overly simple assignments in the 2nd half of the course
+3. The course does not dive as deeply into the material as compared to other ML courses from top programs
+
+Detailed Review:
+This course will take you from a beginner-intermediate level of understanding in ML to an intermediate-advanced level. I would say a prerequisite is to already have an understanding of basic concepts in machine learning in order to get the most out of this course. In other words, I don't think it would serve as the best intro course into ML since a level of mathematical maturity is assumed and are very much required for the first few homeworks. The first two homeworks serve as weed-out assignments and are much, much more time consuming than the rest of the assignments in the course. Programming assignments are generally easier and help you develop a better understanding through implementations, however they do not ask you to go very deep in the material.
+
+---
+
+Title: Scholar, tread carefully! This is an ML theory course, NOT an introduction to Machine Learning
+Term: Machine Learning - Fall 2021
+Posted: 12/21/2021 11:16 AM GMT-8
+Rating: 5
+Difficulty: 5
+Textbook: 4.5
+Lectures: 4
+Professor: 4
+Piazza: 5.5
+Workload: 15 hours per week
+
+Review:
+==============================
+My Background and Grade
+==============================
+ML Engineer at BigTech for ~2 years (now an ML Scientist). Took UT MCSO Linear Algebra, Deep Learning and NLP before this course.
+I got an A in this course (93% overall, with 29/30 in Klivans' exam and 24/30 in Liu's exam, and full points on all HWs). I spent ~15 hours per week studying (this was the only course I took this semester). I also studied Probability beforehand since I was rusty (see next section).
+I personally learned a lot from this class, since I took extensive notes which I will refer to for other parts of my job.
+
+==============================
+What this course IS and ISN'T
+==============================
+Set your expectations accordingly:
+
+1. This course is NOT for those new to Machine Learning. if you have no experience with ML, take Deep Learning or NLP, or an online MOOC, before taking this course.
+2. This is also NOT a course which teaches you how to program ML algorithms (beyond basic ones like Linear Regression and K-Means). It does not really fall into an Applications course.
+
+Instead, this course teaches you the theoretical fundamentals of Machine Learning, along with several "classic" ML algorithms and how they work. If you have taken an introductory course to ML (e.g. Andrew Ng's or an undergrad course), and you want a deeper understanding of the math and theory of ML, this course is for you.
+
+==============================
+Prerequisites
+==============================
+1. PROBABILITY: you should be well-versed. Strongly consider taking an undergrad course in probability if you are unfamiliar/rusty. Topics you will need are: Ch 1-5 and Ch7 from Blitzstein (http://probabilitybook.net/).
+2. LINEAR ALGEBRA: used for the PCA section. Topics you will need are Ch1, Ch2 and Ch9 from ALAFF (https://www.cs.utexas.edu/users/flame/laff/alaff/).
+3. ML PROGRAMMING: attempt at least one Kaggle competition, to get versed with scikit-learn and Python. Try: https://www.kaggle.com/c/titanic
+You can realistically learn one/two of these during the course (preferable 2 or 3). If you don't know all three, you might need to drop this course and take it in a later semester.
+
+==============================
+Tips to get an "A" in this course
+==============================
+1. The syllabus does not stress this, but the prereqs are crucial to how much you will struggle in this course. A LOT of students dropped out in the first 3 weeks because they realized they were out of their depth, mathematically. Take this course in a later semester, but don't skip the prereqs (especially Probability).
+2. During the first few weeks of the course, read Ch 1,2,3 of "Understanding Machine Learning: from Theory to Algorithms" (the textbook for this course), which covers the Statistical Learning Framework. This was NOT mentioned on the syllabus, but is absolutely essential to make sense of PAC learning.
+3. MAKE NOTES. The exams are "open-notes" but not "open-book", so you can't use the textbook, but you CAN use all your notes. I just wrote down everything in detail and solved all the problems (this really helped to learn the topics, too).
+4. Try to drop the easiest homework, not the hardest. If you can't solve the hardest homework (which is HW1 or HW2) then Exam 1 is gonna be bad.
+5. If you don't like the textbook "Understanding Machine Learning", there are others which explain the same topics. Particularly, I found the following useful:
+- "Artificial Intelligence, a modern approach 3rd edition": best intro to Decision Trees.
+- marthawhite.github.io/mlcourse/notes.pdf: useful for Maximum Likelihood, Linear/Logistic Regression
+- "Pattern Recognition and Machine Learning" by Bishop: for kernel methods.
+6. Prof. Klivans has LaTeX notes for certain topics available on his UT homepage:
+- Mistake Bounded Learning, Decision Lists: https://www.cs.utexas.edu/~klivans/395tf07-lec1.pdf
+- PAC model of learning: https://www.cs.utexas.edu/~klivans/f06lec2.pdf
+- Perceptron: https://www.cs.utexas.edu/~klivans/05f7.pdf
+- Polynomial threshold functions: https://www.cs.utexas.edu/~klivans/f08PTFlower.pdf
+- Learning using Polynomial threshold functions: https://www.cs.utexas.edu/~klivans/f07lec5.pdf
+- Boosting: https://www.cs.utexas.edu/~klivans/lec14.pdf
+
+==============================
+Pros of this course
+==============================
+1. Syllabus is great from a theory perspective: hits most of the major ML algorithms, and leaves you with a good idea on how to tackle new topics.
+2. The textbook presents topics with the right amount of mathematical depth (assuming you are familiar with Probability notation). It is both explicit and intuitive. The Statistical Learning Framework in Ch1,2,3 is a must-read.
+3. Peer grading is lenient and not too much work (1-2 hours for each HW). There is an answer key for each HW so you are not left to the whims of your peers.
+4. Prof. Liu's lectures (second half) are well-presented and he works through examples. His supplementary material is useful.
+
+==============================
+Cons of this course
+==============================
+1. The amount of effort needed for each HW BADLY unbalanced. HW1 and HW2 take 50-60 hours each (this includes reading the material, making notes and attempting the programming and theory questions). HW5 and HW6 took ~10 hours each. Though, I felt like I learnt the most from HW 1&2.
+2. Prof. Klivan's lectures (the first half) are flipped-classroom, which expect you to have read each topic before watching each video. This does not translate to an online-MOOC setting. I personally just learnt the topic from textbooks/online sources, and used the lectures for review for the exam.
+3. The second exam was hard (harder than the first) and I felt HW 4-6 did not adequately prepare us for the difficulty of the exam.
+
+==============================
+Overall rating
+==============================
+I personally learned a lot from this class, but a lot of it was self-study. Making notes helped clear the exams.
+
+Klivans:
+Lecture quality: 2.5/5
+Homework difficulty: 4/5
+Exam difficulty: 3.5/5
+Grading fairness: 4/5
+
+Liu:
+Lecture quality: 3.5/5
+Homework difficulty: 2.5/5
+Exam difficulty: 4/5
+Grading fairness: 4/5
+
+---
+
+Title: Theory focused not applications
+Term: Machine Learning - Fall 2021
+Posted: 12/20/2021 11:16 PM GMT-8
+Rating: 3
+Difficulty: 6
+Textbook: 2
+Lectures: 4
+Professor: 4
+Piazza: 4
+Workload: 20 hours per week
+
+Review:
+Pros:
+1. Curve
+2. Rich content
+3. TAs response
+
+Cons:
+1. Exams
+2. Splitting of the course
+3. Professors afk
+
+Detailed Review:
+
+This course really should be two different courses one of the theory side and another for the stats and applications. The lectures are rich and well presented. The amount of content is too much I honestly don't remember most of the stuff that should be "important". I wouldn't recommend taking unless this course is split into 2 different ones or they restructure/re-record the lectures and course. Definitely don't take it by itself on your first semester as you might risk academic probation if you work hard and end up with a B-.
+
+Part I:
+The book is not helpful it's written with so much detail that it over complicates simple concepts that could be grasped with a simple 5 minute StatsQuest video. Dr.Klivans was afk from Piazza other than the times that involved logistic issues such as proctoring for exams or peer grading issues. The set of homeworks for this part are rather hard with the 1st being the hardest. For the exam you are really thrown a curveball in the sense that the "review" questions you are provided are more like comments not so much questions that help with the exam. Overall, this part was rather annoying and I considered dropping the course at this point as I felt I was not learning anything from the course. Since I was learning more from StatsQuest and freecodecamp on YouTube.
+
+Part II:
+The book is actually readable and easy to understand as the professor writes it himself. The homeworks are manageable since they resemble what is taught in lectures and in the book. I really like this part as I was able to really learn and see how these applications are used in practice. The exam practice for this section is actually helpful as you get easy-medium practice questions but on the same breadth and depth as the exam. This part of the course was far more enjoyable and the professor was seen more in piazza.
+
+TLDR:
+Wouldn't recommend as a lot of math, stats, and programming background is really required to get an A. Unless you are a full-time student and have to refresh on these concepts or are naturally good. For the average person, it will be super stressful and you will have to hope for a good curve to get a B or B+. Don't recommend taking it as the only course on your first semester as you could get academic probation. If you are really interested in learning ML I would recommend taking another course online or just watching freecodecamp's ML course that is FREE and won't risk you on academic probation.
+
+---
+
+Title: Overall Good - Theory Focused
+Term: Machine Learning - Fall 2021
+Posted: 12/20/2021 3:31 PM GMT-8
+Rating: 5
+Difficulty: 4
+Textbook: 1
+Lectures: 5
+Professor: 5
+Piazza: 5
+Workload: 8 hours per week
+
+Review:
+Pros:
+1. Strong theoretical foundation in machine learning
+2. Moderate time investment
+3. Only a few homeworks
+
+Cons:
+1. Programming assignments are very simple
+2. Math prerequisites are assumed well-learned (not major con, but student beware)
+3. Exams graded fairly harshly, but there is a curve
+
+Detailed Review:
+This course is split into two halves, one for each professor. I will address them in turn. Furthermore, any students taking this course should be well versed in the basics of linear algebra, calculus, and probability. The course also lists discrete math as a requirement, but that is not really explicitly used for the course.
+
+Part I:
+The beginning of the course is focused entirely on some algorithmic methods of machine learning. This leans fairly heavily on the linear algebra side of the equation, with some cases of calculus and probability used to help proofs. The lectures are split into small pieces (very helpful for rewatching / searching for sections), but there is little else to help here. Furthermore, the lectures are lean with very few examples. For those seeking quick and distilled theory, this will work for you. For students seeking more explanation and examples, this section of the class will be wanting. There is a recommended textbook for this half of the course, but it is of little help. It is even denser mathematical proofs with few examples. The material is pretty well represented in lectures, but it may be worth considering outside resources (like YouTube) for further study.
+
+Part II:
+The end of the course is very heavily probability focused. Being comfortable with probability is a must. This discusses algorithms to an extent, but spends more time viewing methods from a probabilistic lens. This set of lectures are uploaded as full videos (being regularly ~1 hr long), so the videos are harder to review. The professor does append the handwritten notes from the video AND a text he is working on. Both are valuable resources for quicker review. This section of the course took me more time (most students say the first half takes more time), but the homework assignments were certainly easier in the second half.
+
+In terms of exams this semester, the first exam was pretty straightforward, but challenging. The second exam had more unexpected material and the average score dropped as a result. Furthermore, the grading can be fairly harsh, but there is a curve that can bring up your grade substantially. Furthermore, TAs are the best support you will get from Piazza. The professors do comment, but it is uncommon. I cannot speak to office hours as I could not attend any of them.
+
+Overall, I learned quite a bit in the course, but would have preferred a little more application on the homeworks. This should prove a decent theoretical base for further machine learning study.
+
+---
+
+Title: Solid Introduction to Machine Learning
+Term: Machine Learning - Fall 2021
+Posted: 12/20/2021 5:44 AM GMT-8
+Rating: 6
+Difficulty: 6
+Textbook: 4
+Lectures: 6
+Professor: 5
+Piazza: 5
+Workload: 15 hours per week
+
+Review:
+Pros:
+1. Good breadth of information covered
+2. Engaging assignments with a mix of theory and application
+3. Piazza was incredibly helpful
+
+Cons:
+1. TA office hour schedules felt sporadic
+2. A lot of additional studying required if you don't have a strong background in the prerequisite requirements
+3. Digital notes are not permitted for open-note exams. Everything must be printed
+
+Detailed Review:
+
+This was my first course in the MCSO program, and it was a great one to start with. This course gives a solid introduction to Machine Learning through thoughtful lectures and well-crafted homework assignments that require you to really understand the lecture content. As mentioned in the syllabus, a background in calculus, linear algebra, and probability and statistics are required. Do not take these requirements lightly. I had some background in all 3 of these areas, but still needed to do a hefty amount of supplemental studying on these topics before I really understood the actual course content.
+
+From what I have gathered, most people find the first part of the course harder than the second part of the course. I personally felt the opposite - the second part of the course was much harder for me than the first part. I guess this will depend on your own comfort with the prerequisite material and interest level in the content.
+
+Overall, this was a great first course to take, and an enjoyable introduction to both the program and to Machine Learning.
+
+---
+
+Title: Challenging but not difficult
+Term: Machine Learning - Fall 2022
+Posted: 12/17/2021 6:55 PM GMT-8
+Rating: 6
+Difficulty: 4
+Textbook: 6
+Lectures: 6
+Professor: 6
+Piazza: 7
+Workload: 12 hours per week
+
+Review:
+Pros:
+1. Good theoretical introduction to machine learning
+2. TAs were active on Piazza and they had office hours almost every day
+3. Good first course to take because it forces you to review important mathematical concepts
+
+Cons:
+1. The theory assignments in the first half of the course are very time-consuming
+2. The programming assignments in the second half of the course are too simple
+3. If you're not comfortable with writing proofs there is a huge learning curve
+
+Detailed Review:
+This course is divided into two halves - algorithms and statistical learning. Different professors teach each half and they have very different lecture and notes styles. There are lectures and assignments released every two weeks (the lecture and assignment dates don't line up). The assignments are usually comprised of a set of theory questions and a set of Python programming questions. There is an exam after each half of the course that only covers material from that half.
+
+To give some context my educational background is in statistics. I put 12 hours/week as the workload but I spent about 16 hours/week for the first half of the course and less than 8 hours/week for the second half.
+
+The lectures and notes are fairly clear in the first half but lacking in examples which made the theory assignment questions very difficult. Tbh I was shocked when I first saw assignment 1 - the questions seemed impossibly difficult. However Piazza and attending TA office hours helped. I spent about 20 hours on the first assignment and less on the later assignments because I got used to the difficulty. The programming portions of the assignments are easy if you're comfortable with numpy and scikit-learn. I wouldn't say the programming assignments were trivial though.
+
+The material in the second half of the course is about the same difficulty as the first half but the prof who teaches it gives a lot more examples. The theory assignments are much easier - they took me less than 2 hours to complete on average. The programming assignments in the second half are worse than the ones in the first half - a lot of them just consist of pre-written functions that you need to complete by writing a few lines of code.
+
+The two exams are both challenging and about the same difficulty.
+
+Overall I think it's a good first course to take because it forces you to review concepts in probability, statistics, linear algebra, and calculus. It also forces you to get back into the mindset of writing proofs. During the first half of the course I thought the course was on the edge of the line between "challenging" and "difficult", leaning towards "difficult". After the second half I think I'd just consider the course to be "challenging".
+
+---
+
+Title: Good first class to take
+Term: Machine Learning - Fall 2021
+Posted: 12/17/2021 1:18 PM GMT-8
+Rating: 6
+Difficulty: 6
+Textbook: 7
+Lectures: 7
+Professor: 7
+Piazza: 3
+Workload: 25 hours per week
+
+Review:
+Pros:
+1. Lots of office hours and TA support
+2. Beginner-friendly programming assignments
+3. Curved so most students pass
+
+Cons:
+1. Monotonically decreasing difficulty. Do HW0 --> HW1 Programming --> HW1 Theory
+2. Dr. Klivan's supplemental readings were too time-consuming for the value-added
+3. The First exam was not completely representative of past examples
+
+Detailed Review:
+I am a career changer into tech and took this in my first semester. When I started the class, I had only taken an intro programming course and discrete math on Coursera. I found the first part of the course to be challenging as my linear algebra was lacking, but the course did get easier after the first two homework assignments. The first theory homework, in particular, was very difficult to comprehend and I spent 10+ hours in TA office hours to finally figure it out. If you have the time to review key concepts on StatQuest and 3Blue1Brown on YouTube, you will be able to understand the lectures and assignments even if you don't have a CS background. Those coming from Data Science may have taken other classes like Probability and Linear Regression that would have been good to know. The supplemental readings (textbook) and Piazza often have the answers you are looking for, so be sure to check those when doing the assignments. I highly recommend going to as many TA sessions as you can. Overall, it was a good course that was challenging but not impossible for a newcomer.
+
+Misc. Notes:
+Exams are punishing if you can't don't know where to start. The questions are largely different from HW and application-based.
+It's easy to get lost in Piazza as people repeat questions, but it will help you to stay on top of it.
+Peer grading was fine, and the rubrics were adjusted to be much more lenient in the last 4 homework assignments
+
+---
+
+Title: Great Course but Difficult
+Term: Machine Learning - Fall 2021
+Posted: 12/15/2021 7:56 PM GMT-8
+Rating: 7
+Difficulty: 7
+Textbook: 3
+Lectures: 6
+Professor: 6
+Piazza: 6
+Workload: 15 hours per week
+
+Review:
+Pros:
+1. Covers a lot of topics and concepts
+2. TA office hours almost every day and varying times from 1000 CST to 2000 CST
+3. Solid community and support from peers
+
+Cons:
+1. It honestly required pre-requisite background knowledge, but can be overcome if you do not have it (it just costs time)
+2. Guidance for exams was a shot-gun blast. It changed day-to-day on Piazza.
+3. I'm not a fan of swapping out instructors halfway through. It makes it feel like 2 semesters smashed into one.
+
+Detailed Review:
+For context, I have a non-CS/non-Math undergrad. If I'm lucky I'll end up with a B- because it has been drinking from a fire-hose trying to catch up on probability and statistics, calculus, and linear algebra (in that order). The first half of the course was painful because I could not follow along with any of the mathematical concepts, but I was able to obtain a conceptual understanding that saved me in the mid-term. I probably spend at least 20 hours/week during the first half of the course. Prepping for the midterm I probably spend 50-60 hours/week. In the second half, the course was immensely easier. I probably spent an honest 10 hours/week or less. In the first half, I was busy digesting tons of background mathematical knowledge that was required so the second half made a bit more sense.
+
+The homework was rough. I attended almost every TA session during the first half of the course. In the second half, I attend a TA session maybe 1-3 times per week and was able to complete all the assignments. Again, I do not have the background to do the mathematical proofs and that was where I really struggled. Some of the programming assignments were difficult for me to pick-up, but ultimately fairly trivial.
+
+The support of the class is what really made me enjoy it. Having Slack and Discord to talk and discuss the topics helped a ton. We had a study group that really made a difference and started building a little community. I did not do well with solely Piazza because I felt like I could not intelligently convey what I was struggling with through written language. I was stuck in a "You don't know what you don't know" type of loop. Thankfully, discussing the topics with peers really helped a ton.
+
+The Piazza was definitely there if you needed it thought. The textbook was only used for the first half. The second half had a draft textbook for free. I used both books extensively along with numerous other resources like 3blue1brown and StatQuest.
+
+---
+
+Title: Too much theory so not enough content
+Term: Machine Learning - Summer 2021
+Posted: 12/13/2021 8:58 AM GMT-8
+Rating: 5
+Difficulty: 4
+Textbook: 1
+Lectures: 4
+Professor: 6
+Piazza: 2
+Workload: 12 hours per week
+
+Review:
+Pros:
+1. Helps to have the correct mindset to read scientific papers
+2.
+3.
+
+Cons:
+1. Not enough content
+2.
+3.
+
+Detailed Review:
+The first 2 homework were the toughest. I took it during the summer so maybe it's because of that.
+I learned a good amount of theory but I feel not enough content.
+Some TAs were not that helpful.
+The second part was easier to follow.
+
+---
+
+Title: Gave me a good foundation for ML topics
+Term: Machine Learning - Fall 2019
+Posted: 12/10/2021 1:27 PM GMT-8
+Rating: 7
+Difficulty: 4
+Textbook: 1
+Lectures: 5
+Professor: 6
+Piazza: 7
+Workload: 10 hours per week
+
+Review:
+Pros:
+1. Covered both the stats and the ML algorithms
+2. Gave me a good foundation for more complex topics
+3. Focused on the theory behind ML
+
+Cons:
+1. Homework 1 was brutal
+2. I wish it had covered more ML topics like SVM's
+3. There needs to be a second course on this subject
+
+---
+
+Title: Okay course - Online makes it worse
+Term: Machine Learning - Fall 2021
+Posted: 12/9/2021 6:29 PM GMT-8
+Rating: 3
+Difficulty: 5
+Textbook: 3
+Lectures: 3
+Professor: 3
+Piazza: 4
+Workload: 15 hours per week
+
+Review:
+Pros:
+1. Well paced assignments
+2. Interesting course material
+
+Cons:
+1. Extremely theoretical
+2. Lectures don't tie well with homework
+3. TAs and professors can be hard to get a hold of
+4. Difficult/frustrating exams
+
+Detailed Review: This course was all around a miss for me. The first half of the class is interesting, but incredibly difficult. The lectures are fine but don't tie in well with the homework assignments, and I spent many hours pouring over the textbook and different websites to teach myself the math needed to get through the homework. The second half of the class was significantly easier with less intense homework assignments, but the lectures were very long and not very well paced. It didn't help that none of the notes were transcribed, so the lecture slides were just handwritten notes that got progressively worse the longer the lecture went.
+
+My biggest gripe is the lack of course communication. Sure, if you want help with an assignment or show up to office hours, you'll get all the help you need from TA and other students (mostly other students, let's be real) but the real shame is when you have real logistic questions. I've sent emails regarding possible extensions, what do do if I missed a peer evaluation, what to do if I missed a submission deadline, and all of those emails went unanswered. Staying aware of deadlines would be less of an issue if the assignments and peer evaluations were due at the same time every other week but sadly that is not the case. Sometimes an assignment was due Sunday, sometimes Saturday, sometimes Tuesday. Then the peer evaluation didn't start didn't start for a full 2 days afterwards, which left a lot of room for forgetfulness. The peer evaluations were also not due for the same length of time after each assignment. On some you had 5 days, on others up to 7. Why? This made the deadlines incredibly hard to keep on top of. And what if you submit an assignment but miss the peer eval? Do you still get a grade? Nobody knows because the TAs and instructors ignore you.
+
+Besides, even if you don't get tripped up by the moving deadlines, the peer grading is brutal. While students are encouraged to go easy on their peers and not take off for small mistakes, many students are very harsh. While you can ask TAs for a regrade, it is usually not worth the time and effort for a few points. You are also asked to grade 5 peers' assignments after every homework. I understand that there need to be more graders incase some people forget to do it, but 5 assignments is a LOT. It's time consuming, and if done well it takes me a good hour to 90 minutes to get through it all. I don't feel like the grades I receive are necessarily representative of my performance, and I certainly don't feel like grading my peers is giving me a deeper understanding or appreciation of the course material. If anything, it just makes me feel like the TAs and instructors are trying to get out of work.
+
+Lastly, the exams are painful. Not only are they difficult, but you have to figure out the whole proctoring situation too. The professors said they wanted to be able to see our hands and work space the entire time, but that was simply impossible given most of us are using laptops, so they just got a good view of the top of my head. Plus, due to the nature of the video upload, it took a long time to be able to even submit my test once I was done with it. The TAs and professors then took weeks to finish grading all of our tests. While I understand grading all of our answers was time consuming (no multiple choice) we were left in the dark for weeks regarding our performance, and after the scores came out, there was a lot of disagreement over the fairness of scores.
+
+As much as I want to be understanding about these issues, the professors have had a long time to figure out how to manage the class, since it was a part of the CS program before MSDS. I just sincerely hope I don't have to retake this class again due to problems outside of my control.
+
+---
+
+Title: ML Review as a New-ish CS person
+Term: Machine Learning - Summer 2021
+Posted: 9/8/2021 5:04 PM GMT-7
+Rating: 3
+Difficulty: 6
+Textbook: 4
+Lectures: 4
+Professor: 4
+Piazza: 5
+Workload: 20 hours per week
+
+Review:
+Pros:
+1. Helpful TA's if you ask the right questions and ask for help
+2. Gives an overview of ML areas really quickly
+3. 2nd half of the class feels more manageable and concrete
+
+Cons:
+1. Very open ended and abstract with little guidance
+2. Frustrating assignments with lots of time spent figuring out what is being asked
+3. If you have a brilliant class then you'll need to keep up with the curve
+
+Detailed Review:
+I am fairly disappointed with this course, probably skewed by taking it over summer. I felt like dropping it after the first two homeworks. The assignments seemed disconnected from lecture and very abstract and there is little guidance to help figure out the concepts. I am definitely coming from more of a CS newbie perspective with no ML training, but I did hear the sentiments echoed that many folks spent more time googling and learning how the material worked from the web than from lectures. In a way, it did help me force myself to learn due to the amount of online research I did because it is a sink or swim environment where you have to learn and research a lot of stuff in order to grasp the assignment material. My review is also a little skewed because taking this over the summer makes it a very aggressive schedule where you have to watch all the abstract lecture material and complete both a confusing theory assignment plus a coding assignment each week. If you are not a seasoned ML practitioner and you are starting off the program with ML, I would recommend taking it Fall or Spring in order to give yourself more time to get caught up and ask questions.
+
+I agree with previous comments about Prof Liu being a bit easier to follow and the concepts and math are better documented in his textbook.
+
+---
+
+Title: Good Course - You need to work real hard before your exams to get a good grade
+Term: Machine Learning - Summer 2021
+Posted: 8/24/2021 9:34 PM GMT-7
+Rating: 4
+Difficulty: 5
+Textbook: 4
+Lectures: 6
+Professor: 6
+Piazza: 6
+Workload: 12 hours per week
+
+Review:
+Pros:
+1. Quality Lectures
+2. Made us think deeply
+3. Good Professors
+
+Cons:
+1. Practical assignments could have been a bit more interesting
+2. Bad grading curve - need to study really hard to get a decent grade (this may be a pro for some). In my case, I forget most of the small nitty-gritty details over time. Also, it assumes you have a strong background in Linear Algebra, Stats, and Probability. This may not be the case for everyone. The goal is to learn. Having a decent grading curve would at least iron out the background gap.
+
+
+Detailed Review:
+
+I enjoyed this course overall. Honestly, learning is good. But if you also want to maintain a decent grade thinking that you would want to apply for higher education, you will have to work harder in this course than in other courses.
+
+---
+
+Title: Machine Learning Review
+Term: Machine Learning - Spring 2021
+Posted: 8/24/2021 1:28 AM GMT-7
+Rating: 6
+Difficulty: 3
+Textbook: 6
+Lectures: 6
+Professor: 7
+Piazza: 5
+Workload: 10 hours per week
+
+Review:
+Pros:
+1. Well organized
+2. Fair exams
+3. Covers the theory very well
+
+Cons:
+1. IMO, it could have touched on other learning framworks or some important concepts like VC
+2. The course didn't go through how to design algorithms that are efficient while searching through hypothesis space
+3. TAs almost provided the solution during office hours. This is unaccptable and was shocked when I got to see one recorded session!
+
+Detailed Review:
+
+As for the complaints about the notes from Dr. Klivans, I was basically taking notes on my own as if I was part of the class he was presenting to. This made it very easy to understand the material and go back to the notes when confused. I found his material is very well organized this way. The proofs were very easy to follow as well. The second half was also well organized. Some of the assignments took more time than others; but overall they were good and fair.
+
+---
+
+Title: Interesting content but disorganized class
+Term: Machine Learning - Summer 2021
+Posted: 8/21/2021 2:53 PM GMT-7
+Rating: 2
+Difficulty: 4
+Textbook: 1
+Lectures: 1
+Professor: 1
+Piazza: 6
+Workload: 10 hours per week
+
+Review:
+Pros:
+1. Interesting Content
+2. Responsive TA's
+3.
+
+Cons:
+1. MIA Professors
+2. Class run by TA's and it's not clear they should be running a class or making these types of decisions
+3. Disorganization
+
+Detailed Review:
+The basic content was interesting, but the lectures were poorly organized with incomplete and poorly stated statements. It was difficult to know what was going to be on the exams. Peer grading is necessarily unfair and random grading. This is what happens when professors make a bunch of videos and walk away from a class, leaving it up to grad students to run a class. This class was on autopilot with students flying the ship. The TA's were dealing with a difficult situation and in some cases became hostile. I would stay away from this class if I had to do it again. I got a B+ in this class which pissed me off b/c I usually get higher. As an example, someone decided to give a bonus point if you completed the ECIS Instructor reviews, but they couldn't even get it together enough to get the actual Professors on the Review, only (some) of the TA's. I certainly would have graded the professors quite low, b/c they did not even participate in the class. The textbook was awesome, but the class had nothing to do with the textbook.
+
+---
+
+Title: ML taught via TA sessions
+Term: Machine Learning - Summer 2021
+Posted: 8/20/2021 3:03 PM GMT-7
+Rating: 2
+Difficulty: 6
+Textbook: 3
+Lectures: 4
+Professor: 3
+Piazza: 6
+Workload: 13 hours per week
+
+Review:
+Pros:
+1. You will learn something about ML
+2. TA sessions will help you get through the difficult homeworks
+3. Textbook for the second half is written by the professor and is fairly good.
+
+Cons:
+1. Lectures assume quite a bit of prior knowledge w/ probability and complexity theory
+2. Textbook for the first half is difficult to understand
+3. Peer grading is an extra time sink
+
+(NOTE: the only reason why the Textbook Usefulness, Lecture Quality, and Professor Quality scores are not 1 is due to the second half of the course)
+
+Detailed Review:
+Overall, I'm disappointed in this class. Did I learn something? Yes. Was it painful? Yes. Did it have to be? No. The homeworks assume quite a lot of prior knowledge (even more than the lectures) and are obtuse. The majority of the time you will spend with the homework is just figuring out what the questions are asking. TA sessions are an **absolute necessity** unless you are just naturally brilliant. I would not have been able to complete the homeworks without those sessions. However, for this semester not all TAs are equally good, so you may have to organize around the one(s) that are most understandable. Peer grading is an additional time sink to the time one already spends in the course. At least on the programming side I think they should have figured out a Python-based auto-grader by now.
+
+I took extensive notes about how much time I spent each week, so figured I'd share if you were wanting to know how to budget.
+- W1: 8.75 hours (including HW0)
+- W2: 8.75 hours (started work on HW1)
+- W3: 30 hours (19.25 hours for HW1 + 10.75 for lectures/grading)
+- W4: 18.25 hours (12.5 hours for HW2, 1.5 hours for HW2 grading, 4.25 hours for lectures)
+- W5: 11 hours(3.25 hours for HW3p, 3 hours for HW3t, 4 hours for OH, 0.75 hours for HW3 grading)
+- W6: 14 hours (9.25 hours prep for Exam 1, 2.25 hours for OH,  2.5 hours for Exam 1)
+- W7: 5 hours (4 hours for lectures; 1 hour for OH)
+- W8: 8.75 hours (1.5 hours for reading; 4.5 hours for OH; 1.5 hours for HW4; 0.75 hours for HW4 grading)
+- W9: 18.5 hours (4.75 hours for lectures; 0.75 hours for reading; 7.25 for HW5; 4.5 hours for OH; 1.25 for HW5 grading)
+- W10: 6.25 hours (3 hours for lectures; 1.5 hours for HW6; 1.75 for OH)
+- W11: 9.5 hours (7 hours for Exam 2 prep; 2.5 hours for exam)
+
+---
+
+Title: Interesting content, poorly administered
+Term: Machine Learning - Summer 2021
+Posted: 8/19/2021 3:38 PM GMT-7
+Rating: 3
+Difficulty: 5
+Textbook: 5
+Lectures: 6
+Professor: 5
+Piazza: 5
+Workload: 15 hours per week
+
+Review:
+Pros:
+1. Good intro to ML topics
+2. Solid video lectures
+3. TAs were very responsive on Piazza
+
+Cons:
+1. Some of the homework and exam questions were vague and did not reflect understanding of lecture content.
+2. Literally Zero interaction with professors.
+3. Very little practical learning.
+
+Detailed Review:
+
+I found the course stressful. Not because the subject matter was that hard, but because the tests had questions that were out of left field and not covered in lecture or notes, and at times it was incredibly difficult to understand what was being asked on the homeworks.
+
+I did learn a lot, but not as much as I could have if the class was structured differently. This class assumes you are solid in linear algebra, prob and stats, and multivariate calculus. Not just familiar with the concepts, but you need to be able to perform in these subjects on the homeworks and in exams without hand holding.
+
+---
+
+Title: Mixed bag
+Term: Machine Learning - Summer 2021
+Posted: 8/18/2021 11:53 AM GMT-7
+Rating: 3
+Difficulty: 6
+Textbook: 2
+Lectures: 2
+Professor: 3
+Piazza: 6
+Workload: 20 hours per week
+
+Review:
+Pros:
+1. Prof. Liu has helpful lecture notes/companion materials
+2. Somewhat interesting content
+3. Gets easier as the course goes on
+
+Cons:
+1. Hours of long, dry lectures
+2. Prof Klivans lectures have no notes or companion materials
+3. Hard Exams
+
+Detailed Review:
+I was overall pretty disappointed with this class. It's basically two half classes smashed together - midway through the semester you switch material (from ML algorithms to statistical methods) and professors (Klivans to Liu). The second half was markedly better than the first. Klivans's lectures are just hours of recorded classroom lectures with no notes or any sort of companion material to aid learning. I spent so much time just sifting back through hours of video when studying for the exam trying to find the exact moment when he would cover the relevant topic for me. It feels like a huge waste of the online/digital format to basically have the class be a video dump. Prof Liu was a bit better in that he worked through more concrete examples and also a segment of a text he's writing.
+
+This was a lot of work, perhaps due to the condensed summer semester. I took the linear algebra course last semester (super helpful for this class, btw) and that class felt much more relaxed and collaborative. There was also literally zero engagement with the professors on Piazza. That said, the TAs were helpful.
+
+Overall, I think this class needs some love from the administrators. There should be some sort of additional materials other than just hours and hours of video.
+
+---
+
+Title: Intense Course for Summer; Probably Easier in a Long Semester
+Term: Machine Learning - Summer 2021
+Posted: 8/15/2021 9:56 PM GMT-7
+Rating: 6
+Difficulty: 4
+Textbook: 3
+Lectures: 4
+Professor: 4
+Piazza: 7
+Workload: 15 hours per week
+
+Review:
+Pros:
+1. Dr. Liu's book is helpful for other courses
+2. Enhanced my Python abilities through the programming tasks
+3. Last assignment was incredibly easy
+
+Cons:
+1. First assignment felt like being dropped in the middle of no where naked and alone
+2. Some peer reviewers didn't pay attention to submission and grade for alternate answers
+3. I don't think that I am leaving the course equipped with the ability to apply this knowledge on the job
+
+Detailed Review:
+The Summer 2021 TA crew saved the day for this class. The entire team did an outstanding job at facilitating class discussion on Piazza. Thank you, thank you, thank you. Ultimately, I was successful in the course, but it took long hours. I'm not sure that I feel prepared to extend my learning beyond the scope of this course. The professor was fairly inactive on Piazza and of course the videos were recorded for asynchronous viewing. Assignments shared topics with the lessons, but the lectures weren't always clear on their delivery. Programming assignments can be slightly challenging if you have zero background in Python as I was at the start of the course, but none of the programming assignments took me longer than 3-4 hours. Theory assignments took more time at the beginning of the course (10-15 hours) but time commitment reduced as we progressed to ~3-4 hours. It's not clear if there's a confounding variable of me getting better or if it's simply a matter of the homework becoming easier.
+
+---
+
+Title: Decent Mathematical Introduction to Machine Learning
+Term: Machine Learning - Summer 2021
+Posted: 8/13/2021 4:14 PM GMT-7
+Rating: 4
+Difficulty: 5
+Textbook: 5
+Lectures: 5
+Professor: 4
+Piazza: 7
+Workload: 13 hours per week
+
+Review:
+Pros:
+1. TAs are responsive on Piazza and provide very thorough answers.
+2. This is a solid introduction to the math behind machine learning. Having taken a few applied machine learning courses, I felt like I learned a lot in this course.
+
+Cons:
+1. Professors are not involved. I'm not really sure what I was expecting, but having just come from Linear Algebra, I was expecting some professor interaction.
+2. TA's seemed like they were essentially brought on, given the lectures, the homeworks, and the homework solutions and that's it. It was often apparent that they hadn't looked at the homework until they were asked a question about it. Office hours were pretty useless. I attended two office hours, and then decided it was a waste of my time.
+
+Detailed Review:
+
+Mathematical maturity is assumed in this course. You should be comfortable with multivariable calculus, probability, and linear algebra. I took the linear algebra course in this program prior to this course and would recommend doing the same if you're not super confident in linear algebra already.
+
+Take the workload metric with a grain of salt. In the first half of the course, I spent upwards of 20 hours a week on the course. In the second half of the course, I spent around 8.
+
+---
+
+Title: Rigorous course for summer semester
+Term: Machine Learning - Summer 2021
+Posted: 8/12/2021 3:03 PM GMT-7
+Rating: 3
+Difficulty: 5
+Textbook:
+Lectures: 3
+Professor: 2
+Piazza: 5
+Workload: 20 hours per week
+
+Review:
+Pros:
+1. Interesting topic, lots of information to cover
+2. Learned some python/pandas/scikit/seaborn
+3. Quick responses on Piazza
+
+Cons:
+1. Lectures were posted as hour-long videos with no notes provided.
+2. Homeworks were demanding, theory-heavy, and confusing
+3. TA's weren't as helpful as they could have been
+
+Detailed Review:
+
+Very demanding and theory heavy course, condensed into the summer semester. The first portion covers "machine learning algorithms" and involves 3 homeworks which take a considerable amount of time. All 3 had a theory portion and a programming portion which were difficult to complete and quite obscure in terms of what was asked of students. For Summer 2021, these were peer-graded meaning that other students graded the assignments instead of the TA's doing that. I found this a little strange, but it all worked out anyways.
+
+There was an exam for the first portion. Its average was a 40/60.
+
+The 2nd portion covered statistical modeling and involved another 3 sets of homework. These were a little lighter - one homework was just a theory portion, another included just a programming portion, and the third was a theory and programming assignment. However, the topics covered were still quite rigorous. The assignments were peer graded as well.
+
+The exam for the 2nd portion was non-cumulative. We haven't gotten the results back yet.
+
+A decent course overall, but definitely a lot to bite off.
+
+---
+
+Title: Machine Learning Review
+Term: Machine Learning - Summer 2021
+Posted: 8/2/2021 5:52 AM GMT-7
+Rating: 2
+Difficulty: 5
+Textbook: 1
+Lectures: 1
+Professor: 1
+Piazza: 7
+Workload: 15 hours per week
+
+Review:
+Pros:
+1. Active community on Piazza with TAs to answer the numerous questions that come up
+2. Broken into two discrete halves, so there's no cumulative final. As soon as you're done with the midterm, you won't need to worry about the content from the first half of the year.
+
+Cons:
+1. Lots of the material on homeworks isn't actually covered in lecture, or is very confusing to try to understand. Expect to spend a lot of time Googling and asking for help, particularly in the first part of the course.
+2. There's no top level framing of how the various pieces apply to machine learning. Each section takes a discrete topic and mostly focuses on the theory behind it, as opposed to how they all come together to form the current understanding of ML.
+
+Detailed Review:
+This has been my least favorite class so far, and I'm half way done. The first half lectures don't line up well with what's on the HWs, so you end up spending a lot of time on your own figuring things out. The second half is very dry, with 1-1.5 hour long lectures mostly walking through proofs. Not particularly well taught, and the HWs/test (particularly in the first half) are pretty tough. If you're going to take this course, expect it to lean to the theory and I would recommend taking Linear Algebra first to build a baseline of math used. Over the summer has also been tough I believe they kept all the units and crammed everything into fewer weeks, so the pace is fast.
+
+---
+
+Title: Good Course, but Difficult Tests
+Term: Machine Learning - Spring 2021
+Posted: 5/24/2021 1:05 PM GMT-7
+Rating: 5
+Difficulty: 4
+Textbook: 5
+Lectures: 6
+Professor: 6
+Piazza: 6
+Workload: 10 hours per week
+
+Review:
+Pros:
+1. The material is interesting.
+2. Lenient grading.
+3. Open note tests.
+
+Cons:
+1. Tests are difficult.
+2. Supplemental material may be required.
+3. Proctored tests.
+
+Detailed Review:
+I took this class in my first semester along with Advanced Linear Algebra. I would have preferred to take this course after Linear Algebra since some of the material uses concepts from that course. It was also some time since I last took a probability course, so I had to brush up on some of those concepts as well.
+
+The first half of the course covered a variety of machine learning algorithms like perceptron learning and regressions. I felt like the courses did a good job of describing these algorithms, but there were some parts that needed additional explanations for me to fully grasp them. I ended up using StatQuest on YouTube to supplement some of the material during this half of the course.
+
+The second half of the course went into statistical learning, which was a lot more based on probability theory than the first half. Some concepts like K-Means and Neural Networks were also covered in this half. I felt like this half of the course was a lot easier to grasp than the first half, since there were more concrete examples.
+
+The homework wasn't too bad, there was a mix of theoretical and programming problems. The programming problems were more toy examples than actual applications, but they did help with understanding the material. I felt like the first homework was the most difficult. The homework is peer-graded and most people were fairly lenient. In addition, the lowest scoring homework was also dropped.
+
+The tests were open note, but closed book and closed internet. A recording of you taking the test using Panopto Video was required. I didn't have an issue with the proctoring personally, but I know that this was controversial for some of the other students.
+
+Both tests were difficult for me though. I felt like both had at least one question that was way harder than was necessary.
+
+Even though I struggled on the exams, I did do well in the course. The final grading scale was set up so that most of the class would get at least a B-.
+
+I did feel like I did get a lot out of this course, which is all I can really ask for.
+
+---
+
+Title: Challenging Introduction to Machine Learning
+Term: Machine Learning - Spring 2021
+Posted: 5/22/2021 5:16 PM GMT-7
+Rating: 5
+Difficulty: 5
+Textbook: 3
+Lectures: 4
+Professor: 6
+Piazza: 1
+Workload: 15 hours per week
+
+Review:
+Pros:
+1. A good amount of material is covered in the course. Everyone without prior experience with machine learning should walk away from this class with the feeling they've learned a great amount of material
+2. The course is nearly exclusively a theory course. The instructors do a great job explaining the foundation of each topic and provide students with adequate knowledge to read and understand research papers in academia.
+3. Dr. Liu provides access to his in-progress textbook that is actually quite useful, and it covers material covered in Dr. Klivans section.
+
+Cons:
+1. There is very little interaction with the professors on Piazza, and the TA's aren't much better with communication. I would rate communication as a whole a 2/10
+2. Only 4 of the 6 homework assignments have a programming section. All of the programming sections were very simple, although they did do a good job tying the lecture material together. The most interesting facet of any of the programming assignments was coded by the professor rather than trying to get students form their own solution.
+3. Peer grading doesn't seem very realistic for the depth of material covered in this course coupled with how sparse the grading rubrics are. There are plenty of examples of either the graders not understanding the material at all or otherwise not caring about their grading responsibility
+
+Detailed Review:
+
+Obligatory - I took this class along with Probability while working full-time.
+
+There were a lot of negatives in this course, but overall I still found the class quite enjoyable. To be fair, though, I think the only reason why I found the class so enjoyable was because of the amount of application-style self learning I did to supplement what was covered in class. You will most likely have a very different experience if you expect this class to provide a fully self-contained, practical education in machine learning.
+
+The course is divided into two sections - Dr. Klivans teaches the first half and Dr. Liu teaches the second half. Dr. Klivans has a very dry lecture style and makes many assumptions regarding the mathematical capability of his students. If you have a strong foundation with linear algebra and formal proofs then this won't be an issue for you, but students requiring a gentle introduction may struggle with the first half of the semester. I personally found Dr. Klivans lectures great and very informative, but I know many students felt very differently. The textbook Dr. Klivans uses is nearly useless if you already have an overview knowledge of the subjects or are capable of self-learning through very dense machine learning theory.
+
+Dr. Liu makes fewer assumptions on the mathematical capabilities of his students and goes more in-depth with his explanations. He has a much slower teaching style than Dr. Klivans. The textbook he's working on is quite useful and it's very much appreciated that he's sharing this work in progress with his students. You will most likely feel that Dr. Liu and his textbook do a much better job explaining overlapping topics like MLE better than the Probability instructors/textbook.
+
+The difficulty and time requirements for this course start out very high and monotonically decrease as the class progresses. The first homework took me many hours to complete while the final homework took maybe 15 minutes. I easily spent 15-20 hours in the first few weeks of the course, but ended the course with maybe 5 hours of required effort each week. Since this class is theory based, you will realistically need to work on side-projects and practice applying your newly gained theoretical knowledge to gain a wholistic understanding on the topics discussed. While you could certainly get by without putting in this extra effort, this self learning is essential in gaining real-world insight in how the topics discussed in course are used.
+
+The programming assignments are woefully inadequate for this type of course. Each assignment is largely a "fill in the blank" or "complete the function" style Jupyter Notebooks. It's nice having a means of visualizing the topics learned through the previous week, but I wish there was a more rigorous means of applying our machine learning knowledge. Side note - the most interesting part of any of the programming assignments was pre-coded by the professor!
+
+Instructor interaction was minimal and borderline hostile on some occasions. Many questions go unanswered, and a good deal of the questions that are answered either raise additional questions or don't really provide any insight on how the answer was derived in the first place.
+
+This course contains two exams and both are proctored by a service known as Panopto. There was a great deal of push-back between some students and the teaching staff regarding the use of this proctoring service. Please, if you have any concerns with the service, then please contact the instructors calmly and privately when the class begins.
+
+This class is difficult, but solid effort will easily put you within the grade needed for an A in this course.
+
+---
+
+Title: Enjoyable Course
+Term: Machine Learning - Spring 2021
+Posted: 5/21/2021 8:54 AM GMT-7
+Rating: 5
+Difficulty: 5
+Textbook: 2
+Lectures: 6
+Professor: 4
+Piazza: 2
+Workload: 12 hours per week
+
+Review:
+Pros:
+1. Wide range of topics covered.
+2. Challenging homework assignments during first half of course.
+3. I enjoyed lectures from both professors despite the different styles. I thought Klivans's lectures were engaging and packed a punch in terms of content covered. Liu's lectures were not as engaging but he covered example problems in detail that we would later see in homeworks or exam.
+
+Cons:
+1. Programming assignments towards end of class were too simple.
+2. It seemed like it took a while for an instructor/TA to respond to questions on Piazza.
+3. Piazza getting hijacked over use of Panopto. Concerns about Panopto should have been contained in one thread so as not to distract from learning.
+4. Textbook was difficult to understand.
+
+Detailed Review:
+Fun class for me. Especially the first half. While I had to do quite a bit of learning outside of lectures to catch up, I don't fault the instructor since this is a graduate level course where we're expected to come in having math/stats background. I was also unfamiliar with ML terminology so I had to rewatch some lectures after getting more familiar with it.
+
+Workload was high at the start mostly because I was reviewing math/stats concepts I had forgotten since undergrad while also spending time learning how to set up/learn Python and Latex. I would say I started off spending about 15-20 hours per week in this course which dwindled down to 5 hours per week at the end of the course.
+
+---
+
+Title: Poor communication, absentee professors, intrusive video monitoring, useless programming assignments
+Term: Machine Learning - Spring 2021
+Posted: 5/17/2021 7:43 AM GMT-7
+Rating: 2
+Difficulty: 6
+Textbook: 1
+Lectures: 2
+Professor: 2
+Piazza: 2
+Workload: 15 hours per week
+
+Review:
+The professors' goal seemed to be to put as little effort into teaching this class as humanly possible. 90% of Klivans' interaction with the class was arguing about the intrusive Panopto software used for exams. He clearly cared much more about policing the students exams than about actually teaching us machine learning. Liu posted about 3 sentences on Piazza the entire semester, so effectively had zero interaction with students at all.
+
+Lecture videos were recorded several years ago. Klivans' videos were from an in-person class, so you have to suffer through random people asking questions, or Klivans asking them questions and then sitting there until someone responds, etc. Requires a lot of outside study to understand most of what he is trying to teach. Liu's videos are at least organized better and he is good at explaining each step and how it connects to the rest of the topic. But it is all math, all theory, and you get no indication of how to actually apply it to real-world problems.
+
+Class is 90% theory and 10% applications. The programming projects were fill-in-the-blank Jupyter notebooks using toy datasets, or (even worse) randomly generated data. This class should've been a great opportunity to work with real data using the ML algorithms but instead we got this.
+
+Homework difficulty / hours required is monotonically decreasing over the course of the semester.
+
+Textbook for Klivans' half of the course is horrifically bad for learning the material. It's probably a good reference if you already have a PhD in ML, but there is no way anyone could learn the material from it for the first time without already knowing it. For Liu's half of the course, he provided notes from a draft textbook that was not as bad.
+
+Exams require the use of Panopto, an intrusive video recording software. Communication regarding this was very poor, and many students had issues with their recordings. This made the exams even more stressful, as students weren't just worried about learning the material, but also about whether their videos were configured correctly, or would upload in time, etc. All this for something that wouldn't even stop someone that truly wanted to cheat anyway.
+
+Peer grading is an atrocious grading mechanism for a graduate class of this difficulty. None of us students are qualified to grade the homeworks. The problems are too complicated and have too many possible solutions for someone who is just trying to learn the material for the first time to make grading decisions. Everyone I talked to had a story of losing points due to a grader not understanding something even though it was a valid solution. Also since grades are curved, you are actually incentivized to give your fellow students lower grades (thankfully it seemed like most people erred on the side of leniency). I understand there are limitations due to the number of people taking these classes, so they all use multiple choice and/or peer grading.. but it would be a huge improvement if UT would cough up a little money to hire some graders.
+
+I did learn a lot this semester, but it was mostly from self-study using books and videos on the web. I was really excited about learning ML before I took this class, and it was a huge letdown.
+
+---
+
+Title: Good rundown on theory for intro to ML
+Term: Machine Learning - Spring 2021
+Posted: 5/10/2021 12:42 PM GMT-7
+Rating: 5
+Difficulty: 4
+Textbook: 4
+Lectures: 6
+Professor: 5
+Piazza: 4
+Workload: 12 hours per week
+
+Review:
+Pros:
+1. Good focus on theoretical and mathematical basis for algorithms and learning models
+2. Homework assignments are good extensions of the learning experience
+3. Lecture quality is good (though may require supplemental reading)
+
+Cons:
+1. The professors were rather absent in this course from an interaction standpoint (though very active TAs to make up for it)
+2. Not many opportunities to collaborate or discuss concepts with classmates given the nature of the HW assignments
+3.
+
+Detailed Review:
+First half of the class is considerably more time consuming than the second half (around 15 hr/wk vs around 6 hr/wk). The HW assignments are also easier for the second half of the course. Would recommend supplementing some of the lectures with external materials as the lectures tend to be very "proof heavy" and those who don't already have a birds-eye view of the algorithms being discussed may get lost.
+
+---
+
+Title: Well-taught intro to ML
+Term: Machine Learning - Spring 2021
+Posted: 4/24/2021 12:55 PM GMT-7
+Rating: 7
+Difficulty: 4
+Textbook: 2
+Lectures: 7
+Professor: 7
+Piazza: 6
+Workload: 15 hours per week
+
+Review:
+Pros:
+1. Professors do a great job of presenting theoretical material
+2. Lectures are largely self-contained (you don't really need to read textbooks outside of the provided notes)
+3. TAs are helpful and patient. Peer graders are generally encouraging and nice as well :)
+
+Cons:
+1. It's a larger intro class, so some people might find the learning curve steep while other people have been exposed to the material before
+2. Peer grading can be hit-or-miss since there aren't clear guidelines for grading (you're given the solutions, but there isn't a standardized grading rubric)
+3. Problem sets can be time-consuming, especially if you want to typeset with LaTeX
+
+Detailed Review:
+I think that this course is a really solid introduction to ML theory. Given the complexity of the material, the professors really seem to make an effort at presenting the information in an intuitive but rigorous way.
+
+---
+
+Title: 
+Term: Machine Learning - Fall 2020
+Posted: 3/5/2021 9:13 AM GMT-8
+Rating: 4
+Difficulty: 4
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 15 hours per week
+
+Review:
+Good course overall. The first half of the course is intimidating, especially the first couple of homeworks. It gets much easier afterwards. The second half of the course is definitely more structured and easier to cope with. The course is very theoritical and only gives a bit of practice in the programming assignments.
+
+---
+
+Title: 
+Term: Machine Learning - Fall 2020
+Posted: 3/5/2021 9:13 AM GMT-8
+Rating: 4
+Difficulty: 4
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 10 hours per week
+
+Review:
+The course was very theoretical. I had some exposure to theoretical ML and related work, but most of the materials were quite new and I learnt a lot. The video format could be improved, however, as the first part was mostly a recording from a past semester, and hand-writing was a bit hard to follow.
+I think both theory assignments and exams were well made in that the students really have to study the materials to do well. The programming assignments were a bit dissapointing because most of them were just importing skit-learn and implement on a toy dataset (and there are countless of examples if you google it). Real ML work is try and error, not finding a fixed correct answer. It would be even better if they made us imtplement the algorithm from scratch, or gave us dataset and we do a number of try and error to improve performance etc.
+
+Overall, if anyone is looking to learn fundamental theoretical ML, this course is good. But you won't learn much from programming assignments unless you are completely new to Python/numpy etc.
+
+---
+
+Title: 
+Term: Machine Learning - Fall 2020
+Posted: 3/5/2021 9:13 AM GMT-8
+Rating: 6.25
+Difficulty: 4
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 6 hours per week
+
+Review:
+Listen, so I got a B in the class so take my word knowing this. If you make a point to go to OH, esp with Liu, there's no reason you shouldn't get full marks on the HW assignments. Once I connected the dots there, I halved the amount of time I spent on this class. The exams are tough in that they are not representative of examples given in class/textbook. Therefore, you just gotta know critically what's fundamentally going on and apply it there. I thought both profs were great, great foundational course for this program, and I didn't even do that well.
+
+---
+
+Title: 
+Term: Machine Learning - Spring 2020
+Posted: 3/5/2021 9:13 AM GMT-8
+Rating: 2.5
+Difficulty: 7
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 15 hours per week
+
+Review:
+As a former Math undergrad, I thought this was going to be easier than it was given my backround in LA, Stats, theory, and proofs. This course really needs a textbook to help guide the work. Liu's portion follows the book well (his book), but Klivan's section is all over the place. Klivan's seems to focus on novel approaches rather than just teaching to standard approaches. This, to me, greatly reduced the value of those lectures. As an example, the Decision Tree lecture was confusing, so I looked through a combination of 5-10 textbooks online and on campus (i'm in Austin), and his approach wasn't in any of them (!?). Futher, all the textbooks followed roughly the same introduction to Decision Trees. This held through much of the course materials, meaning that you'll be studing esoteric approaches rather than standard approaches. If you're already familiar with these topics, then this would be interesting, but I strongly caution against someone who has no familiarity with them.
+
+---
+
+Title: 
+Term: Machine Learning - Fall 2020
+Posted: 3/5/2021 9:13 AM GMT-8
+Rating: 4
+Difficulty: 4
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 10 hours per week
+
+Review:
+Overall, the content is fairly easy, especially with Liu. Some of the terminology used in the Klivans portion can be a bit confusing if you do not have a background steeped in formal math. Biggest complaint is that the students are not informed that the first test is closed book until about a week before the exam. This strongly affected me as I take notes that complement the texts rather than replace them and would have done differently had I known at the beginning of the class. The TA for Klivans was a bit standoffish not owning up to a mistake he made in the notation that caused students to use the incorrect function. The programming homeworks are extremely easy and the theory homeworks start off a somewhat challenging but get easier as the classes progress. One homework is dropped so that somewhat helps.
+
+---
+
+Title: 
+Term: Machine Learning - Fall 2020
+Posted: 3/5/2021 9:13 AM GMT-8
+Rating: 4
+Difficulty: 2.5
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 8 hours per week
+
+Review:
+To echo some important points above--if you have a background with math this class should be not too bad. I honestly found it a little bit dissapointing after taking a harder ML class during my undergrad. The first pset is tricky and then they are almost monotonically easier afterwards. The "hands on" assignments are canned, mostly just import sklearn. More algorithm implementations would be edifying. The homeworks are very light on formal math and mostly easy computations.
+
+---
+
+Title: 
+Term: Machine Learning - Fall 2020
+Posted: 3/5/2021 9:13 AM GMT-8
+Rating: 5.5
+Difficulty: 2.5
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 6 hours per week
+
+Review:
+8 during Klivan's part of the course, 4-6 after. Material was overall very interesting, but programming assignments were somewhat lacking in depth imo. The workload and level of difficulty in this class will likely depend on your prior exposure to stats, probability, and linear algebra.
+
+---
+
+Title: 
+Term: Machine Learning - Fall 2020
+Posted: 3/5/2021 9:13 AM GMT-8
+Rating: 6.25
+Difficulty: 2.5
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 8 hours per week
+
+Review:
+Easiest class to date in the program although I come from a Math background. If you are familiar or have experience with linear algebra and some basic data science models used in industry, it should be relatively easy
+
+---
+
+Title: 
+Term: Machine Learning - Fall 2019
+Posted: 3/5/2021 9:13 AM GMT-8
+Rating: 2.5
+Difficulty: 5.5
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 15 hours per week
+
+Review:
+I found Klivan's part of the course really tough. You kind of jump right in to some hard stuff and I had a hard time keeping up. I liked the practical stuff but was kind of thrown off by the difficulty of some of the math. I would recommend taking/review linear algebra beforehand. Didn't really like this class.
+
+---
+
+Title: 
+Term: Machine Learning - Spring 2020
+Posted: 3/5/2021 9:13 AM GMT-8
+Rating: 4.75
+Difficulty: 4
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 10 hours per week
+
+Review:
+I recall the homeworks from Professor Klivan's being fairly challenging. Professor Liu was very hard to understand due to his accent but the easier homeworks he assigned made up for that.
+
+---
+
+Title: 
+Term: Machine Learning - Spring 2020
+Posted: 3/5/2021 9:13 AM GMT-8
+Rating: 5.5
+Difficulty: 4
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 12 hours per week
+
+Review:
+The first half of the course had hard Homeworks. I specifically remember the first homework being the hardest one, I skipped the 2nd one (one hw is dropped). I thought the first exam was actually pretty straightforward, and the curve was nice. Second half of the course was much much easier. The second exam seemed hard so I thought I was one of the few who did well but everyone apparently did well on it.
+
+---
+
+Title: 
+Term: Machine Learning - Spring 2020
+Posted: 3/5/2021 9:13 AM GMT-8
+Rating: 4
+Difficulty: 5.5
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 15 hours per week
+
+Review:
+The course is fine and very relevant. The teaching style however leaves a lot to be desired for, particularly for Prof. Klivans. Even his interactions in Piazza makes him come across as "standoffish" and that is not a positive portrayal of your persona, no matter how smart and bright you are. In a nutshell this is where I had problems with his half of the course: 1. The lecture method (flipped-classroom) was at times hard to follow, particularly on those awkward silence moments where students clearly had NO clue of what was going on. 2. This style made the content to be portrayed in a somewhat messy way, which triggered me to do much more self-study or look for alternative sources of learning as the lectures seemed to be insufficient, even to complete the homeworks (that are supposed to be based on the content of the lectures, or so the average person would think...). 3. The review exercises for the mid-term were a waste of time as the questions were not slightly close to what was asked in the actual exam (yes we can agree the concepts were there but in my opinion this was misleading, particularly when compared to the same review exercises for midterm 2). 4. The actual first midterm had exercises that were not addressed either in homeworks or in the lectures, so then I asked myself, what are the learning objectives of this first half of the course, and why were these type of questions never addressed in the lectures / homework before (what's the point of having those if not to prepare you for the examination anyway?). Prof. Liu's half was overall much more straightforward, useful, exercises in HW related to the exam. If anything, I wish we would have had a bit more heavy workload on homeworks vs. the first half (maybe more on Neural Networks or more theory exercises on Kernel Method, for instance). All in all, I think this was a good course, I seem to have issue with the first half of it and how it was taught and assessed. One thing I still don't understand is, given how theoretical this course is, how did it make to be part of the "Applications" requirement? This should fit better in the "Theory" bucket as the programming assignments were really not that involved.
+Expanded Grading:
+Workload: 20 Klivans, 10 Liu
+Rating: 2 Klivans, 5 Liu
+
+---
+
+Title: 
+Term: Machine Learning - Spring 2020
+Posted: 3/5/2021 9:13 AM GMT-8
+Rating: 5.5
+Difficulty: 4
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 10 hours per week
+
+Review:
+Learned a lot in this class, class is theory heavy but thats expected in any ML course. I liked that homeworks had both theory and programming components. The class pushes you to think, read, search for answers and still get help on piazza to get that aha moment. You can feel the difference in teaching style between Klivans and Liu, both are great profs, with Klivans assuming you know a lot of basics where Liu takes the time to explain things really to the detail. Liu's notes are also great. Expect the class to get easier in the second half. This class would be a 5 if it had a project or more challenging programming homeworks.
+Expanded Grading:
+Workload: 5-20 Klivans, 5-10 Liu
+
+---
+
+Title: 
+Term: Machine Learning - Spring 2020
+Posted: 3/5/2021 9:13 AM GMT-8
+Rating: 4
+Difficulty: 2.5
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 10 hours per week
+
+Review:
+This course can certainly be improved. When comparing with other graduate ML courses you will find this course does not cover traditional ML algorithms including Naive Bayes, LDA, QDA, SVM, KNN, etc (the list is long). See CMU 10-601 for reference. This of course has something to do with the teaching style. If both professors could use slides instead of hand-written scripts then I expect more contents to be covered (and more visual aid to facilitate teaching). The first part gives you a taste of machine learning theory (through PAC learning) but does not go deep. Therefore the course seems to me neither application-oriented nor too theoretical. I would say the workload should increase by 50% to match the graduate-level ML course in the school I am attending full-time.
+Expanded Grading:
+Workload: 10-15 Klivans, 5-10 Liu
+
+---
+
+Title: 
+Term: Machine Learning - Fall 2019
+Posted: 3/5/2021 9:13 AM GMT-8
+Rating: 3.25
+Difficulty: 6.25
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 13.75 hours per week
+
+Review:
+I enjoyed the course. I heavily disliked Professor Klivan's teaching style. Him not using a book led to much frustration on my part. I need a prescribed book to read in order to gain further insight. Because he did not provide one, I felt shaky during his half of the course because everything was more or less based off his word only. He could have definitely done a better job providing visualizations and examples when teaching, but he did not for whatever reason. Professor Liu was godsent. He wrote his own book and would frequently let us know when there was a mistake in the book. He was much more reachable via piazza. He was basically the opposite of Klivans. I got around a 70 on Klivan's exam and a mid 90 on Liu's exam.
+Expanded Grading:
+Difficulty: 5 Klivans, 4 Liu
+Workload: 20 Klivans, 5-10 Liu
+Rating: 1 Klivans, 5 Liu
+
+---
+
+Title: 
+Term: Machine Learning - Spring 2020
+Posted: 3/5/2021 9:13 AM GMT-8
+Rating: 5.5
+Difficulty: 5.5
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 12.5 hours per week
+
+Review:
+Both Klivans and Liu are good. I like Klivan gave you rich content but that means you need to navigate your way out. Liu was on the other side guide you through the maze. Textbook was half useless with most of the examples are really abstract.
+
+---
+
+Title: 
+Term: Machine Learning - Spring 2020
+Posted: 3/5/2021 9:13 AM GMT-8
+Rating: 4
+Difficulty: 5.5
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 15 hours per week
+
+Review:
+Klivans' lectures were engaging but I did find the material a bit hard to follow. I did think Liu's lectures were straightforward, and his supplemental notes more helpful than those from the first half of the semester.
+
+---
+
+Title: 
+Term: Machine Learning - Spring 2020
+Posted: 3/5/2021 9:13 AM GMT-8
+Rating: 5.5
+Difficulty: 2.5
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 7.5 hours per week
+
+Review:
+Liu's lectures were far more straightforward than Klivan's lectures. I found Klivan's teaching style confusing with the lack of concrete examples. Liu's half of the course was much better because the assignments correlated more directly to the lectures, and it was easier to grasp the concepts this way.
+Expanded Grading:
+Rating: 2 Klivans, 4 Liu
+
+---
+
+Title: 
+Term: Machine Learning - Fall 2019
+Posted: 3/5/2021 9:13 AM GMT-8
+Rating: 4
+Difficulty: 4
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 10 hours per week
+
+Review:
+Liu's lectures were far more straightforward than Klivan's lectures. I found Klivan's teaching style confusing with the lack of concrete examples. Liu's half of the course was much better because the assignments correlated more directly to the lectures, and it was easier to grasp the concepts this way.
+Expanded Grading:
+Rating: 2 Klivans, 4 Liu
+
+---
+
+Title: 
+Term: Machine Learning - Spring 2020
+Posted: 3/5/2021 9:13 AM GMT-8
+Rating: 4.375
+Difficulty: 4
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 10 hours per week
+
+Review:
+Klivans is a fantastic professor and does a great job motivating the discussion. Liu was ok, I felt like his lectures were more confusing/not as well organized.
+Expanded Grading:
+Rating: 4 Klivans, 2.5 Liu
+debugger eval code:101:11
+
+

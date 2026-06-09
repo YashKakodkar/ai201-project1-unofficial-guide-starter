@@ -1,0 +1,1958 @@
+# CS 394D — Deep Learning
+# 1. On msaihub Reviews, filter by "Deep Learning". 2. Run scripts/scrape_msaihub_reviews.js
+#    in the browser console. 3. Paste the clipboard output below (it already has --- separators).
+# Lines starting with # are ignored during ingestion.
+
+Title: Too easy for experienced professionals
+Term: Deep Learning - Spring 2026
+Posted: 5/5/2026 4:10 AM GMT-7
+Rating: 5.5
+Difficulty: 1.1
+Textbook:
+Lectures: 5
+Professor: 6.3
+Piazza: 5.6
+Workload: 2 hours per week
+
+Review:
+Pros:
+1. Light workload
+2. Very, very easy A
+3. No exam
+
+Cons:
+1. Not very valuable for experienced professionals
+2. Not clarified testing grader hardware benchmark
+
+Detailed Review:
+This class mainly introduces some basic concepts in deep learning and teaches you how to use PyTorch. Of course, these concepts are quite important for training neural networks. However, as many other reviews said, these concepts are barely the undergrad level knowledge and are not very useful for an experienced professional.
+
+The lectures are good and well-organized. Basically, the lectures include theoretical ones and coding ones. If you have experience in training neural networks with PyTorch, skipping the coding lectures is totally OK. The theoretical lectures are reviews of basic concepts that I already know, so I watched those videos quickly.
+
+The evaluation system includes many multiple-choice quizzes and 4 coding assignments. Some may call these assignments projects, but in my view, the workload is too small to qualify as a project. All coding assignments are auto-graded. You can train your models and evaluate them with a local grader attached to the provided assignment file. One issue I encountered is a timeout. The online grader is run on a 2080Ti GPU (they don't write this in the homework MD file, and this information is from the TA, which is one of the drawbacks I wrote). I once evaluated my models on a 4090 GPU, and the local grader worked well, but the online grader failed due to a timeout. So remember, do not evaluate your models on an advanced GPU. Fortunately, each coding assignment allows at least 5 submissions, so you have adequate chances for correction.
+
+I finished all the MC quizzes in the first weekend after the course was published. I finished all the coding assignments within one month after the course was published. The last 2 coding assignments may take some time, but they won't be painful. There are some extra credits for each coding assignment. You can spend some time tuning the models to earn those extra credits, but it would also be fine if you just achieve the 100% model performance cutoffs and only want to pass this course.
+
+I notice that some students used Google Colab for model training and evaluation. The TA commented that the speed of the T4 GPU provided by Colab is comparable to that of the 2080Ti used by the online grader, making it an ideal choice for local evaluation. This is not friendly to students who don't have access to Google Colab. For students in Mainland China, I recommend using matpool (矩池云), which is quite cheap for training neural networks on advanced GPUs.
+
+To be honest, I would not treat it as a waste of time to take this course. At least I reviewed some basic concepts and had some fun in the assignments. But this course really does not offer much value for experienced professionals. It is a great course for newbies. Students who tend to learn some cutting-edge knowledge should consider taking ADL.
+
+---
+
+Title: Barely undergrad level, go straight to ADL or supplement with something more rigorous
+Term: Deep Learning - Spring 2026
+Posted: 5/1/2026 12:39 AM GMT-7
+Rating: 1
+Difficulty: 1
+Textbook:
+Lectures: 3
+Professor: 4
+Piazza: 3
+Workload: 1.5 hours per week
+
+Review:
+Pros:
+1. Decent intro to PyTorch if you haven't used it before
+2. Really light workload, so easily paired
+3. Easy A to push up your GPA
+4. Self-paced so you can knock out the whole course in the first week or two
+
+Cons:
+1. Extremely shallow content, no mathematical detail
+2. Assignments are way too easy
+3. TAs are lacking
+
+Detailed Review:
+
+Wish I hadn't wasted my time with this one and gone straight to ADL instead. If you have worked with PyTorch before or taken an undergrad course in DL, you'll already know more than this course covers, so don't waste your time. My second year undergrad "intro to ML" course covered this material in more depth.
+
+The math is covered only at a very basic level, so if you rely on just this course you'll have massive gaps in knowledge (particularly around backprop) when it comes to interviews. The PyTorch lectures use a lot of Copilot autocomplete which means the bulk of implementation is skipped over - would recommend just skipping them and trying to figure stuff out yourself.
+
+Assignments require very little critical thinking, just writing out some PyTorch and then spending a few hours fiddling with hyperparameters until your model performs well. There's a lot of extra credit on offer in each assignment which means getting >100% is pretty trivial. You are allowed (and encouraged) to use AI for assignments.
+
+Course TAs are very mixed, there's a few who don't seem to have enough exposure to DL/ML outside of this course to answer students' conceptual questions. The Ed board mostly exists for questions about coursework.
+
+Total time taken: 23 hours (across two weeks) for an A. You can do it faster if you don't fuss about extra credit.
+
+---
+
+Title: Feels Like an Undergrad Course
+Term: Deep Learning - Spring 2026
+Posted: 4/30/2026 7:28 PM GMT-7
+Rating: 5
+Difficulty: 1
+Textbook:
+Lectures: 6
+Professor: 7
+Piazza: 5
+Workload: 2 hours per week
+
+Review:
+Pros:
+1. The entire course is self-paced. Lectures and projects get released at the beginning of class and you're mostly free to do them whenever.
+2. Projects give good practical experience with PyTorch
+3. Projects are well structured with skeleton code and a local grader provided
+
+Cons:
+1. The lecture content is more fit for an intro undergraduate course than a graduate course
+2. The projects are a little too easy and the content too light
+3. Covers very little of the mathematical side
+
+Detailed Review:
+
+This is one of the easiest classes in the program. The workload is very light, which makes it a good first class to take (and very easy to do while working full time or paired with another class). However, the content depth is too shallow for a graduate course. I took a deep learning course in my undergrad that covered more material in more depth, with more mathematical justification (e.g. deriving gradient updates). One area this course was particularly lacking was discussion around optimizers (e.g. deriving first/second momentum, motivating different optimizers).
+
+I am glad that the course covers transformers, since they are one of the fundamental building blocks of modern frontier architectures. However, the lack of any discussion of RNNs is a big gap in the course content. Even though they're not as popular anymore, concepts from RNNs are useful in understanding State Space Models (SSMs), which are a new and interesting challenger to frontier architectures. This is probably an artifact of the age of the lecture videos. Autoencoders and a brief discussion of generative models would round out a survey of basic model architectures, which seems appropriate for an intro graduate course.
+
+The course is still a helpful introduction to deep learning for those unfamiliar with the area, but anyone with prior experience can probably skip straight to ADL.
+
+---
+
+Title: Great Intro Class
+Term: Deep Learning - Spring 2026
+Posted: 4/25/2026 10:58 AM GMT-7
+Rating: 6
+Difficulty: 3
+Textbook:
+Lectures: 7
+Professor: 7
+Piazza: 3
+Workload: 2 hours per week
+
+Review:
+Pros:
+1. Fantastic Lectures
+2. Practical Assignments
+3. Lenient tests
+
+Cons:
+1. A little too easy
+2. Will be harder to do without a local GPU
+3.
+
+Detailed Review:
+
+Honestly this course is great.
+
+The lectures are the best I've seen so far in this program. The prof makes sure you understand the theoretical elements without getting bogged down in math proofs and details. He also gives tons of practical advice for implementation and industry best practices.
+
+The assignments give you practical experience designing neural networks to solve problems. Enough boilerplate code is included that you don't spend a ton of time on datahandling and get to focus on network design. You also have access to the grader which is nice for figuring out where you went wrong.
+
+The tests are very easy, with the option to retake them twice to fix mistakes.
+
+Overall I liked this course a lot. It gives you ton of useful info and fun projects to work on. I will say that its almost "too easy". This is not an exceptionally rigorous course but still worth it. I would take this before other courses in the AI track for this program.
+
+---
+
+Title: Fun - but too easy
+Term: Deep Learning - Fall 2025
+Posted: 2/10/2026 9:11 AM GMT-8
+Rating: 4
+Difficulty: 2
+Textbook:
+Lectures: 5
+Professor: 6
+Piazza: 6
+Workload: 6 hours per week
+
+Review:
+Pros:
+1. Lectures are easy to follow with engaging Professor
+2. Go at your own pace class
+3. Fun assignments
+
+Cons:
+1. Explanations were too superficial
+2. Felt like half a class
+3. No math at all
+
+Detailed Review:
+I enjoyed the class and thought the programming assignments were fun. All the assignments are released up front, so there is a lot of freedom if you have some busy weeks. Some people front loaded the class and finished in a month or two. The professor is interesting to listen to and his coding examples in the lectures will help in the programming assignments. The homeworks were rewarding to code up and quite fun to do.
+
+My main criticism is that this felt like half a class. I know that in 2024, this class had some content removed when the ADL class was created. However, now the class is just too easy. If you have a CS background, expect about 5 hrs per week on average. I don't have a strong programming background and do not program day to day. There are some recent reviews (from after the class was redesigned in mid 2024) that claim the class was 15 hours a week, and I have to assume those are students coming from a non-cs background --- perhaps in the MSDS program. If you do have a CS undergrad, I would suggest taking this class together with another class, as it was too easy. I think skipping DL and jumping into ADL is also a very viable alternative for many.
+
+I also disliked that the professor didn't really show any math. I am fine with the class being all practical, but I feel like he could have shown eg a small convolution example on a matrix, etc. Honestly, there was more math and detail in Andrew Ng's Coursera DL class than in this graduate level class, which I found disappointing.
+
+I finished the class mid October and kind of felt like I was cheated since I am paying out of pocket. This felt like half a class. If you are looking for a very easy A, this class many be for you. There should be a final project or an additional hw assignment.
+
+I did like the mini quizzes that followed the lectures, as they helped me pay attention during the engaging lectures. All the assignments are autograded which I liked. The threshold to get an A is pretty low, and you don't need to do the extra credit or finish all the assignment tasks to get an A. My 6 hrs per week for this class included doing all the extra credit on the programming assignments, and honestly doing the extra credit was half of the work. If you are aiming for a lower A, the workload would be even less.
+
+---
+
+Title: Good First Course
+Term: Deep Learning - Fall 2025
+Posted: 11/11/2025 2:24 PM GMT-8
+Rating: 7
+Difficulty: 3
+Textbook:
+Lectures: 7
+Professor: 7
+Piazza: 6
+Workload: 5 hours per week
+
+Review:
+This was my first class in the program and I really enjoyed it. I thought the professor was great and he made the subject interesting and approachable. Homework assignments were challenging, but not overly difficult or frustrating to figure out. I used Google Colab, which took some getting used to, but overall it worked well and sped up my model training.
+
+I don't know if they'll do this every semester, but they released all the homework assignments and lecture content/quizzes at the beginning of the semester. This allowed us to take the course at our own speed, some people finished really quickly, I'm sure some will wait until the last possible day. I wish I would have known they were going to do this ahead of time, because I would have taken another class along with this one.
+
+---
+
+Title: Easy but fun class
+Term: Deep Learning - Summer 2025
+Posted: 8/20/2025 10:41 AM GMT-7
+Rating: 5
+Difficulty: 3
+Textbook:
+Lectures: 6
+Professor: 6
+Piazza: 5
+Workload: 5 hours per week
+
+Review:
+Pros:
+1. Can make it as easy or hard as you want to
+2. Good lectures
+3. Well organized
+
+Cons:
+1. Very easy to take shortcuts if not disciplined
+2.
+3.
+
+Detailed Review:
+This class was fun and is a well run class. It is very low stress, but you can go as in depth as you want with the homeworks. The class is setup to be four homeworks and many quizzes that can be completed on your own schedule (all quizzes due last day of class). Homeworks are spread out over the semester. Lectures are well done. Material is useful and seems practical. The homeworks are very good at applying the material from lecture. The homeworks they give you a local grader to run, so you know when you are on the right track or not. Overall I would recommend taking this class, it gives a good overview of deep learning without adding too much stress to your life.
+
+---
+
+Title: Useful content. Easy course that you can take at your own pace.
+Term: Deep Learning - Spring 2025
+Posted: 8/17/2025 6:26 PM GMT-7
+Rating: 6
+Difficulty: 3
+Textbook:
+Lectures: 6.25
+Professor: 6.75
+Piazza: 6.5
+Workload: 6 hours per week
+
+Review:
+Pros:
+1. The content is genuinely useful if you're interested in the field. It's a good introduction.
+2. The programming assignments are cool.
+3. This course is largely self-paced. The only exception is the programming assignments.
+4. No final to stress over.
+
+Cons:
+1. There isn't much math. Most people would consider this a pro, but I appreciate the theoretical angle.
+
+Detailed Review:
+There are two components for your grade: "quizzes" and programming assignments. All of the difficulty is in the latter. The quizzes are VERY easy. The programming assignments can be easy if you are careful, however, simple mistakes can lead to a lot of debugging time.
+
+---
+
+Title: Invaluable Practical Experience
+Term: Deep Learning - Summer 2025
+Posted: 8/13/2025 9:46 AM GMT-7
+Rating: 7
+Difficulty: 5
+Textbook:
+Lectures: 6
+Professor: 7
+Piazza: 6
+Workload: 16 hours per week
+
+Review:
+This was a challenging but ultimately very rewarding course. The professor does a great job of explaining complex topics as well as providing organized lecture notes, and the TAs are very supportive on Piazza. The workload is significant, but not impossible. Be prepared to dedicate a good amount of time each week, but what you learn is directly applicable to real-world problems.
+
+Pros:
+1) Practical Homework: The homework are the best part of the course. You're not just working on theoretical problems; you're building and training models in a way that feels directly applicable to scenarios you'd encounter in a data science job. This hands-on experience is invaluable.
+
+2) Helpful Structure: The weekly quizzes are fairly straightforward, which helps balance the overall workload. The real challenge comes from the four main homework assignments, which are much more in-depth and where the most significant learning occurs.
+
+3) Excellent Office Hours: Going to office hours is highly recommended, especially for the homework assignments. The TAs are fantastic at walking you through roadblocks. If you make an effort to go, you can often get ahead on the work and finish assignments early.
+
+Cons:
+1) Heavy Workload: While the work is beneficial, 16 hours a week is a serious commitment. It can be tough to manage alongside other demanding courses, so you need to be diligent with your time management from day one. However, if you already have background as a coder and in ML, then you may not need 16 hours...
+
+2) Theoretical Complexity: While the lectures are very good, some of the underlying mathematical concepts are dense. You may need to do some extra reading or review on your own to fully grasp the theory behind some of the more advanced models.
+
+Overall Verdict: Highly recommend this course if you're serious about deep learning. The practical skills you gain are worth the effort. Just be ready for the time commitment and make sure to take advantage of office hours.
+
+---
+
+Title: Excellent Practical Course
+Term: Deep Learning - Spring 2025
+Posted: 6/1/2025 9:53 AM GMT-7
+Rating: 7
+Difficulty: 4
+Textbook:
+Lectures: 6
+Professor: 7
+Piazza: 4.5
+Workload: 15 hours per week
+
+Review:
+Pros:
+1. Very clear explanations of content, understandable even without a lot of prerequisite knowledge.
+2. The course is practical, and you are assessed on your ability to build projects.
+3. Lectures are digestible in size, and more time will be spent on projects.
+
+Cons:
+1. The projects can be very time-consuming if you do not budget your time well and anticipate project workloads far in advance.
+2. Some of the content around transformers was very difficult for me to understand, results my vary.
+
+Overall, I would highly recommend this as an excellent course. It is coding heavy and light on math. I truly feel like this is the best course I have taken in a long time.
+
+---
+
+Title: Practical and newbie-friendly intro to deep learning and to the program
+Term: Deep Learning - Fall 2024
+Posted: 5/13/2025 11:04 AM GMT-7
+Rating: 7
+Difficulty: 2
+Textbook:
+Lectures: 7
+Professor: 7
+Piazza: 7
+Workload: 5 hours per week
+
+Review:
+Pros:
+1.80% of your grade dependent on only four assignments spaced 2-3 weeks apart.
+2. 20% grade dependent on easy 1-3 question short multiple choice quizzes. Two attempts.
+3. The professor knows his stuff and how to simplify for a newbie audience.
+
+Cons:
+1. Perhaps too easy if you took the course during Summer 2024 or later. May feel more like undergrad material in DL.
+2. Later assignments may require Nvidia-GPU or subscription to Colab/Fast ai/Lightning ai.
+3. Depending on your CPU/GPU, training time may be long (Although this is more of an issue in the new Advances in DL elective).
+
+Detailed Review:
+This is a very good introduction to PyTorch and Deep Learning. In my opinion, the post-Summer 2024 version of DL, is even a much better and more newbie-friendly introduction to UT's CDSO Program, compared to courses like DSA and ML in MSDSO.
+
+The course has four main parts/assignments. Part 1 is an intro to the Pytorch programming library (so the first HW won't even be much on DL yet, but on Pytorch itself). Part 2 is on the modules introducing you to linear models, deep linear models, and related concepts including how to train them.
+
+In the second half of the course, you will be expected to know how to write appropriate training scripts In addition, part 3 covers convolutions, while part 4 covers transformers (usually transformers are the building blocks for more modern DL). The last homework will make you put together your knowledge of deep linear models, convolutions, and transformers.
+
+There is no required textbook, instead you are to refer to https://ut.philkr.net/deeplearning/
+
+Having said that, there are are some minor disadvantages: If you took this during Summer 2024, you're probably the experimental batch for the new version of DL, meaning, assignments were delayed in terms of releasse. But in Fall 2024, they fixed that already and assignments were on time in terms of schedulee.
+
+Also, if you already have an extensive DL background, you probably won't benefit much from this class and may feel that the class is overpriced. As a consolation, you can easily take another class with DL and proceed faster with your program.
+
+---
+
+Title: Course has changed, read this before taking
+Term: Deep Learning - Summer 2024
+Posted: 8/11/2024 12:15 PM GMT-7
+Rating: 5
+Difficulty: 2
+Textbook:
+Lectures: 6
+Professor: 6
+Piazza: 6
+Workload: 10 hours per week
+
+Review:
+Pros:
+1. First iteration of course is not difficult
+2. I learned a bit from the lectures and assignments
+3. Quizzes are 20% of your grade, and it is basically a participation grade.
+4. Well structured (after kinks are worked out) and a great introduction to DL.
+
+Cons:
+1. More difficult material being moved to second iteration of course
+2. Assignments (especially 1 & 2) were trivial for those with experience in DL.
+
+Detailed Review:
+Summer 2024 this course has been revamped. Going into the course, I expected it to be more work than it was based on previous iterations. It seems that the course has now been split into two iterations, so this course is easier now. Depending on your background, it will either be very easy, or a manageable learning curve class that I would recommend to people just entering the program. Especially those with limited pytorch background. I have taken NLP, ALA, and now this, and had this course been the same a year ago as it is today, I would have taken this as my first class. A TA mentioned roughly halfway through our semester that some advanced topics have been removed, and a second iteration of the course is coming in the future. I think that will be a great (and more difficult) class.
+
+---
+
+Title: Good Intro Course for Beginners/Novices to ML/Deep Learning
+Term: Deep Learning - Summer 2024
+Posted: 8/5/2024 1:28 PM GMT-7
+Rating: 6
+Difficulty: 3
+Textbook:
+Lectures: 6
+Professor: 6
+Piazza: 6
+Workload: 8 hours per week
+
+Review:
+Pros:
+1. Lectures are well structured and include a lot of practical examples and tips on how to use PyTorch effectively/efficiently.
+2. Quizzes are very easy if you watch the lectures.
+3.
+
+Cons:
+1. Lectures do not go into too much depth into the topics and are mainly the CliffsNotes versions of them.
+2. Assignments 1 & 2 are fairly trivial
+3. Requires use of either a decent gpu or Colab access.
+
+Detailed Review:
+In general, the class is one of the better paced when it comes to this program, with lectures split into several shorter videos regarding one topic (rather than one/two long lectures per week). This includes both lectures with the professor and python notebook walkthroughs with code examples on each of the topics. Both of these are very useful resources in general, but especially for the homework.
+
+Speaking of the homework, the first 2 assignments can be completed in a couple hours at most, especially if you have prior experience with PyTorch. Assignments 3 & 4 ramp up the difficulty, but not by too much. Most of the time you spend on these assignments will be waiting for your models to train anyway.
+
+Overall, if you're looking for an in-depth look at Deep Learning this class probably isn't worth your time (maybe the pt.2 of this class will be that?) but if you're just looking for something to dip your feet in the water then this is the closest this program has to that (for better or worse).
+
+---
+
+Title: Poor Redesign
+Term: Deep Learning - Summer 2024
+Posted: 8/3/2024 11:02 AM GMT-7
+Rating: 2
+Difficulty: 2
+Textbook:
+Lectures: 3
+Professor: 4
+Piazza: 6
+Workload: 4 hours per week
+
+Review:
+Pros:
+1. Extremely low time commitment (if you value that)
+2. Ok intro to PyTorch for those with no experience
+
+
+Cons:
+1. Undergraduate level depth, and that’s being generous
+2. Course redesign seemingly not complete before start of summer 2024 semester
+
+
+Detailed Review:
+
+Please note that this was my final course in the program, which may skew my expectations.
+
+Course was redesigned for Summer 2024. http://www.philkr.net/dl_class/ at time of this review does not reflect this redesign. There were only 8 modules for summer 2024, most of which seem like scaled-down versions of the existing first 8 modules at the link above, with some extremely introductory content (~1.5h worth) on transformers added. There are now only 4 assignments, no final project. There are ~30 quizzes that you can easily get full credit on if you halfway pay attention to the lecture modules. I have not seen any confirmation that future iterations of this course will keep the same amount of graded content as summer 2024.
+
+I spent a total of ~40h on this course, roughly one quarter of the mean time I spent per course in the program. The content in the lectures was cursory introductory surveys of deep learning topics, and the assignments effectively were piece-mealed introductions to PyTorch. About a third of the lectures showed baseline PyTorch model architectures for anything needed in the homework, so if you have a background with PyTorch, the assignments are not challenging. The most common complaint from the previous iteration of this course was divergence between local and remote grader performance — luckily, this was fixed.
+
+Rumors that the course was being redesigned were circulating in Spring 2024. However, it wasn’t advertised until mid July 2024, in the middle of the summer semester, that "more advanced topics are covered in pt 2 of the class", i.e. deeper dives on advanced content from the original course (pre Summer 2024) found at http://www.philkr.net/dl_class/material. "pt 2 of the class" meaning a future separate course not previously advertised. This was extremely frustrating — this course previously had a reputation for being robust and valuable, and I had looked forward to closing out my time in the program
+with a similar experience. Poorly communicated redesigns of courses will harm the program, especially when a course is revised to cover introductory content compared to robust prior offerings. Comparatively, NLP was redesigned in ~2023 to cover updated transformer, LLM, and overall network design content. NLP’s redesign was wonderfully executed. Until more information about DL pt 2 is available, I’d encourage students to take NLP instead of DL pt 1 for a more valuable experience.
+
+Finally: the assignment release dates were pushed back throughout the semester, seemingly because the redesign was not complete. The TAs did an admirable job trying to keep students aware on the course Ed discussion board, but the delays were still frustrating. However, given the overall low time commitment for the course, this wasn’t ultimately a big deal. I imagine future iterations will not have this issue because of the assignment content generated during summer 2024.
+
+---
+
+Title: Pretty Mediocre Course
+Term: Deep Learning - Spring 2024
+Posted: 5/30/2024 6:02 PM GMT-7
+Rating: 1
+Difficulty: 1
+Textbook:
+Lectures: 3.5
+Professor: 1
+Piazza: 1
+Workload: 7 hours per week
+
+Review:
+Detailed Review: Not quite sure what to say here. This seems like a pretty clear cut case of a course creator walking away from a course and the department trying (not very hard) - and failing - to replace him with folks who, frankly, really aren't qualified for the roles that they've been chosen for.
+
+They put another faculty member down as the instructor of record, but that was a joke. Course was run by a grad student from, I think, the geology department. I guess they've done a little DL in the past (emphasis on "little"), so they were totally qualified to run a graduate course on DL (sarcasm, in case you cannot tell).
+
+Horrible support around the project, partly because there really wasn't any leadership from said grad student / head TA, partly because most of the TAs seem never to have read any of the papers most relevant to the project, and so couldn't really answer questions about them (or even discuss them fluently / intelligently).
+
+Rather than admitting they were out of their depth, they implemented some pretty draconian rules around office hours (e.g., can't ask certain questions re the project, have to post in edStem, etc.) to stop some of the more engaged students from asking questions they weren't prepared or able to answer, and thus embarrassing themselves. We're all supposed to have been dim enough to not know that this is what was happening, but I reckon the teaching team fooled only themselves with this particular ruse.
+
+Overall, pretty horrible / disappointing experience. Super low standards for how the course was taught, who would teach it, and some low level bullying from the course staff and the administration (also - weirdly - LinkedIn creeping / stalking from some of the course team / admin...guess our group must have really hit home with some of our criticisms).
+
+If I weren't a course away from finishing the program, I'd quit after this one. After this course, I'm deeply looking forward to being able to mark this program as "completed" on my resume and then to never think about the massive waste of time the course and the program overall have been.
+
+One silver lining, here: The course really doesn't require much effort. I took it along with two other courses while working full time, and everything worked out fine. Aside from a couple of HW assignments and the final project, you can build off the instructor solution from the previous HW...generally, not too much needs to be changed. So get through HW1 - which is super straightforward - and HW3 - which is much less so - with decent grades, and the rest will fall into place. Quizzes are likewise not bad if you don't overthink them (you don't need to be mathematically rigorous to complete these...just do "what comes naturally" on the quizzes, and you'll be fine).
+
+Coding portion of the final project is a complete waste of time. There's really not a whole lot to be gained by struggling to understand the poorly documented starter code they provide (and the set up is also a real pain). That's all super orthogonal to what you came here for (understanding DL), and none of that effort is ever going to be repaid outside the course. So take a whack at it if you like, but focus on the report. It's worth considerably more in terms of your final grade, and it's possible to get a perfect / near-perfect score on it regardless of performance on the coding portion of the final project (our group did). You're also going to get much more out of reading closely a bunch of papers on DL and DRL, understanding them, and writing about them than you will out of slogging through the course creator's vanity project. The course is designed and led by selfish people who don't care much (or at all) what or whether you actually learn. So be selfish yourself and game it so that you learn things that are actually going to be useful to you while still passing the course and without worrying about jumping through all of their stupid, pointless hoops. That's good advice for the whole program, actually.
+
+---
+
+Title: Practical, not Theoretical Course
+Term: Deep Learning - Spring 2024
+Posted: 5/17/2024 8:27 PM GMT-7
+Rating: 2
+Difficulty: 6
+Textbook:
+Lectures: 4
+Professor: 6
+Piazza: 6
+Workload: 20 hours per week
+
+Review:
+Pros:
+1. TONS of practical experience with pytorch as that was exclusively used for everything
+2. Lots of practical experience for image based deep learning. I feel comfortable enough, if given a dataset of images, to go build models for it
+3. Other than the final project, the descriptions for the homeworks, along with the grader provided, are extremely helpful. There's really no reason you should not be getting A's on all of them because you can keep using the grader to figure out how to score high.
+4. The homeworks seem really complicated at first... but then you go listen to the lectures meant for the next homework, and the professor gives an example model that's like 90% of what you need. Applies to the first 2 homeworks for sure. For the next 2, the TAs have a hints guide which is very very useful.
+5. Lectures are good at first and give you some intuition for when to apply what techniques
+6. You can finish the class as fast as you want to because everything is available from day 1.
+
+Cons:
+1. Starting from the second half of homework 3, the lectures start being less and less helpful. And there's no example models from the professor to use for them. Which is fine as this is a graduate level class, but you basically need to start relying on the tips provided by the TAs in Canvas, and using the discussion forums and Google for help.
+2. There's some theoretical background covered in the very beginning of the class, but that's about it. Deep learning still seems magical to me. Granted, I took this with Machine Learning and the very end of the last lecture in that class motivates Deep Learning, but still in hindsight, having that knowledge before hand would not have mattered nor helped. Definitely going to need outside resources if you want to understand this better.
+3. After taking this class, I just assumed Deep Learning was only used for images. Obviously this doesn't make sense given LLMs though right? Granted, there is a TON of information to cover in a single semester, so the professor did a great job, but we only created models for images, and did not cover the cutting edge advances like transformers which brought about LLMs. Maybe the NLP or Reinforcement Learning class will?
+4. ***** YOU NEED YOUR OWN GPU. DO *NOT* USE COLLAB. Tried to get around this by using Collab at first, but you're going to learn the hard way one day: follow the provided instructions to pull in your files, work on your deep learning model, editing in Collab, until 5 am, wake up the next day, find the Collab runtime has disconnected, poof, all of your work down the drain :(. I guess it's kind of a pro because this finally taught me to always push code to GitHub ALWAYS. You gotta learn the hard way right? This made me get Collab pro so that this wouldn't happen, but guess what? Just like the free version, you're still restricted on compute units! Midway through homework 3 said screw it, and and got my old GPU working and it was so much better. I literally cannot imagine someone using the free Collab version to do the final project. Like holy you must be someone who just likes playing life on impossible mode.
+5. *****Alright now time for the long rant. I have not read through the other reviews, but I guarantee your overall perception of this class will come down to how you did on the Final Project. Without the final project, this class is like a 5/7 but then tanks to a 2/7 because of it. Going into it, had a solid A, coming out of barely made a B+. In all honestly, I think I deserved more like an A-, but I'll get to that. For starters, you are given two choices, an image based agent and a state based agent. The former is basically using techniques the class has built up to throughout all of the homeworks, while the latter requires Reinforcement Learning, which either you have background in or you learn on the fly if you chose this path. Please take Reinforcement Learning before taking this class. I am going to say it again: PLEASE TAKE REINFORCEMENT LEARNING BEFORE TAKING THIS CLASS. The final project takes quite a bit of time, because unlike the homeworks where they have given you a template of working code as well as lots of labeled data, you need to do everything from scratch. The problem with going the image based route, is although it makes the most sense especially practically speaking, you're going to realize while doing it, is that making the image model(s) is only part of the work. You still need to create a controller to actually play the hockey game. That statement will make more sense when you work on the project, but think of it this way: you have a model that tells you where the puck is in a hockey game. And you have a model which even tells you the location of it. But you gotta win the game though right? What do you do with this information aka how do you tell the kart to move so that you score? This is what the controller entails, and nothing in the course lectures tells you how to do this part. We ran out of time trying to figure this out which led to a low score on the grader and would have put us at an A-, or maybe even barely an A (the class is not curved btw). You do make a basic controller in HW5, and the provided solution to that is actually really helpful but only part of what you need. You are allowed to use the controllers of provided state agents, but since an image based model is naturally not going to give accurate information at all times, those state based agents which rely on always knowing accurate information don't end up performing well. What is nice about this approach is that you can work on a controller in parallel with the image model(s) being made, but be careful, in this approach, without the image model, you'll be using noiseless global data when building it, and that may very well cause problems once you use an image model which will naturally give noisy data. If you do choose the image agent, you should definitely start on this project EARLY, but you need all of the homeworks, as they build on each other, to actually start. So get ahead on everything and then start early too.
+Now if it wasn't already obvious, although I didn't do it, I think everyone should be choosing the state based agent aka using Reinforcment Learning. Just take the class before hand, or if you start early enough, the TAs provide some resources to figure it out. On paper, this route really sounds much better in hindsight because you don't need to make an image model(s) and then go make a controller, it's all just one model. It's definitely going to be harder to make the model, but once it's working, you're done. And since it operates on global data which you have access to anyway, the only hurdle is getting the model working, rather than worrying about noisy data. And since they already provide multiple working state based agents, you can always figure out how to copy the inputs and outputs to a state agent you like, and "learn" to copy that.
+Rant is still not over: they did try to be nice and let the final report count for 70% of the overall project grade since it's really hard to score in the online grader. The huge issue with this is that grading is very subjective. Looking through the Discord for the class, seems like a lot of people who got a high score had a much more lenient TA grade, while those of us who got a lower score, got unlucky and had a much more stringent TA grade. What's annoying about the report is that your score really has no bearing on what you gained from the class or what you learned about Deep Learning. I could have scored higher or lower and it my understanding wouldn't change at all. It is great to have a final project that you can later put on your resume or talk about in an interview, but I think they need to rework it somehow. I do want to give the context that I took this class along with Machine Learning, and due to various circumstances, had very little time to work on the final project, but even then, I realistically should have been at like a solid A- rather than barely getting a B+, especially since we had working code, models, an okay controller, and a report that explained these things. Just glad to be finally over with it. For tips on the report, the instructions are somewhat confusing because there's emphasis on making it like a journal article and tying to current research. I think a better way to think about it, is just get one of those journal templates you can find online like form IEEE, and essentially write a lab report you would in school with an Introduction, Procedures, etc but be very detailed on your Introduction and Procedures sections. Essentially write it as if you are telling someone who knows nothing at all, about the project, the entire game, the entire simulation, what you did, all in detail with nice pictures and that sounds like what should score well with even a stringent TA. They score a lot more on good writing with transitions and how stand alone the report is: can someone who has taken a completely different Deep Learning class, understand and replicate exactly what you did? Now that I write it, yeah that sounds like a great question to follow and answer and should hopefully help you score well. Just make sure to also use a journal article format so you don't get docked extra points.
+
+Detailed Review:
+
+USE YOUR OWN GPU, PLEASE DO NOT USE COLLAB EVEN THE PAID VERSION
+and
+PLEASE TAKE REINFORCEMENT LEARNING BEFORE HAND
+
+Also, I would not take this class with another class, purely because of the time commitment for the final project and for homeworks 3 and 4. It is technically possible, but just be ready to have barely any free time at all just like I did when I took this with Machine Learning. As soon as you submit an assignment for one class, you immediately have to start on the next one. This baton passing basically made it impossible to start on the final project early. In hindsight it is doable if you try to get ahead in this class early on.
+
+---
+
+Title: Practical, very practical
+Term: Deep Learning - Spring 2024
+Posted: 5/9/2024 8:06 PM GMT-7
+Rating: 7
+Difficulty: 5
+Textbook:
+Lectures: 7
+Professor: 5
+Piazza: 7
+Workload: 20 hours per week
+
+Review:
+Here's a revised and grammatically corrected version of your review:
+
+**Pros:**
+1. Intense focus on PyTorch allows you to implement deep learning models from scratch without needing examples.
+2. Challenges in optimizing model performance help you understand what a typical Fully Connected Network (FCN) looks like by the course's end.
+3. The lecture slides are excellent and provide a solid understanding of Deep Learning in general.
+
+**Cons:**
+1. Quizzes seem trivial but aid in retaining deep learning knowledge.
+2. The course exclusively focuses on Deep Learning for Computer Vision; incorporating Natural Language Processing (NLP) would be beneficial.
+3. Homeworks 1 and 2 seem unnecessary; starting directly with Homework 3 would be more effective, providing more opportunities to implement various types of deep learning models.
+4. The final project is unrelated to Deep Learning, assuming your model performed well after Homework 4.
+
+**Detailed Review:**
+Overall, this course is quite practical (aside from the quizzes) and teaches you how to implement your deep learning model in PyTorch from scratch. The final project can be completed in groups, but don't expect higher grades simply by increasing group size. I completed Homeworks 1 and 2 before the course began. Homework 3 was particularly challenging as I struggled to understand why my model was performing poorly. Homework 4 was even more challenging as it focused on tuning rather than model development. Homework 5 and Final project are irrelevant to deep learning implementation as you are using your previously implemented model from HW3/4.
+
+---
+
+Title: Very good course with high levels of difficulty at points
+Term: Deep Learning - Spring 2024
+Posted: 5/9/2024 8:19 AM GMT-7
+Rating: 5.5
+Difficulty: 5
+Textbook:
+Lectures: 5
+Professor: 5
+Piazza: 6
+Workload: 15 hours per week
+
+Review:
+Pros:
+1. Very good overview of deep learning in relation to pytorch
+2. Assignments were manageable and challenging when appropriate
+3. Course schedule allowed you to work ahead with good time management
+
+Cons:
+1. Final project can be stressful and confusing without much guidance
+2. Quizzes can be pesky
+3.
+
+Detailed Review:
+Overall this is a very good class that covers a reasonably good amount of relevant information on deep neural networks and different types of deep learning. Other people have mentioned that the content is becoming a little outdated, which is somewhat true; however, the more up-to-date models and frameworks in the field are addressed in the last lectures, albeit without too much depth or any evaluation. The course could probably use a bit of a revamp soon to make it fresher and a little more relevant.
+
+The assignments are reasonable and provide a nice neural network in pytorch introduction with #1 and 2. Assignments 3 and 4 ramp up quite quickly, so it is advantageous to work ahead to try to complete 1 and 2 very quickly and save more time for the more challenging assignments. These also will require more training time (could be up to 10-12 hours), so plan accordingly for how much time the model needs to train.
+
+Quizzes can be sneaky and tricky, especially for computing gradients. You get two attempts per question, so make sure that you carefully review computations, as the 10% for quizzes can matter at the end. Also, DO NOT forget to complete the quizzes on time, as they are at a self-directed pace.
+
+As mentioned before, the final project continues to be difficult and stressful as there is minimal guidance on what approaches to take. Unless you are very confident in your abilities, I would choose to work in a group. Our group went for a state-based agent, and while we were just over the lower quartile for the code portion, our report received very high marks. Suggestion: work extra hard on the report and make sure that you cover every little item in the rubric, as well as format using Latex/Overleaf and make it look like a professional research paper. Since the code is worth only 9%, even a "failing" implementation can still give you a good mark in the class if you perform reasonably well on everything else. We tried many different approaches to the learning for the state-based agent, but ultimately our performance sort of flat-lined.
+
+Overall this was one of the better courses in the program and I came away with a much better sense of how deep networks train, and how different parameters/choices of architecture can improve performance.
+
+---
+
+Title: Great course except for final project
+Term: Deep Learning - Spring 2024
+Posted: 4/27/2024 6:02 PM GMT-7
+Rating: 7
+Difficulty: 5
+Textbook:
+Lectures: 7
+Professor: 7
+Piazza: 7
+Workload: 20 hours per week
+
+Review:
+Pros:
+1. Great introduction to deep learning and computer vision
+2. Well structured and clear expectations
+3. The course is project based, with only 10% of the course grade based on quizzes
+
+Cons:
+1. The final project is incredibly difficult and time consuming
+2. The lectures do not sufficiently prepare you for the quizzes
+3. Some of the course material is starting to get outdated
+
+
+Overall, this was a great class. I went into the class with some basic background in machine learning but had never trained a neural network. I finished the class with a strong understanding of the basics of deep learning and the confidence and knowledge to apply deep learning to computer vision problems outside of the class.
+
+The lectures are engaging and highly informative. The homework assignments help reinforce the material covered in the lectures and provide a lot of valuable practical knowledge. All of the homework assignments are related to computer vision, expect for one optional, make-up homework assignment which is regarding natural language processing. There are also 30 short quizzes which are related to the lectures but are often not covered directly in the lectures. Most of the quizzes are not overly difficult and there are 2 attempts for each quiz. All of the course content and assignments are available at the start of the semester so you can manage your time and complete the assignments earlier if you wish to do so. In fact, all of the course material is publicly available at http://www.philkr.net/dl_class/material.
+
+The worst part of this class by far is the final project. The final project consists of a coding portion, which is worth 9% of the overall course grade, and a report, which is worth 21% of the overall course grade. The coding portion is incredibly difficult and time consuming and most students do poorly, which is why the report is worth so much more of the grade. The final project taught me very little in comparison to the homework assignments and seemed like a waste of time and energy. I would recommend finishing the homework assignments ahead of schedule so you can spend more than the allotted 3 weeks completing the final project. It is helpful to complete the final project in a group rather than completing it individually.
+
+---
+
+Title: Deep Learning – Fall 2023. Great course.
+Term: Deep Learning - Fall 2023
+Posted: 12/22/2023 8:41 AM GMT-8
+Rating: 7
+Difficulty: 6
+Textbook:
+Lectures: 7
+Professor: 7
+Piazza: 7
+Workload: 20 hours per week
+
+Review:
+I am an Engineer (20+ years) and a Python Developer (3+ years), without bachelor degree in Computer Science. It is my first course in UT Austin and I got (A-).
+
+Great course. Much up-to-date information in the lectures. Enough slots for Office Hours in all time zones (I had suitable time for 5 days per week). This course is more focused on Computer Vision; such topics like NLP, RL are present in it but gave me only general knowledge.
+
+What would I recommend to do/have/use:
+1. Knowledge of Python (OOP, the ability of reading and debugging code).
+2. Colab Pro (GPU) for all homework (except HW1) and final project. Do not forget to cancel it after Final project.
+3. Start to learn PyTorch library in advance.
+4. Linear Algebra (vector, matrix, multiplication, inversion) and Gradient descent.
+5. Work far ahead, do not keep official schedule.
+6. Try to get 100 or more (there are some extra credits) for all homework. They are not so hard, really.
+7. Do quizzes in order, do not leave them on the end of the course (I did this mistake).
+8. Try to find/create a group for final project during working on HW4. (Four people in the group are better than three, two, one; more people means more ideas. Many people did the project alone. Different time zones do not matter.)
+9. Discord server is a place for extra communication and possibility to find a team for final project.
+10. ‘Writing part’ in the final project gives 21 points. Try to have got in the team a person with experience in writing papers in scientific style.
+11. Find and read a book about Deep Learning. It is not an obligation, lectures are enough, but reading gives better understanding of the subject.
+
+Homework, my estimation (now all seems to me so simple, even a final project):
+HW1 – 2 days
+HW2 – 3 days (only understanding tests in the local grader helped me)
+HW3 – 1.5 weeks (U–net, skip connection)
+HW4 – 1 week (test cases are very tricky)
+HW5 – 2 days (I very quickly found a right approach). This HW is in the tournament and can give extra sufficient credit. I got 100/100 on Canvas, but nothing in the race. Now, I would allocate several days and improve my model and controller.
+HW (extra credit) – I tried, after Final project, but could not solve it in a week; in my opinion it requires full NLP course under the belt. Some people did this HW instead of HW5, but HW5 is connected to Final project.
+
+Final Project (image-based) – 6 weeks. (After four weeks we had much knowledge, but nothing to commit. Then with two fresh ideas the main part was done in a few days and one week for the writing part. We did not have to write ‘alternative approach’, our code score > 70; according to TA, previous Spring 2023 course had mean=45.35 and median=44). The main advice: early start, four people and good writer.
+
+Final project (state-based). According to the comments is simpler but requires RL course.
+
+Some extra statistic: After HW1 we have 210 people, before HW5 - 201 and after Final Project -182 at the course.
+
+I hope that my review will come in handy for future students. Good luck!
+
+---
+
+Title: Time intensive, brutal, and what a payoff
+Term: Deep Learning - Summer 2023
+Posted: 12/8/2023 12:31 PM GMT-8
+Rating: 5
+Difficulty: 7
+Textbook:
+Lectures: 5
+Professor: 5
+Piazza: 6
+Workload: 24 hours per week
+
+Review:
+Pros:
+1. You will learn
+2. Neural networks are your friend
+3. Excellent project to add to your portfolio
+
+Cons:
+1. A bit dated just because the subject moves so fast.
+2. Very intense. Difficulty ramps at HW2/3
+3. Summer is very short to fit very much
+
+Detailed Review:
+DL is an intense course, particularly so if you place it in the summer semester. So much gets packed so tight. People complained about the final project, but as the writeup takes the lions share of the points, I am less incline to bash on it. The subject matter moves forward quickly, so things can become dated in a very short period, but the final project is only limited by you and your group. (The workload I list is for the summer squeeze.)
+
+---
+
+Title: Very good course. Rack points with first 2 straightforward homeworks
+Term: Deep Learning - Summer 2023
+Posted: 8/24/2023 10:34 AM GMT-7
+Rating: 6
+Difficulty: 5
+Textbook:
+Lectures: 6
+Professor: 3
+Piazza: 6
+Workload: 20 hours per week
+
+Review:
+Pros:
+1. Real university class vs other Internet courses
+2. Very good lectures
+3. Final project mimics real life small research. You can learn a lot if you really apply yourself.
+
+Cons:
+1. Homeworks 3-4 are harder than they look. You may want to ask for help.
+2. Head TAs behavior is unpredictable. She can help but she can also dump.
+3. EDX quizzed can be pretty hard. I mean the ones where you need to calculate gradients, especially in recurrent networks.
+4. Lectures are getting outdated. Only one video lecture is about Transformers and Attention, though Transformers are the only thing everyone talks about in 2023.
+
+Detailed Review:
+
+This course is one of my absolute favorites. I knew nothing about neural networks before taking it, but I ended up learning a lot after finishing the course. How do I know that I learned a lot? In conversations with my experienced engineer friends, I realized that even though they work with AI infrastructure, they know almost nothing about neural networks and speak about transformers as if they were magic. On the other hand, I clearly understand the relationship between dense networks, CNNs, RNNs, temporal convolutions, attention, and deep reinforcement learning, and I can explain the basic ideas of this magic to other software engineers.
+
+About the course: I struggled with the first two homeworks because I was overthinking. Don't make the same mistake I did. The coding part of the first two homeworks is very straightforward because you just need to understand the practice part of the first two lessons and almost copy necessary pieces of code from those lectures into the homeworks. The hardest part about the very first homework is getting comfortable with the local setup, Google Colab setup, and autograder. Once you try those and everything clicks together in your head, the rest of the homeworks will be about learning.
+
+Some people complain that we kind of reuse the same network in most of the homeworks, but in my opinion, that is a strength of this class. We build a simple network in one homework, and then for the next homework, we reuse the core of the network by adjusting it to a more complicated scenario. That way, you can see how the same theoretical basis can be used to solve more complex problems and why certain neural network basic components (convolution, attention) are so important.
+
+It is highly likely that you will not be able to make your final project code work. However, you must obtain results. The most important thing about the final project is to try really hard by experimenting and doing your absolute best to capture the results of your experiments in the report.
+
+Don't be late and submit your homeworks by Monday at 7 PM CT. If you are even one minute late, those missing points will accumulate very quickly. Then, you will have to do the extra bonus homework, which will cost you a very precious week that you could have used for the final project. And that extra bonus homework is pretty hard too. The key is to do the first two homeworks quickly, because those are pure implementation, almost copy-paste, but you need to know what to copy-paste. ;)
+
+---
+
+Title: Good introduction to Deep Learning
+Term: Deep Learning - Summer 2023
+Posted: 8/19/2023 10:57 AM GMT-7
+Rating: 5
+Difficulty: 4
+Textbook:
+Lectures: 6
+Professor: 6
+Piazza: 6
+Workload: 6 hours per week
+
+Review:
+Pros:
+1. Covers a good range of topics
+2. Projects 1-5 are quite intriguing
+3. Quality of lectures is very good
+
+Cons:
+1. Lectures will become outdated soon
+2. Final project is not useful
+3. Projects don't cover a lot from the second half of the course
+
+Detailed Review:
+I felt that this class was fine workload wise because everything is available in the public domain and I was able to finish all the assignments before the semester started. The final project, however, was disappointing as I didn't learn a lot from it even though my team got a good score. I would advice others to not take only DL during a semester but pair it with a tough subject, and finish most of DL before the semester starts.
+
+---
+
+Title: Great Learning and Projects, Worst Final Project Imaginable
+Term: Deep Learning - Spring 2023
+Posted: 7/18/2023 9:08 PM GMT-7
+Rating: 5
+Difficulty: 5
+Textbook:
+Lectures: 6
+Professor: 5
+Piazza: 4
+Workload: 18 hours per week
+
+Review:
+Pros:
+1. Content is very relevant to construction of deep neural networks.
+2. Robust learning of PyTorch framework.
+3. A lot of really good concepts especially around convolutional models.
+
+Cons:
+1. Worst final project imaginable
+2. Introduction to reinforcement learning was not very useful
+3. Could be a nightmare if you are new to Python/PyTorch
+
+Detailed Review:
+I really enjoyed the overwhelming majority of this class. The assignments were a lot of fun and they built on each other in a straightforward method as the class progressed.
+The lectures were valuable for the most part and up until the end of the course the workload is very manageable.
+
+You can typically expect to spend around 10-20 hours per week on this course and I found it very relevant to Deep Learning.For the majority of the course the difficulty rating is between a 3 and a 4.
+
+The caveat to all of this is the final project might be the single worst assignment I have had to complete. Part of this was my fault as I was not able to join a group and ended up working on this project solo.
+
+I am not exaggerating when I say in the final two and a half weeks leading up to the project submission due date I spent an average of 50-70 hours a week working on this project. In hindsight, if I had known the correct approach in the beginning it likely would have been very straightforward. The issue is that the teaching staff provides little to no guidance on how to approach the final project, or even guidance as to what solutions are and are not acceptable.
+
+TLDR:
+Great content, good course, horrible final project
+
+---
+
+Title: A decent class taken out of context
+Term: Deep Learning - Spring 2023
+Posted: 5/1/2023 12:54 PM GMT-7
+Rating: 4
+Difficulty: 5
+Textbook:
+Lectures: 5
+Professor: 4
+Piazza: 2
+Workload: 10 hours per week
+
+Review:
+Pros:
+1. Introduction to several different topics within deep learning
+2. Good application of the concepts taught in lecture through the assignments
+3. Takeaways on developing and training models valuable for future more complex work
+
+Cons:
+1. Heavy focus on computer vision in assignments, very little application of anything else beyond lecture in this version of the course
+2. Piazza was not very useful for many reasons
+3. The final project continues to be a problem
+
+Detailed Review:
+I took this exact class under a different listing years ago as a CS undergrad at UT. Everything but the final project, which I will address in more detail later, was the exact same as before. The reason I bring this up is because some of flaws of this class commonly brought up in previous reviews (and this one) can be explained by knowing this class was not made specifically for this program. The undergrad version of this course was a flipped classroom style where during synchronous lectures, the class was split among the TAs and they would demo and collaborate with the students on the lecture concepts and introduce the assignments live. As this program is online and mostly asynchronous, this version of the course lacks this experimentation time, which is the main reason that the majority of the lectures appear to be unrelated to the assignments and why the assignments tend to be difficult to start coming directly out of the lectures.
+
+Despite its problems, this course does a good job of exposing you to different applications and domains that deep learning is used in. Going beyond the theory/basics will be up to you for most of these but this class is at least a start. By the end of this course, you should have a lot of familiarity with PyTorch as a deep learning framework and also have a very practical toolkit for constructing your models, training them, and evaluating them as well as working through common problems these models face like overfitting.
+
+The first two assignments are a pretty gentle introduction to PyTorch and neural networks and follow closely with the lectures. Assignment 3 is probably the most demanding assignment, but putting in the work here will pay off for the rest of the assignments which extend off of this one. The extra assignment is NLP, but it'll be on you to teach yourself most of what is needed for that as the lectures were very shallow on the topic. Something I noticed for the earlier assignments is that the lectures are misaligned with them. If you find yourself stuck, watching the next series of lectures after the homework tends to give helpful information. Quizzes are not too bad, but some of them are quite a leap from the lectures.
+
+I will address Piazza and the final project simultaneously because I didn't start using Piazza until the final project. All the course material is made available from the beginning, so Piazza was pretty difficult to use with people posting questions way ahead of where the class currently was. Additionally, the irony of all the material being available all at once was some TAs were reluctant to answer any questions on future material, particularly about the final project with the last homeworks still due, discouraging people from starting early even though starting early is incredibly important if you don't want to be overwhelmed by the final project. Toward the end of the course, Colab stopped running PySuperTuxKart on the GPU, making it near unrunnable. As the environment the final project was based on, this was terrible for people who didn't have access to a personal GPU, leading to a series of Piazza posts over weeks that were never actually addressed by the teaching staff. Even without this major issue involving the final project, it is objectively a bad project for this course. The final project is a group project and almost entirely open-ended, unlike anything in the course up to this point. There are two directions you're pushed into for the final project, both with major issues. It was clear from Piazza that a large majority of the class was struggling with the final project, but support from the TAs dropped off with very sporadic responses on Piazza and often unhelpful answers. My group had to ask multiple TAs multiple times about basic details of the rules of the project to finally get straight answers, things that should be clarified in the project instructions but weren't. Luckily, performance on the final project isn't worth much of your final grade so it shouldn't ruin your grade in the class in most cases. This is good because checking Canvas after the project was due, the average was just below 50/100, much lower than the average on any of the assignments. Overall, this class is good but it is ruined by a vague and honestly not fun or worthwhile final project.
+
+---
+
+Title: Not a bad class, but could be improved
+Term: Deep Learning - Spring 2023
+Posted: 4/30/2023 9:07 AM GMT-7
+Rating: 5
+Difficulty: 5
+Textbook:
+Lectures: 6
+Professor: 6
+Piazza: 3
+Workload: 20 hours per week
+
+Review:
+Pros:
+1. Breadth of Topics Covered
+2. Projects are interesting
+
+
+Cons:
+1. Big time commitment, especially final project
+2. Material is slowly getting more outdated
+3. Quizzes can be tough
+4. TA office hours were terrible for full-time students working in US
+
+Detailed Review:
+
+Material: This course covers a lot of material, which is great. I really like how it progressed from simple models like linear regression up to advanced networks like GANs, Wavenet, transformers, etc. However, the material is becoming more and more dated. For example the NLP section does not discuss transformers in depth, image generation doesn't discuss diffusion models, and the RL section doesn't discuss state of the art. To be fair, there are courses in RL and NLP in this program. If they revamp this course, I think it would be better for it to just focus on the computer vision concepts in more detail and let those other courses focus on the other deep learning topics.
+
+Homeworks: There are five homeworks with one optional one to replace your lowest score. The first two are extremely easy and take only a few hours to complete. These two could have arguably been combined into one assignment and the time commitment would still be less than homework 3 and 4. Homework 3 and 4 take much more time, but are arguably the best part of the course. They involve making networks for advanced classification, segmentation, and object detection. Plan ahead to spend quite a bit of time on these two. The last one is also easy and doesn't add any value in terms of learning new material. I didn't take the optional homework, but it was an NLP assignment. If you plan to take the NLP course, you probably aren't missing much as the assignments in that class are updated to be more relevant with the latest research like transformer based language models. I think the homeworks could be improved in future iterations.For example, I think the last assignment would have been better if it was based on image generation.
+
+Quizzes - You have to complete 30 short quizzes on Edx with two attempts at each. Most of them require a lot of multivariable calculus, probability, and algorithm analysis to properly answer. If you understand these concepts and closely watch the video, you can get a good grade on them. My advice is to plan ahead and expect to spend more time on these than you originally think.
+
+Final project - I wasn't a huge fan of the final project. First it is a group project, so you have to deal with the added complexity of setting meeting times and dealing with the potential situation of getting paired up with group members who don't contribute. Next they give you two different options, with one being orders of magnitude harder than the other one. In one, the lectures and material do not prepare you for the task at all and it will require a ton of independent research to get a mediocre solution as best. In the other, you can do well at but arguably doesn't really help you learn any new concepts in terms of deep learning. Overall it was a huge time commitment and I didn't really feel it added any value in terms of material. If they revamp this course, I think they should change the final project. I liked the final project in NLP way better and thought it was structured in a way to enhance learning of the course material. This one felt more like a straight grind with little value add in terms of the course material.
+
+TAs and Piazza: This course is entirely TA run. Besides the prerecorded lectures, there is no other professor engagement. The TA office hours were almost exclusively during working hours for US based students. So if you work full time, you likely will not be able to make it to most of them. During the beginning and middle of the course, the TAs were not responding much on Piazza either. Most of the support for the course came from fellow class mates to be honest.
+
+---
+
+Title: Great intro to deep learning
+Term: Deep Learning - Spring 2023
+Posted: 4/24/2023 9:35 PM GMT-7
+Rating: 7
+Difficulty: 5
+Textbook:
+Lectures: 6
+Professor: 6
+Piazza: 1
+Workload: 15 hours per week
+
+Review:
+Pros:
+1. Quite broad
+2. Great intro to pytorch
+3. Really interesting projects
+
+Cons:
+1. Will quickly go out of date (professor left)
+2.
+3.
+
+Detailed Review:
+
+I really loved this class. It was exactly what I needed to get comfortable with pytorch, with some really practical and interesting computer vision projects. The final project was learning to play a computer game, which I had absolutely no idea how to do before this class. In the end it just all fell into place and I made something I'm really proud of.
+
+While the projects were mostly related to computer vision, the lectures went through a lot of detail on different architectures, and how to solve problems like vanishing and exploding gradients etc.
+
+However, the material is likely to quickly go out of date. The lessons were recorded in 2021 I think, and the professor who made them left the program last year. The material for the practical lectures is on the professors own website and isn't maintained anymore. That made for a frustrating time trying to piece together dependencies and data in order to follow along. The graders were obviously made around the time the lectures were set up, so now you have to be careful with your environment setup, as you'll probably run into errors where you've used versions of e.g. pytorch that are too new. This is a rapidly evolving field, 2 year-old lectures are already starting to become dated, another year and they'll start to sound out of touch.
+
+Really good class, but I hope they find a way to keep it up to date for the future.
+
+---
+
+Title: Overall, a good course for intro to the AI world
+Term: Deep Learning - Fall 2022
+Posted: 12/14/2022 6:50 PM GMT-8
+Rating: 6
+Difficulty: 5
+Textbook:
+Lectures: 6
+Professor: 6
+Piazza: 7
+Workload: 15 hours per week
+
+Review:
+Pros:
+1. Doesn't dive into too much of complex topics (so recommended for beginner)
+2. Introduction to RL and slightly to NLP
+
+Cons:
+1. Final project is tough and might be stressful (subjective)
+2. Some lectures might not be used at all in the homeworks/projects (especially the last)
+
+Detailed Review:
+I have very little exposure to AI before this course. Also, I am amateur to python.
+
+Given my above scenario, I initially struggled a little in completing HW1, HW2 as I was accustoming to python. Later HW3, HW4 or very challenging.
+But if I look back now, I do see that I am much more comfortable to python, DL concepts (especially on how to come up with a model) and pytorch.
+
+
+
+My Tips:
+1. Always go through the grader code to get more insights if you stuck with any homework, and don't worry too much about the final project or with your peer's progress.
+2. Most importantly, you need to plan a head like complete HW1, HW2 as soon as possible, and similarly try to complete all homework by 1 month before the course completion.
+3. Try to beat the extra credits / extra assignments (I lost A relatively with 0.75 marks)
+
+---
+
+Title: Good course but plan ahead
+Term: Deep Learning - Fall 2022
+Posted: 12/14/2022 4:56 PM GMT-8
+Rating: 5
+Difficulty: 6
+Textbook:
+Lectures: 6
+Professor: 6
+Piazza: 4
+Workload: 14 hours per week
+
+Review:
+Pros:
+1. Good course covering breadth of Deep learning concepts.
+2. I have no ML background. Now, I feel like I can read some papers and understand the architecture at a high level.
+3. Good coverage of theory and practical aspects.
+
+Cons:
+1. More than half the quizzes needs you to be well versed with Calculus. If it's been a while since you took Calculus, definitely a good idea to brush up on.
+2. Final project requires lot of time commitment. Although I had teammates, I ended up working solely as they tried different approach that didn't go anywhere.
+3. Course material is released ahead of time. So some people try to be too smart by working leaps and bounds ahead, making everyone else in the class anxious.
+
+
+Detailed Review:
+Hope they don't release all the homeworks ahead of time.
+
+---
+
+Title: Review of Deep Learning
+Term: Deep Learning - Fall 2022
+Posted: 12/12/2022 11:46 AM GMT-8
+Rating: 6
+Difficulty: 6
+Textbook:
+Lectures: 7
+Professor: 7
+Piazza: 7
+Workload: 20 hours per week
+
+Review:
+Pros:
+1. Class is heavy on the programming.
+2.
+3.
+
+Cons:
+1. None of the assignments (excluding the final) allow you to start from literal scratch to understand the entire deep learning workflow.
+2. Final Project requires more than the allotted time given.
+3. The quizzes are annoying since there are so many of them.
+
+Detailed Review:
+I really enjoyed this class because you actually get hands on experience with deep learning and you really have to understand what is going on to be able to get everything working. If I can give any advice it would be to start as soon as possible on all assignments because the time allotted for the final project is only a couple of weeks (I think it was 2-3 weeks) which, if you have no prior experience with deep learning outside of this class, is not enough time. I finished all my homeworks early so I had more time to work on it which really saved me in the end. In the end, this class alongside Data Structures and Algorithms have been the 2 most helpful classes in my career so far.
+
+---
+
+Title: Great intro course to deep learning
+Term: Deep Learning - Fall 2022
+Posted: 12/12/2022 7:55 AM GMT-8
+Rating: 7
+Difficulty: 5
+Textbook:
+Lectures: 7
+Professor: 5
+Piazza: 6
+Workload: 12 hours per week
+
+Review:
+Pros:
+1. Very well-designed programming assignments and final project
+2. Good lecture video content covering a broad range of topics
+3. Very active TA team in piazza
+
+Cons:
+1. The homework questions in EDX can be harsh in grading with very little attempt
+2. Lack of professor presence in Piazza
+3. Can be a tough learning slope for people with zero ML/DL background
+
+Detailed Review:
+
+The assignments were really well made, and in each week you need to code up some new concepts learned from the lecture videos. These programming assignments really help significantly in reinforcing what you have learned. I came to this course with prior knowledge in ML/DL, so it wasn't too difficult to nail the assignments, but I can imagine it to be hard for those who don't have the background. You can still do well in general, but you probably need some prior background in DL or really hard work to score full marks in some of the assignments.
+
+Overall lecture content is pretty good - it touches enough on fundamentals and what I appreciate is also the professor's opinions in some of the topics with open questions. The general advice given in the lecture videos with regards to especially deep learning in general and computer vision are very helpful. I say that from the fact that I'm one of the practitioners in these area, and I still find insights from the lectures. I do hope that the professor is able to add more video content in subsequent semesters, perhaps to include some of the recent developments in DL too.
+
+Overall there's also great support from the TAs in Piazza throughout the semester. Towards the semester everyone was bombarding the piazza with questions regarding to final project, and while the response could have been better, I think overall the TAs were really trying their best. Not sure why the professor wasn't present in the Piazza though.
+
+---
+
+Title: Good course, beware of the final project
+Term: Deep Learning - Fall 2022
+Posted: 12/11/2022 8:39 AM GMT-8
+Rating: 7
+Difficulty: 6
+Textbook:
+Lectures: 7
+Professor: 7
+Piazza: 6
+Workload: 20 hours per week
+
+Review:
+Pros:
+1. Well structured course
+2. Topics are valuable and interesting
+
+Cons:
+1. Final project is interesting but hard
+
+Detailed Review:
+This course is very well structured.
+
+Assignments
+All of the assignments are done with PyTorch, and you are allowed to use the master solution of previous homeworks to work on the next one which is really good if you got stuck in previous Homeworks. Start early the first 2 homeworks as homework 3 is way harder than the first two, but fortunately if you manage to get HW3 working you would probably be able to get the rest of the assignments too.
+
+Quizzes
+They are difficult but doable. The due date for them is at the end of the semester but I recommend to do them as you review the lectures.
+
+Final Project
+It can be done in groups of up to 4 people. Start early, it requires a lot of trial and error and you will have to rely mostly on your teammates than the course staff.
+
+---
+
+Title: Deep Learning Fall 2022
+Term: Deep Learning - Fall 2022
+Posted: 12/9/2022 1:43 PM GMT-8
+Rating: 6
+Difficulty: 4
+Textbook:
+Lectures: 6
+Professor: 6
+Piazza: 4
+Workload: 12 hours per week
+
+Review:
+Pros:
+1. Fun projects using relevant technologies (Python, PyTorch, Colab)
+2. Broad coverage of topics meant a lot was covered without too much prerequisite knowledge required (math = basic probability, matrix multiplication, and taking a derivative is all you need. programming = basic python, see note about pytorch below)
+3. (Most) of the TAs were very helpful
+
+Cons:
+1. Parts of homeworks end up as time-consuming trial-and-error hyperparameter tuning that can take hours to finish. Not too difficult to get a high grade though.
+2. Final project much more time-consuming (at least 2-3x, probably more) than the rest of the homeworks
+
+Detailed Review:
+Highly recommend this course, it was a well put together and interesting hands-on exploration of Deep Learning. I would also recommend taking the time to go through the basic tutorials provided by PyTorch, with a couple hours of investment will make the HWs a lot easier. Anything outside the basics is covered well enough in the lectures.
+
+---
+
+Title: Great skills for PyTorch
+Term: Deep Learning - Spring 2021
+Posted: 5/17/2022 2:57 PM GMT-7
+Rating: 5
+Difficulty: 4
+Textbook: 3
+Lectures: 5
+Professor: 5
+Piazza: 6
+Workload: 20 hours per week
+
+Review:
+Pros:
+1. Good explanations for image processing
+2. Get to learn PyTorch
+3. Fundamentals of Deep Learning (computer vision) taught well
+
+Cons:
+1. Little support for technical difficulties
+2. Final project wasn't much fun nor very helpful in learning
+3.
+
+Detailed Review:
+I enjoyed this class a lot. Only the final project was annoying, stressful and not a good learning experience, in my opinion.
+
+---
+
+Title: Great class with some logistical issues
+Term: Deep Learning - Fall 2021
+Posted: 2/6/2022 9:06 AM GMT-8
+Rating: 6
+Difficulty: 6
+Textbook:
+Lectures: 7
+Professor: 7
+Piazza: 6
+Workload: 30 hours per week
+
+Review:
+Pros:
+1. Interesting content and projects.
+2. Lecture material presented very well.
+3. Hands on.
+
+Cons:
+1. Insufficient TA resources.
+2. Very high workload.
+3. Quizzes can be a bit of a nuisance/do not always match the lecture material
+
+Detailed Review:
+
+Having read many of the reviews for this class, I just want to say that the complaints about Piazza are largely a user problem, not a course problem. All of the posts/questions are tagged, so it's relatively easy to only see posts about the specific thing (e.g., homework 2), that you currently care about. The word/phrase function also works well.
+
+I found this course to be exceptionally well-taught. The professor presents the material really well, and always puts things in context with relatable and understandable examples. Moreover, because of the presentation, I found the concepts interesting and was excited to work on the homework assignments.
+
+The quizzes were sometimes out of order (e.g., I would be mystified by a question only to find out that the topic was discussed in the *following* lecture).
+
+This class is a lot of work, especially if programming is not your forte. But even so, a lot of the time is actually running your code, then having to tweak certain parameters and running it again until you get the results you want.
+
+I also really liked the way TA sessions are done in this course: it's the TA with all the students together; even if I didn't ask any questions, I always learned quite a bit from other students' questions and the TAs answers.
+
+The TAs themselves were very knowledgeable, helpful, and incredibly patient.
+
+I also really appreciated the tips the TAs posted for each project.
+
+However, my class had over 150 students, and there just weren't enough TAs to adequately help everyone, especially because students often needed code reviewed to figure out a bug/problem, which is a very time consuming activity and must be done on an individual basis because of the rules around not sharing code. The good news is that all the material for this course is publicly available, so one can start well ahead of time... if only I had known that.
+
+Another thing around logistics was that the HW directions sometimes have errors, and this is pointed out deep in some random Piazza post and the source material not fixed. It would save a lot of time and energy (for both TAs and students) if these known issues were (a) fixed in the source material ASAP, and (b) these little errors were clearly called out somewhere on Piazza and/or EdX where students could easily see them.
+
+---
+
+Title: Implementation Heavy Introduction to Deep Learning Techniques
+Term: Deep Learning - Fall 2021
+Posted: 1/24/2022 8:58 PM GMT-8
+Rating: 6
+Difficulty: 4
+Textbook:
+Lectures: 6
+Professor: 6
+Piazza: 7
+Workload: 12 hours per week
+
+Review:
+Pros:
+1. Fun and practical way to learn DL with pytorch
+2. Informative of different ML methods
+3. No exams
+
+Cons:
+1. Lots of coding and debugging
+2. Need time to tune models on colab
+3. Final project is labor intensive
+
+Detailed Review:
+
+I really enjoyed this course. I found the professor really knowledgable and generally a pleasure to listen to. The homeworks typically followed the techniques learned in the lecture.
+
+Contrary to other reviews, I found Piazza to be a goldmine of information and the TAs to be very helpful with homeworks.
+
+Like others mention, expect to spend a decent chunk of time coding and debugging your projects, since they are worth most of your grade. If you have familiarity with pytorch you may find this part alot easier.
+
+Lastly, the final project was a bit of a curveball since most of my team's time was spent tuning code line by line to try to programmatically improve our project. This took a huge chunk of time. My best advice is to start early and prepare to take a slight hit on your grade unless you are really good at programming video games! Best of luck and enjoy this fun course!
+
+---
+
+Title: Great course, but you have to work ahead and spend a lot of time to get value from it
+Term: Deep Learning - Fall 2021
+Posted: 12/21/2021 6:48 AM GMT-8
+Rating: 6
+Difficulty: 5
+Textbook:
+Lectures: 6
+Professor: 5
+Piazza: 5
+Workload: 25 hours per week
+
+Review:
+General advice first:
+- Buy Colab Pro, it's $10/month and eliminates a lot of frustration -- unless you have a CUDA-capable GPU, in which case you're already set.
+- Start early and submit HW1 & HW2 early. You need to be ahead of schedule if you want to have enough time for the much more difficult HW3 and HW4.
+- Do quizzes in-order; it's tempting to leave some for later, but you'll learn more if you get them done as scheduled.
+
+Pros:
+1. The lectures are not only interesting and well-taught, they are very up-to-date, which is critical for a field that seemingly exploded in popularity around 2011 and really hasn't found the limits of what is possible yet.
+2. Bias/ethics lectures: I'm really glad the professor included lectures in the end about bias and ethics of this field; it's important for students to understand that with impactful work comes the risk of impacting humanity in a negative way. We should all understand our responsibility to society and not just build whatever makes the most money for our employers. And maybe we should also consider our potential employers' track record before signing the offer in the first place. Are they really making the world a better place?
+3. The homeworks are well-structured, but they escalate in difficulty rapidly. Don't assume that because you did well on HW1 and HW2 that you're going to need the same time for HW3-4; they're brutal.
+
+Cons:
+1. Final project: The time allowed in the official schedule for the final project is nowhere near enough. You need to start on this about a month before the deadline in order to try out enough ideas to put something together that works well. We had 3 weeks, and the best state agent wasn't released until maybe a week before the deadline.
+2. Pacing: DO NOT FOLLOW THE OFFICIAL SCHEDULE. You have to work ahead in this class; one of the TAs even said so near the end of the course. You get about 3 weeks for the first 2 homeworks -- you shouldn't need that much time. You get only 2 weeks for the last 3 -- you will need more. The only solution is to START EARLY and FINISH EARLY, at least until you've finished HW4. HW5 is a little bit easier, although getting great performance out of it nets you extra credit in a tournament, so it doesn't hurt to polish it with a little extra training.
+3. Cheating policy: No, I don't think other students cheated. Instead, I'm unhappy that the policy was so strict about not communicating with other students. I have always learned best by asking questions and answering those of other students, in an open way. I tried to set up a monthly in-person get-together in Austin for students, where we could discuss and whiteboard general ideas about homeworks and the project. However, I was told that no communication between students on the homeworks is allowed, per the cheating policy. I can somewhat understand why, but I really wish there was a way for them to design the work in such a way that, as long as no code is shared, students could freely discuss what worked for them, to reduce the amount of trial and error required. This trial and error is especially frustrating when training has to be done on Colab, which can time users out, and requires re-installing PySuperTuxKart each time you reset the runtime.
+
+---
+
+Title: Great class with some pain points.
+Term: Deep Learning - Fall 2021
+Posted: 12/20/2021 3:15 PM GMT-8
+Rating: 6
+Difficulty: 5
+Textbook: 1
+Lectures: 7
+Professor: 7
+Piazza: 5
+Workload: 20 hours per week
+
+Review:
+Pros:
+1. Fun but challenging homeworks
+2. Awesome lecture content
+3. Learned a lot of practical stuff
+
+Cons:
+1. High bar to get an A
+2. Not enough time for final project
+3. Final is a group project.
+
+Detailed Review:
+
+Overall this was a good course. I was challenged, learned a lot, and got inspired by the content. It is definitely possible to get a very high score on the homeworks if you put in the hours.
+
+The final project is very open ended and challenging. The lack of guidance and time constraint sucked a lot of the fun out of it, and made it stressful.
+
+The team aspect can be hit or miss. In our case, one teammate did absolutely nothing which was frustrating, but is what it is.
+
+This is a great intro to deep learning, and you will gain some practical skills, but I feel like it is just scratching the surface. To get a really deep understanding of many of the topics covered I think will require a lot more time.
+
+---
+
+Title: You get what you put in
+Term: Deep Learning - Fall 2021
+Posted: 12/18/2021 12:29 AM GMT-8
+Rating: 6
+Difficulty: 5
+Textbook:
+Lectures: 6
+Professor: 7
+Piazza: 7
+Workload: 20 hours per week
+
+Review:
+Pros:
+1. Learn PyTorch to a good level
+2. Good practice with computer vision
+3. Projects show there's more than just the model
+
+Cons:
+1. Final Project
+2. Quizzes
+3. Time-consuming
+
+Detailed Review:
+This is not a walk to the park course. I would recommend taking this course by itself if you have no previous exposure to the material. Overall the course was really fun, and the projects are suited towards computer vision tasks. With the exception being the final project. Some of the quizzes were vague and it sucked not seeing how to do some of the problems. HW1 & 2 are warmup homework in the sense it gets you set up for what is to come. HW3 and forward are harder with the 3rd being one of the hardest of the course. The final project is by the far the hardest assignment of the whole course. I would recommend doing the other assignments and building at minimum a 2-week buffer to start on the final project ASAP. I would not recommend doing it solo if this is your first exposure to these topics and libraries. I did the final project solo but have been using Python for 3+ years and have experience with TensorFlow and ML. I was able to get 2nd place in the tournament but it was very time-consuming and stressful, I would recommend getting a good group early as I know some had slackers. Overall, good course but a lot to chew on.
+
+---
+
+Title: It is worth every penny and hour
+Term: Deep Learning - Fall 2021
+Posted: 12/14/2021 10:44 PM GMT-8
+Rating: 6
+Difficulty: 6
+Textbook:
+Lectures: 5
+Professor: 6
+Piazza: 7
+Workload: 6 hours per week
+
+Review:
+Pros:
+1. TAs are great
+2. Practical HWs and final projects
+3. Well organized materials
+
+Cons:
+1. Time-consuming
+2.
+3.
+
+Detailed Review:
+
+---
+
+Title: Pretty disappointing
+Term: Deep Learning - Fall 2021
+Posted: 12/13/2021 7:55 AM GMT-8
+Rating: 3
+Difficulty: 4
+Textbook:
+Lectures: 3
+Professor: 4
+Piazza: 3
+Workload: 10 hours per week
+
+Review:
+Pros:
+1. PyTorch is interesting and well documented
+2. Subject matter is good to know
+3. Prof is pretty good
+
+Cons:
+1. You only use a fraction of the lecture material
+2. Grappling with the starter code and prompt on the assignments is time consuming
+3. The quizzes are a pain
+
+Detailed Review:
+I was overall pretty disappointed with this class. I'd read a lot of positive reviews and saw a lot of excitement generally about this class, but I think structurally it has a lot of problems. First, I feel like so much of the time on the assignments was spent interpreting the prompt and then grappling with their starter code. I feel like I spent relatively little time actually building neural nets and digging into PyTorch. In fact, you don't even need to build a model from scratch after assignment 3 - you just reuse the model in assignments 4 and 5. Second, there's a TON of lecture material, but you only end up using like 10% of it for the course. The rest is just dumped on you and you never use it. I figure I'll promptly forget 90% of the material from this course in like a month. Finally, because the material is freely available, many students race ahead on the assignments and are posting questions on Piazza about assignments 4 and 5 after like two weeks. The message board becomes a dumpster fire that you have to sift through to find relevant material, relative to other classes (like ML, for example) where everyone is largely working on the same stuff at the same time and it's easy to find answers to your questions.
+
+The only time I felt stressed during this class was on the Sunday assignment 3 was due. If you start early, then completing all the work shouldn't be difficult. I also got lucky and ended up in a group of geniuses for the final project, so we aced it.
+
+Coming out of the class I feel like I understand reasonably well how neural nets work and can choose a model to solve a given type of problem, but I feel like the time would have been better spent learning how to deploy DL projects, build things from scratch, etc etc rather than just messing with their starter code.
+
+---
+
+Title: Learned about neural networks and computer vision, but extremely stressful and frustrating at the end.
+Term: Deep Learning - Fall 2021
+Posted: 12/12/2021 6:18 AM GMT-8
+Rating: 5
+Difficulty: 6
+Textbook: 2
+Lectures: 3
+Professor: 3
+Piazza: 6
+Workload: 15 hours per week
+
+Review:
+Pros:
+1. Lots of coding in Pytorch/Python
+2. Applications course where you learn by doing.
+3. Helpful TA's (most of the time)
+
+Cons:
+1. Projects can be very complex and unguided.
+2. Final project is an absolute nightmare.
+3. Models can take a long time to train.
+
+Detailed Review:
+I took linear algebra and machine learning before this course. Mainly, that background was helpful for the theory quizzes that we had to take, ~10% of grade. 60% of your grade comes from 5 homework assignments, which range in levels of complexity. They are focused on applying deep learning architectures to play a mariokart-esque video game called SuperTuxKart. The first two are easy to knock out in a reasonable time frame because the prof gives you hints on how to do them in the lectures. However, the 3rd & 4th homeworks were significantly more challenging as they are very complex and have concepts not introduced by the lectures. The 5th homework returns back into to "managable" territory. Luckily, you can drop your lowest score and there's also an extra credit homework.
+
+Then comes the final project, the last 30% of your grade. Everyone is given some skeleton code and asked to split into teams to come up with the best model to play the video game in hockey mode, where the object is to score goals against an opponent instead of drive on a track. This was probably the biggest cluster of a project I've ever seen. My team tried everything we could think of for 4 weeks. Before work, after work, & on the weekends. But had very limited success with our model. Eventually we were able to scrape together some points, but overall what we came up with was a flop, despite how much time we sunk into it. Very frustrating and exhausting. Luckily, the code itself was only worth ~30% of our grade for the project. The other 70% was based on a 1 page write up explaining our approach and all of the things we tried - basically designed to prevent people like me from failing. However, I do know other teams were able to score higher than us and get good grades on the code portion. It's a mystery to me how they did it, though. Maybe you'll be one of those. Or, maybe you'll be one of me. It's a crap-shoot.
+
+Overall, when I look back on this course I'd say that I learned a lot. But, it was very painful. Time investment can vary week to week. I had weeks where I was dumping a ton of time into the class trying to get the projects done. But I also had weeks where I wasn't doing anything for it.
+
+---
+
+Title: Terrible workload and lectures
+Term: Deep Learning - Summer 2021
+Posted: 10/25/2021 2:32 PM GMT-7
+Rating: 1
+Difficulty: 5
+Textbook:
+Lectures: 1
+Professor: 1
+Piazza: 1
+Workload: 48 hours per week
+
+Review:
+Pros:
+1. Deep learning is an interesting topic.
+2. PyTorch tools are great to learn and relate to NumPy closely.
+3. Final is a group project.
+
+Cons:
+1. Workload (390 hours over the summer is 48hrs/wk).
+2. Lectures have no relationship to the assignments after the first few weeks.
+3. 85% of the lecture material has no use in the assignments.
+
+Detailed Review:
+I do not recommend taking Deep Learning. It's a huge amount of work for no payoff. If you want to learn Deep Learning and also learn the toolset better, then just do all the work throughout the book "Deep Learning with PyTorch" which is written by the creators of PyTorch. This class is not useful to learn the PyTorch toolset, reading research, etc. 10-20% of the workload is building models and 80-90% is training models to achieve high accuracy.
+
+---
+
+Title: DL Summer '21
+Term: Deep Learning - Summer 2021
+Posted: 8/24/2021 6:04 PM GMT-7
+Rating: 6
+Difficulty: 7
+Textbook:
+Lectures: 7
+Professor: 7
+Piazza: 5
+Workload: 12 hours per week
+
+Review:
+Pros:
+1. Applicable
+2. Fair Grading
+3.
+
+Cons:
+1. Final Project
+2. Lectures Not Aligned with Projects
+3.
+
+Detailed Review:
+As a professional data scientist, this might be the most practical course I've ever taken. It was exceptionally well taught, complete with the most recent research into deep learning subjects. The projects weren't easy, but they were very fair; there was always partial credit that could pad your grade in case your actual deep network didn't perform very well. There was also ample extra credit. The final project was hugely stressful for the last few weeks (my coworker, who has a PhD, said it's the hardest project he's ever seen in all of his academic career, as student or teacher), and I don't believe we ever even saw a proper implementation, which is frustrating because I feel like I didn't learn anything. However, I think even this was fairly graded. My other complaint is that I ended up ignoring some of the lectures (which were very well done) in favor of giving more time to the final project, which I don't think was the best use of my time, so I wish the lectures weren't so easily-ignorable and the final project was a bit more realistic.
+
+---
+
+Title: Great class, some problems
+Term: Deep Learning - Summer 2021
+Posted: 8/22/2021 1:04 PM GMT-7
+Rating: 6
+Difficulty: 6
+Textbook:
+Lectures: 5
+Professor: 6
+Piazza: 6
+Workload: 20 hours per week
+
+Review:
+Pros:
+1. Very interesting class - you'll learn a lot
+2. Fun (but challenging) assignments
+3. Good instructors and TAs
+4. Local grader!
+
+Cons:
+1. Frustrating problems setting up PyTuxKart racing game
+2. Handling of final project left much to be desired
+3. Sometimes poor instructions for HW assignments
+
+Detailed Review:
+I really enjoyed this class. I liked the way it was structured and built on each homework assignment. That being said, the first 2 HW assignments were quite straightforward and then HW3 just about killed everyone. Then the next 2 built so heavily on HW3 they were a cakewalk.
+The TAs were very helpful on Piazza, but I feel like office hours were not utilized enough. It's called an office HOUR and each session only lasted 30 minutes, so not everyone was able to get their questions answered each time. Piazza was swamped with students asking the same thing in different ways 20x for each assignment. I also think some of this could have been mitigated by clearer instructions for each homework.
+The local grader was probably the best thing about this class and saved me a lot of time trying to figure out how the starter code worked. Discrepancies between the local grader and the Canvas grader were annoying, but not a deal breaker or grade destroyer.
+The final project was the weakest part of the class. I thought the idea of it was really great, really fun, but the grader was obviously not designed to handle 70+ final projects from 200+ students. That created a lot of frustration when trying to submit our work early for results and feedback. The final project was also WAY more time consuming than originally advertised. It was supposed to be twice as long as the hardest assignment. The teams were also "strongly suggested" but should really have been required. I can't imaging completing that project on my own or even with a pair. I was in a group of 4 and we worked around the clock for about 2 weeks to finish the project. I lost a lot of sleep. We got it to work at the last mock tournament by some stroke of luck.
+Last thing - don't take this over the summer if you value your sanity.
+
+---
+
+Title: Excited about this course, but quite disappointed because of poor design
+Term: Deep Learning - Summer 2021
+Posted: 8/20/2021 3:21 PM GMT-7
+Rating: 1
+Difficulty: 6
+Textbook:
+Lectures: 2
+Professor: 5
+Piazza: 4
+Workload: 15 hours per week
+
+Review:
+Pros:
+1. Primarily a hands-on course with most hours spent on projects
+2. HWs are pretty straight forward up until HW3 and then go off the rails
+3. Extra credit on sequence modeling was challenging, but tied in with lecture material
+
+Cons:
+1. Waaaaay too much time expected for the homework projects (and not distributed well)
+2. Too many lecture materials; too broad (lectures are pointless after HW3 anyway and don't cover what is needed)
+3. TA sessions are useless, especially with only 30 mins (use Piazza instead)
+4. Poorly designed overall
+
+Detailed Review:
+I had read previous reviews here and was excited about taking this course. I was thinking because of all of the project work I'd come out with some deep, practical knowledge. Unfortunately, if someone told me to build a network to do X I doubt I would be able to.
+
+The lectures start out pretty good and match with HW1 and HW2. Then something happens - HW3 gets incredibly hard and the lectures start diverging and never come back to what you are actually doing in the homeworks. After HW3 there are a lot of assumptions about what somewhat knows and the lectures don't cover what is needed. The lecture materials continue on this broad track and are so high-level that I doubt I'll remember anything.
+
+Our group started on the final project 5 weeks out and I personally spent a total of 36.25 hours. Near the end homeworks start piling up and work starts to overlap even if the due dates don't, so it becomes a bit of a mess to manage.
+
+Prof. K. actually seems like a cool dude. His lecture style is decent and he has put a lot of work into creating the projects, auto-grading system, PySuperTuxKart (PyStk). He even pops on Piazza from time-to-time, which was much better than the non-existent instructors for ML that I took alongside this class. Unfortunately, this course is just so poorly designed. If half of the lectures were dropped and more of the lectures were spent to tie in with the homeworks I think this could become one of the best courses. Instead of going broad, a person could walk away with deep technical knowledge.
+
+Mostly, I just felt like a monkey twiddling hyper-parameters until the project passed the local grader.
+
+I took extensive notes of the time I spent each week, so will share in case any of you are wondering how you might budget for the projects:
+- W1: 9.5 hours (didn't start HW1 yet)
+- W2: 9.5 hours (completed HW1)
+- W3: 4.5 hours (didn't start HW2 yet)
+- W4: 12.5 hours (5.5 hours for HW2, 5 hours for lectures, 2 hours for start on HW3)
+- W5: 5.5 hours for HW3 (still in progress)
+- W6: 18 hours for HW3 (completed HW3)
+- W7: 38 hours (16.75 hours for HW4 (completed); 3.75 hours for HW4 EC; 12.25 hours for HW5/lectures; 3 hours for Final Project (FP); 2.25 for EC HW)
+- W8: 20 hours (13 hours for EC; 1.5 hours for FP; 3 hours for HW5 (completed); 2.5 hours for lectures)
+- W9: 18.25 hours (8.25 hours for FP; 0.25 hours for OH; 9.75 hours for lectures)
+- W10: 14.5 hours (FP)
+- W11: 9 hours (FP)
+
+---
+
+Title: Heavy workload, but useful class
+Term: Deep Learning - Summer 2021
+Posted: 8/17/2021 2:44 PM GMT-7
+Rating: 6
+Difficulty: 5
+Textbook:
+Lectures: 7
+Professor: 7
+Piazza: 6
+Workload: 6 hours per week
+
+Review:
+Pros:
+1. Deeply interesting subject matter
+2. Professor's and TAs seem very engaged and responsive
+3. UT's MSCSO community is very collaborative and open to helping one another
+
+Cons:
+1. There is significant "infrastructure" work that doesn't contribute to learning. I.e. you may spend more time than you want setting up your workspace
+2. Much of deep learning is sitting and waiting for your model to train: For many learning cycles it can be VERY time consuming
+3. Projects and HWs are open ended and DIFFICULT
+
+Detailed Review:
+
+I really enjoyed this class, and I feel I learned more from this class than I have in other more theory-oriented classes. The professor is absolutely brilliant in what he is able to code up in real time, and how easily he is able to explain difficult concepts.
+
+75% of your time may be spent on the HWs and Project, with about 25% on lectures and quizzes. PROTIP: Fail the quiz the first time and it lets you watch the solution video, then use your 2nd attempt to get 100%.
+
+If you go into it knowing that the workload is gonna be tough, and you can get a headstart on it, it's totally do-able. Don't take during a busy period in your life, especially if that's over the summer. If you don't get a headstart and you're busy over the summer semester, you're gonna have a bad time.
+
+---
+
+Title: Well Taught Course, But Can Be Time-Consuming
+Term: Deep Learning - Summer 2021
+Posted: 8/17/2021 11:46 AM GMT-7
+Rating: 6
+Difficulty: 4
+Textbook:
+Lectures: 7
+Professor: 7
+Piazza: 7
+Workload: 16 hours per week
+
+Review:
+Pros:
+1. Engaging homework.
+2. Well-presented material.
+3. Good support through Piazza.
+
+Cons:
+1. Time-consuming final project.
+2. Shortened deadlines for summer semester.
+3. Randomness of homework grading.
+
+Detailed Review:
+From other reviews, going in, I knew that the summer schedule was going to be tight. After the first assignment, every subsequent homework only had a single week to be worked on. I finished my first two assignments early, but even with that I was still having a difficult time keeping up after the third assignment. That's not to say that the homework wasn't interesting; each one had me implementing a deep learning model to solve a particular task; like object detection or image classification.
+
+I felt that the grading was somewhat random; since it was mostly based on how your deep learning model performed on the grader's dataset. There were a wide variety of factors that could determine whether your model performed well or not, all of which are gone into in the course's material. But I feel like luck partially can influence on whether these factors are set to create a good model or not. It's a lot of trial and error, which can be time-consuming. If you did get a good performing model on your local grader, then you would usually expect between 95 to 100% on the homework's online grader, depending on chance. These issue probably reflect the real world applications of deep learning though, so it's more something to look out for than an actual negative for the course itself.
+
+These issues also affect the final project, which consists of a large portion of your grade. For the final project, your model is put up in a competition against a videogame AI. If your model doesn't do well, then you can still get some credit by competing against other students. Again, there was some randomness in this since you didn't know how the game's AI would react and you didn't know how well other students did on their final project.
+
+During the semester I took this course, the final project's grader had issues due to the amount of students. When tweaking the grader, some practice competitions were messed up causing the student models to perform better against the game's AI than it was meant to. This was resolved by having the grade be based on the model's best performance over all of the practice competitions against the AI. The way that the instructors and TAs handled this issue was satisfactory and hopefully are applied in future semesters, since it greatly reduced the effect of randomness on the final grade.
+
+Speaking of the instructors and TAs, they were quite active on Piazza. For most issues, they would be answered within a day of posting and would usually give good advice. Office hours were also held, but I never needed to attend them.
+
+The actual course material was also good, with the instructor going in-depth into deep learning topics. There were also quizzes that would test your understanding throughout. Knowledge of linear algebra and probability theory would be useful. Code examples would also be given in some lectures, showing how to actually implement the class material. These code examples were super helpful for the first few homework assignments.
+
+---
+
+Title: Good intro to ML
+Term: Deep Learning - Summer 2021
+Posted: 8/12/2021 10:39 AM GMT-7
+Rating: 5
+Difficulty: 5
+Textbook:
+Lectures: 7
+Professor: 7
+Piazza: 5
+Workload: 8 hours per week
+
+Review:
+Pros:
+1. Lots of helpful example code to get you through first few assignments
+2. Due dates were very accommodating for a summer course
+3. Professor is very approachable and responsive
+
+Cons:
+1. Staff was not prepared for the huge uptake in enrollment this semester (Sum21)
+2.
+3.
+
+Detailed Review:
+Summer is completely doable if you follow the professor's advice and take advantage of the whole MONTH given for the first assignment. The first assignment should take less than a week to do. For the remainder of the entire month, you should work ahead and plan for the rest of the course. Don't wait until deadlines start rolling around to start assignments. If you do, then you get stuck with a new deadline every week after the first free month is over.
+
+All you really need is basic knowledge of python for the assignments. PyTorch is relatively easy to pick up. You should probably also brush up on Calc 2 and 3 for the quizzes. All assignments are public on http://www.philkr.net/dl_class/. It is highly recommended that you start early.
+
+Lectures were good and covered a variety of topics from fully connected networks to POMDPS. The assignments will teach you the basic building blocks of a DNN, how to collect data, and how to train models. I definitely feel that I am more fluent in AI related topics because of this class.
+
+You might not need Colab Pro until HW3, because HW1 and HW2 can be done with just CPU. However, I highly recommend getting it for HW3+. It will save you a lot of frustration from timing out in the middle of a long training session.
+
+---
+
+Title: Great Hands-On Intro to DL
+Term: Deep Learning - Summer 2021
+Posted: 8/11/2021 6:05 AM GMT-7
+Rating: 7
+Difficulty: 7
+Textbook:
+Lectures: 7
+Professor: 7
+Piazza: 7
+Workload: 25 hours per week
+
+Review:
+Pros:
+1. Course material covers a broad range of topics from the ground up (and also covers practical tips and gotchas for implementing them) and is approachable for people without significant DL experience.
+2. Course material is well-organized (videos, assignments, and presentations are available online http://www.philkr.net/dl_class/), and assignments highlight interesting applications of DL (mostly with a focus on CV) and make use of SuperTuxKart (a racing game), which I found to be pretty cool (even as a person who doesn't play video games).
+3. Assignment grading is automated via Canvas, so feedback on assignments is essentially immediate. Solutions are released after the assignments close, which is useful for figuring out what you did wrong or could improve for the next assignment.
+4. Instructor and TAs were extremely responsive on Piazza and genuinely tried their best to help out.
+
+Cons:
+1. Taking this course in the summer semester might not be best if you intended to have plans for the summer since the abbreviated class schedule means that this course will likely take up most of your free time if you are working full time. I was able to tune the hyper parameters for my models and monitor training during the work day due to WFH from COVID, but I don't know that I would have been able to complete the assignments on time if I had to go into the office.
+2. Assignments can be challenging if you don't have experience developing and tuning CV models, and the performance benchmarks you have to hit are difficult to achieve for later assignments. As someone without that sort of experience, I got really stressed when doing the assignments since it was difficult to disentangle whether failures were due to bad hyper parameters, under-training, bad model architecture or some combination of those issues.
+3. Ideally, you probably need to be 1-2 weeks ahead of schedule in order to build up a buffer. The final project is extremely time-consuming (I was putting in 40 hours+ in the last 3 weeks or so) and may not pan out the way you'd hoped, so it would be best if you could build up enough extra credit to where your final grade is not jeopardized by your performance on the final project.
+
+---
+
+Title: Decent course ruined by poorly structured final project
+Term: Deep Learning - Summer 2021
+Posted: 8/10/2021 3:10 PM GMT-7
+Rating: 2
+Difficulty: 7
+Textbook:
+Lectures: 6
+Professor: 6
+Piazza: 1
+Workload: 24 hours per week
+
+Review:
+Pros:
+1. Very interesting lectures
+2. 70% of grade is determined by programming assignments. If you are decent at Python, these are easy go get 90% at.
+3. Looks good on CV
+
+Cons:
+1. Final project is disgustingly difficult, with no guidance (either in project prompt, or TAs). We spent 3 weeks looking at all sorts of network approaches only to code up if /else in the last 2 days
+2. Projects are very difficult if you aren't good at coding / or aren't familiar with networks, as some of the lectures don't show how to code up concepts so you have to do a lot of googling
+3. I found Piazza to be completely useless. There were too many people asking questions, often repeating (as there are too many posts to read - at least 20 every single day).
+
+Detailed Review:
+
+---
+
+Title: Good course to start in the first semester
+Term: Deep Learning - Spring 2021
+Posted: 5/10/2021 7:22 AM GMT-7
+Rating: 5
+Difficulty: 4
+Textbook:
+Lectures: 6
+Professor: 6
+Piazza: 6
+Workload: 5 hours per week
+
+Review:
+Pros:
+1. Easy to learn all materials
+2. Project takes lots of time, but you can get good experiences in training model, and make what you have learn in modeling
+3. It takes me more than 15 hours to do all HW and finish all video.
+
+Cons:
+1. In some weeks, it takes lots of lots of time to listening all course video
+2. First two projects are simple, then change to very difficult in project 3 suddently
+3.
+
+Detailed Review:
+Overall, I feel this course is pretty good to start in the first semester. This is the first semester in the program, and I take DL and ALA while doing a full time PhD research, so I work almost every weekends and Monday to do all HW.
+
+---
+
+Title: 
+Term: Deep Learning - Spring 2020
+Posted: 3/5/2021 9:13 AM GMT-8
+Rating: 5.5
+Difficulty: 4
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 10 hours per week
+
+Review:
+The name of the game is copy the algorithm. Each homework requires useing pseudocoded algorithms from the textbook that need to be followed to the letter. The nuances are tricky at first, but you'll understand the notation with enough practice. Really interesting course content. Teacher are okay, exam is a bit rough. It gets curved though, don't worry. Definitely take Deep Learning first.
+
+---
+
+Title: 
+Term: Deep Learning - Fall 2020
+Posted: 3/5/2021 9:13 AM GMT-8
+Rating: 7
+Difficulty: 5.5
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 15 hours per week
+
+Review:
+Great class. The assignments and projects are designed in a fashion that makes sure you end up reading lots of papers and learning a whole lot.
+
+---
+
+Title: 
+Term: Deep Learning - Fall 2020
+Posted: 3/5/2021 9:13 AM GMT-8
+Rating: 7
+Difficulty: 4
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 15 hours per week
+
+Review:
+It is an excellent class overall. Pytorch is the framework of use. Highly recommended to have ML background
+a priori. The course kind of skips through the ML basics and assumes you can pick it up fast. The programming
+assignments are super practical and useful if you find yourself working in this arena in the future. The final
+project was quite entertaining and I loved what I ended up coding up. I learned quite a lot in this class. Note
+that the class is focused on convolutional neural networks, and somewhat on reinforcement learning. It
+only slightly touches on recurrent neural networks.
+
+---
+
+Title: 
+Term: Deep Learning - Fall 2020
+Posted: 3/5/2021 9:13 AM GMT-8
+Rating: 5.5
+Difficulty: 5.5
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 20 hours per week
+
+Review:
+Mostly this is a good class. The lectures are excellent, and the five homework and one extra credit assignments are engaging and really help you learn how to apply the material.
+
+But I hated the final project. It was the single most stressful assignment I've ever had in any class I've ever taken. You're given a nearly intractable problem (given the time/space constraints you have to work with) with no guidance and left to find the best solution you can come up with. This by itself doesn't sound so bad, until you spend 20 hours debugging the C++ code of the simulator you're running in because it doesn't actually work the way it was shown in one of the class videos. And then find that your experiment results are not reproducible and you get wildly different results depending on the underlying hardware of your Colab instance.
+
+Plan to spend more than 2 weeks on it, and plan for your results to look terrible no matter what. You can still get an A in spite of that.
+
+---
+
+Title: 
+Term: Deep Learning - Fall 2020
+Posted: 3/5/2021 9:13 AM GMT-8
+Rating: 5.5
+Difficulty: 4
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 20 hours per week
+
+Review:
+Great class. Lots of work, but worth it. Definetly a good mix of hands-on and theory work, with a fun final project.
+
+---
+
+Title: 
+Term: Deep Learning - Fall 2020
+Posted: 3/5/2021 9:13 AM GMT-8
+Rating: 7
+Difficulty: 2.5
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 10 hours per week
+
+Review:
+I enjoyed all the material in this course. The information contained is designed in a way it's practical but it does not leave theory behind. In the end you are ready to start implementing the knowledge obtained into personal projects. The teacher is very considerate and the homework and projects are very interesting and exciting. I would take this course again.
+
+---
+
+Title: 
+Term: Deep Learning - Summer 2020
+Posted: 3/5/2021 9:13 AM GMT-8
+Rating: 5.5
+Difficulty: 5.5
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 22 hours per week
+
+Review:
+Interesting material, but I had a really tough time with it. Lots of works getting your model in the proper shape. I know its the only class available in the summer, but I wouldn't recommend it. Seems like too much work for such a compressed schedule.
+
+---
+
+Title: 
+Term: Deep Learning - Summer 2020
+Posted: 3/5/2021 9:13 AM GMT-8
+Rating: 7
+Difficulty: 4
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 15 hours per week
+
+Review:
+Liked this course very much. Assignments are laid out well. I like the feature of auto-grading. Sceleton codes are very helpful. Downside would be there are some knowledge appears in the assignments were not mentioned in the lectures and TA were not very helpful instructing. I ended up having to google a lot.
+
+---
+
+Title: 
+Term: Deep Learning - Summer 2020
+Posted: 3/5/2021 9:13 AM GMT-8
+Rating: 7
+Difficulty: 5.5
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 24 hours per week
+
+Review:
+Excellent class. All of the course materials can be found here: http://www.philkr.net/dl_class/material
+
+---
+
+Title: 
+Term: Deep Learning - Summer 2020
+Posted: 3/5/2021 9:13 AM GMT-8
+Rating: 7
+Difficulty: 2.5
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 15 hours per week
+
+Review:
+I found this to be a great class that taught the fundamentals as well as the progress and recent developments of the field. The homeworks did a good job of introducing deep learning topics though as mentioned in many other reviews, the difficulty spikes in homeworks are rather extreme. The project can be very difficult and is reliant on topics outside the scope of the course to truly excel. Start the homeworks as soon as they are available and you shouldn't have any trouble finishing them.
+
+---
+
+Title: 
+Term: Deep Learning - Summer 2020
+Posted: 3/5/2021 9:13 AM GMT-8
+Rating: 7
+Difficulty: 2.5
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 15 hours per week
+
+Review:
+Really enjoyed this course. As others said, the first two HWs are pretty straightforward, particularly if you're using the example code the professor uses in his lectures. However, HW3 takes a large jump in difficulty and the HW assignments diverge significantly from the lecture videos. I strongly suggest getting a jump start on the material even before the semester starts to give yourself a buffer when you hit the later HWs. There's lots of little things that can trip you up, but that aren't clear how to diagnose. The TAs over the summer were awesome and quickly helped with questions, but if they were worse I could see this class being harder. Final project is massive, so definitely start early and get a group to do it together.
+
+---
+
+Title: 
+Term: Deep Learning - Summer 2020
+Posted: 3/5/2021 9:13 AM GMT-8
+Rating: 7
+Difficulty: 5.5
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 20 hours per week
+
+Review:
+This class took me from 0 knowledge in Deep Learning to being comfortable with reading the latest DL research and implementing models in fun projects where I had to go and collect the training data in a way that would work with the model I had decided to use. It's a great course to really get into the mechanics and what it means to do Deep Learning. Taking this in the summer, however, sucked so bad. If you don't really understand the projects and what's being asked, or if you don't train the model well, then the projects become a huge time suck. However, it's easy look back and see why that happened and then you can learn from your mistakes. Taking this class in the summer alongside with Reinforcement Learning was not good :( I mean RL was a great class, but this course took a lot of time. The compressed summer semester increased the stress to finish the projects on time. In total I needed to take about 6 vacation days from work just to work on these projects. Now I don't even think I'm up for another 2 courses in the Fall. Anyways, this is still a great course and I highly recommend it!
+
+---
+
+Title: 
+Term: Deep Learning - Summer 2020
+Posted: 3/5/2021 9:13 AM GMT-8
+Rating: 7
+Difficulty: 5.5
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 22.5 hours per week
+
+Review:
+Great class and really liked the topics covered in this class. As mentioned above the TA was very helpful and works hard to find solutions when you are stuck. My only complaint is that for the summer I wish we had a bit more time for hw3 and the final project, as we were constrained for time and many people felt they didn't have adequate time to to do either of them. Hw4, while probably the hardest, had 2 weeks to do which helped a lot. This class is a lot more work during the summer session due to it being a shorter semester.
+
+---
+
+Title: 
+Term: Deep Learning - Summer 2020
+Posted: 3/5/2021 9:13 AM GMT-8
+Rating: 7
+Difficulty: 4
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 20 hours per week
+
+Review:
+Love the lectures and love how practical the course is, although I wish the course could focus a little more on the theory and also more on advanced models. Homeworks take a great amount of time to implement and take a lot more time to tune. Final project is super frustrating. Only a small portion of the final project is deep learning related, the other part is just to make the controller work, which is a very frustrating and time consuming. TA is amazing. I think one of the TAs for this class is probably the best TA I've had for any classes.
+
+---
+
+Title: 
+Term: Deep Learning - Fall 2019
+Posted: 3/5/2021 9:13 AM GMT-8
+Rating: 7
+Difficulty: 4
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 10 hours per week
+
+Review:
+I agree with what everyone else is saying. To add additional insight, you start the class with ~8 theory heavy quizzes about Lin Alg and gradients. Then, you get two pretty easy Python projects in HW1 and HW2. The workload picks up SIGNIFICANTLY when you hit HW3 and HW4. HW5 was extra credit for us. I recommend you watch the practical implementation lecture videos before starting the HW, becuase they usually have hints or code snippets you can use for the assignments. The project was awesome as well.
+
+---
+
+Title: 
+Term: Deep Learning - Spring 2020
+Posted: 3/5/2021 9:13 AM GMT-8
+Rating: 7
+Difficulty: 2.5
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 11 hours per week
+
+Review:
+This course was very well done. The homeworks built off of one another in a way that allowed you to feel like you were actually applying what you were learning. Having had no experience with neural networks before this course, I was able to learn enough to do well on the assignments and feel like I was learning the concepts behind what I was doing. A big thing is making sure that you manage your time to complete the assignments; although they are definitely doable and really cool to do, they can take some time. Lectures varied between coding examples, theory, and case studies, giving a very good overarching intro. Quizzes were managable based and based on what we are given. No exam, and very responsive TA on piazza. Definitely recommend taking this course at some point (it was the first course I took in MSCSO and was a great intro to the program)
+
+---
+
+Title: 
+Term: Deep Learning - Spring 2020
+Posted: 3/5/2021 9:13 AM GMT-8
+Rating: 7
+Difficulty: 2.5
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 8 hours per week
+
+Review:
+The course build up naturally with 5 programming projects (each roughtly taking me 3 to 8 hours) that accumulate to the final project, which takes considerable amount of work. There is no exam and the edX quizs are quite manageable. The curriculum is are well structured and the lecture videos are very helpful for both understanding the content and the practical/applied aspects. I have had some experience with PyTorch and neural networks (mostly with GAN) coming into this class, so a lot of the introductories were review to me. However, I still learned a lot of techniques, tricks, and best practicies that I found helpful applying the deep learning in actual projects. A great course overall.
+
+---
+
+Title: 
+Term: Deep Learning - Fall 2019
+Posted: 3/5/2021 9:13 AM GMT-8
+Rating: 7
+Difficulty: 7
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 35 hours per week
+
+Review:
+Great course. Tremendous amount of work. The projects were cryptic, dense coding trying to figure out what the professor had coded before. The videos were only loosely connected to the projects except a few that had hands on coding examples. For theory it was very loosely stated. It's definitely a great applied course.
+debugger eval code:101:11
+

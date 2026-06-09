@@ -1,0 +1,740 @@
+# CS 395T — Optimization
+# 1. On msaihub Reviews, filter by "Optimization" (NOT "Online Learning and Optimization" — that's file 06).
+# 2. Run scripts/scrape_msaihub_reviews.js in the browser console.
+# 3. Paste the clipboard output below (it already has --- separators).
+# Lines starting with # are ignored during ingestion.
+
+Title: Evaluation system needs revolution
+Term: Optimization - Spring 2026
+Posted: 5/9/2026 6:09 AM GMT-7
+Rating: 3.8
+Difficulty: 5.2
+Textbook: 1
+Lectures: 3
+Professor: 4
+Piazza: 5
+Workload: 16 hours per week
+
+Review:
+Pros:
+1. Some insights into the underlying optimization schemes
+2. TAs are responsive
+3. Avoid in-depth math concepts and make it a little bit easier for comprehension
+
+Cons:
+1. The evaluation system is a disaster
+2. No coding
+3. Not well-designed materials
+4. Lack of cutting-edge contents
+
+Detailed Review:
+This is my fourth course. In fact, I registered for OLO at first. But I found OLO's lectures hard to follow on the first day of class and seemed to require a foundation in optimization, so I dropped OLO and registered for OPT.
+
+The topics included in this course are good. This course mainly introduces some basic concepts in convex optimization, linear programs (LP), duality, KKT conditions, and many kinds of gradient descent methods. All these concepts play significant roles in optimization. However, the pace and the evaluation system are not satisfactory.
+
+This course spends approximately half of the semester introducing LP and duality. I don't think LP is a technique that requires so much time to comprehend. This leads to a very fast pace in introducing gradient descent in the remaining part of the semester. As a result, I have to learn simple gradient descent, subgradient method, line search, projected gradient descent, Frank-Wolfe, proximal gradient descent, Newton method, Quasi-Newton method, and SGD in 6 weeks. I think the course should be adjusted, and reduce the time in introducing LP and duality, and enable us to have more time to work on the gradient descent part.
+
+The lectures are recorded by two professors. Prof Sanghavi has a very different accent, so I sometimes found it a little bit confusing to understand what he says. Prof Caramanis's lectures are good, but I think there is still room for improvement in image resolution.
+
+The materials are not satisfactory either. The date on the provided lecture notes made by Prof Sanghavi clearly shows that all materials were made in 2019, which is almost 7 years ago. If you think that's not a big issue, the errors in the lecture notes will surely confuse you. I have to refer to the lecture notes published by CMU when preparing for exams. I don't know why he preferred to offer a typed version instead of the handwritten version in the lectures, as there are fewer errors in the handwritten ones. Prof Caramanis's lecture notes are handwritten, but sometimes the font size is too small, and the stroke width is too big, making the lecture notes illegible.
+
+The evaluation system of this course includes homework and exams. This system is a total disaster. Let me explain this in detail:
+
+There are 9 theoretical assignments. The lowest one is dropped in common (we can drop 2 in this semester due to technical issues with Feedback Fruits). However, homework only counts for 30% of the total grade, which is the lowest proportion among the courses I have taken. There are so many assignments. Sometimes there are a LOT of sub-questions in one question. I can't forget homework 2, where the last question includes 11 sub-questions (requires answering 5 of them). My solution includes 15+ pages for each assignment, commonly 20+ pages. If I compile all my solutions into a book, the book may be thicker than my master's dissertation (I'm pursuing a second master's degree now; I wrote a dissertation during my first master's program).
+
+There are also questions asking for algorithm implementation. I don't understand why this course does not include any coding homework while asking us to implement what we have learned in class in theoretical homework, and requires us to share the code in the submission. They could have split the homework into theoretical and coding parts, but they just left all implementations in the theoretical homework.
+
+The provided solutions sometimes include errors as well. I believe we are not the first to identify those errors. However, the professors choose not to correct them and reuse these materials semester after semester. Besides, remember the implementation I mentioned above? The solutions to these questions are often two words -- happy implementing... I'm not happy. As a solution, you should at least give us exemplary code and figures for implementation, and these are vital to peer grading!
+
+Peer grading is not well-designed as well. You get full marks, 50%, or 0 on one question, no fine-grained score. Mostly, your peers will give you 100% because the grading guidance tells you that partial errors are acceptable as long as the thoughts are correct. However, I still encountered some students not giving me the full marks even though I was totally correct. They may, in fact, not understand the concepts so well, and gave me low grades based on their comprehension. In my opinion, peer grading is not an ideal choice for evaluating the homework, because not every student is a qualified grader if he/she fails to digest the contents in class. Fortunately, the head TA could regrade. I highly appreciate the responsive TAs.
+
+The exam is the most disastrous part of the evaluation system. There are 2 midterms + 1 final, and all exams only include a few multiple-choice questions (midterm 1 has 15 questions, midterm 2 has 12 questions, final has 20 questions). That means that 70% of your grade relies on 47 MC questions. This is too crazy for a theoretical course. If you do wrong on one question, you lose all the marks for that question, and your final grade decreases for 1% or more. Most problems in the exams are calculation. I believe it's a good choice to use an exam format like ML, which allows you to show the process for getting the answer.
+
+It's also a bad arrangement to have 2 midterms. There is only a short interval between midterm 2 and the final, which means that 50% of your grade is determined by your performance in the last several weeks. More importantly, the majority of the remaining materials (Newton method, Quasi-Newton, SGD) are not included in the final, which makes the scope of the final approximately the scope of midterm1 + midterm2, making the final redundant. I would treat the final exam as a measure for the professors to handle the remaining 30% of the total grade. If I had a chance to design the evaluation system, I would cancel the final and supplement some coding assignments, and make those homework counts for 30% of the total grade (in fact, they had an evaluation system like this in OLO, where exams only count for 30% of the total grade).
+
+The only advantage is that the exams are not proctored. However, you still need to prepare for some calculations, which could make the midterms a little bit intensive. The statistics show that a quarter of this cohort gets full marks. This may urge the professors to turn to proctored exams in the future. OLO has turned to proctored exams, and I believe the tomorrow of OPT is today of OLO. Considering the large proportion of exam grades in the total grade, it is doomed to be hard to get a good letter grade in the future, at least harder than OLO.
+
+To sum up, I think the topics are good for this course, but the evaluation system requires a revolution. If you are not a math genius and want to earn an A, this course may not be a good choice for you in the future.
+
+---
+
+Title: Good course, poor exam format
+Term: Optimization - Spring 2025
+Posted: 5/8/2025 7:21 AM GMT-7
+Rating: 5
+Difficulty: 6
+Textbook: 2
+Lectures: 5
+Professor: 5
+Piazza: 5
+Workload: 15 hours per week
+
+Review:
+Pros:
+1. Great content and lectures
+2. Very useful in CS and Engg.
+3. Builds mathematical maturity to some extent
+
+Cons:
+1. Poor format of exams
+2. Not enough problems to guide
+3. Some real analysis is needed to make sense of everything, but course is not honest about it
+
+Detailed Review:
+
+This course is a good intro. to convex opt.
+
+This course is significantly more accessible than ee364 (Boyd), and both professors deserve credit for that. Those who say, just take Boyd's youtube lectures (instead of this) are either math geniuses or have no clue what they are talking about. Professors avoid real analysis as much as possible and use simple concepts. Both lecturers are good, one is not a native speaker and sometimes struggle a bit, but otherwise he is also very good.
+
+However, while taking the course, you do not get enough practice in solving numerical problems that show up in MC exams. If you do the exams fully honestly, I believe it is hard to get an A or A-. There was only a nominal curve.
+
+---
+
+Title: Could be better
+Term: Optimization - Fall 2023
+Posted: 5/21/2024 11:35 AM GMT-7
+Rating: 3
+Difficulty: 4
+Textbook: 2
+Lectures: 4
+Professor: 4
+Piazza: 5
+Workload: 15 hours per week
+
+Review:
+Pros:
+1. Interesting topics
+2. Grading curve
+3. Lenient peer grading of HW
+
+Cons:
+1. Unforgiving exams
+2. Some lectures hard to follow
+3.
+
+Detailed Review:
+
+This class covers some very interesting and important topics. I think that anyone doing machine learning would benefit from understanding this material. Frankly even just linear programming optimization is a really good tool to have in your pocket. I enjoyed Prof Caramanis' lectures because they provided thorough explanation in proofs and examples.
+
+The other lectures in the class were okay, but I often found myself using the textbook or youtube videos to understand some of the concepts better. The homework is good also, though I think there should have been a bit more of it, and it would be helpful if there were questions similar to the exams. In this course I received the worst score I have ever had on an exam and I'm not sure how I could have prepared better. If you had some error, there is no partial credit because they were timed and multiple choice, which was stressful. There was a hefty curve at the end, though.
+
+Overall if they improved the exams and maybe updated some of the lectures, this could be a great class. Our TA was pretty great. Even though it wasn't perfect I did like getting some exposure to these topics.
+
+---
+
+Title: This Course Makes Me Sad
+Term: Optimization - Spring 2024
+Posted: 5/2/2024 3:49 PM GMT-7
+Rating: 1
+Difficulty: 1
+Textbook: 1
+Lectures: 1
+Professor: 1
+Piazza: 1
+Workload: 15 hours per week
+
+Review:
+Pros:
+1. I can't really think of any
+2. I can't really think of any
+3. I can't really think of any
+
+Cons:
+1. See detailed review
+2. See detailed review
+3. See detailed review
+
+Detailed Review:
+
+This course makes me really, really, sad. It makes me sad that possibly no one ever told the instructors for the course that this is no way to teach, and that they may have been taught this way themselves. It makes me sad that I can't tell whether the course is taught this way because the instructors really don't know of any better way of teaching it, or because they just don't care (and that it's hard to tell which of these is true). It makes me sad that the majority of students won't have gotten very much out of this course, despite having worked hard at it. It makes me sad that there are mistakes in the homework solutions, and that some of them aren't even deep or subtle (which may suggest that the person putting them together didn't care very much). It makes me sad that there are still so many mistakes in the slides, and that the slides are hard to read in a course which has no official textbook. It makes me sad that, by the middle of the semester, everyone was so demoralized that they were handing out full marks for peer grading simply for writing your name down on your homework (a slight exaggeration, but only a slight one). It makes me sad that the prerequisites for this course are given as undergraduate linear algebra and calculus, but the course definitely assumes prior knowledge of real analysis and even some topology. It makes me sad that this is evidently the best that we can do, here. And it makes me sad that we don't care more about students and that people who showed up genuinely excited to learn, and ready to work hard to do so, were for some reason subjected to...whatever this was. I can confidently say that this was the worst, most demoralizing course I've ever taken, and it makes me sad that I got less than nothing out of it.
+
+I feel that this course sent a really, really clear signal: You, as a student, as a person, are not important to us at UT. Your learning is not important to us at UT. Your success is not important to us at UT. We will, nevertheless, gladly take your money.
+
+---
+
+Title: Good course if you like theory
+Term: Optimization - Fall 2023
+Posted: 12/12/2023 8:02 PM GMT-8
+Rating: 5
+Difficulty: 4
+Textbook: 3
+Lectures: 4
+Professor: 6
+Piazza: 5
+Workload: 10 hours per week
+
+Review:
+Pros:
+1. Prof. Constantine's explanations are excellent
+2. Really helps with understanding how ML actually works under the hood
+3. Homework assignments really helped to solidify concepts
+
+Cons:
+1. Prof. Sanghavi's lectures were dry and sometimes hard to follow
+2. Some topics covered once in lecture and never seen again
+3. Pacing was a little off - algorithms felt rushed, LPs dragged on
+
+Detailed Review:
+I thought this was a solidly above average course, but it isn't for everyone. This is a math-heavy theory course. If you would rather focus on applications, this probably isn't for you. I think the first half of ML is a good comparison - if you found that interesting, you'll probably like this. If you didn't like ML, you'll hate Optimization.
+
+It helps to have a good grasp on linear algebra (particularly eigenvalues and eigenvectors) going into the class. There is some opportunity to pick it up if you don't, but a lot of the math revolves around that, especially after the first exam.
+
+Lectures are ok. This is a math class, after all, it's hard to make them super interesting. The general rhythm is Prof. Sanghavi giving a formal overview with proofs and then Prof. Constantine diving deeper into key concepts with worked examples. Prof. Sanghavi's lectures are decent if a little dry, and he moves pretty quickly sometimes. There are also a lot of errors in his typed slides (the downloadable PDFs - the handwritten slides in the videos are mostly fine).
+
+Prof. Constantine doesn't cover as much breadth, but he spends a lot of time explaining concepts in detail. His lectures were the ones I re-watched to do homework problems and study for exams. My only complaint is that Prof. Constantine disappears in the last couple of weeks - I honestly had a less solid grasp on the material without him.
+
+I thought the textbook was useful, but it's not an easy read. The value is that it gives slightly different explanations and examples for a lot of topics, and there were definitely a couple of exam questions I got right because I had read the relevant section of the book. You could get through the course without it, and I definitely didn't read the whole thing, but it helped in several cases when I didn't quite get an idea presented in lecture. And it's free online anyway.
+
+The exams in this class are pretty challenging and make up 70% of the grade combined, but there is a significant curve at the end of the semester. A lot of the questions are fairly tricky and will test your ability to think through multiple details of a problem. Homeworks are a mix of straightforward problems and some slightly tricky, nuanced applications. The good news is you'll get full credit as long as you make a reasonable attempt at a problem, even if you don't get it right. Peer grading is a little annoying, but not any worse than ML. Plus almost everyone gets the full 5% for grading quality, so it's a nice boost to your grade at least.
+
+---
+
+Title: Still a mediocre class
+Term: Optimization - Fall 2023
+Posted: 12/10/2023 4:21 PM GMT-8
+Rating: 3
+Difficulty: 5
+Textbook: 2
+Lectures: 3
+Professor: 4
+Piazza: 6
+Workload: 8 hours per week
+
+Review:
+Detailed Review:
+The prior reviews for this course continue to be relevant. Sanghavi's lectures, which serve as the primary way of teaching the information in this class, seem to not be updated from 2018/2019. The content of this class isn't cutting edge so this is alright, but the number of unaddressed typos and errors in the lectures only made them harder to get through. The same goes for assignments and their keys, which is unacceptable because this class clearly recycles its material semester after semester.
+
+The textbook is mostly beyond the scope of the class, and gaining useful information out of it is mostly not worth your time, especially after the first few introductory weeks. Sometimes the homework problems relate to an example from Sanghavi or Caramanis' lectures, but otherwise there tends to be a gap between the lecture and homework material necessitating outside studying or going to office hours for help (which was very helpful with this semester's TA, hopefully it stays that way in the future).
+
+The material in this class is split mostly halfway between convex optimization/duality in the first half and optimization algorithms in the second half. The convex optimization section was taught decently well, with a heavy focus on duality and examples of it being included. The optimization algorithms in the second half are somewhat rushed, with a bunch of variants of gradient descent being introduced in the last 3 weeks with very basic coverage and little to no coverage at all on the homeworks which was disappointing.
+
+The exams are all multiple choice and tend to be unrelated to the lectures and homeworks, not by the material necessarily but by the types of questions that are asked. There is a much heavier emphasis on reasoning through theorems and doing short numerical examples, which makes sense given the 1 hour/2 hour time periods for midterms and final exam respectively, but this disconnect makes it hard to prepare adequately for the exam. The best you can do, especially for the first exam, is to have a strong understanding of the concepts and be able to reason about them quickly. Regardless, the heavy curve applied at the end of this semester makes this class more bearable at least.
+
+---
+
+Title: Probably the worst taught course in the program so far
+Term: Optimization - Spring 2023
+Posted: 5/4/2023 4:43 AM GMT-7
+Rating: 2
+Difficulty: 5
+Textbook: 4
+Lectures: 2
+Professor: 3
+Piazza: 6
+Workload: 12 hours per week
+
+Review:
+Pros:
+1. Generous grade curve
+2.
+3.
+
+Cons:
+1. Lectures are boring and dull
+2. Key concepts not explained well at all
+3. Exam questions can be purposefully tricky/confusing
+
+Detailed Review:
+
+Having now completed over half of the program I think that this is the worst course in the program so far.
+
+The material is somewhat interesting but it is taught quite poorly with boring lectures that just gloss over concepts. The lectures focus mostly on proofs but rarely actually demonstrate how to properly perform calculations, which are required for the homework and exams.
+
+Exams questions are often very vague and designed to be difficult, such as select all that apply. Class averages for these hovered around 60%.
+
+The only redeeming aspect of the course is the generous curve at the end, Otherwise, the entirely theoretical course leaves much to be desired. Just put your head down and get through it, or take Reinforcement Learning instead.
+
+---
+
+Title: Good Theory Course
+Term: Optimization - Spring 2023
+Posted: 5/2/2023 4:32 PM GMT-7
+Rating: 5
+Difficulty: 5
+Textbook: 2
+Lectures: 4
+Professor: 5
+Piazza: 7
+Workload: 7 hours per week
+
+Review:
+Pros:
+1. Interesting Material
+2. Good Lectures
+3. Great TAs
+
+Cons:
+1. Exam Format
+
+
+Detailed Review:
+
+Material/Homework: This course is very theory heavy and can be seen almost as an extension of where linear algebra stops. Although this is not particularly a bad thing, don't come into it expecting a lot of practical problems to work on. Several of the homework problems involved proving certain theorems, performing computations from lecture, and implementing some of the algorithms in python. The material itself was interesting, for example seeing how the dual formulation could be used prove seemingly unrelated theorems.
+
+Lectures: There are two lecturers. The first one goes over the base of the course and has overall just decent lectures. The good thing is that the slides were attached to the edx webpage. The other professor expands upon and clarifies content in the other lectures and these were very good. Only bad thing was no slide attachments are available for these.
+
+Piazza / TAs: Piazza was actually a really good resource in this class. The amount of post was a reasonable level, and students questions and answers were typically very helpful. Both TAs were very responsive on Piazza and gave thorough explanations. The TAs sessions were also very useful. They also had some really great review sessions before the exams that made for great reference sheet on the exams.
+
+Exams: The exams were pretty difficult, with the class averages being very low on all of them. They are all multiple choice, so there is no partial credit. This isn't ideal for a course like this were you can get a problem 95% right but still get no credit due to the all or nothing format. On the first exam, there were several "select all that apply" with over 6 possible choices. Several students complained and they largely reduced these for the two subsequent exams, which made those exams much more manageable. The time limit, particularly the one hour limit for the midterms, also seemed too short for the amount of questions asked.
+
+Textbook: The official textbook was Convex Optimization by Boyd. This is a pretty famous textbook for being the go to book on optimization. It is also known to be a very difficult read with the book riddled with tons of complex math notation. The text could be useful in some sections of the course, but it does require a significant amount of time to parse the information in it.
+
+Overall I enjoyed the subject and have a better appreciation for the subject matter. I also came out stronger at math than I was going in, so that's always a positive.
+
+---
+
+Title: Optimization Spring 2023
+Term: Optimization - Spring 2023
+Posted: 5/1/2023 2:32 PM GMT-7
+Rating: 4
+Difficulty: 3
+Textbook:
+Lectures: 6
+Professor: 5
+Piazza: 7
+Workload: 7 hours per week
+
+Review:
+Pros:
+1. Good balance of breadth of topics covered and depth of material within those topics
+2. Topics build nicely on each other
+3. HWs and exams felt manageable
+
+Cons:
+1. Theory heavy, not enough direct applications discussed
+
+Detailed Review:
+I thought this was a well put together course in Optimization. It is certainly a math class, there are some assignments at the end that require some minimal Python coding but other than that you are working through pen-and-paper examples and proofs. Would have been interested to implement more of the algorithms/approaches discussed, but overall the material was still nicely presented. TAs were great for our semester too.
+
+---
+
+Title: Felt like a pointless exercise
+Term: Optimization - Spring 2023
+Posted: 4/3/2023 6:08 AM GMT-7
+Rating: 2
+Difficulty: 6
+Textbook: 1
+Lectures: 2
+Professor: 2
+Piazza: 3
+Workload: 12 hours per week
+
+Review:
+Pros:
+1. Time commitment is reasonable.
+
+Cons:
+1. Overall, the course feels disorganized and lacks engagement from the instructors.
+2. Peer grading removes any accountability from the course staff to align the lecture content with the homework questions.
+3. The material is very ambiguous and it is difficult to understand what you learned and why you are learning it.
+
+Detailed Review:
+
+I really wanted to like this class, but I just did not have a good experience. Lectures are disorganized and rambling - if you want to re-watch a particular example or topic, you have to dig through hours of lecture videos to find it. Supplementary material is also not provided, so you must rely on the lecture videos to study.
+
+Homeworks are long, tedious, and often are not able to be solved via the lecture examples. Going to office hours was also not particularly helpful as the TAs dance around the questions asked and also don't really seem like they want to help you. You are also required to peer grade other students assignments which is extremely annoying.
+
+Exams are difficult and multiple-choice with averages ~50-60%
+
+---
+
+Title: Save your money/time and take OLO instead.
+Term: Optimization - Fall 2022
+Posted: 2/7/2023 9:53 PM GMT-8
+Rating: 3
+Difficulty: 5
+Textbook: 1
+Lectures: 3
+Professor: 4
+Piazza: 7
+Workload: 14 hours per week
+
+Review:
+This class has two professors. One teaches very well and organizes the material by motivating the topic and explaining each step of any proof he does. Unfortunately, the other leaves much to be desired in terms of presentation and ability to break down concepts.
+
+In OLO, you learn the meat of this course (convergence rates for descent algorithms) without being frustrated by poor explanations and really awful slides. As a result, I actually understood the material much better in OLO compared to when I took Optimization.
+
+- HW is fair and the problems were good.
+- The textbook is really dense, but if you take your time with it, it can help.
+
+---
+
+Title: don't expect much
+Term: Optimization - Fall 2022
+Posted: 12/13/2022 1:53 PM GMT-8
+Rating: 3
+Difficulty: 3
+Textbook: 1
+Lectures: 3
+Professor: 4
+Piazza: 7
+Workload: 5 hours per week
+
+Review:
+Pros:
+1. easy to get a good grade if you have experience with any theoretical math courses
+
+Cons:
+1. no* implementation component
+2. not a great format for learning and digesting the material
+
+Detailed Review:
+According to exam scores (between 90 and 100 on all 3), I did well, but overall I didn't feel like I learned much even though the subject was brand new to me. If the course had any programming component with auto grading I think that may have helped me personally, but instead it's just lectures and exams that don't really measure deep understanding. Basically if you fully understand the definitions, and can come up with simple proofs or counterexamples under time pressure you will do well. Similar to a 300 level math course. The homework assignments sometimes had randomly very difficult problems so I can see how re-doing those wouldn't help much with exams.
+
+Peer grading (5 classmates per assignment) sucks. Rigor in the homework was not expected despite how challenging some of those problems were -- so it's both hard to grade and hard to learn anything from the provided solutions.
+
+Lectures were a mixed bag. This is perhaps mean to say, but one professor clearly put effort into motivating the lesson and explaining things with more rigor - and the other's felt like a hodgepodge of dense content. Unfortunately the clear professor's lectures did not fully cover the material so for some topics, so you only have very poor and boring explanations to learn from in those cases - I watched most of those at 2x speed.
+
+
+*This is partly a lie: some homeworks towards the end had an "implement this" subproblem. I used jupyter notebooks which weren't the neatest, but it was laughable what some people submitted (screenshots of code etc.)
+
+---
+
+Title: A great intoduction to Optimization Theory!!
+Term: Optimization - Spring 2022
+Posted: 5/29/2022 1:34 PM GMT-7
+Rating: 5
+Difficulty: 5
+Textbook: 5
+Lectures: 6
+Professor: 6
+Piazza: 5
+Workload: 10 hours per week
+
+Review:
+Pros:
+1. Covers topics such as Duality ,Linear Programming, Semi definite Optimization , Convex conjugate , KKT etc which is very helpful to understand the world of optimization.
+2. Some of the topic on Duality are really beautiful. This being my first course in optimization theory - at some places it takes you to a all different level of intuition - which is beautiful in nature.
+3. Some of the problems are very much hands on mathematical in nature and not as detailed proofs as OLO - so the pace seems quite right. First part of the course really complements taking OLO and you get to start making sense of some of proofs in Algorithms section of OLO.
+
+Cons:
+1. Second part is similar to OLO algorithms. So you may find it a bit boring towards the middle of second half if you have already taken OLO.
+2. First exam may be a bit not so comfortable, but once you get used to the format, exam 2 and 3 get better.
+3. Doesn't go into details of certain methods such as Simplex/interior point method.
+
+Detailed Review:
+
+A must course if someone cares about intuition and the math behind convex optimization which is very helpful these days for AI/ML . Boyds convex optimization text book recommended (exercise at the end of chapter for instance) may be very useful. The course also takes similar route as covered in other university publicly available courses such as EE364a (Stanford). As mentioned in other review, i am not sure why this course has less ratings, but so far the content itself has been one of the best material covered in the program. For instance, The course touches on Semi definite optimization and leaves you wanting more end of the day.... and if you are person , who care for such material.. you may end up falling in love with such topics craving for more content.
+
+Prof Constantine is a true gem for the optimization material. He is learners delight and brings in passion. I wish the program introduces more topic like combinatorial optimization in future.
+
+---
+
+Title: Learned stuff, massive differences between two professors
+Term: Optimization - Spring 2022
+Posted: 5/7/2022 5:59 PM GMT-7
+Rating: 5.5
+Difficulty: 5
+Textbook: 4
+Lectures: 4
+Professor: 5
+Piazza: 6.5
+Workload: 7 hours per week
+
+Review:
+Pros:
+1. One of the professors in the lectures, makes excellent supplemental lectures that are easy to follow and explain the material well.
+2. Multiple choice exams. Fair final exam.
+3. Interesting material.
+
+Cons:
+1. The other professor in the lectures, who makes the bulk of the lectures is hard to understand and leaves out key points a lot.
+2. Lots of the material makes assumptions and elides crucial details that make the point unclear (ie, assuming constraints to a problem without mentioning them at all).
+3. Exams and homework couldn't be further from each other: the question styles on the exam were a huge surprise on the first two exams.
+
+Detailed Review:
+The first few homework assignments are harder than the rest. The exams really throw you off since the question format & types of questions are very unexpected relative to the homework and lecture material and require a lot of lateral thinking and intuition (especially visual intuition) of the material. Knowing linear algebra is a must, if you don't have a visual intuition for it, the 3blue1brown series helped me a ton. The final exam doesn't throw any curveballs so if you make sure you could do the first two exams confidently, you'll do well. Office hours were medium, hit or miss, didn't find them as useful as in other classes. Textbook was useful sometimes, but had a LOT of unrelated info. Found myself cross-referencing information with other optimization course materials I found online to make sure I understood things. Homework is very leniently peer graded because of a ternary scale. Active and responsive piazza.
+
+---
+
+Title: Definitely improved from prior iterations but you still need to be self-motivated
+Term: Optimization - Fall 2021
+Posted: 12/31/2021 9:56 AM GMT-8
+Rating: 5
+Difficulty: 2
+Textbook:
+Lectures: 5
+Professor: 6
+Piazza: 5
+Workload: 5 hours per week
+
+Review:
+Pros:
+1. Lectures, particularly Professor Constantine's, were pretty good
+2. Problem sets were good for learning and not TOO stressful (generous grading scale with regrades if you get unlucky with bad peer reviewers) with optional problems for deeper dives. Definitely easier than the ML class.
+3. Really not much of a time commitment relative to other courses, so ideal to pair this with something else
+
+Cons:
+1. Multiple choice exams with all-or-nothing questions (including "select multiple checkboxes" where one mistake means a 0 on the whole question) can be frustrating as a source of assessment. And sometimes the questions had too ambiguous wording.
+2. It's very easy to coast thru without learning much if you are perfectly fine getting a B (just turn in everything with a reasonable effort and quickly review prior homeworks before exams).
+3. Some logistical issues could have been handled in a more timely manner by the course staff, but nothing too egregious
+
+Detailed Review: I am assuming that you are entering this class with at least a background in undergrad linear algebra (e.g. ulaff) and differential 100-level calculus (being rusty should be ok); otherwise, please don't take this class as you would be learning very inefficiently. Ideally you take this after Advanced Linear Algebra, but really undergrad linear algebra should be enough. Anyway, assuming all that, here goes: At the end of the day, this course from a learning perspective is essentially "you get out of it what you put into it". Professor Constantine added new and very helpful lectures to support the original 2019 lectures and that has given the class a major boost. The problem sets also more closely match what is actually taught in the lectures. The multiple choice exams can be really frustrating with the all-or-nothing nature but there is a nice fat curve to final grades at the end to compensate and you do get your grades back pretty quickly. If you really care about getting an A, I could see the frustration with the exams (though again, there is a nice fat curve at the end), but if you don't care about such things (B is easy to get) and only care about the learning aspect, then this class is actually pretty good IF you are properly self-motivated. But it can get very tempting to coast without learning much if you aren't.
+
+---
+
+Title: Easiest in the program
+Term: Optimization - Fall 2021
+Posted: 12/20/2021 8:42 PM GMT-8
+Rating: 7
+Difficulty: 3
+Textbook: 3
+Lectures: 6
+Professor: 7
+Piazza: 7
+Workload: 10 hours per week
+
+Review:
+Detailed Review:
+Stands for 2021 Fall. It is a very good learning experience. I don’t know why there are so many complaints and bad reviews. It is really not fair. At least my experience in here is pretty good. It is even easier and less work than ALA. But take ALA before will prepare you for this one.
+
+Pros:
+1. Professor Constantine is the best. He will hold 1 hour professor office hour through Zoom every Monday Afternoon. IT IS RECORDED. I never see any professor in this program will hold weekly OH theirselves.
+
+2. Midterm 2 has RECORDED solution videos to let you fully understand the materials and some of the questions shows on the final as well. It helps me a lot in final.
+
+3. If you have solid background in math. Easy course. No more than 10 hours needed for each week. The homework is straightforward, you can solve it directly by watching and understanding the lectures. It is good to combine with some time demanding course. I combine with NLP and work full time.
+
+4. Two mid-term are just 1 hour and final is 2 hour. Midterm 12-15 questions. Final is 20 questions. Just multiple choices. Sometime you can just put in some special cases to verify each choice. No need to fully prove in math. So it is easier than the homework that you need to write a bunch of proofs.
+
+5. Lectures: Constantine’s lecture has more details and some time give you some background review. Sujay’s lecture is short and straight forward, but it assume you know the background knowledge in LA and Optimization.
+
+6: Grades: A great curve will be made in the end. As told by professor, 75% students got A and A-. One lowest homework is dropped. Just try to keep all HW full marks, so you can just don’t submit the last one and prepare for other course’s final.
+
+Cons:
+1: Less coding part. Almost pure math course. After learning gradient decent and more algorithms, then you need to implement it in python or any other languages you choose. But in some extend, you can understand gradient descent better in a math view.
+
+2. MATH BACKGROUND NEEDED: please note that it is a grad level math course. If you are not comfortable with proofs and upper level math course, it will be hard for you. Take AlA before this will help. I assume all those bad reviews are coming from students are not good at math. Their expectation is this is a CS related course. But it is not. It is a grad level MATH course. So please be aware of that before taking.
+
+---
+
+Title: Definitely the course has got better
+Term: Optimization - Fall 2021
+Posted: 12/14/2021 4:23 PM GMT-8
+Rating: 6
+Difficulty: 3
+Textbook: 5
+Lectures: 6
+Professor: 7
+Piazza: 3
+Workload: 8 hours per week
+
+Review:
+Pros:
+1. Solid and clear lectures
+2. HWs don't take too much time (~4-5 hours)
+3. Weekly office hours held by the Prof. is very helpful
+
+Cons:
+1. The MCQ format of the exams can get frustrating especially with no partial grade when you have to answer select all that apply type of questions
+2. Few typos in some lectures
+3. Boyd book is not very helpful towards the second half of the course
+
+Detailed Review:
+
+I was quite apprehensive when I took the course as it had several negative reviews but look like the Prof. has really put in some effort to make it better. The HWs weightage towards final grade is increased to 45% and the several problems in the HWs were made optional so that HWs on an average takes only about 4-5 hours if you get a good grasp of the lectures. The Prof's weekly office hours is quite helpful to get answers on some gray areas if any in the HWs or lectures - try to utilize it to the max potential. I never attended any TA sessions so cannot comment how useful were those. There are 2 midterms and 1 final and all of them are MCQ format so if you happen to get anything wrong there is no partial credit. The grades are curved so definitely a good possibility to get an A if you get >95% in the HWs and clear the exams with decent grades.
+
+---
+
+Title: Ok overall
+Term: Optimization - Fall 2021
+Posted: 12/12/2021 9:55 AM GMT-8
+Rating: 4
+Difficulty: 4
+Textbook: 3
+Lectures: 5
+Professor: 5
+Piazza: 4
+Workload: 11 hours per week
+
+Review:
+Pros:
+1. Reasonable time commitment
+2. Solid and clear lectures
+3. Pass complaints of grade weighting no longer applicable. 45% of grade is HW, very reasonable to get 95%+ on.
+
+Cons:
+1. Professor ignoring some important class logistical questions on Piazza
+2. Class not suited well for multiple choice exams -- clearly format is only used for ease of grading
+3. Some people ignore the suggested leniency for peer review grading.
+
+Detailed Review:
+My main issue with this course were the exams. The all-or-nothing format of multiple choice, particularly the "select some/none/all" types were very frustrating. Exam 1 was 15 questions, exam 2 was 12 questions, and the final was 20 questions -- missing even 1 question significantly knocks your grade on the exam down. However, considering 45% of your grade was homework and 5% was participating in peer reviews, you can manage to do reasonably well in this course without scoring high on the exams.
+
+Also, the professor was reasonably helpful for course content questions on Piazza, but logistical questions about grading, content release date, grade distribution questions were often left unanswered for days/weeks/sometimes completely ignored.
+
+---
+
+Title: Optimization
+Term: Optimization - Fall 2019
+Posted: 3/9/2021 3:21 AM GMT-8
+Rating: 1
+Difficulty: 6
+Textbook: 1
+Lectures: 1
+Professor: 1
+Piazza: 1
+Workload: 6 hours per week
+
+Review:
+This class was disjointed. The homework was different from the lectures and the test were different from the lectures and homework. Also the class has no application portion. I honestly left the class not really sure what I learned. It was a huge disappointment.
+
+---
+
+Title: 
+Term: Optimization - Fall 2020
+Posted: 3/5/2021 9:12 AM GMT-8
+Rating: 2.5
+Difficulty: 2.5
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 8 hours per week
+
+Review:
+TLDR: If you want to learn convex optimization, look at Boyd's free edX class; if you're just taking this for requirement, it's probably a tossup between this and Algorithms. Coming from a fairly strong math background with optimization experience (but not convex) the class is easy. The content is fairly simple and straightforward. Homeworks can generally be knocked out in a day or a couple of nights if you watch the lectures. There are a couple of questions that were widely regarded to be impossible with the knowledge presented in class. Went to office hours for these and the TA basically gave away the answers (sometimes literally showing the solutions). As others stated, the tests are where this course falls short. The multiple choice all or nothing format is brutal, especially with the select all that apply questions. The 2 midterms seemed to be about 50% related to what was taught in class and 50% properties of linear algebra that are used to derive the algorithms taught in class whose derivations are never gone over. The final seemed far more relevant to the material but still had a couple of these questions. Every test took all the time that was given and more. The professor stated that "a take home test would be ideal but isn't feasible." I'm guessing this is based upon how grading would happen because even though the tests were automatically graded by the edX platform, students' grades were not available for weeks after the tests were due and well after the solutions were given. The textbook's author now has a free edX class for teaching convex optimization, so checking that out if you're interested in the subject may be a better call. I prefered this over Algorithms but depending on the person I think it could go either way so if your only interest is in the requirements I'd probably steer towards algorithms more due to its more general applicability.
+
+---
+
+Title: 
+Term: Optimization - Fall 2020
+Posted: 3/5/2021 9:12 AM GMT-8
+Rating: 2.5
+Difficulty: 2.5
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 10 hours per week
+
+Review:
+Came in with a strong math background and didn't find it too hard. The multiple choice exams still messed me up though. The content in this course is sort of ridiculous, it's like two separate optimization classes copy and pasted onto each other. I found the current professor's efforts to make the content better helped, but still left the class feeling a little disorganized conceptually. The problem sets seemed to get easier as the class went on, and more and more simply minor variations on problems derived in the lecture. The multiple choice exams will be good for you if you are good at multiple choice exams. I basically just taught myself the content from pdfs from other schools I found online. Compared to those classes, this one is extremely lacking. Take it if your background is math and I think you will find it tolerable, but not very enlightening.
+
+---
+
+Title: 
+Term: Optimization - Fall 2020
+Posted: 3/5/2021 9:12 AM GMT-8
+Rating: 2.5
+Difficulty: 5.5
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 10 hours per week
+
+Review:
+As stated before the material for this course isn't terribly complex. The lectures are super dry, and sometimes feel disconnected from each other as you switch between the professors, and often only focused on the theoretical side of optimization, skipping showing how to solve actual problems. The problem sets were generally difficult, sometimes almost requiring you to go to office hours to be able to solve them, but this is counter balanced by a generous peer grading system where you get full credit for having the right idea and half credit for just trying a question. The exams are super difficult, focusing on a lot of minutiae that was only breifly mentioned in lecture, and presenting problems in an entirely new format. The course would be greatly helped if they had just one professor handle all the lectures and tune the lectures to their exam style.
+
+---
+
+Title: 
+Term: Optimization - Fall 2020
+Posted: 3/5/2021 9:12 AM GMT-8
+Rating: 2.5
+Difficulty: 5.5
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 10 hours per week
+
+Review:
+Agree with above - the material isn't terribly complex and the psets aren't that bad, it's just that the tests themselves are difficult (and feel disconnected to the material) and are 75% of the grade. I thought Algorithms was a better class (but more work), so if you have to choose the lesser of 2 evils I'd say pick Algorithms.
+
+---
+
+Title: 
+Term: Optimization - Fall 2020
+Posted: 3/5/2021 9:12 AM GMT-8
+Rating: 1
+Difficulty: 7
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 8 hours per week
+
+Review:
+(This was pulled from the old reviews sheet and did not have any text)
+
+---
+
+Title: 
+Term: Optimization - Fall 2020
+Posted: 3/5/2021 9:12 AM GMT-8
+Rating: 1
+Difficulty: 7
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 10 hours per week
+
+Review:
+Yes, this class is really a 5 in difficulty. Not because the content is hard. Not because the homeworks or exams have difficult questions, in the right context. This class is a 5 in difficulty because the tests for this class come from a specialized linear algebra class. Tests are 70% of your grade. This means, whether you read the title of the course or not, this is not an Optimization course. This is 70% a hellish Linear Algebra class. You are tasked with learning linear algebra. All of it. Because you don't know what part of linear algebra the test is going to cover. It feels like studying Biology and then accidentally walking into a Physics exam for the final. So this course requires 8 hrs of work per week. Because the content truly isn't difficult. But this class is also a 5 in difficulty. Because while you can study and pretend you are prepared for the exams, all you can really do is realize you have no control over you present situation, play CoD while tilting your head as to keep the tears out of the padding of your headphones, not ever review lecture material, and take the exam completely unprepared. Why? Because preparing for Optimization doesn't help you in a Linear Algebra Class. Your test grade is the same whether you've prepared or not. Because you'll never be able to prepare for obscure linear algebra without knowing which obscure linear algebra to know, and you don't. Good luck everyone. It's still a better choice than Algorithms.
+
+---
+
+Title: This is truly one miserable course
+Term: Optimization - Fall 2020
+Posted: 3/5/2021 9:12 AM GMT-8
+Rating: 1
+Difficulty: 7
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 20 hours per week
+
+Review:
+Midway through the course right now and I'll update this review later. Decided to leave a review because there aren't many here. This is truly one miserable course - it is undoubtedly the worst course I have taken in my entire academic life. The lectures are okayish but they just go over the concepts and don't teach you how to solve problems or do proofs. The course covers a lot of ground-- on average we have about 2.5 hours of lectures a week and they are packed with new concepts and barely have any example problems. We have had a problem set due almost every week now and they have been a real task. There are questions on the problem set that are nearly impossible to solve because you won't find similar questions in the textbook and the lectures barely do any proofs. The course textbook is quite intimidating to read and since the lectures don't help much, you will have to work your way through that dreaded book. The name of the textbook is convex optimization by Boyd and Vandenberghe and is available for free online- so you can check it out. I don't understand how the previous reviews claim that they spent only 10 hrs/week because I'm easily spending 20 hrs/week on this course. The weekly work till now has been - watching and understanding the lectures, understanding the solutions released for the previous weeks problem set, grading 5 peers, deciphering the current weeks homework, trying to attend office hours, reading the textbook, reading piazza posts about clarifications regarding the homeworks (every problem set till now has had mistakes and some questions are just vague) and then finally spending hours trying to solve the homework problems. We had the midterm a few weeks ago and it was brutal to say the least. It was multiple choice so no partial credit. Most questions on the midterm were not related to the lectures, the homework or the textbook! It had many tricky questions and the options given were extremely close in correctness. To add to that, we just had one hour to complete it! So all in all, the midterm just felt like a guessing game that did not judge what we had learnt and seemed highly dependent on luck rather than knowledge of the subject. To make things worse-- 70% of the overall grade comes from such exams! The only good thing about this course is that the professor is very active on piazza and I've seen most students questions are answered within a couple hours. Seems like this course is gonna cost me $1000, a whole lot of time, points from my GPA and in the end I won't learn much either. I Definitely wouldn't take it if I could go back in time.
+
+Update: The second midterm was a disaster as well because nearly half the questions required knowledge of some obscure linear algebra concepts. The final was much better and actually had questions that were indeed from what we had learned this semester in this Optimization course (though a few questions still seemed unfair and thus purely dependent on luck). In the end, professor Caramanis was very generous and the class was curved quite heavily, but I still feel that the exams (which is 70% of the grade) were not a good indicator of how well we learned the subject and I still think that most of it just depended on luck. The all or nothing grading scheme didn't help either.
+
+---
+
+Title: 
+Term: Optimization - Fall 2019
+Posted: 3/5/2021 9:12 AM GMT-8
+Rating: 2.5
+Difficulty: 2.5
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 10 hours per week
+
+Review:
+The content of this course was good. The video lectures were fine, the assignments and exams were not very difficult. It is a good overview of mathematical techniques critical to Machine Learning and other fields as well. It was also a helpful reintroduction to proofs, which made other classes easier.
+
+However, this was just about the worst run class I've ever had. The TA and professor were totally AWOL on piazza. Simple procedural questions about grading went unanswered for the entire semester. Lord help you if you had questions about the actual assignments or what to study for exams. Early morning office hours were rescheduled in the middle of the night with no warning. There was zero guidance on which book chapters were necessary to read, and they were necessary to complete some of the assignments / exams. They literally said to figure it out from the lecture topics, but some of the book topics you needed to read weren't covered or mentioned in any lecture topics.
+
+With a more professional TA and professor, this class would have been okay.
+
+---
+
+Title: 
+Term: Optimization - Fall 2019
+Posted: 3/5/2021 9:12 AM GMT-8
+Rating: 1
+Difficulty: 5.5
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 10 hours per week
+
+Review:
+This is a theory based course. The theory you learn in this class will carry over to other theory classes like
+Machine Learning. In hindsight the actual material that is taught is not too difficult, but because of the poor
+communication, the poor lecture videos, and frankly a TA that was not helpful and absent in Piazza, you were on your own
+to learn the material from the textbook. You basically paid $1000 to teach yourself the concepts via whatever
+you could find on the internet. For the most part the homeworks did not follow the lectures, and that was frustrating.
+The exams were similar. They said they are fixing up this course, and I hope that they do, because the content here will
+definitely help you in other theory courses, and they really aren't that difficult to understand. Machine Learning has easier
+theory than in this course. If you do decide to take this course after they rework it, I would still wait another semester to
+see if students have a better sentiment.
+debugger eval code:101:11
+

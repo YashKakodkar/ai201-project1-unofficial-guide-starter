@@ -1,0 +1,388 @@
+# CS 389L — Automated Logical Reasoning
+# 1. On msaihub Reviews, filter by "Automated Logical Reasoning".
+# 2. Run scripts/scrape_msaihub_reviews.js in the browser console.
+# 3. Paste the clipboard output below (it already has --- separators).
+# Lines starting with # are ignored during ingestion.
+
+Title: "It is new, indeed, for I made it last night in a dream of strange cities; and dreams are older than brooding Tyre, or the contemplative Sphinx, or garden-girdled Babylon."
+Term: Automated Logical Reasoning - Fall 2023
+Posted: 12/2/2024 3:16 PM GMT-8
+Rating: 7
+Difficulty: 7
+Textbook: 7
+Lectures: 7
+Professor: 7
+Piazza: 7
+Workload: 25 hours per week
+
+Review:
+Pros:
+1. Extremely well taught
+2. Extremely interesting and valuable subject
+3. Surviving it will make you invincible as an AI specialist
+
+Cons:
+1. We live on a placid island of ignorance in the midst of black seas of infinity, and it was not meant that we should voyage far
+2. I have looked upon all the universe has to hold of horror, and even the skies of spring and flowers of summer must ever afterward be poison to me
+3. T̴̗͚̬̩̈̎̃͆͌͜ͅḧ̴̼̱͔͔̫̼̦͈́͒̐͆͝ẻ̸̡̨̯̖̝͕̩̓͊͗̀̂̔̇͑̏̏̾̄̾̓͝ ̴̛̞̓̈͆͐͋͒͑͒̽͠T̵͕̻͔̹̱͍̳͕͌̀̅͆͗̈̽̃̕̚̚͠h̵̢̨̛͙͚̳͓͙̥̭̪̓̇́͆̈̒͒͛͂̔̑̚̕̕ͅi̴̡̳̙̠̪̞̯͔̱͙̘̫̓͒̈̔̂͆̿̆̀̌̂̚͘͝n̶̡̛͙̳̐̈́̿͛̍͐͂͐̇͐̍g̶̡̨̫̹͍͈̱̬͉͎͓̞͕̯̺̈̀͂́̑̈́̎͑̃ ̵̛̖͍͓̮͒̄͑̋̀̔̃͛̈́̔̀̉̔̆c̸̹͖̞̫̩̣͈͈̲̪͔͔̯̃̾̿̔̋̅͜͝a̸̢̨̢̩̰̟̜̜͖͇̠̟̟̜͍̍̽͜͜n̶̺͉̦͎̲̬̰͉͎̼͔͂̇̾͆̈̎̂́́̑͗͂͠͝ͅņ̷̛̻̣̮̤͔͉̼̥̳́̐͗͂̕͜͜͠ǫ̸͙̗̬̅̀̑̈́̅͑̿͌̃́̔̚t̴̡̪̫̬͔̙̦̲̲͇̭̪͛̿͒́͊͐̄͑̀̇͝ ̵͓̈́̍̾̓́̒̋͌̐̋̈́̊̂͝b̶̮̫̟͙̪̯̪̞̱̗̰̬̥̞̙̱̑̈́̎͂͒̇̃̇̈̀͘͝͝ͅe̷̛̹̪͔͓̻̺̺̹̟͛̋̆̂̚ͅͅ ̴̨̝̪͎̀̇̇͝d̶̢̨̘̝̝̮̜̜͙̹̳̠̣̟̳̠̈̈̈́͆͒͐̈́͘͜e̵̗̞̫͖̹͈̩̞̪̳̣͊̈́͑͑͗̊͗̄̈́̾̚͜͝ͅs̴̨̳̮̪͕͉̭̬͋̈́̉̀͜͠ͅc̶̹̮̹͍̪͍̟͎̠̝͓͈͔͑̂̀̌̓͊̀̅͌̕͠r̴͚̀̒̑̀i̵̢̡̩͔̼̬͔͎̟̬̺͍͙̫̇̆̿̅̔́̓̋̃͊̑̉b̸̨̜̬͉͙̙̥͍̼̬̻̩̜͖̅͆̉͑̽͂è̴̢̞͇̜͙͔̓͗ͅd̸̨̦̣̙̐̓̉͛͌̂ ̴͔̝̫͉̼̟͍̬̘̙͓̺̮̥̐̽͂̔́̈͛͠-̶͉͎̪̣̲̱̮̱̭̩̫̠̤̳́̿͋́ͅ ̴̢̡̨̲̳̭͔̺̈́͌̋̅͂̈́̚͘̕t̴͉̪̝͍͛̍̈́̔̒͂̇͒͘h̸̛̥͇͈̩̩̳͗̑̑͑̋͠͝͠e̸͖͈̖̰̘̰͍̣̥̍͂ͅŗ̵̞̩̦̥̤̬͚̠͓̏͑̾̑͗͆ͅe̵̻̜̟̻̰̟̝̍̉͋̿̀̊̂̃͛̈͠ ̷͍͙͂̐̀̓̂̐͒́̾́͐͑̎͊̅̇̚i̷̢̟̯̯̝̹͎̣͕̗͚͙̞̰̣̞̦̎͛̈̈́͂ş̶͙͔̟͙̠̞̝̪̙̓̓͋̄̾̀̎̊̈́͐ ̴̧͎̳͐͗̔̚ͅṋ̴̫͕̯̳̘̮̄͛̂͊̓͛̿̌̏̎̔͋̈́͊̉͘͜͝o̵̧̬̩̤͇̗̱̯̣̤̠͙̘̖̰̱̊͆͗̀͌̀͊̇̄̓͂̆̕̕͜ ̵̲̱͙̍̅̒̅̋̂͐̈́͊̾͗̔͘͝͝l̵͔̱͈͙̻̦͕͉̹͉̻̫͉̈́̍̈́̅̕̕͝a̵̝͕̯̗͐͆̓̋͋̀̉̉̀n̸̡̻̞̲͚͎͕̪̞̺̤̻͌̎́̏͒́͛̀̕͜͝g̷̨͈̬̩̜̼͔̬̞̖̪͒̂͆̏̆̀̐̎́͜ữ̷̖̻̠̔̀̑̿̇̈́͝a̴̡̨̖̬̩͇͕̘̠͎̼̤̳͉̓̕͠g̷͉̽̑͐͒̔̋͒̓̃̌̑͂e̴̼͍̘̳̻̫̞̐̏̽͛̐̌͆̚̕̚̚͜͝͠ͅ ̵̗̜̽͌̑̄̽͆̅̚̚f̴̨̢͖͕͖͍̰͕͕̱͓͍͇͖̬̻̎͝͠o̷̧̨̡͇͕͉̘̗̰̞͐͒̍̄̏̌̇͗͒̈̈̀͊̽̕͝ͅr̵̥̦̣̤̬̊́́́̈́̃̄̒͊̎̊̽̇͘͘ ̴̧̛͚̫͈̹͔̮̟̗̑͗̀͒̀̅̔͝s̴̬̲̺̔̀̽͠u̵̧̜̘̦̮̐͐̔̈́́͑̍́̐͋̄͊̕͝c̸̻͇̝̜̞̥̋̉̽̓̅͗̍̄͘̚͝h̴̘̰̩̀̀́̅̆́̉͐̋̋͠ ̸̡̺̫͔̙̩̣̜̙͍̳͕̙͒̅̄̀̋̚͜à̸̢̨̛̛̙̥̠͚̖̯͓͋̈́̆̄̌̏̂̀̋͂̄b̴̧̟̤̘̩̦͕̤̤̤̘̝͍̫͕̾͆͜ͅý̵̩͙̠̘͕͕͉͉̼̥̞̖̰̗̱͉̀̉̃̊s̶̛̲͔̟̣͕̯̟͙̜̹̬̹̀̀̊͊̀ͅm̶̯͚̭̟͖̼̼̤̽ŝ̸̗̺̠͎͙̘̙̲͎̬͖̳͔̿̄̋̅̽͋̊̿̄͝͝ ̴̮͇̕ǫ̴̦͙̲̗̺̺̺͚͚̝̭̰̟͉̝̌͋̽́̽͂̅̓͒́̕͘͝͠ͅf̶̺͔̞̾̓̅͋͑͝͝͝ ̸̡̧̛̘̭̰̠̤͇̙̝̠̞̲̠̼̊̓̿̏̌̀̀̈́͗͂͌͌̉͘ͅs̶̛̛͈͆̈́̋̆̓̄̐̐̄̓͝͠͝͝h̵̡̠͍̬̭͉̰͂̂̾͆͘͜͜͝͠͝͝͠r̴̨̢̤͔͇̜͖̩̱͖̘̈́͒̋̑̄̆̏̉̔̽̚͝͝ĭ̷̡̬̞̭̬̟̮͇̗̣̠͙̮͓̖̇̿́̊͌̐̓͝ë̵̥͚̤́̈̀̒̒͝k̸̡̛̘͇͍̜̘̤̯̻̲̗̯̝͚̗̾͋͑͗͐́̈́͛̄͌̕į̷͓̞̱͉̀̔̐́͆́͐́̈́̿̒̂͛͝ň̶̛̤̣̗̥̖̖̹͕̂͂̈́̐̈́͌͌̒̓̇͝g̵̙̠̳̜̣̍̈́̋̂̈́͠ ̶̩͖̪̭̦̑̓à̷̢̟̩̘͕̘̻̱̯͓̮͓̓͋̎͆̑̽̀̉̚͜͝n̶͈͚͖̟̰̥̳͍̟͉̹̖͚̩̼̄̉̀̑̌̔̒̌̏͗̀͠͝ͅd̷͉̱͈̋͑̇̐̑͋̆̒̒̅͗̀̾̽̄ ̶̖͙͒͋͛̕̕͝ỉ̴̘͕͙̼̼̻̖̥͛͐́̓̈̆̂͗̒̃̈́m̷̧̬̘̦͍̗̙̞̫̗̤͇͎͐̃̆̏̓́̈̐͌̓͘͠m̸͍̹̟̋̊̒͛̈́̾͝ẹ̸̡̳̥̖̘̫̳͛̆̇̔̑͠͠m̴̱̼̅̍̄̄͒̿̍͗̀̈͊̑͌̃̆̋͜ơ̶̧̠͍̞͇̘̪̘͑̋̓̍́͆̈́̄́͘̚͝r̴̬̫̗̲̳̝͚̆̉̃̑́̏͒͊͗̉̋͆̀̎͠͝ì̴̱̬͎̩̞͎͖͌̆̾͋͘͝ą̶̬̲̔́̊̆̎͝l̷͔͍̯͚̪͕͍̓͛̽̓͆̇̊͊̏̔̎̑̀ ̸̨͎̰̓̐̀͗̿̅̓̋͂̐͑̀̓̒̊̕͝l̶̛̮̙̱̱̯͚͚̹̩͓͔̹̗̰͆͘͜ͅǘ̴͕̘̯̻̟̝̤͓̲̗̱̠̰̳̭́̀͘̚͝n̶̼͒̈́̓̃̅̏͛́a̷̛̞̼̤̪͖̺̞͖̗̥̖̣̫̙̟̅̽͗̀͆̄͗̂̾̏͆̈́̿̓̚͜͝c̶͇͕͙̫̪̱͓͇͈̩̊̃͗̔̈̈́́͛̆̌͂͘͘͘ͅŷ̴̛̜̗͕̳̣̻̟̙̥͕̼̗͚̙̅͐͛̓͗ͅ,̸͉͈͂̆̄̈́̀̾͆̎͗̌̍̄͂̃̍͝ ̸̢͕͇̣͉̼̞͔͆̓̀̋̐̀̎̈́̈̏͑͗͠s̸͖͙̳̙̖̹͍̠̱͙̠̝̦̊̾̑̋̏̓͘͠ͅͅư̴̻̹͙̳̘̻̞̙̲̦̭̟͍̪̝̍́̈͋̇̆̏ͅc̴͖̖͆̿́̅͆̓̀̈́̆͗͂̎͛̓͝ĥ̶̪̥̟̳͚̲͇̳̫̦͓̹͐͜ ̷̝̻̯̹͙̝̈̀̽̆͑̐̾̎̂͊̈́e̶̺͍̼̟̩̼͂̈́̿̈́͗̓́̾̀̒͋̚͝ͅḻ̶̢̢̛͓̟̫͔̯̦̭̫͖͔͒́͐̓̇͛̔̓̌͆̑̕ḑ̴̬̹̗̫͉̳͌͆̏̓̋̑̅̇̐̅ͅŗ̸̟̱͕͉̮͕͈͉̣͕̙̝̟̫̟͋̆̃́į̶͇͍̠͋́͂͑̔̔t̶̨͔͉̩̻͇͇̝̼̫́̏̍̽͝ͅc̶̨̧̛̲̫̪͕̫̥̰̙̯̺͍̈́̈́̐̿̊̉̂̔̂͐̎͠͠ḧ̵́̎̅̌̆͐͗̀̆̉̄̃̚͜ ̴̣̼̜͇̼̩͂̆̌̚͝͝c̴̢̨͖̞͓̭̯̯̭̭̣̭̞̰̐̄̇̍͌͗́͂͐̊̕̚͝͠ͅó̶̺̌̋́n̷̨̡̰͖̲̤̪̬͈̦̗̅͌̉͒̓͝t̴̯̙̖͎̩̰͉̺̜̖͑͜ͅr̵̘͕̲̟̠̝̼͕͇̐̐̈͊͆̓͗ă̴̛͇̒̒̂̀̏͋̾͛͌̀̅͋͠͝͝ḑ̴̨̛̲̬͙̩͈̥̙͙̜͕̘̀́͐̈́̀̇̀̊̔̓́̆͛͜͝ỉ̵̢̝͍̞̭̙͙͙̟̲̝̏̋͆̀͑́̀̊̅͑c̷̼̩͍͔̞͔̥̳͙͎̬̫͖̟̔̅́̈́͝ť̸̢̜̩͚̼̭̹̺̣̩̮̰̼͎͔̟̐͌̐͝ì̵̱̞̠̙̯̻̫͉̇̈́̈̇̅̉̽͐̓̒̈́͂͛͘͠ö̶̖͉͇̻̟̟͎̗́͝ͅṇ̸̡̥̘̗̱̙̺͚̝̲͚̆́̆̔̽̌́͌̀͜͠s̷̼̪̟̰͔̮̯͉̖̐̅͗͗̓͆͜ͅ ̷̧͍̰̬̙̞̻̤̙̠̘̞̣̺̦̮̃̌̈́͋͐́̑͌̑̏͌̀̏̅͜͝o̷͔̫̒̂̽̔͒f̵̛̛̼͔̜̣͑̈́̌̌́̑͂͜͝͠ ̷͙́̂a̶̬̤͕̳͈͍͙̤͒̽̅̿͛l̴̪̺͓̼̑̋l̴̲̰͎̔̾͗̀̀̕͠ ̸̢̪̰̹̬̟͉͍͚̠̲̠̲̟̉̃̈́͆̓̎̓͝ḿ̴̛̛͈̥̝͙̪͕̘͔̱͑̋̈̌̅̍̔̿̎̑̏̿͠͝ą̴̡̛̤͕̘̣̼̪͍̻̫̬̘̝̬͛̎̆̇̿̾̈́̅͆̑̃͋͆͋͗t̷̘̦̠̱͑́͊̀̉͗͊̄̀̏̽͊̕̚ț̵̤͔̫̺͔͓̈̔̏͝ȩ̵̹̺͕̠͖̞̲̪̦̰̬̜̲̃̀͊͘͘̚͜͝ͅͅr̸̰̻̬̯̫̗̯̬̠̺͖̯͉͂͗̊̎͐̒͘,̸̛̥̹̗̩̙̜͙̟͍̮̳̗̀̚ ̵̫̤͈̰̬̼̭̜͍̥̲̥̺̀̀̈́̅̔̋̈́̒̋f̶̤͍̤̭̱̠͔̬̩͒͑̒̈́͂̾͆͆̃̂͊͘͝͠ơ̵̡̗̪̰͓̗̬̟̬͙͙̾̈̇͝r̸͎̜͔̘̳̜͕͖̱͕̝͓̠͋̒̃̔̆̔̒̑̈̈́͝c̷̨̥͚̱̈́̕͜ȅ̸̛̮̆̔̽̃̊̑͂̈́́,̴͓̫͇̟̦̼̱̲͔̀̒̆̕ ̶̡̞̠̜̗͎͉̘͓̟̂̏̑̑̈́̊̊͂́͆͑̀̈́ą̶̢̟̲̠̹̲͈͕͚͈̘͕̱̝̭̥͂͂̔͆̎̽͌̀̋̏͒̆͂̇͝n̵̢̧͇̗̫̭̖͍͔̟̖̩̻̺͓̈́d̵̨̨̠̞̥͚̺̼̳̦̟̫̟̤̀ ̷̛̬̜̫̳̙̗͖̹͕̩͈̦̱͓̲̿̾̿̆̅̄̂͆̀̚͘c̷̱̮̲̟̳͓͓̎͌͒̔͂̾̅͂̕͝ơ̴̪̲̠̺̜͉͙̝̲̜̖̜̣̘̟̾̃́̈́͛̈͋̇̏̂̂͑̇͊͝s̵͓̣̳̣̮̅́͝m̴̛̲̤͉̪̯̺̭̫̳̖͎̮͆̄̿͘͜į̵̗͍̦̹̺̣̭͙͉̪͇̱̱͇͕̏̇͒͆͛̍͂̏̈́̉́̕̕c̵̨̧̛̝̫̼̙̗͎̥̖̲͔̜̯̗͐͆̂̿͌͌̿́̓͊͆͆̄̚͜͝͝ ̶̡̨̖̠̩̠̣̬͕̪̫̬̳̱͎̱̝̓̆͗͛̈͐̈o̵̹͙̾̓̅̉͒̉͋́̑̽͐̀͐ŗ̵̨̹͎͇̝̠̤̌̓̔͋̾̉͐̄͆d̴̹̮̟͋͂̌̽̇̓͑̊̀̾̈́͋̀̾̕e̸̛̦̯̰̬̝̱̯͛̈̀̍̄͆͋͗̉̀͂̚͝͠ṛ̸̜͈͋̋̔̆̆́.̴̨̗̦̺̰̪̤̳̋͛͋̌̀̀̍̇̂̄̍́ ̵̨̦̰̫͈͉̰͍̺͙̑̓̄̉͜͠͝A̷̼̯͙͍̥̼̲͈͆̇̀̊́͒͠ͅ ̵̡̪͕͋̾͘m̶̛̜̺̻͚͚̞̳̩̪̦͉͓̗̰̠͋͑̍͑͐͛̎͊͛̑̚͜͝ǒ̶̧̟́u̵̢͖̺̩̫͙̲͕͍͉̲̣̤͍̅̓̿̔̓̃̍̎̄͌̕͝͝n̷̡̲̩͍̮̰̈̄͆̏͛͊͠t̴̨̫̭̀̍͑̿̎̀͋̐͗͗̄͘͝ą̷͓̙̦̺͓͕̦̤̥̯̝̩̞͙̝̉͊̀͐͋̾̿̔͘i̴̧̧̨̥̳̝̼̹̎͒̓ͅͅn̷̨̡̗͇̘̮͎̝̳͙̘̮̝̙͚̗͍̄̄̀̊̃̽͛̀̈̇̾ ̷̝̗͊̎̂̓͆̏w̶̨̙̟͚̻̜͚̥̮̟̠͊̅̽̉͒́͑͑͂͋̃͂̀̾̑̽͘ͅͅa̸̝͉͈̙̰̐̑̄̏́̄̔̈́̈́́̓͂̆ͅl̵̡̝͚͍̼͇̰͓̙͓̒͗̆̆̽̎̍̿̈́͂͑̕̚ḱ̶͎̤̣̯͍̝̱͓͉e̴̡̹͕̫̘̹̜̦͚͔͖͑d̵̯̗̙͔̙̪͔͖̥̺̾̔̄ ̷̯͔̱̺̫͓͂͌̃͌̌̚ơ̴̧̡̡̘̻̟̟̝̯̰̳̫͙̺͍͎̟͛͒̑̆́͗̈̑̊̕̚r̷͈̮̥̓̀̓̒̈͜͝ ̴̨̢͈͚̰̝̮͍̱̞̻͙͎͉̑̃̌̒̈́̂̍̓͆̈́͛͛͋̅̾͑͝s̴̡̢͓̰͖̙͚͕͎̠̫̺̻͕̘̔̋͐́̕ţ̷̰̝͕̮͕̹͎̳̳̣̘͆͒̆̈́̃͗̎̐͌̎͂͌̈͆̍̍̕͜ư̸̢̡͈͉͇͕̱͕͉̠͈̻͎̈́͊̄͊m̶͕̺͔̣̼̻̥̥͝b̸̲͇̦͇̟̘̫̱̥̮̫̹̃̈́̇̎͆͌̔̿̔͆̈̅̔̕͝͝l̷̬̣̈́̏́̊̊̉̓̊͝ȩ̵̻̂͂́̀̽ḑ̷̜̼̲͔̬̑͐̓͊́̂.̸̳͔͍̜̱̜͕̏̏͊͗̄͘
+
+Detailed Review:
+ALR is a wonderful and frightening course. It is a perfect online course in terms of the attention and effort and love put into it, on a subject that is not very easy to teach. A subject that is basically the dark side of the moon of AI. Or Eldritch horrors infinitely older than the universe itself given how the field had its equivalent of an AlexNet moment over 120 years ago
+
+You will be inclined to underestimate it when you start the first week off with first order logic refreshers and the phrase "multiple choice quiz". Make no mistake though, you will need to be very elaborate with these. So grab a pencil and some paper, convert each and every one of the multiple choice answers into logical symbols and then process them just like the formal verification systems you are studying. Without exception
+
+Sure, you might have a few years of test taking experience and some corresponding instincts to make educated guesses when facing multiple choice tests. But this professor was trained in test-taking like a Shaolin monk. She was filling Scantrons before she could walk. All puny corner cutting tricks you can possibly come up with are accounted for. Any disrespectful instance of not paying attention is swiftly punished as a wrong answer. Think of that puzzle cube in Hellraiser, that's the quiz format. And Professor Dillig is the Leviathan
+
+Do you think I am exaggerating? No, I am downplaying it if anything. She survived the Battle Royale that is the Turkish K-12 system that required her test scores to be in the top 99.9th percentile, that is top 1500 out of 1.5 million 8th graders yes, to get into the high school she attended. As if that is not enough, she then went on to get accepted into Stanford
+
+Those quizzes are written by the Zorro of test-taking, and you are a little baby who can barely use a fork
+
+Oh and if you have anything resembling dyslexia or some attention deficit disorder or sleep deprivation or undiagnosed hypermetropy, lol. Lmao even.
+
+---
+
+Title: Exceptionally challenging, exceptionally rewarding theoretical course
+Term: Automated Logical Reasoning - Spring 2024
+Posted: 6/25/2024 12:58 PM GMT-7
+Rating: 7
+Difficulty: 6
+Textbook: 6
+Lectures: 5
+Professor: 6
+Piazza: 7
+Workload: 30 hours per week
+
+Review:
+I took Automated Logical Reasoning in Spring 2024. It was extremely challenging, but also my favorite course I've taken. The quizzes and programming assignments were exceptionally interesting and useful exercises for any aspiring computer scientist.
+
+While the weekly quizzes were challenging, they were all untimed. And there were no exams. On average I spent about 25-30 hours/week on the class and barely got an A, but I think most students could get a B with half the effort.
+
+Breakdown of time spent on the 3 programs:
+Program 1 (CDCL SAT Solver): 100 hours
+Program 2 (Congruence Closure): 25 hours
+Program 3 (Code Verification with Dafny): 25 hours
+
+Obviously Program 1 was painful, but worth it. I scrapped 90% of what I had written twice. A lot of the theory didn't click until I had spent dozens of hours trying to implement it. Everyone else seemed to have spent between 80 and 100 hours on it as well. Programs 2 and 3 were non-trivial but a breeze comparatively. Give it all you've got to understand and implement Program 1, and you'll be fine!
+
+Note: Of the 2 optional texts, Decision Procedures is a must-have for the first part of the course.
+
+Lastly, the TAs (Shashin and Sara) were very helpful in office hours and beyond gracious with grading:
+- The lower quiz score was dropped
+- They provided an opportunity for extra credit by contributing to forum discussions
+- Deadlines were frequently extended at the request of students
+- Students who did poorly on the first 2 programs had a chance to resubmit late for additional partial credit
+Of course they didn't have to do any of this, but it was appreciated.
+
+I highly recommend the course.
+
+---
+
+Title: Interesting material that (perhaps) lacked practical use cases
+Term: Automated Logical Reasoning - Spring 2024
+Posted: 5/9/2024 7:18 AM GMT-7
+Rating: 5
+Difficulty: 5
+Textbook: 2
+Lectures: 7
+Professor: 7
+Piazza: 3
+Workload: 15 hours per week
+
+Review:
+Pros:
+1. Course material is interesting (to me at least)
+
+Cons: All evaluation methods
+1. Test cases in PA1 is unrepresentative
+2. Quizzes are nightmare fuels
+
+Detailed Review:
+I took the course because of the course title alone- how could I not be interested in that? I extracted myself very well considering the mess that was programming assignment 1, and here are my thoughts.
+
+The lectures are very good, and it is very evident that the professor knows what she's talking about. The presentation of concepts are effective, and usually you could get everything you need from the lectures.
+
+All evaluations in this class, however, I do not like. The exercises and quizzes are multiple choice questions that are very tricky. Maybe it's just down to familiarity, but they are nothing like the multiple choices you'd get in chemistry, for example, that I'd get very easily after understanding the concept. They often require you to think about edge cases. The quizzes are the same except now you only have one attempt at each question, and the immediate feedback means you (I mean myself) could be easily tilted and make more mistakes. All questions require a deceptive amount of time to think about to get right.
+As for programming assignments, as of this semester, PA1 by far requires the most amount of time. The test cases are also very skewed, I got 40/40 test cases available but only got ~75% because the tougher test cases are hidden, which was a complete joke. PA2 does not suffer from this problem, and surprise surprise, 100% translated to 100%. PA3 is at the end of the semester, with new concepts and in a different language and style, but it's not that bad.
+TAs I assume varies each time, but this iteration has TAs that were unwilling to answer questions on course logistics like average grades, grade cutoff and presence/ absence of curves. They also do not respond to your questions on quizzes/ exercises unless you have exhausted your attempts, at which point you probably just want to move on.
+
+Overall, decent course, interesting material, moderately challenging assignments, very frustrating evaluation methods, definitely not an easy A, but I would still take it.
+
+---
+
+Title: If you're interested in logic, you'll love this class. But beware of the format.
+Term: Automated Logical Reasoning - Spring 2024
+Posted: 5/7/2024 2:24 PM GMT-7
+Rating: 5
+Difficulty: 6
+Textbook: 4
+Lectures: 5
+Professor: 6
+Piazza: 5
+Workload: 25 hours per week
+
+Review:
+Pros:
+1. Well designed course structure and materials
+2. Good textbooks for self learners
+3. Interesting and important materials in algorithms and discrete structures.
+
+Cons:
+1. First Programming assignment created uneven workload and requires significant amount of implementation and is graded with no partial credit for partial implementation (you get partial credit based on test success)
+2. Dafny (used for the last part) is not that well understood or well documented
+3. MC format problems were very tricky.Some quiz questions (MC) were ambiguous and even incorrectly graded and had to be regraded
+
+Detailed Review:
+
+This is a decent introduction to program verification and teaches a number of important concepts in computer science that are of great theoretical and practical importance.
+
+Course comprises of three modules. SAT solving is widely used for solving NP complete problems and is of great theoretical importance as well due to its generality. SMT solving is used for theorem proving. Both forms the building blocks for automated program verification which is used in practice for mission critical software (safety systems, blockchain etc. to name a few). Focus of the course is theory behind them, not applications.
+
+The assignments, especially the first one, were found to be extremely difficult and even those who did competitive coding spent more than 80 hours. Quizzes used logical problems and involve pure thinking, uncorrupted by practical concerns such as measurement error or implementation compromises. For these reasons, when you do well in quizzes and assignments, you could feel validated on your skills, but it requires great deal of time.
+
+Prerequisite is discrete math at undergraduate level, with particular focus on logic, set theory and state machines. Understanding of computational complexity and graph theory will give you an edge. Course also touches simplex programming, lattice theory and first order logic theory, so if you're familiar, it is advantageous. Understanding java data structures at advanced level is needed to do first two assignments.
+
+I think some of the criticisms of the course are unjustified -- when quizzes are 50% of the overall scores, why would someone expect a cakewalk? The feedback from those who approached it logically (instead of intuitively) was overwhelmingly positive.
+
+---
+
+Title: Good Materials, Hopefully class itself improves in the future
+Term: Automated Logical Reasoning - Spring 2022
+Posted: 6/2/2022 11:45 PM GMT-7
+Rating: 4
+Difficulty: 7
+Textbook: 3
+Lectures: 5
+Professor: 6
+Piazza: 5
+Workload: 25 hours per week
+
+Review:
+Pros:
+1. Topics and lectures are very interesting
+2. Combines theory and coding
+3. TA's responded to student concerns
+
+Cons:
+1. First Programming assignment was insane
+2. Weekly quizzes seem more like midterms, and only 1 attempt to get question right
+3. TA's had to keep tweaking misworded questions and moving deadlines
+
+Detailed Review:
+I really enjoyed the topics covered in the class, and if you took discrete mathematics and enjoyed it, this class would be a great fit for you. You will learn about how the topics you learnt in that class are used in practice and learn about the latest discoveries in that field. The main issue is the assignments, hw and time commitments for this class. This class ran into the issue many new classes have seemed to run into in my experience. The time given for the hw and the programming assignments were way too intense. There are reading assignments after every lecture, and the questions never seem to be from the lectures, and initially only 1 attempt, however, due to student complaints it became 2 attempts. The weekly quizzes are worth half the grade, and each one is extremely intense, as you are afforded only 1 try, and half the time the problem is understanding what the question is asking. You can ask ta's on piazza, however, it is inconvenient having to wait for a response each time. Also the fact that there is no explanation for why the answer to the question is what it is also made it hard to learn sometimes, as I didn't know why that answer was what it was. The PA's (programming assingments) are worth 30% of the grade. While assignments 2 and 3 were challenging but doable, assignment 1 was a nightmare, I spent >75 hours and wasn't able to complete it. Due to student complaints they gave partial credit for pa's for putting an honest attempt. The deadline for said assignment was pushed back many times. I am hoping that in the future they add more balance to the class as it is a genuinely interesting subject, however, the classwork associated it was a bit ridiculous.
+
+---
+
+Title: Avoid
+Term: Automated Logical Reasoning - Spring 2022
+Posted: 5/21/2022 7:42 PM GMT-7
+Rating: 1
+Difficulty: 7
+Textbook:
+Lectures: 1
+Professor: 1
+Piazza: 1
+Workload: 25 hours per week
+
+Review:
+Detailed Review:
+
+Curve (courtesy of Slack https://utmscso.slack.com/archives/C02CTL8552L/p1652989830735119?thread_ts=1652888354.721399&cid=C02CTL8552L):
+C 54.5 - 59.5
+C+ 59.5 - 64.5
+B- 64.5 - 71.5
+B 71.5 - 78.5
+B+ 78.5 - 86.5
+A- 86.5 - 89.5
+A 89.5 - 100
+
+The class curve of giving a B down to 64.5% makes it clear that the class is too hard, and highly curved to avoid flunking too many people out of MCSO.
+The homework (20% of grade) and quizzes (50% of grade) were often impossible to answer from the class material. This disconnect between the lectures and the homework/quizzes is the reason for the low ratings.
+Another review of this class compared the mental cruelty of the homework to Squid Games. To elaborate, the homework gave you a "second chance" to resubmit another answer. After a while, I realized that I was making my grade worse on most resubmissions, so I mostly stopped submitting a second answer on homework (except for T/F questions of course).
+
+Separately, multiple students were caught cheating on the programming exercises. So TA's do check.
+
+---
+
+Title: ALR S22
+Term: Automated Logical Reasoning - Spring 2022
+Posted: 5/21/2022 7:31 AM GMT-7
+Rating: 5
+Difficulty: 7
+Textbook:
+Lectures: 6
+Professor: 6
+Piazza: 6
+Workload: 23 hours per week
+
+Review:
+Cons:
+1. Programming assignments are really hard
+2. Quizzes and Mini Problems are extremely tricky
+3. The grading was extremely harsh
+4. Course pace is too fast even for a long term semester
+
+Detailed Review:
+As a non-native english speaker, I found the questions were very tricky. You have to be really good at English in order to solve the quizzes and mini problems. Even many English native speaker fall when doing the quizzes and mini problems. Solving programming assignments, mini problems, and quizzes take a lot more time than the estimate given. You know you are taking a difficult course when smart students from other courses that taking this class are really anxious thinking if they can pass this course. Considering the high level difficulty of this course, the grading was really harsh even after curved, you only get B+ even your score is 86.
+
+---
+
+Title: Lots of work
+Term: Automated Logical Reasoning - Spring 2022
+Posted: 5/20/2022 10:44 PM GMT-7
+Rating: 5
+Difficulty: 5
+Textbook: 3
+Lectures: 6
+Professor: 6
+Piazza: 4
+Workload: 25 hours per week
+
+Review:
+Pros:
+1. Interesting topics
+2. Good lectures
+
+Cons:
+1. Not enough examples covered in the lectures
+2. first programming assignment takes > 70 hours
+3. Not enough support on piazza
+
+Detailed Review:
+
+---
+
+Title: Chaotic but good course
+Term: Automated Logical Reasoning - Spring 2022
+Posted: 5/20/2022 10:00 AM GMT-7
+Rating: 7
+Difficulty: 5
+Textbook: 2
+Lectures: 5
+Professor: 5
+Piazza: 7
+Workload: 25 hours per week
+
+Review:
+Pros:
+1. Interesting material
+2. Cutting edge
+3. Responsive TAs
+
+Cons:
+1. programming projects were a nightmare
+2. Quizzes were very stressful
+3.
+
+Detailed Review:
+The content of this class was really cool. The lectures were good, but often made huge leaps, especially in the later half of the class. The quizzes were stressful, since you get 1 try on each question, and they were often puzzling and somewhat ambiguous. There were so many questions about the meaning of the quiz questions that the TA’s gave up answering questions after a while. In the end, the cutoff for an A was only 88% and there was a curve, so it was even less than that. This class put me through the wringer, but I got a good grade in the end and learned a lot. The first programming project was a mess, and they had to grant credit for just doing your best on it. I assume they will have fixed that in future iterations of the class. Expect to be tortured, but expect to learn a lot.
+
+---
+
+Title: actually a blast
+Term: Automated Logical Reasoning - Spring 2022
+Posted: 5/16/2022 6:30 AM GMT-7
+Rating: 5
+Difficulty: 5
+Textbook:
+Lectures: 5
+Professor: 5
+Piazza: 6
+Workload: 15 hours per week
+
+Review:
+Pros:
+1. strange and interesting material
+2. most multiple choice questions are like fun logic puzzles, if you like those
+3. projects are practical and fun
+
+Cons:
+1. stressful quizzes
+2. easily cheatable grading scheme (answers revealed immediately after submission)
+3. uneven project workload
+
+Detailed Review:
+
+This class was fun but stressful. The first part was a very in-depth look into the boolean satisfiability problem. I did not know about this problem or why it's a big deal. It would have been nice to go in-depth into some of the real-world applications, which were mentioned briefly. The programming assignment for this part was intense, so future students should be mentally prepared for that. There isn't much room for creativity there, since the tasks was basically to implement algorithms and subroutines that were sketched out in lecture. The difficulty comes in a large amount of implementation.
+
+The middle part of the course was on first order logic and satisfiability modulo theories. It was decent. I felt like a whole unit about linear programming was not necessarily appropriate for the course (since we could likely learn that better from other sources). However it was nice to get a taste of several different theories. The programming assignment was fun but maybe too easy -- basically everyone got 100 on it, and it only required one small "aha" moment.
+
+The last part about Hoare logic and program verification was my favorite. This felt the most related to day-to-day programming work since one analyzes programs written in a small but familiar language. The programming assignment was quite fun although it felt more disconnected from the lecture material (one could complete it without needing to do any of the proofs or fixed point computations mentioned in lecture -- just educated guessing).
+
+It was clear throughout the course that this was a first rendition for the online program. The most critical improvements in my opinion would be to 1) re-word ambiguous homework and quiz questions, 2) withhold quiz and homework answers until after the deadline to prevent cheating and (impossibly) high average scores, and 3) to even out the workload in the programming assignments.
+
+---
+
+Title: I loved the material, but I can't recommend the course
+Term: Automated Logical Reasoning - Spring 2022
+Posted: 5/15/2022 12:42 PM GMT-7
+Rating: 2
+Difficulty: 5
+Textbook:
+Lectures: 5
+Professor: 5
+Piazza: 1
+Workload: 15 hours per week
+
+Review:
+Pros:
+1. Interesting material with interesting (though niche) applications.
+2. Lectures are good.
+3. Projects are genuinely interesting.
+
+Cons:
+1. Massive scope for first project with TAs being misleading (if I'm being generous) about the time commitment required -- claiming 10-20 hours for what took most people who actually completed it over 80 hours of work.
+2. Hostile quiz questions written with the full malice of Sauron to trick you.
+3. Weekly quizzes that take longer than midterm exams in any other class to finish.
+4. Did I mention the quizzes? You get immediate feedback on every mistake, which makes the mental experience of taking the quizzes very much like the glass bridge episode of Squid Game.
+
+Detailed Review:
+I was very excited when I heard this course was being offered. I really like the subject matter. However, in its current form, I have to recommend not taking it.
+
+The class is not excessively difficult compared to other courses. It's not easy, but I did not find the difficulty of the projects or the quizzes to be unreasonable in an abstract sense compared to other courses in the program. However this class is excessively stressful compared to others, to the point of being an utterly miserable experience.
+
+Start with the outright cruelty of the quiz format. The MC questions typically required what amounted to proving a minor lemma from first principles in order to answer them accurately. For 20-30 questions. Every week. Questions were written with subtle variations in phrasing from the lecture materials to deliberately mislead you if you didn't work through a full proof of the answer first and tried to answer intuitively based on the lectures. Seriously, don't trust your intuition for any of the questions. I managed a B on the quizzes over all before any curve, so it's not that they were outright too difficult. It's that every week you're spending 3 hours working through these questions in a format that's incredibly stressful because it's very easy to think you know the right answer and still be wrong because of a one word change in the question compared to the way the material was presented in lecture. And if you're wrong, you get immediate feedback telling you so, and at a certain point you just start to doubt your sanity. It's 3 hours of miserable stress every week.
+
+If the quizzes had been hand-written theory homework proving the same concepts, they would have been fine. Challenging, but fine. If the quizzes had been regular midterms (meaning only 1-2 for the semester, instead of 10), they would have been fine. But the weekly MC format that was chosen is cruel. I have significantly more gray hair now than I did four months ago.
+
+The other unreasonable thing was the misleading communication from the TAs about the first project. It is not a 10-20 hour project. Important sub-problems that you have to solve (and were big enough to be separate projects in another course) are completely hand-waved away by the lectures and by the TAs on piazza. It's a good project, and you'll learn a lot from it. But it is also massively more difficult than was communicated. It's not that the TAs simply didn't warn us the assignment was that big; it's that the TAs actively mislead us with inaccurate information about the scope of the project and the challenge of completing it. This was so bad that the original deadline was extended from two weeks to a full month. Still the average grade on that project was 55%.
+
+The second and third projects were fine, even too easy compared to the first. The first would have been fine if communication about it had been accurate and honest.
+
+---
+
+Title: Needs serious modifications. Too much work and little resources
+Term: Automated Logical Reasoning - Spring 2022
+Posted: 5/11/2022 6:15 AM GMT-7
+Rating: 2
+Difficulty: 6
+Textbook: 3
+Lectures: 3
+Professor: 5
+Piazza: 2
+Workload: 30 hours per week
+
+Review:
+Pros:
+1. Topics are very interesting and exercises are fun to do
+2. Schedule is well organized and clear
+3.
+
+Cons:
+1. Workload is excessive, weekly quizzes require entire days to be solved and first programming assignment is too long
+2. Weird policy to not share exercises answers and explanation. You need to ask for every single problem, which is a time waste.
+3. Exercises and quizzes are captious and feels almost like the are written in a way to make the student fail for little details. Learning is left in a second plain and the important here is be very nitty picky to not lose points left and right for mere details
+
+Detailed Review:
+This class really needs to be improved. I took it the first semester it was offered and there is a lot of terrible things going on. For starters, the lectures are very surface level, important details are left out of them and the professor assumes you already have a good primer in logic although it is not listed as a prerequisite. The professor throws a lot of terms and concepts that are critical to understand the main topics and she does not even bother to reference or mention anything about it.
+
+Most of the concepts are easily to understand if examples are included but these are scarce across all lectures. The exercises expect you to go and study deeply some of the concepts that are not mentioned or barely touched during the lecture. The quizzes are so strict that there little to no room for mistakes. Solving them feels horrible as it is half of the grade and they are written poorly so a lot of things can go wrong. Quizzes are long and you need to read it carefully so start as soon as possible.
+
+TAs rejected to include explanation for the right answers in exercises, quizzes and programming assignments so if you struggled to understand why did you fail in a question you need to spend hours writing private posts and waiting for them to be replied. It is evident here that learning is not the priority. They were also absent in most part of the course, a lot of good questions were answered after the deadlines (or very close to) so the answers were not really useful. A handful of other questions were replied by a "I do not get your point, come to the office hour" which is not doable for some of us.
+
+There are three programming assignments, the last two were ok but the first one requires a lot of work and research to be done. You are delivered bare bones in the starter code and you need to figure out a lot of stuff. It can be greatly improved to be acceptable, adding a bit more skeleton or adjusting the scope. This summed with the effort required for the exercises+quizzes is just madness.
+
+The textbook/resources suggested are helpful just in some of the first parts of the course. The rest of the course you do not seem to have good resources to go to (and there are none listed in the class page).
+
+For me, this class is one of the worst in the program and needs a serious restructuration to be acceptable. Do not take me wrong, the teacher is really good and she is an expert on the topic, it is just that the class needs to be adapted.
+debugger eval code:101:11
+

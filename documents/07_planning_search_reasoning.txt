@@ -1,0 +1,353 @@
+# CS 388U — Planning, Search, and Reasoning Under Uncertainty
+# 1. On msaihub Reviews, filter by "Planning, Search, and Reasoning Under Uncertainty".
+# 2. Run scripts/scrape_msaihub_reviews.js in the browser console.
+# 3. Paste the clipboard output below (it already has --- separators).
+# Lines starting with # are ignored during ingestion.
+
+Title: Easy A but TAs overcomplicate it
+Term: Planning, Search, and Reasoning Under Uncertainty - Fall 2025
+Posted: 1/7/2026 12:20 PM GMT-8
+Rating: 4
+Difficulty: 2
+Textbook:
+Lectures: 3
+Professor: 4
+Piazza: 4
+Workload: 5 hours per week
+
+Review:
+Pros:
+1. One of the easiest classes
+2.
+3.
+
+Cons:
+1. Did not learn much
+2. TAs were too strict
+3.
+
+Detailed Review:
+The class was one of, if not the easiest class I've taken so far. Quizzes and assignments were not very hard. The TAs made the class a little stressful though. They caught many students for plagiarism and were very vague in details. This lead for a stressful environment when submitting stuff. In the end if you cited where you used AI, it was not a big deal, but it added stress to an otherwise very straightforward class. I would recommend it to anyone just starting and looking for a easy A, just cite your code thoroughly and don't worry about it!
+
+---
+
+Title: A mixed bag
+Term: Planning, Search, and Reasoning Under Uncertainty - Fall 2025
+Posted: 12/7/2025 11:27 AM GMT-8
+Rating: 2
+Difficulty: 3
+Textbook: 1
+Lectures: 2
+Professor: 2
+Piazza: 5
+Workload: 5 hours per week
+
+Review:
+Pros:
+1. Some of the programming assignments are interesting and teach you how to apply planning techniques
+2. The course isn't terribly difficult or time consuming.
+3. TA support was good
+4. No proctoring to deal with
+
+Cons:
+1. Quizzes are miserable.
+2. Structure of the course is out of order, you will do tests on concepts before doing projects on them
+3. Basically no interaction with the prof (pre recorded lectures, autograded assignments, and discussion only with TAs)
+4. Lectures are a slog to get through (you can tell they were all recorded in one take several years ago, prof's handwriting on the tablet sections is impossible to read half the time, the slides by themselves without the recording are missing critical info)
+5. The first quarter of the course is focused on PDDL. This is a massive waste of time, no one uses that, and it isn't built upon in the latter half of the course.
+
+Detailed Review:
+This class is a very mixed bag. It isn't crazy difficult but you also won't learn a whole lot of useful info. Overall the scope of the course is too broad and not deep enough. They seemed determined to touch upon nearly every possible planning algorithm at a surface level instead of applying a smaller set of them. This class would have benefitted immensely from having a final project or something similar. The quizzes are painful and I feel like I learned little in doing them. This course also just seems to be a money maker elective for the university. The entire course is automated and the total class size for fall 2025 was over 700.
+
+---
+
+Title: Easy A, light on depth
+Term: Planning, Search, and Reasoning Under Uncertainty - Fall 2025
+Posted: 11/23/2025 7:50 AM GMT-8
+Rating: 4
+Difficulty: 1
+Textbook: 2
+Lectures: 4
+Professor: 5
+Piazza: 6
+Workload: 4 hours per week
+
+Review:
+Pros:
+1. Very light workload and an easy A if you keep up
+2. Programming assignments are straightforward and well supported by the TAs
+3. Lots of extra credit and generous grading policies
+
+Cons:
+1. Overall feels more like an undergrad survey than a graduate course
+2. Later topics (navigation, SLAM, MDPs/POMDPs) are only treated on paper, not in code
+3. Quizzes are a big chunk of the grade and the first one comes a bit out of left field
+
+Detailed Review:
+Overall, this was an easy course, probably too easy. There are four programming assignments: one in PDDL and three in Python. The PDDL assignment’s main challenge is just learning the syntax. Once you get past that, it’s very mechanical. The Python assignments cover BFS/A* search, minimax, and simple Bayesian belief updates. They’re all quite doable if you have any prior Python experience. TA support was solid and the discussion board was very active for such a large class.
+
+Assignments appears maybe ~6 weeks before they're due, with some overlap so you can work a little ahead but not much. That, combined with generous deadlines and lots of extra credit, keeps the time commitment low. It’s really not hard to get full credit on the assignments without putting in extraordinary effort. By the end of the semester I only needed about 50% on the last quiz to lock in an A.
+
+Content-wise, the course feels more like a gentle introduction than a true grad-level dive. The core programming work stops after things like search and belief updates; the more interesting later topics (robot navigation, SLAM, MDPs, POMDPs) are only handled in lecture and on quizzes, no chance to implement or experiment with those ideas, which is a missed opportunity if you’re hoping for something more applied.
+
+The quiz structure is a bit awkward: five quizzes that make up a large fraction of your grade. The first quiz is rough because it arrives with no real practice questions and feels a bit out of left field. On the upside, you can drop the lowest of the first three quiz grades, which effectively functions like a built-in makeup if you stumble early. Quiz 4 is very straightforward in style but covers twice as many topics as the other quizzes because of how the schedule is set up, so you’re tested on a lot of material at once. A practical tip: pay attention to the breadth vs. depth tags on the syllabus. They’re a good signal for how much detail you’re expected to know on each topic.
+
+Bottom line: this is a very easy, low-stress course with good TA support and simple assignments. It’s great if you need an easy A, a light pairing with a harder class, or a less time-consuming semester. But if you’re looking for a rigorous, project-heavy, graduate-level treatment of planning, search, and uncertainty (especially the later topics), you may want to skip this one and look for something more demanding like Reinforcement Learning.
+
+---
+
+Title: Class on Game Theory? Sign me up
+Term: Planning, Search, and Reasoning Under Uncertainty - Fall 2024
+Posted: 12/17/2024 5:18 PM GMT-8
+Rating: 6
+Difficulty: 2
+Textbook:
+Lectures: 4
+Professor: 4
+Piazza: 7
+Workload: 7 hours per week
+
+Review:
+Pros:
+1. Programming assignments are fun, plus there is an autograder for immediate feedback
+2. Lectures are straightforward
+3. The course staff engagement was excellent
+
+Cons:
+1. The format of 4 quizzes for 50% of your grade is objectively bad
+2. Final 3oo15 modules of lectures represent ~50% of the course info
+
+Detailed Review:
+This class was a blast and very easy to do. Basically just watching 4-5 hours worth of lectures a week and doing a 4-5 hour assignment every two. The assignments are also very fun.
+
+The assignments are basically just different versions of creating an automated board game engine. Also, they are just not very difficult, which is a plus if you're looking for something to pair with another course.
+
+The ED engagement in this course was excellent. Questions were answered super quickly and because everything was automatically graded, the TAs were focused on supporting the students.
+
+Only two real downsides to this class are that the quizzes represent a huge portion of your grade and the last quiz is basically how much information can you regurgitate in a single sitting. Other than that would highly recommend.
+
+---
+
+Title: ezpz
+Term: Planning, Search, and Reasoning Under Uncertainty - Fall 2024
+Posted: 12/9/2024 11:11 AM GMT-8
+Rating: 6
+Difficulty: 2
+Textbook:
+Lectures: 5
+Professor: 2
+Piazza: 7
+Workload: 5 hours per week
+
+Review:
+Pros:
+1. Programming assignments are fine
+2. First half of lectures are easy to follow
+3.
+
+Cons:
+1. Second half of the course is an information dump
+2. Quiz questions can be ambiguous for the sake of it
+3.
+
+Detailed Review:
+This is an overall easy course to pair with a harder or more labor-intensive course. Interesting concepts that I'm assuming you'd have seen in some undergrad classes (non-CS undergrad yay), but it's a nice soft introduction to some of the algorithms if you have not seen them before like me.
+The class has 4 programming assignments (50% + some extra credit) and 5 quizzes (50%). Everything is autograded, so by the end of the semester you'll know your grade early on.
+The programming assignments are generally easy - both in implementation and quality. I will only complain about the final assignment as there were some ambiguities that needed to get ironed out. If you've seen python before, the assignments are doable. The second half of the course, however, is left untouched by the assignments. It's a shame too, since those concepts would have been nice to implement.
+The quizzes are generally good as well. Closed-note, but no proctoring as of this review. If you pay attention to the lectures, the quizzes are doable. I do want to put a disclaimer here to not underestimate them like I did from previous reviews lol. Luckily, the two highest scores out of the first three quizzes are kept. By the time the last two quizzes come around, you'll have a good idea of what the questions might look like, so there's that.
+Ed support is probably some of the best I've seen in the program so far. TAs are engaged and generally replied to all questions.
+Overall, good course to pair up with something with heavier workload or if you're needing a more chill semester.
+
+---
+
+Title: Not sure what to feel about this course
+Term: Planning, Search, and Reasoning Under Uncertainty - Fall 2024
+Posted: 12/6/2024 10:40 AM GMT-8
+Rating: 2
+Difficulty: 1
+Textbook: 4
+Lectures: 1
+Professor: 3
+Piazza: 6
+Workload: 2 hours per week
+
+Review:
+Pros:
+1. No mid/end term exams
+2. Easy quizzes
+3. Generous deadlines and grade cutoffs
+
+Cons:
+1. Not a graduate course
+2. Videos are too hard to watch
+3. Second half of the course was not tested by the programming assignments
+
+Detailed Review:
+I took this course since I had limited options during this semester. I really like the first half of the course which was programming heavy with interesting topics. However, as the semester progressed the content got drier and the videos were full of verbal pauses, filler words like "right" "ok" etc which made it painful to understand certain parts (for eg where left and right actions were possible and the prof says "we move to the left, right").
+
+The only saving grace by the end of the semester were the TAs who were very active on Ed. I wont recommend this course if you have other options.
+
+---
+
+Title: Okay course
+Term: Planning, Search, and Reasoning Under Uncertainty - Fall 2024
+Posted: 12/3/2024 2:27 PM GMT-8
+Rating: 3.5
+Difficulty: 2
+Textbook: 3.5
+Lectures: 3.5
+Professor: 3.5
+Piazza: 7
+Workload: 5 hours per week
+
+Review:
+Pros:
+1. Assignments are straight forward
+2. TAs are responsive
+3. Lectures are relevant
+
+Cons:
+1. Maybe a bit too much hand-holding for a graduate course
+2. The more difficult components are covered by other courses (RL) but to a more serious degree.
+3. I wish there was a deeper programming dive or maybe a serious final project.
+
+Detailed Review:
+
+If you are needing an easier course to ease into your new degree program, a course to pair to with for a two-class semester, a gpa fix, or have something else that takes up your time (eg an infant and job lol), this is a good course to take.
+
+However, if you are expecting to come out with some deeper understanding of the subject (and you have already taken RL or Bayesian if you are in the DS program), this course might not provide the value you seek. For me, only CSiML had a lower work load, though I intentionally made my CSiML project harder as a portfolio-boaster, but that is a different topic.
+
+---
+
+Title: It's OK
+Term: Planning, Search, and Reasoning Under Uncertainty - Fall 2024
+Posted: 11/19/2024 11:01 AM GMT-8
+Rating: 3
+Difficulty: 3
+Textbook: 4
+Lectures: 4
+Professor: 3
+Piazza: 2
+Workload: 3 hours per week
+
+Review:
+Pros:
+1. Assignments are reasonable.
+2. TAs were quick to respond to students.
+3.
+
+Cons:
+1. Quizzes are unforgiving.
+2. No curve.
+3. Professor was not available beyond the recorded live lectures.
+
+Detailed Review:
+
+The first half of the course feels like a survey of AI, messing around with algorithms like graph traversal. The assignments were okay up until the last one. Most of the effort in the last assignment involved comprehending the instructions and not so much the actual material.
+
+The quizzes were unforgiving (mainly because Canvas does not allow fine-tuning point penalties) and they are not proctored. This means students do not have to deal with the burden of proctored software, but have to deal with inflated quiz scores (the TAs mentioned there were incidents of cheating this semester on programming assignments so I don't think this is a far stretch to imagine). For example, my average grade in assignments was higher than average, yet it was below average across all of the quizzes.
+
+The course would be much better if there was proctoring in the quizzes for a fair grade process and if the professor was somewhat involved in the discussion boards. This is a bigger trend with the online programs at UT— professors are starting to be less and less involved beyond the recorded lectures. Not all courses, there are still some where the professors are *heavily* involved (Android programing and Simpl come to mind).
+
+---
+
+Title: Decent introduction to Robot motion planning, but could've been better
+Term: Planning, Search, and Reasoning Under Uncertainty - Fall 2024
+Posted: 11/1/2024 10:23 AM GMT-7
+Rating: 5
+Difficulty: 4
+Textbook: 5
+Lectures: 4
+Professor: 5
+Piazza: 4
+Workload: 10 hours per week
+
+Review:
+Pros:
+1. Self paced (if you like it)
+2. Materials that are important and hard to find online otherwise
+3. Fun assignments
+
+Cons:
+1. Quiz questions are sometimes confusing
+2. Last 6 week's worth materials are not covered in PAs
+3. Not nearly enough finger exercises or weekly exercises, which means lots of lectures with not enough testing.
+4. Key Concepts are often not properly explained and lecturer is just assuming that students already seen that (or not very clear whether he is defining new concept or asking us to look at it)
+
+Detailed Review:
+
+This course gives a decent intro. to robot motion planning which has wide range of applications in theory of autonomous driving and robot motion planning. Course covers an ambitious range of topics, from basic logic programming to reasoning under uncertainty and everything in between such as minimax algorithm, kalman filters and Markov processes.
+
+Lectures are nice and comprehensive and professor tries to give intuition or proof for theory. Quizzes could be better in terms of clarity, but still manageable. Programming assignments' difficulty will depend largely upon your background. Those with gaming programming or similar experience found it too easy, others found it moderately difficult.
+
+Given the breadth and depth of topics covered, prerequisites are assumed which include boolean logic from discrete math., basics of algorithm complexity, sound understanding of probability theory and basic linear algebra. Sometimes certain key concepts are not properly explained and professor swallows or mumbles a few things.
+
+Assignments would take 5-25 hours per assignment for honest first time learners. However, class median and even the lowest quartile were suspiciously high for assignments and quizzes and given liberal policies, there may have been widespread "collaboration".
+
+---
+
+Title: Fun course; but may not be worth it depending on your background
+Term: Planning, Search, and Reasoning Under Uncertainty - Fall 2023
+Posted: 1/25/2024 12:34 PM GMT-8
+Rating: 6
+Difficulty: 4
+Textbook:
+Lectures: 6
+Professor: 7
+Piazza: 6
+Workload: 10 hours per week
+
+Review:
+Pros:
+1. Well paced course
+2. Assignments were fun, each building off of your previous solution
+3. Professor held office hours and listened to student suggestions
+
+Cons:
+1. If you've taken an undergrad algorithms course, you already know the first half of the course
+2. The second half could have used some implementation
+3. Wish there was more in terms of readings, or pointers to which parts of the suggested texts
+
+Detailed Review:
+
+tl;dr: If you like RL, game theory, or robotics, this course is worth it. But don't expect to come out of the other end knowing how to apply to a real robot. Maybe something closer to classic video game AI.
+
+The first half of the course is a mix between classic search algorithms and dynamic programming in a deterministic setting. The second half added "uncertainty", with a focus on a robotics use case. This was the part of the course I was most interested in, since I didn't have any experience here. This section ends with Partially Observable MDPs that we didn't get to consider in the RL course. If you took an undergrad algorithms course and RL, you'll easily already know ~50% of the course content.
+
+I really enjoyed the assignments. They allow you to choose from several algorithms to implement, so you can make it as simple or complex as you want. All except the first build on parts of your solution to the previous one, so there is a risk that you'll spend more time later on if your previous solution wasn't the most efficient.
+
+My one gripe is that the second half was mostly a knowledge dump of concepts/theory and not much implementation. We didn't implement anything past Bayesian Inference (Week 7). I would have really liked to get a better understanding of Particle Filtering and SLAM through application in a homework (or bonus assignment).
+
+---
+
+Title: Comprehensive introduction to planning AI
+Term: Planning, Search, and Reasoning Under Uncertainty - Fall 2023
+Posted: 12/29/2023 8:57 AM GMT-8
+Rating: 6
+Difficulty: 4
+Textbook: 1
+Lectures: 6
+Professor: 7
+Piazza: 7
+Workload: 10 hours per week
+
+Review:
+Pros:
+1. Assignments are related to lectures to bolster concept understanding
+2. Quizzes have pre-defined breadth and depth topics
+3. Professor holds his own office hours
+
+Cons:
+1. Lectures can be very long at times
+2. Output logs are not shown in Gradescope for last two assignments
+
+Detailed Review:
+PSRUU was a well put together class with an overview of planning AI and it's modern applications.
+
+The teaching staff is very helpful for assignments and professor holds his own office hours as well.
+
+The lectures can be long at times and be proof-heavy.
+
+Assignments and quizzes are a breeze. Overall, a good class!
+debugger eval code:101:11
+

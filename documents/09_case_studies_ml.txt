@@ -1,0 +1,802 @@
+# CS 400T — Case Studies in Machine Learning
+# 1. On msaihub Reviews, filter by "Case Studies in Machine Learning".
+# 2. Run scripts/scrape_msaihub_reviews.js in the browser console.
+# 3. Paste the clipboard output below (it already has --- separators).
+# Lines starting with # are ignored during ingestion.
+
+Title: Easy Quizzes, Final Project Needs Effort
+Term: Case Studies in Machine Learning - Fall 2025
+Posted: 6/6/2026 10:17 PM GMT-7
+Rating: 3
+Difficulty: 3
+Textbook:
+Lectures: 1
+Professor: 2
+Piazza: 6
+Workload: 2.5 hours per week
+
+Review:
+Pros:
+
+1. TAs are active.
+2. Quizzes are pretty straightforward and not very complex.
+3. Only one main project at the end.
+
+Cons:
+
+1. Recorded videos were not useful.
+2. Professor was not interested in going deep into important topics.
+3. I felt the recorded videos were not sufficient to get a good grasp of machine learning concepts.
+
+Detailed Review:
+Pretty much an easy course to take. Recorded lectures did not help me much, so I skipped/skimmed most of them. Quizzes were single or multiple choice and were not difficult. The main project at the end of the semester required most of my effort. For that, I had to submit a proposal and write a paper with the results obtained through the work.
+
+---
+
+Title: Good class, don't be hard with it
+Term: Case Studies in Machine Learning - Fall 2024
+Posted: 1/12/2026 8:50 AM GMT-8
+Rating: 6
+Difficulty: 3
+Textbook: 7
+Lectures: 7
+Professor: 7
+Piazza: 7
+Workload: 8 hours per week
+
+Review:
+Pros:
+1. Nice contents
+2. Nice Staff
+3. Good homework / final project
+
+Cons:
+1. The final project is not hard, but the rubric is strict; this should not be a con if you follow it carefully
+2.
+3.
+
+Detailed Review:
+I took this class alongside Parallel Systems because I have heard that PS would require a lot of time, so this elective class was a nice match.
+
+Overall the class is good, and yes it is basic since it covers a shallow perspective of many case studies in deep learning and machine learning as well, and as I said (and many people said, even TAs and Staff) is that this class is meant to be the EASIEST one in the program and could be seen as a bonus/booster for ones trying to get their GPAs bette, so don't be hard or try to not expect a huge project of something like that.
+
+The final project is easy, but try to start like 4-3 weeks before the delivery date and try to match the rubric as established.
+
+On the other hand, the papers exposed could help you a lot in your professional career if you are in AI / ML jobs.
+
+TAs and staff were very helpful and always ready to help. I was on the last semester of the main TA and was great to have him leading the support.
+
+---
+
+Title: Only if you need an easy course credit
+Term: Case Studies in Machine Learning - Fall 2024
+Posted: 1/8/2025 11:34 PM GMT-8
+Rating: 1
+Difficulty: 1
+Textbook: 5
+Lectures: 1
+Professor: 1
+Piazza: 3
+Workload: 1 hours per week
+
+Review:
+Pros:
+1. Too easy to get an A
+2. 1 hour per week time commitment
+3. TAs were helpful to some extent
+
+Cons:
+1. Course material/videos are useless
+2. Minimal learnings from the course
+3. Waste of tuition fees and a semester if taking it as the only course in the semester
+
+Detailed Review:
+The course content is not structured and presented well. It was more confusing to watch the videos than to read the book. Skip videos, skim through slides to answer quizzes, read the book and watch youtube video to learn and understand the course topics. You won't miss anything but an easy credit (with an A grade) if you don't take this course.
+
+---
+
+Title: Not as easy as people claim if you have zero ML experience and are rusty at math
+Term: Case Studies in Machine Learning - Fall 2024
+Posted: 12/17/2024 9:15 PM GMT-8
+Rating: 4
+Difficulty: 3
+Textbook:
+Lectures: 2
+Professor: 2
+Piazza: 6
+Workload: 7 hours per week
+
+Review:
+Pros:
+1. It's true that it's a relatively low time commitment
+2. It's true that it's easy to get an A if you put in the minimum effort
+3. I actually found the topics fun and the labs themselves useful, at least the ones that worked (as well as sources cited in the lectures/labs, which explain topics much better than the professor and TA do)
+4. The project is self-directed and can be very rewarding and good for a portfolio if you put in effort
+
+Cons:
+1. The lectures and lab videos are hard to understand and don't add much if any value
+2. You can't replicate some of the labs because of data issues, outdated functions, etc. (has not been updated in a few years)
+3. The quizzes are honestly not as easy as everyone claims if you don't have prior knowledge - the lectures by themselves will not help you solve all of the problems
+4. The project can feel a bit overwhelming if you don't have the background (but you will still get 100% as long as you put in a modicum of effort)
+
+Detailed Review:
+I felt like I should leave this review as someone who does not have any ML/engineering background (only programming) and hasn't taken a math class in 10 years. The ratings are very skewed to people who do have that background, and if you don't, you shouldn't come in thinking it will be effortless. This was my second course in the program after Android Programming.
+
+It's still probably the easiest course in the program, but I spent a good 5 hours a week watching the lectures (because I had to keep pausing and looking up other resources, since they are terrible at explaining concepts and sometimes assume prior knowledge) and replicating the labs (not required but very helpful in my opinion). The professor and TA have very strong accents that are very hard to understand, but that's fair enough because all they do is read from the slides and lab files, which you can just read yourself. Sometimes there are grammatical errors in the actual slides and quizzes though, which can occasionally interfere with meaning.
+
+And then I also spent an hour or two on each quiz because I often had to research concepts or how to solve the problems (and yes, it is a bit hard just to cheat by googling all the answers because a lot of the problems to solve are in the form of images). You're not technically supposed to use other resources for the quizzes, but without prior background, it was pretty impossible not to, even though I thoroughly watched, engaged with, and/or took notes on every lecture and lab. Still I got 70% on one quiz (which ended up curved because enough people messed it up, so I ended up with 100%) and one wrong on another which wasn't curved. The rest of the time I got 100% with my painstaking efforts.
+Half of the questions are word salad multiple choice questions that are usually verbatim somewhere in the lectures and are meant to confuse you. The other half are hands-on problem solving, either math formulas, functions that can be programmed, or sometimes just reading a table or graph. Some of them are very easy, some are harder. It's not that they didn't cover these topics in the lectures, but some of them they just glossed over saying, "We're not going to go into detail on this formula but you can read about it on your own time" as if you don't really need to understand it. But then lo and behold, you have to solve that formula in the quiz.
+
+I actually enjoyed the class and found it rewarding in the end, but it was more for the subject matter than the actual content or format. I suppose I could have learned it on my own for free and more enjoyably. I found the quizzes very stressful and I spent quite a lot of time studying resources other than those provided, which I don't think I should have had to do.
+
+The project was more rewarding. I liked that it was individual and open-ended so I could pick a subject that I found interesting, and use that to really go in depth on ML literature and methods. A lot of people on EdStem seemed freaked out by 30 sources required (including 15 scholarly sources), but once I had my topic and started searching, I sailed right past that minimum. They are extremely lax about any formal requirements and as long as you put in an effort you will probably get an A. My project was definitely not advanced by any means but I worked hard, did a lot of research, tried different techniques, and got 100%.
+
+If you really want the class to go smoothly with little effort and stress, I would recommend brushing up on college math subjects and doing some machine learning tutorials on Kaggle to prepare. Don't go nuts but just a little bit of prep work.
+
+---
+
+Title: Good introduction to concepts
+Term: Case Studies in Machine Learning - Fall 2024
+Posted: 12/9/2024 11:29 AM GMT-8
+Rating: 3
+Difficulty: 1
+Textbook:
+Lectures: 4
+Professor: 4
+Piazza: 6
+Workload: 2 hours per week
+
+Review:
+Pros:
+1. Low time commitment necessary
+2. Availability of TAs
+3.
+
+Cons:
+1. No depth of concepts explored
+2.
+3.
+
+Detailed Review:
+I don't think I'm going to state anything that others haven't for this course. Not self-paced as you have to wait on module releases throughout the semester. 6 quizzes that are super easy. A final project that is relatively open-ended and can be as ambitious as you want it to be. If you're not feeling ambitious, you can do a literature review and call it a day. If you've never seen ML, this is a great course to expose you to what's out there. If you have, pair this with a harder course, take this if you need a chill semester/GPA boost, or take this as a chance to tackle that project you've been eyeing.
+
+---
+
+Title: Great if you came in with the right mentality -- I DON'T HAVE AI BACKGROUND --
+Term: Case Studies in Machine Learning - Fall 2024
+Posted: 12/4/2024 5:32 AM GMT-8
+Rating: 5
+Difficulty: 2
+Textbook:
+Lectures: 1
+Professor: 4
+Piazza: 5
+Workload: 15 hours per week
+
+Review:
+Pros:
+1. Ample amount of time to 'ACTUALLY READ' the papers given, and experiment on your own.
+2. Seung Jun Choi and the rest of the TAs reply almost immediately and the overall availability of staff is there.
+3. You get hands-on experience in writing a paper using latex and thinking about building a case for your final paper using academic papers and publications.
+
+Cons:
+1. More context on the why rather than the concepts would have added more value to the content. I felt that we covered mechanics and less details on comparative assessments to gain deeper insights. maybe it would be too much, but I would have appreciated the attempt.
+2. I think for the lectures, it would be better to give deeper insights, not just covering the slides. for a graduate course, having lectures almost read is not much of a value add.
+3. On the research problem, you are almost on your own; Its very hard to get a TA involved in a problem you are facing esp if its core to your model. Its not their fault but its a concern if you are looking for more hand holding.
+
+Detailed Review:
+I do agree with some of the feedback regarding the lectures. However, not taking this course is a MISTAKE for those who : 1- Do not have experience in Latex or academic paper writing, 2- Machine learning newbs (Tensorflow, Pytorch) 3- Never read research papers or used them to build a case for their own ideas 3- work full time and or have kids but they need to stay fresh with ML research papers and get a grade for it.
+
+Some reviews state that the workload is 2 hours a week. I think if you watch the lectures on 1.5x and labs on 1.5x you'd have 20 minutes to go over the papers. This is without counting the quiz time if you want to have a full mark. Not sure how 2 hours would work.
+
+If you want to push the limit, you read the papers, and experimented building LSTMs, CNNs and other models on your own then pass over this or take the easy A knowing that you are probably not gaining much.
+My experience is different. I read the papers for the first time, experimented with the labs, tried different architectures and optimizations. I never worked on a paper with latex.
+
+If learning on your own, with a guard rail, is what you seek, then this course is the right choice to get into Machine learning and into writing academic papers.
+
+---
+
+Title: Probably the Worst Course I've Ever Taken
+Term: Case Studies in Machine Learning - Fall 2024
+Posted: 9/28/2024 12:08 PM GMT-7
+Rating: 1
+Difficulty: 1
+Textbook:
+Lectures: 1
+Professor: 1
+Piazza: 5
+Workload: 2 hours per week
+
+Review:
+Pros:
+1. Little to no course material required (readings, etc).
+2. If you have a base in ML already, this course is generally pretty easy.
+
+Cons:
+1. Quizzes are annoyingly nitpicky, focusing on wording and details instead of bigger picture concepts and practicality.
+2. Quiz wording is often ambiguous and assume knowledge that's not in the lectures or readings.
+3. Single submission quizzes focus on spending time on the quiz rather than learning.
+
+Detailed Review:
+If I could undo taking this class I would. I don't I've experience a worse course in my entire academic career. I feel like I paid for a dubious Coursera or Udemy course instead of course that representative of UT Austin's prestige. Other courses in the program have been extremely useful to my growth and understanding of machine learning, but I cannot say the same about this course. This course consists of quizzes over very dull lectures, followed by a final project that is free-form (similar to a research paper). The lectures are basically copy pasted content from Coursera the book "Hands On Machine Learning with SciKit-Learn and Tensorflow". If you're interested in actually learning about machine learning, you're better off buying the book and self studying (which is infinitely more detailed than this class) instead of dealing with this class. The project is only interesting because you get a lot of autonomy with it, but is otherwise nothing special.
+
+If you need an easy credit to finish off your degree, this is the course for you. Otherwise, don't waste your time. Take another elective that will actually benefit your career.
+
+---
+
+Title: Light and Practical
+Term: Case Studies in Machine Learning - Fall 2023
+Posted: 12/28/2023 7:18 PM GMT-8
+Rating: 4
+Difficulty: 3
+Textbook:
+Lectures: 5
+Professor: 5
+Piazza: 7
+Workload: 5 hours per week
+
+Review:
+Pros:
+1. Relatively light workload consisting of lectures, labs, and quizzes
+2. Quizzes were reasonable and account for 60% of grade
+3. Final project was open-ended and practical
+
+Cons:
+1. There is not a lot of cohesiveness between topics
+2. Final project does not really depend on lectures
+3.
+
+Detailed Review:
+The workload for the course before the final project was pretty light at between 3 to 6 hours per week. Although people said that the quizzes were easy, it is true they are not time consuming, but I personally find that getting full marks on them to be pretty tricky. It also didn't require you to watch the entire lecture/lab.
+
+The first few labs are useful when you learn Pandas but after that I did not really watch the labs as without any corresponding assignments, I found it unmotivating to watch them.
+
+You don't really need to watch the lectures to do the final project. Also, my previous experience in other ML classes in this program did not help much with the final project. Perhaps that is a reflection of me more than this class. Yet, still I would say that I learned a lot from the final project.
+
+I felt like I really did not learn that much from the lectures. This course was more of a survey of different ML approaches emphasizing breadth over depth. I personally prefer a more methodical approach where first principles are taught and then an algorithm is presented. In this course, the instructor jumps right into a high-level approach of the algorithm which others have said is not too challenging but I find to be challenging in a different way because we lack the prerequisite background and it was presented in a less methodical manner than the other traditional ML classes in this program.
+
+---
+
+Title: Easy class, depends what you are looking for
+Term: Case Studies in Machine Learning - Fall 2023
+Posted: 12/16/2023 6:43 PM GMT-8
+Rating: 6
+Difficulty: 1
+Textbook:
+Lectures: 5
+Professor: 4
+Piazza: 7
+Workload: 2 hours per week
+
+Review:
+Pros:
+1. Not too much work
+2. Easy concepts
+3.
+
+Cons:
+1. Don't really "learn" much
+2.
+3.
+
+Detailed Review:
+I took this course because I needed 2 more classes to graduate, and I was kind off burned out and just wanted to finish the degree program. I took one more strenuous class along with this, and if you are in a similar boat and just need a class for an Easy A just to graduate without too much work, then this class is ideal. I think the lectures are decent and the TA was very involved, and he really explained how Machine Learning is used in the real world. The quizzes are rather easy, and the final project is a decent amount of work with a lot of writing, however, can be done if budgeting time well.
+
+If you are looking for a class where you learn a lot about Machine learning and want to challenge yourself, then this class isn't ideal. Even though you do learn a lot about applications of machine learning, you don't have to apply it much yourself and isn't really tested on the quiz, with only the final project being where it is applied.
+
+---
+
+Title: Great class to add to a semester
+Term: Case Studies in Machine Learning - Fall 2023
+Posted: 12/14/2023 11:22 AM GMT-8
+Rating: 3
+Difficulty: 1
+Textbook:
+Lectures: 1
+Professor: 6
+Piazza: 6
+Workload: 3 hours per week
+
+Review:
+Pros:
+1. Knock out a class with low effort
+2. Final project is open ended and allows you to explore your interests
+3. Easy quizzes and grading.
+
+Cons:
+1. Course material is pretty superficial.
+2. Quizzes are poorly worded.
+3.
+
+Detailed Review:
+This class was great. You are pretty much coasting once you get the final project done. And you can work on it at any point in the semester.
+
+I know a lot of people advise against this class because it's too easy, but honestly I needed an easy class to just make some progress with the degree. So I'm all about it.
+
+---
+
+Title: Fun class with open outcomes
+Term: Case Studies in Machine Learning - Fall 2023
+Posted: 12/12/2023 11:26 PM GMT-8
+Rating: 6
+Difficulty: 1
+Textbook:
+Lectures: 4
+Professor: 5
+Piazza: 7
+Workload: 3 hours per week
+
+Review:
+Pros:
+1. You choose to put in as much (or little) effort as you want
+2. Low time commitment
+3. Final project is open ended and you can do whatever you want
+4. Best TA staff in MSCSO
+
+Cons:
+1. Quizzes were too easy
+2. Lectures are too text heavy at times
+3. Prof's accent is tough to understand at times
+
+Detailed Review:
+I thoroughly enjoyed this course, as it gave me the time to explore various applications of ML techniques and finally decide to work on a case I thought was interesting. The head TA, Jun, puts in a lot of work and is easily the most honest and responsive TA in the entire MSCSO program. Kudos to him. His catchphrase "don't forget to practice" was my favorite part of the lectures ;)
+
+This program helped me balance an otherwise tough period in life due to its low workload and lack of deadlines. I am surprised by the negative reviews for this course, given that it has been said multiple times on the hub that this is a low workload class and the course staff never advertised it to be a very deep course.
+
+Summary - take this to knock off an easy credit, or if you want to pair this with a tough subject, or are having a rough time in life. Don't take this if you expect the course to teach you novel techniques.
+
+---
+
+Title: CSML F22
+Term: Case Studies in Machine Learning - Fall 2022
+Posted: 12/12/2023 9:42 PM GMT-8
+Rating: 7
+Difficulty: 4
+Textbook:
+Lectures: 7
+Professor: 7
+Piazza: 7
+Workload: 4 hours per week
+
+Review:
+Pros:
+1. This course is suitable for every background
+2. The instructor and TA are very kind
+3. This course is giving hope to student
+
+Cons:
+1. There were many ungrateful and whiny classmates when I took this class. They were mean and judgmental towards TA and instructor. UT better start to administer personality test when accepting student. Smart student doesn't come with good attitude.
+
+Detailed Review:
+This course helps student to pass the academic probation, gives more rest for full time worker, raises student GPA, saves student expenses, and makes student graduate faster.
+
+---
+
+Title: Pretty tragic
+Term: Case Studies in Machine Learning - Fall 2023
+Posted: 12/11/2023 1:35 PM GMT-8
+Rating: 2
+Difficulty: 2
+Textbook:
+Lectures: 2
+Professor: 2
+Piazza: 6
+Workload: 3 hours per week
+
+Review:
+Pros:
+1. Light workload
+2.
+3.
+
+Cons:
+1. Bad lectures and labs
+2. Annoying quizzes
+3.
+
+Detailed Review:
+
+This class was laughably bad. I took this course knowing it was bad because I just wanted an easy credit, but damn...it was pretty bad. The entirety of the class is either the professor or the TA just reading slides. The quizzes then test you on minutiae from random parts of the slides or labs to see if you were paying attention. I stopped watching the course material after a few weeks and would try and just sift through the slides to get the quiz answers and that worked well enough. I lost a few points because I sped through annoying wording (ie, multiple choice questions where you're supposed to choose the incorrect answer rather than the correct one), but oh well. The workload picks up at the end when you have to write a long final paper, which I actually kind of enjoyed...until the TA feedback was "your method was kind of simple". That had me punching air.
+
+The only entertaining part of the course was at random points in the lecture videos the professor would try and hold in a sneeze and fail, and let out these little baby sneezes. It was a riot.
+
+Anyway, if you don't care about getting value for your money and just want an easy course (hey, maybe you'd learn something if you put more into it than I did), then this is for you. If you want something academically engaging and rigorous, then avoid.
+
+---
+
+Title: You get what you put in
+Term: Case Studies in Machine Learning - Fall 2023
+Posted: 12/8/2023 12:36 PM GMT-8
+Rating: 3
+Difficulty: 2
+Textbook:
+Lectures: 3
+Professor: 3
+Piazza: 7
+Workload: 6 hours per week
+
+Review:
+Pros:
+1. One of if not the easiest course, so take something with it
+2. Decent overview of the ML application space
+3. Surprisingly responsive TAs
+
+Cons:
+1. The quizzes are really easy
+2. You really could do the final project without taking the class
+3.
+
+Detailed Review:
+If your goal is to have a class that really expands your ML knowledge, this probably isn't the winner. I actually got a decent amount of value out of the final project. I was able to both complete a useful course towards the degree AND provide a good proof-of-concept to my workplace for the application. Either way, the final project is explicitly expected to be included in your portfolio of works. The more work you put into the project, the more you get out of the course, but you could also do the project without the course. Hey, we are taking a degree for a reason, and part of that reason is that we have deadlines forced upon us.
+
+---
+
+Title: Case Studies in ML Review
+Term: Case Studies in Machine Learning - Fall 2023
+Posted: 12/2/2023 8:26 AM GMT-8
+Rating: 3
+Difficulty: 1
+Textbook:
+Lectures: 4
+Professor: 4
+Piazza: 5
+Workload: 2 hours per week
+
+Review:
+1. Extremely easy class with very little time commitment. 6 quizzes with 10 questions each that are all multiple choice, and then a 3000-5000 word paper at the end on whatever ML related topic you want.
+2. Covers a wide breadth of material, so very helpful to see what's happening across a number of different areas of ML research
+3. You'll get out of this what you put in. Very easy to coast along, but there's also some interesting material to learn if you're interested
+4. TAs are very helpful if you get stuck
+5. Paper isn't particularly well defined, so you're somewhat left to your own thoughts on how to pursue.
+
+If you need an easy, low commitment class to fill out your 10 required courses, definitely take this one. If you're looking to get a broad understanding of ML, this is a good course. If you're looking to be challenged and go in depth on particular topics, pick another class.
+
+---
+
+Title: Be prepared for self study
+Term: Case Studies in Machine Learning - Fall 2023
+Posted: 11/26/2023 5:54 AM GMT-8
+Rating: 4
+Difficulty: 3
+Textbook: 3
+Lectures: 2
+Professor: 4
+Piazza: 7
+Workload: 10 hours per week
+
+Review:
+Pros:
+1. Covers the breadth of applications of ML
+2. Easy/relaxed pace
+3. Free end open final project (40%) which can be great to explore a topic of interest
+4. Friendly and supportive TAs
+5. For a total beginner in ML, the labs provide a gentle way of trying out ML models
+
+Cons:
+1. Non sensical quizzes (poorly worded, one attempt)
+2. 60% for quizzes which are like described above
+2. Lack of depth in theory behind ML
+3. Poor lectures in terms of explanation (reading from slides)
+
+Detailed Review:
+
+I guess Professor J. is a good researcher in his area and also maybe good in class teaching, but he is a poor instructor in this format and is mostly reading slides in video lectures. If you are willing to self-explore an open ended final project (40%), then this course maybe worth it. Workload per week is very low, but I considered work for final project which could take some time. You have an opportunity to explore any interesting idea from ML area at your own pace.
+
+---
+
+Title: Regret taking this class
+Term: Case Studies in Machine Learning - Fall 2022
+Posted: 3/26/2023 11:34 AM GMT-7
+Rating: 1
+Difficulty: 1
+Textbook:
+Lectures: 1
+Professor: 1
+Piazza: 3
+Workload: 3 hours per week
+
+Review:
+Pros:
+1. Easy and simple if you have a background in machine learning
+2. High level overview if you have no background in machine learning
+
+Cons:
+1. Too high level to learn in-depth
+2. Lectures were very bad
+3. The only meaningful assignment is the final project
+
+Detailed Review:
+Like the title says, I regret taking this class. I don't think I learned anything at all. The 6 quizzes were easy to pass, you just need to look through lecture notes and find a matching sentence. The project was actually fun, but it's basically self guided and something you could do on your own without taking the class. The class could potentially be better if it was made more engaging + informative but in it's current state I would not take it.
+
+---
+
+Title: Simple and useful
+Term: Case Studies in Machine Learning - Fall 2022
+Posted: 1/6/2023 9:28 AM GMT-8
+Rating: 3.5
+Difficulty: 1
+Textbook: 3
+Lectures: 3
+Professor: 3
+Piazza: 5
+Workload: 2.5 hours per week
+
+Review:
+Pros:
+1. Simple, it may take less than 2 hour per week
+2. Get concept about ML application in many areas
+3.
+
+Cons:
+1. Bad design in homework and tests
+2. Could not learn anything if you do not study yourself, which is not required by the course
+3.
+
+Detailed Review:
+
+---
+
+Title: The jupyter notebooks for all the case studies is useful
+Term: Case Studies in Machine Learning - Fall 2022
+Posted: 12/20/2022 6:28 PM GMT-8
+Rating: 4
+Difficulty: 3
+Textbook: 5
+Lectures: 3
+Professor: 4
+Piazza: 6
+Workload: 5 hours per week
+
+Review:
+The notebooks provided are very helpful. The course would help is getting up and running with any ML research topic of your choice.
+
+The depth is not covered in the course. It is up to the students to chose their research topic and complete the final project
+
+---
+
+Title: Likely to be the lowest quality course in the MSCS program without major revisions
+Term: Case Studies in Machine Learning - Fall 2022
+Posted: 12/19/2022 8:57 AM GMT-8
+Rating: 1.5
+Difficulty: 1.5
+Textbook:
+Lectures: 5
+Professor: 5.5
+Piazza: 6
+Workload: 1.5 hours per week
+
+Review:
+Pros:
+1. Very low workload until the project, but you work on this all throughout the semester so it shouldn't be a big deal
+2. An opportunity to force yourself to work on a project or pursue an idea, or whatever you'd like in ML
+
+Cons:
+1. Very low quality quizzes in terms of gauging learning outcomes and difficulty
+2. Grade structure of the course
+3. Very, very high cost-to-learning ratio
+
+Detailed Review:
+
+The maturity of the quiz questions are not at an appropriate level for undergraduate students, much less graduate students. The questions resemble that from a lazy high school teacher's regulars course who didn't bother to come up with real assignments and decided to just make "did you pay attention?" kinds of questions by taking exact words spoken in the lectures and perturbing a word and making a T/F statement or select-all-that-apply questions out of it. So you can imagine that the questions at best test your understanding in the most shallow way. Other questions are like "what is the name of the package that does this", and "Select the ML models we 'ultimately' used for the presented research article" where "ultimate" is undefined unless you ask the course staff. If you were designing a graduate course to maximize learning, none of these questions would make the cut because they are largely a waste of time.
+
+For $1000.00 this is by far the worst investment you can make in ML since there are a plethora of extremely high-quality and entirely free content available. The first week has zero material, which is a waste of course time in my opinion. The overall wording for each question was also quite poor, and it's completely permissible if english is not a first language for the professor. But it's strange that there were so many TA's, and none thought to simply read the questions beforehand and correct the wording and grammar. Only after complaints were the quizzes revisited and re-worded, but some students were likely penalized (heavily unfortunately because of the huge weight). The class did well on the quizzes overall though. By the end of the course, I hadn't watched a single lecture and was able to reasonably quickly search lectures to score either a 90-100% on each quiz.
+
+Another reason that this course resembles a high school course is the *minimum* page requirement for the final project, which indicates the lack of understanding of how papers are written. Every academic paper to be published has *maximum* page requirement; it's much more difficult to make writing concise. The *only* reason to have a minimum page requirement is to penalize the extremely lazy students (again, in high school) who are looking for minimum work, but even this is short-sighted. If a student writes a terrible paper that is far too short to adequately fulfill the assignment, then it should naturally be captured by the rest of the grading rubric. A minimum page requirement is meaningless and reflects a poor understanding of how writing is professionally and academically evaluated. Short, well-written papers should be encouraged by a rubric; not the other way around. This is an expensive graduate course for god sakes.
+
+Overall I'd say stay away from this course until further major revisions, unless you really just want to spend $1000.00 to just obtain course credit, a GPA booster, and to work on your own project. This course cannot compare to ML, DL, OLO, Optimization, and NLP in terms of quality and learning outcomes. You deserve a much better introduction to ML than what this course has to offer!
+
+---
+
+Title: Course structure needs a lot of work
+Term: Case Studies in Machine Learning - Fall 2022
+Posted: 12/14/2022 9:53 AM GMT-8
+Rating: 2
+Difficulty: 1
+Textbook:
+Lectures: 1
+Professor: 2
+Piazza: 4
+Workload: 3 hours per week
+
+Review:
+Pros:
+1. Easiest class I've taken in the program.
+2. Jupyter notebooks in lab sessions are decent references for implementation of a broad range of ML algorithms / methods
+3. TAs responsive in Piazza
+
+Cons:
+1. As others have mentioned the quiz structure is terrible and needs a lot of work. We started out getting 1 try per question, but it turned into 2 half way through the semester. This was nice for students, but it demonstrates none of the quizzes were really properly vetted before being given to students.
+2. Difficult to understand lectures as they lacked focus and sort of meandered through partially or dubiously relevant information about a topic.
+3. Minimal structure on final project and not even a clear grading rubric given means you really had no idea if the work you were doing was sufficient, but grading did end up being on the easy side which was good.
+
+---
+
+Title: Extremely low effort from instructors
+Term: Case Studies in Machine Learning - Fall 2022
+Posted: 12/12/2022 8:40 AM GMT-8
+Rating: 2
+Difficulty: 1
+Textbook:
+Lectures: 2
+Professor: 1
+Piazza: 2
+Workload: 2 hours per week
+
+Review:
+Grading was based on 6 10-question mostly multiple choice quizzes and a final paper with a 10-page requirement (including figures etc.)
+
+Quizzes were extremely tough to solve normally, but extremely easy to solve with Ctrl+F searching the lecture transcripts. In other words, they were prepared by just grabbing random sentences off the lectures and switching a word.
+
+There was some programming with Tensorflow (talk about outdated), but it was very elementary. I have seen more involved programming in introductory MOOCs.
+
+Final paper was the most seemingly intimidating assignment, but in reality it was simply "write something around 10 pages long, make it related to ML".
+
+Overall very disappointing class. Easy A though.
+
+---
+
+Title: Easy course but not very in-depth
+Term: Case Studies in Machine Learning - Fall 2022
+Posted: 12/11/2022 10:50 AM GMT-8
+Rating: 4
+Difficulty: 2
+Textbook:
+Lectures: 4
+Professor: 4
+Piazza: 6
+Workload: 4 hours per week
+
+Review:
+Pros:
+1. A fairly comprehensive review of ML methods and their applications.
+2. Low work-load and easy to get a good grade.
+3. Hands-on examples with Jupyter Notebook to get you started.
+
+Cons:
+1. No in-depth coverage for any of the specific topics.
+2. Reasonable intro but no discussion over state-of-the-art techniques or research oriented discussions.
+3. Questionable quiz format, and the final project is too open-ended.
+
+Detailed Review:
+This is an easy class that you can expect to have an overview of ML techniques applications. if you are new to the field and want some inspiration and try hands-on examples, this could be an interesting ride. If you already have an ML background and just wanted to see how advanced techniques are applied, it might not be the best for you. The lectures are recorded by the professor (covering concepts/slides) and the lead TA (covering examples/Jupyter Notebooks).
+
+There is no coding projects but you will have an EdX quiz to complete for every two weeks or so. This is 60% of the final grade. The quizzes are easy as the answers are mostly coming directly from the lectures/labs but I don't enjoy the format. Specifically, there are a lot of multiple choice questions for choose-the-only-correct/incorrect where the options are taken from the lecture/lab transcript with some words dropped/twisted. The end result was a proofreading task that it doesn't help you much with understanding the concept but rather forces you to rewatch lecture videos to find the verbatim source and compare. There are also times that the sentences are altered in a way that they become confusing, ambiguous. The TAs seems to be planning/running the quizzes and they are generally reasonable at making corrections though. Overall, the TAs are responsive online and reply timely to Piazza posts.
+
+The final project, the rest 40% of the grade, is a 10+ page project report paper for which we were given a MS Word template, where we were instructed to format with 12-pt Times New Roman and 1.5-line spaced. As a regular LaTeX user and having authored and co-authored a few CS conference papers, this came as a surprise. The TAs did later acknowledge that students could use LaTeX as long as they conform to the format requirements as asked on Piazza. In terms of content requirement, the guideline was very broad and no rubric was posted. Project groups up to 3 people each group are allowed, but the TAs noted that the expectation for groups are higher than individual submissions (but again, without clear guidance). I heard that the grading won't be too stringent though.
+
+---
+
+Title: Easiest course in the program
+Term: Case Studies in Machine Learning - Fall 2022
+Posted: 12/9/2022 8:29 AM GMT-8
+Rating: 4
+Difficulty: 1
+Textbook:
+Lectures: 3
+Professor: 3
+Piazza: 6
+Workload: 3 hours per week
+
+Review:
+Good course if:
+(a) you are completely new to ML (not even Kaggle), or,
+(b) you need a chill semester due to work/life stuff, or,
+(c) you need one last course to finish the program, and don't much free time.
+(d) you know ML/Stats theory but have never touched a Jupyter notebook (unlikely).
+
+Bad course if:
+(a) you are decent at practical ML and want to get a better theoretical understanding of...anything.
+(b) you enjoy challenging, stimulating courses.
+
+=========
+Pros
+=========
+1. This course requires no ML knowledge to start. It is a better intro to ML for absolute newbies than Klivans' "Machine Learning" course, but worse intro to ML than "Deep Learning". It's basically a Kaggle 101 course.
+
+2. You are virtually guaranteed an A if you skim the videos for the quizzes, and put in even a small amount of effort in the final project. In Fall2022, an A was 90+, and the **median** grade on the quizzes was 58/60, so you need ~32/40 i.e. 80% on the final project to get an A.
+
+3. Unlike other courses in the program, this gives you a Breadth of ML knowledge, instead of depth. It is quite practical advice. The slides and Jupyter notebooks were good reference material.
+
+4. Final project is open-ended and encourages you to do research-y stuff to put on GitHub and "build you profile" (I work in ML Science and let me tell you, this isn't enough to get a job, but might be good for a thesis later on if you do something unique).
+
+
+=========
+Cons
+=========
+1. I learned very little. There are no coding assignments, and the quizzes are not at all challenging, just reading-comprehension tasks. For Quiz 6, I started only 2-3 hours before the deadline, and did Ctrl+F on a few words from the question, found the answers, and got 9/10. I did not cheat in any way; the quizzes are open-book, and it's just super easy to lookup the answers in the slides.
+
+2. The wording of every quiz was incomprehensible; you need to turn each option around a few times to make sense of it. Every single Quiz had complaints about the grammar. Example quiz option (values changed): "To contain more than 12.3% of the variance for the Strong SO2 Band, using the first eight components fit the purpose; the same number of components can be used in both Weak SO2 Band and Oxygen A band". That said, the head TA was very responsive on Piazza.
+
+3. It's basically a Kaggle 101 course; if you learn any theory from this course, it is entirely by accident. Sometimes the instructors voice incorrect opinions, e.g. Tensorflow is more popular than PyTorch (the opposite has been true since 2020ish).
+
+---
+
+Title: With some tweaks, this could be a very challenging and rewarding opportunity to build your portfolio
+Term: Case Studies in Machine Learning - Fall 2022
+Posted: 12/7/2022 10:45 AM GMT-8
+Rating: 5
+Difficulty: 2
+Textbook:
+Lectures: 4
+Professor: 4
+Piazza: 2
+Workload: 3 hours per week
+
+Review:
+Pros:
+1. There's plenty of 'free time' in this class; this could be a chance to build your Github data science portfolio with small original/unique projects related to the course topics and, of course, your final project
+2. The high-level overview was helpful to me. I have taken DL, ML, and NLP, all of which are far more demanding. Sometimes you can't see the "forest from the trees" in these more rigorous classes because you are too immersed in details, whereas this class was such a breeze that I could sit back and see the "big picture" -- kinda nice to catch my breath for once in this program
+3.
+
+Cons:
+1. I would have appreciated more interaction, such as making this class more rigorous and tailoring it for portfolio development -- see thoughts below**
+2. Reinforcement learning not covered
+3. GANs not covered
+
+Detailed Review:
+
+**Suggestion: Perhaps format this class around helping students' develop their personal Github portfolios. Maybe require a a complete README.md that is a well-written overview and implementation for 2-4 projects + code repos that only the TAs review (maybe allow peer review) -- instead of 1 big final write-up at the end.
+
+I think this could be a great class for helping people build not only their ML knowledge and coding skills (and Github collaboration skills!), but just as importantly, their communication/ documentation skills! The Github repos could be material to share with potential employers. It would make this class difficult but very rewarding. A lot of potential here!
+
+Would have been great to also discuss data, data, data! -- where to get it, how to annotate it, clean it, etc. This is probably the biggest hurdle once you get a job in data science or ML.
+
+---
+
+Title: Low Workload, But Nothing Else Positive
+Term: Case Studies in Machine Learning - Fall 2022
+Posted: 12/6/2022 7:09 PM GMT-8
+Rating: 1
+Difficulty: 2
+Textbook:
+Lectures: 4
+Professor: 4
+Piazza: 1
+Workload: 3 hours per week
+
+Review:
+Pros:
+1. Extremely low time commitment other than the final project
+
+Cons:
+1. If you don't have prior ML experience, you will not learn anything from these lectures. If you do have prior ML experience, you will not learn anything from these lectures.
+2. Quizzes are riddled with grammatical errors, and they test your ability to match sentences from the slides word-for-word rather than test your knowledge of machine learning.
+3. Gaslighty TA
+
+Detailed Review:
+If you're looking for a class to take with little to no time commitment, this is for you. Your grade is based entirely off six 10-question quizzes and a 10-page final project. The bad news is, the quizzes are written in broken English. Now, as a lifelong STEM student, I am very accustomed to professors and TA who do not speak English as a first language. It's never been a problem for me. The bigger issue is that the quizzes are taking things directly from the slides, and tweaking a few words to create some "wrong" answers. That means it's very critical to understand exactly what the question is asking, and understand if the wording is intentionally deceptive or an unintentional error. If the assignments were structured in a way that would really test our knowledge vs our reading ability, I don't think the language would be an issue at all.
+
+My biggest complaint is the TA. Sometimes he would be responsive, but one of the first times I raised an issue with the wording on a quiz, he told me it was my fault for misunderstanding and completely dismissed my (extremely valid) complaint. I saw someone else raise the same issue in a public piazza post rather than private and he was a lot more responsive. In addition to fear of receiving a combative answer, I also didn't find many of the Piazza answers particularly helpful, so I rarely posted. You're on your own in this class.
+
+---
+
+Title: Relaxed High Level Course
+Term: Case Studies in Machine Learning - Fall 2022
+Posted: 12/6/2022 11:09 AM GMT-8
+Rating: 6
+Difficulty: 2
+Textbook:
+Lectures: 4
+Professor: 5
+Piazza: 5
+Workload: 2 hours per week
+
+Review:
+Pros:
+1. Labs were beneficial to walking through the implementation of ML techniques
+2. Good use cases for current ML methodologies
+3. Group project. There was a 10-page final paper that needed to be related to ML in some fashion. They provide some Kaggle examples, or you can pursue your own topic.
+
+Cons:
+1. Very minimal mandatory programming homework. I would have liked to see coding assignments with peer review. I didn't even look at the labs until I started working on the final project and realized the labs were pretty good.
+2. No clear rubric for the final paper, but the professor stated it was more about creating a portfolio for ourselves. This could also be a pro because, given that, we decided just to explore and try things out instead of trying to meet certain checkpoints on a rubric.
+3. Multiple choice quizzes were the only other portion of our grade. They were just word traps where D is not the answer because it had a + instead of a -. To do well, you just have to read and follow the lectures/slides verbatim.
+
+Detailed Review:
+Overall, I think this is a great course with high-level overviews. We covered everything from Logistict Regression, to Nueral Networks, to Natural Language Processing. We were not expected to be experts in any of these topics, but it was just exposure to the topics and how we can implement some packages and libraries to utilize these methods easily.
+
+I would have preferred actual programming assignments in implementing some trivial ML cases. I thought the final project was fun. We were allowed to be in groups of up to 3 or as individuals. I would recommend keeping the groups and collaborating on a problem.
+
+There was no real math or programming background required. It started with an introduction to numpy, but progressed quickly. But with the lack of real programming assignments or homework, there is plenty of time to play catch-up if needed.
+debugger eval code:101:11
+

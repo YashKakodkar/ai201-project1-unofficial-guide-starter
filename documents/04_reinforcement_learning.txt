@@ -1,0 +1,1098 @@
+# CS 394R — Reinforcement Learning
+# 1. On msaihub Reviews, filter by "Reinforcement Learning". 2. Run scripts/scrape_msaihub_reviews.js
+#    in the browser console. 3. Paste the clipboard output below (it already has --- separators).
+# Lines starting with # are ignored during ingestion.
+
+Title: Interesting topics. Lots of reading. Not a great summer course.
+Term: Reinforcement Learning - Summer 2025
+Posted: 8/17/2025 3:15 PM GMT-7
+Rating: 5
+Difficulty: 5.5
+Textbook: 6
+Lectures: 5
+Professor: 6.75
+Piazza: 5
+Workload: 8 hours per week
+
+Review:
+Pros:
+1. The topics are interesting.
+2. The professors are well-known and knowledgeable on the subject.
+
+Cons:
+1. Lots of forced reading (could be a pro if you like that!).
+2. Final Exam is worth 30% and takes preparation.
+3. Lack of programming assignments that give you any freedom. All of the programming assignments tell you to copy algorithms from the book. I enjoy programming assignments that grant the learner some independence... and you don't get that here.
+
+Detailed Review:
+Parts of the book are enjoyable. Other parts are pretty slow to grind through. It's annoying how the book leads with a lot of theory and mathematical formulations which aren't useful in practice. The expectations for the reading responses are low, however, good notes can help on the final exam. The equations covered in the book look far more complicated than they actually are in practice!
+
+Final exam recommendations:
+I would advise you to note important qualities about the algorithms/methods in each of your reading responses. The numerical questions are simple *IF* you understand the algorithm(s). The multi-step/domino nature of numerical questions means a simple mistake can lead to multiple incorrect answers.
+
+I would also recommend that you keep your written work (or helper scripts, if you go that route) for each reading quiz. Having these to refer to is invaluable for the final.
+
+---
+
+Title: Been A While Since I Took This Class, But Here's What I Remember
+Term: Reinforcement Learning - Summer 2024
+Posted: 4/30/2025 6:48 PM GMT-7
+Rating: 5
+Difficulty: 3
+Textbook: 6
+Lectures: 6
+Professor: 6
+Piazza: 7
+Workload: 13 hours per week
+
+Review:
+Pros:
+1. Felt like I obtained a good understanding of the theory behind RL
+2. Overall class is pretty easy, perfect to take during the summer
+3. Professors were nice and had an AMA at the very end of the class
+
+Cons:
+1. Writing summaries for each chapter was extremely annoying
+2. You're graded on your final answer and its very easy to mess up the computation purely due to arithmetic errors
+3. Yes, I'm saying it again: writing summaries for each chapter was super annoying
+
+Detailed Review:
+
+For one last time, having to write summaries for each chapter made me feel like in high school or even middle school again. They should just make the problem sets after each module bigger and make us do those instead. I will admit though, it actually was interesting to read the book at times, especially when they try to compare all the techniques. They really only do that occasionally though, sometimes it gets confusing to follow the logical ordering they're going in and you have to synthesize the comparisons yourself.
+
+Since RL calculations depend on other RL calculations, if you make one dumb mistake early on, the rest of your calculations are wrong then. Not really a way around this, but just be very very careful and always double check your work. You do get multiple tries on the problem sets which is really nice, but you of course do not get on this on the final exam.
+
+Like I said, my memory is hazy, but I think there was only a single exam, the final. It was pretty fair with a couple tricky questions, but be careful: you have access to pretty much everything, including the lectures and textbook (no LLMs though), but given the number of questions, you definitely do not have enough time to search for all the answers. Funnily enough, being forced to write the summaries helps you a lot here, and so does reviewing the lectures where the professor walks through specific numeric examples (ESPECIALLY the grid ones).
+
+Overall, the class was decently easy. Took it in the summer, so with the shorter timeframe, there was always something due every week, namely a chapter summary. I think like every 3-4 weeks there was a programming assignment. They could take a bit to get your mind wrapped around on what to actually do, but they gave you test cases you needed to pass, so it's straightforward at the end of the day.
+
+Finally, I took this class after taking ML and DL. I don't really think the order matters, but I do like that I took it after those (and before NLP). You don't directly need ML for this, but that class exposes you to ML in general, while this class is focused on RL directly. As for DL, there is an assignment or two where you need to make a neural network, and if you have taken DL, it's very easy. Moreover, there was a chapter touched on the concepts of DL and helped solidify those concepts for me.
+
+---
+
+Title: Not engaging or particularly useful, relatively easy
+Term: Reinforcement Learning - Fall 2024
+Posted: 12/18/2024 9:12 AM GMT-8
+Rating: 2
+Difficulty: 3
+Textbook: 6
+Lectures: 1
+Professor: 1
+Piazza: 1
+Workload: 6 hours per week
+
+Review:
+Pros:
+1. Pretty easy course to pass
+2. Unlimited attempts on homework
+3.
+
+Cons:
+1. Busywork book report-type assignments
+2. Very limited lecture content, pretty much all textbook reading
+3. Inactive/abandoned edstem forums
+
+Detailed Review:
+
+This class is pretty much a guided walk through the textbook. As someone who generally doesn't like reading through textbooks I was dreading this class. The video lectures are less than 30 minutes per chapter which usually goes over one example. The whole class felt rushed, probably because it was filmed in early 2020. The lack of lecture content was really disappointing, I supplemented the class with David Silver's lectures which really helped. You're basically paying $1k to read a textbook and fill out multiple choice answers.
+
+## Assignments
+The weekly homework and reading "responses" are easy. You get unlimited attempts for the most part on the homework and the grade-school level reading responses are easy to knock out. The programming assignments also had unlimited attempts but required quite a bit of debugging each time for me. We had several weeks to do them so I would recommend taking these on early. The last two programming assignments required the use of pytorch, so I would recommend you take NLP and DL before you take this class, as there's basically zero introduction to pytorch in this class.
+
+## Final
+I thought the final was fair. The time limit is a bit tight and tests how fast you can put your answers down, I used the entire time and just barely finished. Definitely would recommend to prepare for it. However, if you do all of the homeworks/PAs/reading responses on time you should have at minimum a 70 in the course heading into this final, so it isn't super high stakes it just determines your letter grade.
+
+## Support
+I generally didn't need a ton of support in this class (never attended office hours). However, the edstem forums were deserted for several days at a time from the TAs/LFs. I've never experienced this level of inattention from the course staff before where several posts have zero replies or answers. The programming assignment threads in particular would rarely (if ever) receive replies.
+
+---
+
+Title: Boring, not so informative class
+Term: Reinforcement Learning - Summer 2024
+Posted: 9/2/2024 12:12 PM GMT-7
+Rating: 2
+Difficulty: 5
+Textbook: 1
+Lectures: 1
+Professor: 1
+Piazza: 5
+Workload: 15 hours per week
+
+Review:
+Pros:
+1. TAs are active
+2.
+3.
+
+Cons:
+1. Final exam is so dense
+2. Tedious, manual homework / reading response
+3.
+
+Detailed Review:
+
+This course is tedious. It requires a lot of manual calculations and pointless reading summarizations. The lecture is useless for homework or exam. The final exam contains 60 questions, which are calculation-heavy.
+
+---
+
+Title: Could Have Been So Much Better
+Term: Reinforcement Learning - Summer 2024
+Posted: 8/23/2024 9:22 PM GMT-7
+Rating: 3
+Difficulty: 4
+Textbook: 1
+Lectures: 3
+Professor: 3
+Piazza: 4
+Workload: 15 hours per week
+
+Review:
+Pros:
+1. Excellent TAs genuinely invested in your success.
+2. Large numbers of attempts on the homework assignments facilitates the learning process.
+3. Coding assignments force you to understand the algorithms covered.
+
+Cons:
+1. Textbook wholly unsuited for new learners, with weekly high-school-like book reports.
+2. Incomplete coverage of important topics in the lectures.
+3. Next to no coverage of real-world use cases.
+
+Detailed Review:
+The Textbook
+Let’s start with the textbook. I see that other reviews are mixed with more positive than negative sentiment. I can’t help but think that most of the positive reviews of the textbook are from people who already had a good amount of knowledge of the subject matter before coming into the course. As a new learner, I found learning from the textbook to be at best an excruciating process and at worst impossible. My biggest complaint is that intuitive explanations are nowhere to be found. The book is also loaded with abrupt changes in subject and notation without any explanation, and oblique statements of important concepts that leave the reader guessing as to their meaning. Kierkegaard is easier to read than some parts of this book. But for the word “introduction” in the title one would think that this book is more intended as a reference for people who already know the subject than it is for the purpose of learning for the first time. For me, most of the actual learning from the book came from poring over the equations and the pseudocode, which are thankfully provided generously.
+
+The Lectures
+The shortcomings of the textbook as a learning tool would not have been much of an issue if the lecturers had full coverage of the important concepts, but they did not. The lectures only covered some of the important topics. The others were brushed aside with a statement to the effect of “you can read about this in the textbook.” When the lectures did cover a topic, however. I found them to be helpful in the learning process.
+
+The Homework Assignments / Quizzes
+I found these to be quite helpful in the learning process. The large number of attempts allowed virtually guarantees that you will ultimately get every question right. This combined with the explanations provided at the end gives you what you need to learn the material covered. But not everything is covered. I would not have minded a heavier load of these homework assignments in order to get more complete coverage of the key concepts.
+
+The Coding Assignments
+I also found these helpful to the learning process. For me, the most challenging part was understanding the workings of the object classes provided and the overall architecture we were required to follow. Once that hurdle was overcome, implementing the algorithm was usually little more than faithfully following the pseudocode from the textbook. I would not have minded more coverage of the later-chapter algorithms in the coding assignments. While the tile coding task was a fun little brain teaser, I see no evidence that anyone has actually used this method of function approximation in the last 15 years. I would have gladly traded this assignment for one involving, say, actor critic.
+
+
+The Final Exam and Your Grade
+Almost everyone goes into the final exam with a perfect or near perfect score. The 25th percentile on each and every homework and coding assignment is a perfect score. Therefore, in effect, your grade rests on your performance on the final exam. There may or may not be a small amount of curving, but I suspect there was no curving with my class due to the relatively high number of As.
+BEWARE - the final exam tests material that is not covered in the homework assignments, coding assignments or the lecturers.
+
+
+TA Sessions
+For me, attending the TA sessions was absolutely crucial in both my learning process and in preparing for the final exam. I ended up with an A in the course, and I doubt that would have happened but for my participation in the TA sessions. It’s too bad this review format does not have a field for the TAs. I would give them 7 stars out of 7. I regularly attended the sessions of three different TAs and as each as his or her own style, I greatly benefited from this time investment. I found the TAs to be genuinely invested in the students’ success, regularly going well over the allotted time to make sure that everyone got the attention they needed. If you can’t find the time to attend the TA sessions you’re putting yourself at a disadvantage and missing out on some real learning facilitation and opportunity to connect with others.
+
+
+Suggested Improvements for the Course
+- More complete coverage of key concepts in the lectures.
+- Demote the textbook from the primary learning tool to an optional reference.
+- Kill the weekly book reports.
+- Less emphasis on tabular methods, which have limited to no real-world use cases.
+- More emphasis on gradient methods and actor critic methods.
+- Less focus on tile coding and more focus on neural networks, kernel methods, Fourier basis and radial basis functions.
+- More challenging coding assignments that introduce us to real world use cases.
+- Kill or reduce the weight of the final exam and give us a final project.
+
+---
+
+Title: Okay course, heavy on workload at the end
+Term: Reinforcement Learning - Summer 2024
+Posted: 8/18/2024 3:52 PM GMT-7
+Rating: 4
+Difficulty: 5.5
+Textbook: 6
+Lectures: 5
+Professor: 5
+Piazza: 5
+Workload: 5 hours per week
+
+Review:
+Pros:
+1. Good class that hits all the main foundations of RL
+2. Professors had mostly good content
+3.
+
+Cons:
+1. Sucks that the class is essentially "read the textbook"
+2. Dense final exam.
+3. Unbalanced workload
+
+Detailed Review:
+
+I mean, great course to get the foundations of RL but it was quite boring. Read the book every week, write about what you've read. Do an easy HW and a homework that has a lot of painstaking calculations (but with unlimited attempts). I think one of the HWs took me like 15 attempts which seemed about average from what I heard. Was largely an exercise in drinking enough sugar/caffeine to stay awake to do it and keeping track of the little differences in every single algorithm we did. Seriously, by the end everything was just jumbled in my brain.
+
+Programming assignments are okay. Sometimes it just seemed to pass the autograder if you made a small adjustment which didn't make much sense which was frustrating.
+
+Final exam is frustrating. I did well, but no midterm and just a final worth a ton of the grade is annoying to have to study for. Large study timesink. Luckily, I imagine a lot of the class probably had close to a perfect score going into it.
+
+I wish that the course covered deep RL, but that is probably too much to expect.
+
+---
+
+Title: Engaging RL Course: Well-Built, Modern Content but a Tedious End
+Term: Reinforcement Learning - Summer 2024
+Posted: 8/11/2024 8:55 PM GMT-7
+Rating: 6
+Difficulty: 5
+Textbook: 5
+Lectures: 5
+Professor: 6
+Piazza: 7
+Workload: 5.7 hours per week
+
+Review:
+Pros:
+1. Great build up of material throughout the course
+2. Feels very updated and in touch with modern RL
+3. Class material is top notch for understanding RL
+
+Cons:
+1. Last part of the class gets dense and complex
+2. Tedious, manual calculations
+3. Wished for more experience
+
+Detailed Review
+Pros:
+
+1. Before I started this class, Reinforcement learning was just a vague idea in my mind. I didn’t know what is referred to or how it was implemented. But Professors Stone and Niekum (and the textbook) do a great job of building your understanding from scratch. They start from simple ideas and slowly build upon your understanding over time. They also do a good job of framing the course so you don’t ever feel like you’re just learning new material for the sake of learning new material. It’s all cohesive and flows smoothly.
+
+2. The professors do a good job of making this class feel up to date and providing modern commentary. For example, the professors had a live Q&A session near the end of the course where they answered any questions we had about RL. They also added commentary when the textbook was “out of touch” or didn’t provide enough detail. And they gave a good framing of future concepts that are a focus of the most modern RL research.
+
+3. Lastly, the class material was very engaging. The whole course is a flipped classroom where you read the chapters and watch professor commentary videos intermixed between the book sections. The commentary videos usually consisted of re-affirming important topics or giving numerical examples. Since the textbook is very straightforward and the professors are in touch with modern RL, I found both types of learning valuable and enjoyed the format of the course.
+
+Cons:
+
+1. As I mentioned, the build up of this class over time is one of its strengths, but the very end of the course (especially the last lecture, Chapter 13) kind of drags on. The concepts are a bit dense and it add a whole new layer of complexity (although it is related in some ways). I feel like you hit the climax of the course RL right around Chapter 12, and I feel the course should have ended there. The information in Chapter 13 is interesting, but it would be more beneficial in a part 2 of this course.
+
+2. This con comes from the fact that RL is built upon an iterative, complex learning scheme. In RL, learning “agents” encounter experience and constantly perform calculations to update their perspective on their environments. The science behind this is truly fascinating, but the calculations can be tedious, especially when you do them by hand for the application homeworks. Thankfully, the HW’s have unlimited attempts, but it can be hard to get the calculations correct, especially on later homeworks.
+
+3. This course has a lot of great theory and some interesting homework assignments to implement the theory, but, I’m left wishing there would have been more active application. For example, I would have loved a final project where we have a new scenario and need to come up with our own agent to solve it. Something like that would have been a fun and creative way to apply all we’ve learned. This could even have been in place of Chapter 13 at the end of the course or could have been baked into the course. But, either way, at the end of the courseI still feel like I’m missing a personal connection with RL.
+
+---
+
+Title: Good Filler Course
+Term: Reinforcement Learning - Summer 2024
+Posted: 8/9/2024 6:00 AM GMT-7
+Rating: 2
+Difficulty: 2
+Textbook: 3
+Lectures: 1
+Professor: 1
+Piazza: 6
+Workload: 7 hours per week
+
+Review:
+Pros:
+1. Relatively Easy
+2. Quizzes with multiple retries
+3. Short lecture vids
+4. Decent TAs
+
+Cons:
+1. Material bored me and felt pointless/disconnected from reality
+2. A lot of by-hand calculations for homeworks
+3.
+
+Detailed Review:
+Relatively easy class if you want to knock out a few credits. Even during the summer I feel like I breezed through it compared to other classes. 70% of the grade is comprised of: simple reading responses, quizzes with multiple retries, and programming assignments. There is a final exam at the end of the class.
+
+That said, I feel like most of the material went in one ear and out the other. Maybe it's just me, but I didn't feel like I learned anything that would be helpful to me in the future. I was just doing the class to get it done.
+
+---
+
+Title: First course I got a B+, but I don't regret it
+Term: Reinforcement Learning - Fall 2023
+Posted: 1/10/2024 11:22 AM GMT-8
+Rating: 5
+Difficulty: 6
+Textbook: 6
+Lectures: 4
+Professor: 4
+Piazza: 5
+Workload: 25 hours per week
+
+Review:
+Taking this course dropped my GPA from a 4.0 to 3.9 (I could not dedicate 20-30 hours required, due to work and doing the Thesis).
+However, I feel like it was worth doing this course just to learn the material. In a sense, Reinforcement Learning is the heart of AI. It is undoubtedly one of the most difficult problems in modern AI, and it really changes your approach to thinking about ML problems and "learnability" in general. As an ML researcher at my day job, RL was one my must-do courses.
+
+Pre-reqs:
+You really must be very good at Probability, otherwise this course is going to be unmanageable. Reinforcement learning is almost entirely Probability and Statistics. There's no linear algebra and very basic calculus.
+Probability notation (particularly, conditional expectation and Adam's Law) is used from the second chapter. You're expected to be well versed with it. If you are not, I really would suggest revisiting this course later on.
+Blitzstein (probabilitybook.net) is a great Intro Probability book; you can get up to speed by reading chapters 2, 3, 4, 7, 9 and 10.
+
+
+Pros:
+- The deadlines are stated upfront. You know in advance which chapters you'll have to read and when the homeworks must be done. This is great for planning your life.
+- You read a great textbook end-to-end. People hate on Sutton's book because the math is not lightweight, but it's a well-written book that introduces a lot of complex concepts in an intuitive way. You do need to read each chapter multiple times, but that's because the concepts are a bit difficult; the writing is clear.
+If you don't like the book, "Mathematical Foundations of Reinforcement Learning" is an alternative (it's even more mathy but a bit more straightforward).
+- I actually really liked the fact that we had to read each chapter and summarize it; I feel it helped me grasp the concepts better. It's not a lot of work (use a text-to-speech app like MacWhisper, and it becomes much easier).
+- The Homework grading is quite lenient, you get 500 attempts for any mathematical question.
+- You get hands-on experience implement a lot of the Deep RL algorithms using OpenAI's gym env. This is valuable IMO because you kind of realise how tricky it is.
+- TAs were fine and helped clarify some of the more complex questions.
+
+Cons:
+- The workload was quite high (20-30 hours/wk i.e. 2 or 3 full working days). Each week you have to submit one Reading Response (3-4 hours to read the chapter and summarize all sections) and one homework (6-7 calculation problems, each taking 30 mins). Every 3 weeks you have to submit a programming assignment, which can easily take 10+ hours (the code is tricky)...this is on top of the RR and HW workload each week. So every 3rd week becomes super hectic.
+- The lectures are not very useful; I did not watch them beyond week 1. Profs were not active on Ed.
+- You get 60% credit for all the homeworks if you complete them by the end of the semester. This is good in theory, but it's quite easy to fall into the trap of imagining you'll do all the homeworks later. This makes a big difference to your final grade (I got an 85% for B+, while an A was 90%...I calculated and just missed it because of the late HWs which I could not do due to my day job).
+- The theory Multiple-choice questions can be hard, and you only get a few attempts.
+- The final exam (30% of the grade) only tests your speed of calculation. It's a completely open book exam (you can use Jupyter etc), but it's very hard to complete on-time. Theoretically, if you do all the homeworks and a few of the extra exercises from the book (and particularly if you code them all up beforehand), then you can potentially score very high on the exam. But in absence of that, it's an uphill battle to complete the calculations in time. I only got 66% on the exam, despite coding up many of the HWs beforehand.
+
+---
+
+Title: Not a Good Introduction to RL
+Term: Reinforcement Learning - Fall 2023
+Posted: 12/15/2023 5:36 PM GMT-8
+Rating: 2
+Difficulty: 3
+Textbook: 2
+Lectures: 1
+Professor: 1
+Piazza: 5
+Workload: 6 hours per week
+
+Review:
+Pros:
+1. TAs were pretty responsive.
+2. Light workload.
+
+Cons:
+1. Programming assignments were pedagogically worthless.
+2. Lectures were nearly unwatchable.
+3. The textbook is not a good standalone learning source.
+4. Final exam tested computation speed/accuracy instead of understanding.
+
+Detailed Review:
+
+The topic of Reinforcement Learning could make for a fun, project-based course. Sadly, this class misses the mark.
+
+If you want to learn how to apply RL to real problems, this class is almost worthless. Far too much time is spent on fundamentals, tabular RL, and hand calculations. Modern RL techniques like PPO, SAC, TRPO, DDPG, and A2C are never even mentioned.
+
+READING RESPONSES
+
+The vast majority of the course consists of reading the textbook, which is Sutton & Barto's Reinforcement Learning. You have to write "reading responses" for each chapter. You can say anything you want as long as what you write shows that you've actually done the reading. The book itself is considered by many to be amazing, but I don't agree. It's verbose and covers a lot of detail that gets in the way of understanding the important parts. In general, the field of RL suffers from poor naming conventions and cumbersome, gratuitous notation, and this book does nothing to ameliorate those problems. A good textbook would rework RL into a more pedagogically effective format.
+
+LECTURES
+
+Ideally, class lectures would make up for textbook inadequacies, but in this class the video lectures are more like footnotes to various book details. The lectures don’t actually teach the material or present it in an easily digestible way. I don't know if it's the style of presentation, the content, or the professors' demeanor, but the lectures are grueling to watch. I know many other students felt the same. I watched less than 25% of the videos.
+
+PROGRAMMING ASSIGNMENTS
+
+There were four of these. I learned almost nothing from them because for the most part they just involved implementing algorithms verbatim from the book.  All you need to do is put your head down and transfer the pseudocode into Python. Some people seemed to struggle a bit with these, but for anyone who is proficient in Python/PyTorch and can write efficient code, they are trivial. I think I spent under two hours on each of them.
+
+EDX QUESTIONS
+
+Each book chapter has a set of EdX questions associated with it. The majority are very simple, but occasionally a difficult one is thrown in. Most allow multiple (but not unlimited) attempts, so you can try a few times until you get it right. Quite a few of the problems are poorly phrased, which is annoying. Also many of them focus on minutiae from the book, as opposed to general principles.
+
+TEACHING ASSISTANTS ("Learning Facilitators")
+
+For the most part, they were fine. They were pretty responsive on Ed. I didn't attend any of their office hours.
+
+PROFESSORS
+
+Who? They were non-existent. I think one of them has left UT, so I can't blame him for not being around. I never saw a single post from the other one. No office hours either. There were a couple of "AMA" sessions with the professors--as if they were celebrities. UT should really rethink having classes where the professors don’t participate.
+
+FINAL EXAM
+
+There's one three-hour exam. It's worth 30% of your grade and is fully open book. A bunch of the questions are T/F or multiple-select. Those are fine. But there are also a lot of calculation questions that require numeric answers. Most of these are not trivial calculations. They are long chains of arithmetic that require you to scroll back and forth and reference diagrams and numbers on other parts of the page with unnecessarily intricate details. If I knew what it was going to be like, I would have pre-written code to use. If the exam were untimed, it might be fine, but under the pressure of the clock, it winds up being a really bad experience.
+
+I got an A in the class, so this review is not just sour grapes. UT needs to do better.
+
+---
+
+Title: Unengaging and covers only basics, nothing practical
+Term: Reinforcement Learning - Fall 2023
+Posted: 12/15/2023 6:45 AM GMT-8
+Rating: 2
+Difficulty: 3
+Textbook: 7
+Lectures: 2
+Professor: 2
+Piazza: 2
+Workload: 6 hours per week
+
+Review:
+Pros:
+1. Focuses on Chapters 1-17 of Sutton and Barto, which is the standard textbook for RL courses
+2. Plenty of online resources that cover the textbook and associated materials
+3. TAs were knowledgeable and helpful
+
+
+Cons:
+1. Unengaging and no practical real-world projects to tackle, just pseudocode
+2. Not much coverage into Deep RL
+3. Independent of this class: The switch from Piazza to Ed this semester made this class even less engaging; there was almost no discussion on the board and it seemed students must have sent the TAs a lot of private posts instead (which TAs complained about). Moreover, the Ed board was difficult to sort and manage. It's just a disorganized haystack of threads. Terrible decision for the program to leave Piazza for Ed imo.
+4. EdX grader would crash on timeout constantly; it was up to the student to find the most efficient code to get it to pass the grader. So having a correct implementation of the pseudocode wasn't enough, it also had to run quickly. This was annoying and was the major difficulty of the class, in addition to the final exam.
+
+
+Detailed Review:
+I watched an insightful, well-produced, and animated Udemy class that covers Sutton and Barto instead of the class lectures. Others have sought out Silver's lectures on YT, etc. There are plenty of resources out there that cover the textbook's chapters that are far better than the class lectures. That said, some of the questions on the final were inspired more from the problems discussed in lecture rather than the HW. It was like a penalty to anyone who didn't watch the lectures, lol! I breezed through the Practice Final (which resembled the HWs) but lost a lot of points on the final due to the lecture-like problems. Watch out for that.
+
+Coming away from this class, I'd say it's just an appetizer for RL. It covers the classic textbook on the subject, which is good, but it is left to the student to find real problems to work on or a Deep RL course to actually learn RL.
+
+---
+
+Title: Take it only if you have to (and you have to)
+Term: Reinforcement Learning - Fall 2023
+Posted: 12/13/2023 3:34 AM GMT-8
+Rating: 2
+Difficulty: 5
+Textbook: 2
+Lectures: 2
+Professor: 2
+Piazza: 3
+Workload: 10 hours per week
+
+Review:
+Pros:
+1. Free textbook and you can easily give the lectures a miss since they're not all that helpful
+
+Cons:
+1. The course is heavy on self-study with a textbook that could use some life.
+
+Detailed Review:
+The only reason I stuck it out was because it's a tick-box for the degree. Would've bailed otherwise, no question.
+
+Think of this course as a self-guided tour through a textbook – no tour guide, no audio headset, just you and the pages.
+
+Now, about those lectures – they were there, sure, but you won’t miss out on anything crucial if you decide to skip them.
+
+The programming assignments? They're basically translating the book's pseudocode into actual code, which is as fun as watching paint dry, and it doesn't get much more 'real world' than that (read: it doesn’t).
+
+And then we have the reading assignments – put bluntly, they're just busy work.
+
+Sure, I got 90%, but did I come out with any practical skills? Not really. Don’t expect to walk away ready to tackle real-world tech problems. This class felt like putting together IKEA furniture with vague instructions – and no Allen key.
+
+---
+
+Title: Worst class I've taken in the program
+Term: Reinforcement Learning - Fall 2023
+Posted: 12/12/2023 12:55 PM GMT-8
+Rating: 1
+Difficulty: 7
+Textbook: 1
+Lectures: 1
+Professor: 1
+Piazza: 1
+Workload: 15 hours per week
+
+Review:
+Pros:
+1. Early access to all assignments
+2. Textbook is free and you can skip the lectures because they don't help
+
+Cons:
+1. The class is a self study of the really dry textbook
+2. You're on your own, especially dependent on the TAs
+
+Detailed Review:
+Don't take this class. It felt extremely tedious and was the only class out of the ten that I felt frustrated. It's one of the most low effort classes from a staffing point of view. As a student, it was extremely challenging. You're on your own to read the textbook and to try to complete the assignments and quizzes. If you can't figure it out from reading the textbook, then it's going to suck and you will have to spend a ton of time looking for outside resources for help. The only helpful resources were the other students in the discussion forums.
+
+The textbook was the driest and most boring thing I had to force myself to read. If you don't keep up with a lot of the concepts and notations, the chapters just get worse. There's also no example problems in the book to help you with the assignments, yet if you have any questions, you'll be directed back to the book.
+
+Skip it, it sucked, still feel like I don't know much about the subject.
+
+---
+
+Title: Not a bad course, wish the lecture videos were better
+Term: Reinforcement Learning - Fall 2023
+Posted: 12/11/2023 11:47 AM GMT-8
+Rating: 4
+Difficulty: 4
+Textbook: 5
+Lectures: 3
+Professor: 3
+Piazza: 4
+Workload: 6 hours per week
+
+Review:
+Pros:
+1. Decent textbook
+2. Not a huge time commitment / easy to pair with another course
+
+
+Cons:
+1. Course primarily self-taught using textbook, video lectures not too helpful.
+2. Final exam
+
+
+Detailed Review:
+
+Not a bad introduction to RL, you will need to do more self-study if you want to delve into more recent developments. The course if primarily self-taught using the textbook, the lectures are meant to just supplement. Past the first three weeks, I just stopped watching them altogether as they aren't necessary to get through the homeworks, program assignments, and exam. This was a bit of a letdown, as watching great lectures is one of the best features of this program. Not to say the videos provided were bad, just lacking a lot of material. Textbook wasn't bad either, but it did seem like certain sections were lengthier than they needed to be. Recommended looking at the homework questions before you read the corresponding chapter to save yourself time by just skimming through the irrelevant sections.
+
+Homeworks aren't too bad. They are multiple choice and fill in the blank style of questions. You get anywhere from unlimited attempts for numerical answers to one chance on true/false and somewhere in-between for everything else. All the information needed to answer the questions can be found in the textbook.
+
+The programming assignments were mostly just implementing the pseudo code from the textbook into python. They were not too bad, and I got them done faster than most other programming assignments in other courses like DSA, NLP, and DL. You get infinite tries to pass the auto grader. It's useful to take NLP or DL before this class if you haven't used PyTorch before.
+
+You also have to submit a summary for each chapter. This was honestly the most annoying part of the course. I find writing required notes and summaries quite tedious and not really useful to learning the material. The TAs go through a random sample to check for completeness and dock points if necessary, so you unfortunately have to put something meaningful to ensure full credit. Honestly reminds me being back in grade school, which is frustrating considering this is grad school.
+
+Final exam was basically a timed version of the homeworks with only one attempt. It wasn't too bad, but you did need to know the material to get though it in time. Especially for the numerical answers that required computation.
+
+---
+
+Title: Reinforcements to the Front of the Class!
+Term: Reinforcement Learning - Fall 2023
+Posted: 12/8/2023 12:43 PM GMT-8
+Rating: 4
+Difficulty: 4
+Textbook: 6
+Lectures: 5
+Professor: 4
+Piazza: 5
+Workload: 14 hours per week
+
+Review:
+Pros:
+1. RL is the frontline of AI
+2. The textbook is the gold-standard
+3. Excellent expand-the-material lectures
+
+Cons:
+1. Theory-heavy
+2. Still has a final exam (grumble)
+3. Finicky edx grader
+
+Detailed Review:
+It was an excellent course to follow DL, as DL ends with what is really an RL project. The textbook is solid, if a bit notation-dense, but, hey, that's theory. The edx quizzes are relatively easy and the TAs were quite helpful getting through them. The HWs can be quite challenging (track your index counters and check to see where the book starts indexing at 1 versus 0). It still has a final exam. (I'm kind of liking the classes based around projects at this stage.)
+
+---
+
+Title: Easy, quick but boring
+Term: Reinforcement Learning - Fall 2022
+Posted: 1/21/2023 3:16 PM GMT-8
+Rating: 3
+Difficulty: 1
+Textbook: 7
+Lectures: 6
+Professor: 5
+Piazza: 6
+Workload: 6 hours per week
+
+Review:
+Pros:
+1. The textbook is of good quality. It goes into good detail and tries to tie together all the concepts in the book.
+2. The programming assignments were fairly basic and can be done much more quickly than those in most other courses.
+3.
+
+Cons:
+1. Exam is quite unforgiving. Several questions had lots of calculation steps. Making any mistake would result in a 0, and parts built upon other parts. The course was curved, so not the biggest problem.
+2. The lectures are only supplementary. The main learning is from reading a chapter of the textbook per week. This was very unengaging for me. The lectures themselves were good, but I lost the motivation to watch them after 2-3 weeks because they were supplementary. To be clear, the lectures mainly just fill gaps in the books; you cannot get through the course by just watching the lectures.
+3. I didn't feel like I learned much from the programming assignments since they were quite simple.
+
+Other notes: All assignment and homework deadlines were moved to the end of the semester, except for the weekly reading responses. Some students enjoyed this, others did not, so it might not happen next semester.
+
+Reading responses appear to be marked for coverage rather than quality. Having a few very insightful thoughts but not mentioning all the major themes of the chapter led to mark deductions for me. Putting very boring remarks that covered everything did not lead to deductions for me.
+
+---
+
+Title: Disappointing but overall not bad
+Term: Reinforcement Learning - Fall 2022
+Posted: 12/14/2022 2:49 PM GMT-8
+Rating: 2.5
+Difficulty: 4
+Textbook: 6
+Lectures: 1
+Professor: 4
+Piazza: 7
+Workload: 17 hours per week
+
+Review:
+I went into this course with high expectation but ended up being disappointed. In terms of content, I really like Reinforcement learning and the ideas behind it. I will break why this course didn't meet my expectations.
+
+Lectures:
+The entire course revolves around the Reinforcement textbook by Barto and Sutton. It's a very good textbook with detailed explanation of each topic. Every week you have to read one chapter. This is fine for the first 7-8 chapters, but after that, the content gets heavier and it requires much more time to understand.
+The lectures are extremely short compared to other classes and provide almost no explanation of the foundations of each chapter. They are helpful, but you have to look at them in terms of supplemental material.
+In my opinion, I really don't like this style of teaching. I think a good class contains good lectures explaining the basic concepts which students need to grasp, and the textbook can be used to go over the details.
+I believe this system comes from their in person teaching style where they ask students to read the chapter and then they'll go over any questions in class. But in online format, this method did not work well for me. After each chapter, I had many questions which were not clarified during the lectures even from the foundations. I think good lectures (such as David Silver's) would have avoided all of these issues. Every other course I've taken had lengthy lectures on foundation topics we need to learn, and I believe that's the way to go. The point of the lectures are to simplify large topics so learning can be optimized during the semester, otherwise I can read the textbook by myself at my own pace without the need of the class. Also simplifying large concepts would help to remember the foundation material.
+
+Homeworks:
+The homeworks were pretty standard. They got a bit harder after chapter 10, but even then they were mostly solvable and clear. You also have multiple attempts for most of the problems.
+There are also weekly reading responses which are simple.
+
+Programming assignments:
+The first two assignments were just following algorithms of the book, but later assignments became a bit harder as they require using Neural Network. I would suggest learning a Neural Net framework such at pytorch in order to make it easier. Overall, the assignments take some time to complete, but they are doable.
+
+Final:
+The final was a bit tough as it contained some harder questions than the homework. The average was in the 60s so that's a good indication of how hard the final was. One of the reasons for this is the 1-attempt no partial credit problems. Some problems required calculating or inputting numbers, and if you got the final answer wrong, you would end up with 0 points for that problem. The course was curved this semester pretty well. The cutoffs were reduced to improve grades, and as a result, I think grading was fair. Even if you get don't do great on the final, you can still end up with an A.
+
+Side note: this semester, the deadlines were pushed towards the end of the semester, so you could do assignments at your own pace and submit all before the end of the semester. I personally liked this as I didn't have to stress about finishing assignments on time, but it definitely requires some self-determination to not fall extremely behind.
+
+Overall, I really liked the material and think the homeworks were helpful to learn, but I wish the teaching style was better. It's not a bad class to take, but keep in mind that you can learn everything by yourself if read the textbook.
+
+---
+
+Title: One of my favorite classes so far
+Term: Reinforcement Learning - Fall 2022
+Posted: 12/14/2022 4:50 AM GMT-8
+Rating: 6
+Difficulty: 6
+Textbook: 5
+Lectures: 7
+Professor: 7
+Piazza: 7
+Workload: 20 hours per week
+
+Review:
+I enjoyed this class so much that I sent the profs a thank you note and I'm copying it here (abridged) as it contains my opinion and feedback on it, hope someone finds it useful. My two pieces of advice are: make sure your Python level is such that you are comfortable with class objects and inheritance, and make sure you can use PyTorch comfortably. If not, you will agonize in the programming assignments.
+
+"
+I took your Reinforcement Learning class this semester through the online masters (thought I'd identify myself first!). I just wanted to say this is one of the most interesting classes I have taken in a while, including my previous master's degree in Petroleum Engineering. I really appreciated the fact that you didn't go all heavy in any one direction - there was a good balance between math-heavy theory, conceptual testing (via the homeworks), "mickey mouse" application (via the simple numerical application) and more serious application via the Programming Assignments (all the way to using PyTorch!). I especially enjoyed the programming assignments.
+
+I'd also like to cast my emphatic vote in favor of self-spaced learning - I really liked that I had time to do the PA's and not be rushed. I could not have met the deadlines of PA2, PA3 and PA4, as I practically worked through Thanksgiving to get them correct.
+
+My only piece of feedback is that perhaps students are not forewarned starkly enough of the required level in Python and Pytorch. "Strong programming skills" as a prerequisite is not specific enough. My level in Python was such that class objects were still mystical, so in order to do PA2, I probably spent 40% of the effort getting up to speed in Python first (which is why I could have never met a regular deadline). Then, probably a solid 10-15 hours of extra work had to be done in order to understand how PyTorch works and the NN - these were not considered in my original "15 hrs a week" budget for this class! Given proper warning, someone could have studied over the break and built a foundation at least.
+
+In any case, I learned tremendously, so thank you again. I used to play StarCraft when I was a teen and I always wondered how the "AI" of those games work ... the stuff I read on DeepMInd's AlphaStar sounded fascinating and makes complete sense.
+
+I'll probably be continuing my studies in Reinforcement Learning in the future as I suspect they will have applications in my industry that people haven't thought of.
+
+Special shout out to the TA's! All very helpful and friendly - and patient!
+"
+
+---
+
+Title: Don't take this class
+Term: Reinforcement Learning - Fall 2022
+Posted: 12/13/2022 3:23 PM GMT-8
+Rating: 1
+Difficulty: 7
+Textbook: 1
+Lectures: 1
+Professor: 1
+Piazza: 4
+Workload: 10 hours per week
+
+Review:
+Pros:
+1. Flexible deadlines pushed all the way to the end of the semester
+2. Simple programming assignments
+
+Cons:
+1. Professors are non-existing
+2. Useless lectures
+3. Final exam designed for full points or no points (avg. 59, STD 16)
+4. HWs, Programming Assignments, and Final all are full points or no points
+5. Book is not that straightforward
+
+Detailed Review:
+Do not take this course unless you really have no option. Something I learned in my undergrad from one of my professors was "If a professor says to read the book and come to lectures to discuss what we read, they really don't care about teaching only their research" which is 100% true for this course. Literally the first video the professors say to read the textbook and only watch the lectures afterward. You would think enrolling in a top 10 CS university you would learn from the professors but you are dead wrong this class was just either a cash grab or it was just used for the professor to say he is teaching and can go back to his research. I say him since one of the professors has already left UT Austin and is the only one in charge of the course. He never said a single word in the Piazza or anything the course is run by only 1 TA practically. If you are actually interested in RL please do yourself a favor and go watch DeepMinds RL course it's free and you will actually learn something from some of the best. The final is a slaughter fest and we had an issue were students would post on private about their solution past the exam time and they would get full credit regardless if they got it wrong while they were taking the exam. You can already figure this created an unfair advantage for students that didn't know about this and I say lightly as there was no post by the staff stating we could do this, so they don't even hold up to the Honor Code. Just don't take this class you are wasting your time and money.
+
+---
+
+Title: If it is judged by whether the knowledge is acquired, I will give this course full marks
+Term: Reinforcement Learning - Fall 2022
+Posted: 12/13/2022 4:29 AM GMT-8
+Rating: 7
+Difficulty: 6
+Textbook: 5
+Lectures: 6
+Professor: 6
+Piazza: 6
+Workload: 6 hours per week
+
+Review:
+1. First of all, what is your purpose of learning MSDSO? Is it to acquire knowledge, or to get a master's degree, or to get an A? I think many people have the first two goals, but they end up complaining about a little score.
+
+2. This course does have some technical problems. For example, you can only click submit once during the final exam, which makes it impossible to modify the answers. This has caused a lot of pressure for many people. I am one of them. For example, even if the final exam is approaching, there is no way to discuss HW issues in piazza, which makes it impossible for everyone to exchange learning experience. However, note that on the one hand these issues will be resolved in the future, and there is no absolutely perfect course. On the other hand, this does not affect you to learn RL through other methods, and pass the exam to get a master's degree. So, don't feel bad about some minor issues.
+
+3. Give some suggestions on learning:
+1) Submit the Reading Response on time, and don't lose points for late submission. By the end of the semester you will find that every point counts.
+2) Complete HW and projects ahead of schedule. Don't procrastinate until the last day just because the deadline is at the end of the term, you will definitely miss a lot of marks in a hurry.
+3) The final exam is similar to the usual HW, do the HW twice more, especially the calculation questions.
+4) After reading the book, it is recommended to watch David Silver's video lessons to help sort out the knowledge points. This is very useful.
+
+Finally, ask yourself again what is the purpose of my coming to MSDSO? Then focus on your original purpose.
+
+---
+
+Title: Good theoretical course, hands-on is OK
+Term: Reinforcement Learning - Fall 2022
+Posted: 12/12/2022 5:03 AM GMT-8
+Rating: 5
+Difficulty: 5
+Textbook: 7
+Lectures: 4
+Professor: 4
+Piazza: 5
+Workload: 6 hours per week
+
+Review:
+Pros:
+1. Very broad coverage of RL fundamentals
+2. Programming assignment/homework are generally not too crazy
+3. Piazza support is decent
+
+Cons:
+1. More recent RL techniques (like policy gradient, deep RL) are less/not covered
+2. Hands-on component is not that challenging, hard to utilise learned things in a practical manner
+3. Final exam grading can be brutal
+
+Detailed Review:
+This course covers almost all the chapters in the 2nd Edition of Reinforcement Learning textbook. For anyone new to RL, I think the topics are fairly easy to pick up without requiring very advanced math/stats, and also can be interesting to learn. The textbook itself is very well-written, in fact one could take this course without even attending the lectures. However, modern RL in recent years have seen many interesting topics like deep RL and methods from policy gradient. If you're looking to learn more into these topics, unfortunately they're not really there in the course. Overall I do think packing all the chapters in the book into one semester already means there's little time for anything else, especially when there are also homework and programming assignments along the way.
+
+The homework are mostly multiple choice questions, usually with very few attempts, or sometimes even single attempt, so be careful if you want to score well for this course. My advice is to score PERFECT score for the homework and assignments, since most people do very well in these and only don't do well in the final. Perhaps even 1 mark can put you in a different grade. The programming assignments are OK in my opinion. Compared to the Coursera course on RL, it's definitely harder, but IMO not that challenging. Most of the time you're really just asked to implement the pseudocode mentioned in the textbook. Also, at least in this semester, the deadline for programming assignments and homework pushed back so as to allow people to juggle their own time. There were actually students who frowned upon this, blaming upon the lack of time enforcement.
+
+There's also a graded component called "reading response". This is fairly easy to score - just make sure you read up a new chapter every week and submit your summary in EDX in time. The grading is pretty lenient for this.
+
+The final exam receives quite a bit of negative feedback in Piazza, and while to me it's not that bad, I can understand where the complaints come from. For one, the instructors rely on EDX to carry out the final exam, and somehow it's a binary thing in terms of correctness (you either get full or zero mark for a question). This can be frustrating (even for me) because it means the system does not differentiate people who have put in effort to understand a concept but got the answer slightly wrong (and thus get zero mark) vs people who don't understand the concept at all.
+
+Overall support in Pizza is pretty good IMO. The TAs have the most presence (both Sai and Tyler were very active), and to my best memory the professor was not active. But if you need help generally there's enough support from Piazza (whether from students or TAs).
+
+Similar to other previous feedbacks, I really do hope there could be more meaningful projects in the course. Perhaps the intention of the course was to give a solid theoretical foundation, but I do question if all the chapters are necessary to achieve so. Or perhaps, it could have been possible to compress some chapters into one, and leave some time to do a mini-project to exercise what we have learned.
+
+Also note that Professor Scott Niekum is no longer with UT Austin, so he's not teaching this course anymore although the lecture videos were probably recorded when he was still around.
+
+edit: in case anyone wonders the size of class, for Fall 2022 it was about 160 students. So considering this, I've to say the TAs did a pretty solid job keeping Piazza alive. The final grading was quite generous due to the issues mentioned above - if you get full marks in the non-exams but get only 70 out of 100 in the final exam I think that still results in an A.
+
+I also want to comment that there will be a lot of negative feedback coming in soon for this semester, since in Piazza you can see quite a bunch of people very mad about certain handling of final exam by the TA. The overall story is that yes, the TA probably can do better, but the TA team is really small and I think some of the students really vented too much. Still a highly recommended course unlike some of the incoming bad reviews that come from a small group of students who are probably still mad while writing the review. Note that I’m writing this as unbiased as I can be, even if I disagree with some of the ways that TA handled it, I think they did their best and let’s be more forgiving. Quite disappointed with how some students set out to destroy the course in the review despite so much that we have gained from the course.
+
+---
+
+Title: RL Fall 2022
+Term: Reinforcement Learning - Fall 2022
+Posted: 12/9/2022 2:03 PM GMT-8
+Rating: 4
+Difficulty: 5
+Textbook: 7
+Lectures: 2
+Professor: 3
+Piazza: 3
+Workload: 8 hours per week
+
+Review:
+Pros:
+1. Really interesting topic with a lot of buzz both in research and real-world applications right now.
+2. Homeworks and Programming Assignments are short, not too difficult
+3. The textbook is really good (but see notes below).
+
+Cons:
+1. The class is pretty much a read through of a textbook (which is dense but very good, if you're okay with absorbing information this way and take you're time you will learn a lot)
+2. The lectures are very hit-or-miss. Some provide good insights into something the book glossed over or just repeat what the book did.
+3. No real satisfaction from completing the Programming Assignments. The problems you solve are either toy environments made by the course or, when you do get to use the great AI Gym library, you use the most vanilla problem. Given how many different and exciting applications there are in RL, this was disappointing.
+4. Large portion of the final was dedicated to testing your skills as a human calculator rather than deep knowledge of the material learned. Many questions were similar from the homeworks but still tedious, error-prone calculations that were better left covered in the Homeworks and Programming Assignments.
+
+Detailed Review:
+
+---
+
+Title: Great class that gave me a solid foundation in RL
+Term: Reinforcement Learning - Spring 2020
+Posted: 12/10/2021 1:39 PM GMT-8
+Rating: 7
+Difficulty: 1
+Textbook: 7
+Lectures: 7
+Professor: 7
+Piazza: 7
+Workload: 5 hours per week
+
+Review:
+Pros:
+1. I liked that reading the textbook was compulsory. I never read textbooks unless forced to and this was a really great textbook
+2. The lectures were a solid complement to the material that I read in the book
+3. I really liked that we got into neural nets and modern RL techniques
+
+Cons:
+1. None, I really like the course
+
+---
+
+Title: 
+Term: Reinforcement Learning - Spring 2020
+Posted: 3/5/2021 9:14 AM GMT-8
+Rating: 5.5
+Difficulty: 4
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 10 hours per week
+
+Review:
+The name of the game is copy the algorithm. Each homework requires useing pseudocoded algorithms from the textbook that need to be followed to the letter. The nuances are tricky at first, but you'll understand the notation with enough practice. Really interesting course content. Teacher are okay, exam is a bit rough. It gets curved though, don't worry. Definitely take Deep Learning first.
+
+---
+
+Title: 
+Term: Reinforcement Learning - Summer 2020
+Posted: 3/5/2021 9:14 AM GMT-8
+Rating: 5.5
+Difficulty: 7
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 15 hours per week
+
+Review:
+Liked the instructors a lot. They did good job explaining the concepts. But I felt it is sitll hard to understand them. The 4 asignments get harder each time and I had very hard time finsihing them. (I was taking Deep learning at the same time and did not put more hours to it. That could be the reason I did not do well in RL.)
+
+---
+
+Title: 
+Term: Reinforcement Learning - Summer 2020
+Posted: 3/5/2021 9:14 AM GMT-8
+Rating: 5.5
+Difficulty: 2.5
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 12 hours per week
+
+Review:
+This class is largely a companion to the textbook. The summer course is very intensive due to the shortened schedule and a chapter of the book is skipped. The homeworks were fairly straightforward from the chapters but the programming assignments were rote copying of algorithms from the text book and were not terribly enlightening. The three contigious hour long final was rather brutal and if it you approach it in the same way as the homeworks it is likely you will not finish in time; I would recommend having programs prepared to calculate some of the more iteration intensive answers. As the only test of the course it was not really possible to get a feeling for what the questions would be like and I did not feel as though it was an accurate assesment of what I had learned. I would go so far as to say that I would need to reread the relavent chapters of the book if asked to implement any of the algorithms in class. The content is good at teaching the fundamentals of reinforcement learning but I do not feel as though I am as prepared to contribute to the field as compared to another course like deep learning. Some experience with a deep learning framework is recommended for the last two programing assignments.
+
+---
+
+Title: 
+Term: Reinforcement Learning - Summer 2020
+Posted: 3/5/2021 9:14 AM GMT-8
+Rating: 5.5
+Difficulty: 4
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 15 hours per week
+
+Review:
+I took this course during the summer since it was supposed to be the lightest workload course, but the result was still pretty stressful. Pros: The content is very interesting, and not super challenging. Cons: Fast summer pace, very reading-focused course, and a lack of good support for the neural network components of the programming assignments. This last one wasn't actually an issue for me (I used the Keras API, which I STRONGLY recommend assuming it's still allowed in future iterations), but a lot of people using pytorch or tensorflow's lower-level API really struggled. Final exam was really hard, mostly because of the format (input boxes, no partial credit, submit once and pray you rounded right). Still got an A, but wished I had not taken it during the summer. Difficulty definitely ramps up in the last 4 chapters (function approximation, neural nets, etc.).
+
+---
+
+Title: 
+Term: Reinforcement Learning - Summer 2020
+Posted: 3/5/2021 9:14 AM GMT-8
+Rating: 5.5
+Difficulty: 4
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 15 hours per week
+
+Review:
+Like the above commenter mentioned, the course is structured around the book, so if you like following textbooks, then you'll probably enjoy that about this course. I recommend fully understanding and working out the examples from the videos. Try to complete as many textbook exercises as you can to REINFORCE your knowledge. Both of these habits will pay off when you take the exam. Taking some time to familiarize yourself with either pytorch or tensorflow before the 3rd assignment hits will pay off as well. I found both the 3rd and 4th assignments very time-consuming, not having taken DL prior. Our TA, Macke was great but you may or may not have the same luck. All-in-all, the concepts were interesting and from a high-level, easy to understand, but slightly more difficult to master.
+
+---
+
+Title: 
+Term: Reinforcement Learning - Summer 2020
+Posted: 3/5/2021 9:14 AM GMT-8
+Rating: 4
+Difficulty: 5.5
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 8 hours per week
+
+Review:
+Mostly the course is structured around a textbook with very little instruction otherwise. If the textbook is confusing to you, the course will be very difficult. If you are unfamiliar with the topics, definitely allocate time to read the chapters more than once. The topics are interesting.
+
+---
+
+Title: 
+Term: Reinforcement Learning - Summer 2020
+Posted: 3/5/2021 9:14 AM GMT-8
+Rating: 1.75
+Difficulty: 5.5
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 20 hours per week
+
+Review:
+Child... Let me tell you a story about taking RL in summer: "No". Having said that, this course is interesting topic-wise, the delivery was not so great. Most of your learning will happen reading a book that is definitely not a light reading, so if you don't like reading technical texts, do not take this class. Videos are a mixed of: Repetition of same concepts on the book, caveats of some of the concepts presented by the authors, and sometimes useful exercises. You feel like you "understand" until you arrive to chapter 8 or 9 more or less, and then is all down the hill from there (videos did not help me with the most challenging chapters of the book). Projects are for the most part OK, except the ones that include programming on Neural Networks for which you receive zero training in this course, so if you don't know how to use TensorFlow / Pytorch be ready to do your outside research. If you are expecting faculty to actually be interacting with you, you are in for a rude awakening! We had one of the most awkward situations regarding examinations when the instructors (can't tell who exactly?) decided to change the conditions on which the final test was taken (after realizing that students could exploit a feature to determine whether their answers were correct while taking the exam), creating effectively 3 different groups of people depending on the conditions they took the test. During this time we did not see one single message from any of the professors (or even the program director, since the validity of the exam was compromised), only one of the TAs was facing us and our questions during the process. There were allegedly two TAs but only one (William) was trying to help, the other one (can't even remember his name), seemed to just be enjoying the thrill of "standing there". The professors seem to take issue with letting the TAs share too much information with students about some of the homeworks, that, combined with the non-collaboration policy (borderline paranoia of plagiarism) makes taking this class a very lonely experience. Also, and I guess this is more a program-wise problem, but I can see how there are two groups of people that this program is catering to: The ones that see this as a professional development opportunity and the ones that want to use this master as a stepping stone to complete a PhD. Perhaps for the second group this class was awesome, and don't be surprised if you see high ratings in that case... I am in the first group, and I find not just this class, but all the classes I have taken in UT to be extremely theoretical. In the case of RL I was left with a bunch of knowledge but little awareness on applications (more than the projects the professors are working on). Maybe this course should be revised in scope just to make sure we are getting away what is truly relevant. If you ask me today to implement any of the 30 something variants of algorithms we had to review while reading the book, I don't think I would be able to remember how... And I got an A in this class. The final exam was a slaughter fest, with an average of 65 and std. deviation of 20. To me this reveals the failure of either the exam as an evaluation instrument or the course as means to ensure proper learning. A tough final does not reveal anything about the student group more so than about the instructors that put it together... So net, I would not recommend this class unless you are interested in the topic (or you have to take a class... is not like we have so many options anyway).
+
+---
+
+Title: 
+Term: Reinforcement Learning - Summer 2020
+Posted: 3/5/2021 9:14 AM GMT-8
+Rating: 2.5
+Difficulty: 4.75
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 17.5 hours per week
+
+Review:
+The course content is quite interesting but the concepts are a little difficult to understand at first (it gets really difficult after about chapter 8). The lectures were pretty much useless and I ended up reading each chapter 2-3 times to understand the concepts clearly. The programming assignments are doable but you'll have to learn everything required to complete them on your own because the lectures do not have any programming or practical component. The weekly homeworks have numerical questions that might be difficult to solve mainly because neither the lectures nor the textbook have solved examples. So you've got to clearly understand the algorithms and equations, and then figure out how to apply them to solve the given problems. The most annoying part of the course was the fact that every question on the homeworks, programming assignments and exam was such that you either get full points if you get the answer right or a zero otherwise. There is no partial credit whatsoever. I found the final to be quite difficult because many questions required a lot of manual calculations and even if you made a tiny mistake you end up losing all the points for that question due to the brutal all or nothing grading scheme. In the end the grades were not curved much and IIRC the cutoff for an A- was 88%. which is just 2% less than the usual 90%. In my opinion the grades should have been curved more to account for the unforgiving all or nothing grading policy and the incredibly time consuming questions on the final. I had very high expectations from this course but was let down by the quality of lectures and grading. The support on the discussion board Piazza was quite good though and one of the TA's was very helpful.
+
+---
+
+Title: 
+Term: Reinforcement Learning - Summer 2020
+Posted: 3/5/2021 9:14 AM GMT-8
+Rating: 7
+Difficulty: 2.5
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 10 hours per week
+
+Review:
+High value course that I took during the compressed summer term alongside with Deep Learning. I spent about a day at most to finish the projects, and I read every required chapter and used the Reading Responses as a place to take notes. Doing this gave me a B in the end in the class. Overall I think the course was easy, with a lot of valuable content and nice, but kind of short, projects. I usually got the programming projects right on the first submission. The theory/math homeworks were where I scored the lowest, but as long as you are brushed up on your algebra and calculus it will be a decent average. The final exam was difficult because you will face new problems you haven't seen before. You can get around this by making sure to do the exercises in each section of the book chapters. This is probably the most optimal class to pair with Deep Learning in the summer.
+
+---
+
+Title: 
+Term: Reinforcement Learning - Summer 2020
+Posted: 3/5/2021 9:14 AM GMT-8
+Rating: 4
+Difficulty: 4
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 17.5 hours per week
+
+Review:
+Class is interesting but the videos should be revamped to be more content rich. The course is following the book chapter by chapter which makes it a lot of content for summer. Def the course is harder in Summer than in Spring because of how condensed the semester is. Programming assignments make you better understand the concepts, but start them early because debugging can take days.
+
+---
+
+Title: 
+Term: Reinforcement Learning - Summer 2020
+Posted: 3/5/2021 9:14 AM GMT-8
+Rating: 5.5
+Difficulty: 2.5
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 12.5 hours per week
+
+Review:
+I really enjoyed this class. I thought the material was rather straightforward, the book is great, one of the TA's was awesome....The only complaint I would lodge is that the video lectures from professors are pretty useless, in my opinion. Just read the book, start the programming early enough to debug, and pay attention when you're doing the homework and you'll be fine. The final was long, but there wasn't really anything on it that I felt was unfair.
+
+---
+
+Title: 
+Term: Reinforcement Learning - Summer 2020
+Posted: 3/5/2021 9:14 AM GMT-8
+Rating: 2.5
+Difficulty: 5.5
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 12.5 hours per week
+
+Review:
+The final exam was complete BS and had a lot of questions that were entirely unfair-- and no partial credit as numerical answers were submitted via an input box. William Macke (TA) was awesome. You can cheese the programming assignments easily because you're just following algorithms in the book (except the third programming assignment -- out of 4 -- which requires a bit of outside reasearch. The homeworks were pretty OK and doable in a few hours of work. Not an easy A as i thought it would be. I recommend NOT taking in the summer because you'll have to do double chapter readings twice because the semester is 2 weeks shorter.
+
+---
+
+Title: 
+Term: Reinforcement Learning - Summer 2020
+Posted: 3/5/2021 9:14 AM GMT-8
+Rating: 5.5
+Difficulty: 4.75
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 15 hours per week
+
+Review:
+The class is taught really well, and the TA (Macke) was extremely attentive and helpful. On weeks projects were due, workload would really ramp up. Especially in the last week with a final and project due. The final exam had a lot of math which would make a minor calculation mistep cost you a lot of points. The programming projects were not extremely difficult, and easy to get full marks on them. But the homeworks can some times be a bit challenging if you're not understanding the text well.
+
+---
+
+Title: 
+Term: Reinforcement Learning - Summer 2020
+Posted: 3/5/2021 9:14 AM GMT-8
+Rating: 4
+Difficulty: 2.5
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 10 hours per week
+
+Review:
+Concepts here are more interesting than the actual assignments. The assistant prof does a great job of breaking down the math-heavy sections of the book, but I do think they needed way more example problems than they currently offer. They primarily just need to figure out the platform that they provide assignments on -- weekly homeworks have annoying 'all or nothing' type questions, the programming results are very binary and annoying to debug, and the final was more difficult merely due to the time constraint. It makes learning the material more stressful than it needs to be. I'll also note that the program/conceptual difficulty jumped up quite a bit for me in the back half. I ended up having to take some of the deep learning lectures to learn how to implement the NNs with pytorch. With that being said, it's fairly easy to get a high grade as you can hit a 70% before you even take the final if you spend enough time on the homeworks/programming assignments.
+
+---
+
+Title: 
+Term: Reinforcement Learning - Summer 2020
+Posted: 3/5/2021 9:14 AM GMT-8
+Rating: 3.25
+Difficulty: 4
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 10 hours per week
+
+Review:
+Material itself was interesting, but I have a huge issue with how the programming assignments were implemented. It felt like there was only one real way to do the assignments- as we were coding up algorithms. The the all or nothing grading resulted in lots of frustration if you couldn't figure out a bug at the end even if you had most of the code correct. I really hope they change this in the future, and look into different types of assignments-rather than just coding up alogrithms. Same thing with the final exam- the fact that 30% of our grade is determined by an edx run test with no partial credit on answers is crazy to me.
+
+---
+
+Title: 
+Term: Reinforcement Learning - Spring 2020
+Posted: 3/5/2021 9:14 AM GMT-8
+Rating: 5.5
+Difficulty: 2.5
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 5 hours per week
+
+Review:
+Course driven by the textbook for the most part. Fairly easy class, although workload will spike a little when you have a programming assignment due. Otherwise, it was weekly readings, a short response, watching videos, and a few homework assignments. Piazza was active and TA was great at answering questions quickly. Final was significantly more challenging, primarily due to the time constraint of 2 hours.
+
+---
+
+Title: 
+Term: Reinforcement Learning - Spring 2020
+Posted: 3/5/2021 9:14 AM GMT-8
+Rating: 5.5
+Difficulty: 4
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 7 hours per week
+
+Review:
+I heard lots of praises for the textbook, but I found the writing difficult to understand without having to read it couple of times. Granted, it is an incredibly well structured textbook that builds on from the foundational concepts to build onto somthing pretty complex by the end of the course. The course isn't very demanding - I found myself reading the textbook, answering weekly problems sets, and occasionally doing the programming assignments. The course sets you up with basic vocabularies and concepts to understand maybe more practical work on reinforcement learning happening in the world today.
+
+---
+
+Title: 
+Term: Reinforcement Learning - Spring 2020
+Posted: 3/5/2021 9:14 AM GMT-8
+Rating: 5.5
+Difficulty: 4
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 5 hours per week
+
+Review:
+The course is largely based on the textbook, which is a good thing since the book is very well written, dense in information, and self-explanatory. In terms of assignements, we have weekly reading responses and homework questions. The lecture videos are mostly complementary to the text but I still find them helpful offer important contexts, overviews, and sometimes examples. The class is well-paced (roughly one chapter per week) and does not require too much of effort other than reading and understanding the book. One can argue that the latter is not as important if you know where to find the relevant points, which brings up the lowlight - personally I feel that the homework questions are not challenging enough and most programming assignements concern more about implementation rather than understanding that you can get full credits by implementing psudo code from the book without actually understaning it. Still rating 4/5 since I personally learned a lot and find the subject interesting.
+
+---
+
+Title: 
+Term: Reinforcement Learning - Spring 2020
+Posted: 3/5/2021 9:14 AM GMT-8
+Rating: 5.5
+Difficulty: 1.75
+Textbook:
+Lectures:
+Professor:
+Piazza:
+Workload: 6 hours per week
+
+Review:
+The content of the class was great. The lectures were very well done. The textbook is great. I didn't feel very challenged in the course though. It could have either moved more quickly, or required more challenging coding projects, or asked us to write proofs. Sai was a great TA and very responsive. The final was suddenly a lot harder than the rest of the course b/c it was only 2 hours for questions we were used to having a week to work on - watch out for the final!
+debugger eval code:101:11
+

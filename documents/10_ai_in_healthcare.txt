@@ -1,0 +1,103 @@
+# ICD10 — AI in Healthcare
+# 1. On msaihub Reviews, filter by "AI in Healthcare".
+# 2. Run scripts/scrape_msaihub_reviews.js in the browser console.
+# 3. Paste the clipboard output below (it already has --- separators).
+# Lines starting with # are ignored during ingestion.
+
+Title: Easy class, interesting content, hard to follow lectures
+Term: AI in Healthcare - Fall 2025
+Posted: 1/11/2026 7:44 PM GMT-8
+Rating: 6
+Difficulty: 2
+Textbook:
+Lectures: 2
+Professor: 4
+Piazza: 7
+Workload: 4.5 hours per week
+
+Review:
+Pros:
+1. Really interesting subject matter and projects.
+2. Easy to follow structure
+3. Lectures made each project straightforward, since the lectures walked through an example codebase you could use for your project.
+4. Easy grading
+4. Not a huge workload imo.
+5. AI use allowed.
+
+Cons:
+1. Lots of encouraged readings, but none that were necessary to read. I didn't read them after the first week.
+2. Lectures were hard to follow.
+3. Final project is a little long, but straightforward and interesting.
+4. Have to make slides for each project.
+
+Detailed Review:
+
+I think this is a great first class in the masters to take. There are weekly readings and lectures. I found I didn't need to do the readings and only needed to watch the lectures which involved code. I wanted to watch the rest of the lectures, but unfortunately Professor Ding's lectures can be a little hard to follow and understand.
+
+Every two weeks, a project is due, and Professor Ding usually has about 30-60 minutes of lectures going over a very similar codebase. You can just take her codebase and then adopt it to a subject you want. The projects were cool and most used public healthcare data. One week, you learned to use scipy and numpy to make graphs; then learn basic SQL; then steadily slightly more advanced ML stuff.
+
+In each project, you had quite a bit of flexibility also. You basically had to analyze the healthcare data using certain methods that were described in the example codebase, and you could analyze whatever features you wanted. You had to make slides for each project which was a little tedious, but whatever. There were two weeks were there were peer review.
+
+Then, there was a final project. You basically had to do any kinda advanced ML analysis, make slides, record yourself speaking them, and write a ~5 page report. Each step took time, but wasn't terribly difficult. And you could do it on whatever subject you wanted with whatever data you could find online (e.g. Kaggle), so it was ultimately pretty interesting. Writing the report was a pain.
+
+But the plus is that AI use is allowed, so that made it easier, especially since Gemini is integrated into Google CoLab, which we use for the projects. Once I realized I didn't need to do the readings and only needed to watch the lectures related to the project, it took me about 2-3 hours each week to watch the lectures related to the project. And it took me 4 hours to do each of the projects due once every 2 weeks with the help of AI. So on average that's 4-5 hours per week of work. Not bad.
+
+Piazza (ed in this case) was fine. Main issue was that the lectures were not great due to Prof Ding's delivery.
+
+---
+
+Title: Nice course, I enjoyed it!
+Term: AI in Healthcare - Spring 2025
+Posted: 8/22/2025 10:11 AM GMT-7
+Rating: 6
+Difficulty: 4
+Textbook:
+Lectures: 5
+Professor: 5
+Piazza: 7
+Workload: 10 hours per week
+
+Review:
+Pros:
+1. No exams, assignment and project-based course
+2. Rubrics for assignments are straightforward
+3. Nice application of AI/ML in the healthcare field
+
+Cons:
+1. Longer project at the end
+2.
+3.
+
+Detailed Review:
+I found this course both interesting and engaging! The application of machine learning and AI to healthcare data was a unique learning experience. There are no exams, so the course is project and assignment-focused. Each assignment has a detailed rubric of what is expected. Exemplary assignments from past students are also provided, which helps clarify expectations.
+Assignments are graded by TAs, who are responsive to questions on Ed and generally follow the rubrics when awarding points. Prof. Ding’s lecture videos and tutorials provide tutorials for each assignment. The main challenge is the final project, which has many components and is time-consuming, and also requires some thought, as it's graded based on creativity, so it’s best to start early.
+
+Overall, this course is pretty manageable and would pair well with a tougher course for balance.
+
+---
+
+Title: More or less ok
+Term: AI in Healthcare - Summer 2025
+Posted: 8/20/2025 1:53 PM GMT-7
+Rating: 6
+Difficulty: 4
+Textbook: 4
+Lectures: 5
+Professor: 5
+Piazza: 5
+Workload: 8 hours per week
+
+Review:
+Pros:
+1. The assignment is very close to the lecture
+2.
+3.
+
+Cons:
+1. A lot of formality stuff
+2.
+3.
+
+Detailed Review:
+I think we I really like is the demo of the prof is actually helpful and useful in the assignment. I can apply what I just learned in my homework and that feels great.
+The difficulty of the assignment is medium and doable but it involves lots of presentations, paper writting, and recording. This has not much to do with the technology itself. I understand as a data scientist, story telling skill is super important but in the course, it is little too much in my opinion
