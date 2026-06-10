@@ -91,9 +91,9 @@ These 10 courses span foundational ML, deep learning, NLP, reinforcement learnin
      Do not just say "I told it to use the documents" — show the actual instruction or explain
      the mechanism. -->
 
-**System prompt grounding instruction:**
+**System prompt grounding instruction:** The system prompt (in [query.py](query.py)) tells the model it is "The Unofficial Guide" and enforces these rules: *"Use ONLY the context. Do not use outside knowledge and do not invent facts. If the context does not contain enough information to answer, reply with exactly: 'I don't have enough information on that.' When reviews disagree, surface the range of opinion instead of picking one."* Structural choices that reinforce grounding: (1) the **only** content in the user message is the retrieved excerpts + the question — the model is given nothing else to draw on; (2) each excerpt is labeled with its course and source file so the model references courses by name; (3) temperature is set low (0.2) to keep the model close to the source text. Verified: out-of-domain questions (e.g. "What's the weather in Austin?") return the refusal sentence rather than a fabricated answer.
 
-**How source attribution is surfaced in the response:**
+**How source attribution is surfaced in the response:** Attribution is added **programmatically, not left to the LLM.** After generation, `ask()` collects the unique `(course, source_file)` pairs from the chunks that were actually retrieved and returns them as a `sources` list, which the Gradio UI shows in a "Retrieved from" box. This guarantees the citation reflects the real retrieved evidence regardless of what the model writes. Sources are suppressed when the answer is the "I don't have enough information" response, so a refusal is never falsely attributed to a document.
 
 ---
 
@@ -103,16 +103,18 @@ These 10 courses span foundational ML, deep learning, NLP, reinforcement learnin
      Be honest — a partially accurate or inaccurate result that you explain well is more
      valuable than a suspiciously perfect result. -->
 
+All five were run through the full system via [evaluate.py](evaluate.py). Retrieval cosine distances are shown where relevant.
+
 | # | Question | Expected answer | System response (summarized) | Retrieval quality | Response accuracy |
 |---|----------|-----------------|------------------------------|-------------------|-------------------|
-| 1 | | | | | |
-| 2 | | | | | |
-| 3 | | | | | |
-| 4 | | | | | |
-| 5 | | | | | |
+| 1 | Hours/week for CS 391L Machine Learning? | Cluster at 10–15 hrs/wk (15 most common; range ~5–30) | Listed scattered figures from 5 reviews (20 early, 15, 8 late, 5 end, week-by-week 18.5/6.25/9.5) incl. 15, but did not state the typical 10–15 | Relevant (5/5 CS 391L, dist 0.35–0.43) | Partially accurate |
+| 2 | More difficult: Deep Learning or NLP, and why? | Roughly comparable; NLP marginally higher by avg rating (~4.7 vs ~4.4/7) | Stated NLP is **definitively** more difficult, citing a "hardest course I've taken" review; overstated the near-tie | Partially relevant (mixed DL/NLP, dist 0.47–0.50 — weakest of all) | Partially accurate |
+| 3 | How to prepare before Reinforcement Learning? | Take DL/NLP first (PyTorch); strong Python + Probability | Strong on Probability (conditional expectation, Blitzstein chapters) but **missed** the "take DL/NLP first for PyTorch" advice | Relevant (5/5 CS 394R, dist 0.35–0.37) | Partially accurate |
+| 4 | How do CS 395T Optimization vs Online Learning and Optimization differ? | ~Equal workload; Optimization = convex-opt foundations; OLO builds on it, two halves | Correctly distinguished the two same-coded courses: OLO is "two courses in one" (optimization + online learning halves) with per-half workload figures; cited both source files | Relevant (5/5 CS 395T, correctly split across both, dist 0.37–0.41) | Accurate |
+| 5 | Grading in Automated Logical Reasoning? | Quizzes ~50%, programming assignments ~30%, homework ~20%; no traditional exams | Correctly said quizzes + programming assignments (no traditional exams) and captured the harsh grading, but **missed** the exact 50/30/20 weights | Relevant (5/5 CS 389L, dist 0.32–0.37 — best) | Partially accurate |
 
-**Retrieval quality:** Relevant / Partially relevant / Off-target  
-**Response accuracy:** Accurate / Partially accurate / Inaccurate
+**Overall retrieval quality:** Relevant on 4/5 (Q2 partially relevant). The course-prefix on each chunk kept retrieval on the correct course in every case, including the CS 395T disambiguation (Q4).
+**Overall response accuracy:** 1 Accurate, 4 Partially accurate. The partial cases share one cause — they ask for a corpus-wide aggregate (a mode, an average, a weight breakdown) that no single 5-chunk sample can represent (see Failure Case Analysis).
 
 ---
 
@@ -129,13 +131,13 @@ These 10 courses span foundational ML, deep learning, NLP, reinforcement learnin
      "The embedding model treated the professor's nickname as out-of-vocabulary and returned
      results from an unrelated review" is an explanation. -->
 
-**Question that failed:**
+**Question that failed:** Q2 — "Which is more difficult: CS 394D Deep Learning or CS 388 Natural Language Processing, and why?"
 
-**What the system returned:**
+**What the system returned:** A confident verdict that **NLP is more difficult than Deep Learning**, backed by a review calling NLP "the hardest course I've taken" and reviews calling DL "manageable / easier now that it's split." The corpus-wide reality is that the two are **nearly tied** — average difficulty ratings are 4.4 (DL) vs 4.7 (NLP) out of 7. So the system overstated a marginal difference as a clear gap. (Notably, an earlier run with slightly different query wording flipped the verdict to "DL is harder" — the answer is unstable.)
 
-**Root cause (tied to a specific pipeline stage):**
+**Root cause (tied to a specific pipeline stage): retrieval, not generation.** Difficulty is a *corpus-wide statistic* spread across ~70 DL and ~33 NLP reviews. Top-k retrieval returns only 5 chunks, selected by semantic similarity to the query — a small, non-representative sample that skews toward the most strongly-worded reviews (which is why distances here were the highest of all questions, ~0.47–0.50: no chunk was a clean match for a comparison query). The LLM then faithfully reported that biased sample. The generation step is correctly grounded in what it was given; the failure is that **semantic retrieval *samples* the corpus, it does not *aggregate* it** — so a couple of vivid reviews outweigh the silent majority.
 
-**What you would change to fix it:**
+**What you would change to fix it:** (1) For comparison/superlative questions, retrieve a balanced set — e.g. top-k *per course* via metadata filtering — so both sides are represented rather than whichever course has the most quotable reviews. (2) Store the structured ratings (difficulty, workload) as queryable numeric metadata and **compute the average directly** instead of asking the LLM to infer it from prose — aggregation questions need an aggregation step, not just nearest-neighbor text search. (3) Raise k for comparison intents so the sample better approximates the full distribution.
 
 ---
 
@@ -144,9 +146,9 @@ These 10 courses span foundational ML, deep learning, NLP, reinforcement learnin
 <!-- Reflect on how planning.md shaped your implementation.
      Answer both questions with at least 2–3 sentences each. -->
 
-**One way the spec helped you during implementation:**
+**One way the spec helped you during implementation:** Committing to the chunking strategy in `planning.md` *before* coding — one chunk per review, split on the `---` boundary, with the course attached as metadata — directly shaped `chunk_text()` and prevented a whole class of bugs. Because the decision was made up front, retrieval returned whole, self-contained opinions (not half-sentences), and every chunk carried its course, which is exactly what made source attribution and the CS 395T disambiguation work in practice. Writing the 5 evaluation questions before any code also gave a concrete target to test retrieval against at each milestone, so I caught the aggregation weakness during evaluation instead of after submitting.
 
-**One way your implementation diverged from the spec, and why:**
+**One way your implementation diverged from the spec, and why:** The spec set the chunk-size cap at ~500 tokens. During Milestone 3 I lowered it to **256** after confirming that `all-MiniLM-L6-v2` truncates its input at 256 tokens — a 500-token chunk would have been silently cut off at embedding time, losing the tail of long reviews without any error. I also added a course + review-title **prefix to every sub-split part** (not in the original plan) so that fragments of a long review stay attributable to the right course. I updated `planning.md`'s Chunking Strategy to record the 256 cap and the reasoning, rather than leaving the spec and code disagreeing.
 
 ---
 
@@ -165,10 +167,10 @@ These 10 courses span foundational ML, deep learning, NLP, reinforcement learnin
 
 - *What I gave the AI:* the source site (msaihub.com — a JavaScript Angular app with no public API), the structure of a review (overall/difficulty/professor/lecture/textbook ratings, workload hrs/week, body text, date), and my problem: I needed reviews for ~10 courses but copying every field by hand was unworkable.
 - *What it produced:* it traced the site to the open-source MSCSHub repo, read the review component's DOM template to learn the exact markup, then wrote a browser-console scraper ([scripts/scrape_msaihub_reviews.js](scripts/scrape_msaihub_reviews.js)) that auto-paginates through a filtered course's reviews and outputs them already formatted with `---` separators.
-- *What I changed or overrode:* _[fill in your own words — e.g., on Firefox the `copy()` clipboard write failed on large outputs (pink console text), so I copied from the logged output / re-ran per course; I selected the 10 courses and re-ran the AI in Healthcare scrape after it didn't save the first time.]_
+- *What I changed or overrode:* I picked the 10 courses myself to spread across the catalog (foundational ML, deep learning, NLP, RL, optimization, logic, applied healthcare) instead of just grabbing the most-reviewed ones, so retrieval would have to tell genuinely different topics apart. When I ran the scraper in Firefox, the `copy()` clipboard call silently failed on the larger courses (the console output came back pink and nothing landed on the clipboard), so for those I copied the reviews out of the logged console output instead; the small AI in Healthcare course copied cleanly. I also missed saving the AI in Healthcare file on the first pass and had to re-paste and save it.
 
 **Instance 2 — Chunking implementation**
 
 - *What I gave the AI:* my Chunking Strategy section from `planning.md` (one chunk per review, split on `---`, attach course metadata) and the requirement that it work with `all-MiniLM-L6-v2`.
 - *What it produced:* `load_documents()` and `chunk_text()` in [ingest.py](ingest.py), plus an inspection script that prints chunk counts and 5 sample chunks.
-- *What I changed or overrode:* the cap was lowered from the planned ~500 tokens to **256** after confirming `all-MiniLM-L6-v2` truncates at 256 (a 500-token chunk would be silently cut); I also kept the course+title prefix on every sub-split part so long-review fragments stay attributable. _[Adjust to reflect any further changes you made.]_
+- *What I changed or overrode:* I directed it to use **one chunk per review** (splitting on the `---` boundary) rather than fixed-size character chunks, because each review is a self-contained opinion and fixed-size splitting would cut opinions in half. I had the cap lowered from the planned ~500 tokens to **256** after we confirmed `all-MiniLM-L6-v2` truncates at 256 (a 500-token chunk would be silently cut off at embedding time), and I kept a course + review-title prefix on every sub-split part so fragments of long reviews stay attributable to the right course.
