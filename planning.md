@@ -51,13 +51,13 @@
 
 **Overlap:** **~50 tokens**, applied *only* when a long review is sub-split. No overlap is used between separate reviews — bleeding one student's opinion into another's chunk would pollute retrieval (e.g. mixing a "loved it" review into a "hated it" one).
 
-**Preprocessing (before chunking):** strip usernames/timestamps/upvote counts copied from msaihub, normalize whitespace/blank lines, and drop empty entries.
+**Preprocessing (before chunking):** each msaihub review has structured fields (overall/difficulty/professor/lectures/textbook ratings, workload hrs/week, posted date) followed by a prose body. We **preserve the structured fields as labeled lines** inside the chunk — they directly answer the eval questions (workload, difficulty, grading) and embed well alongside the prose. We normalize whitespace, drop `#` comment lines and unfilled `[PASTE ...]` placeholders, and leave a field blank if the site doesn't show it.
 
 **Course attribution:** every chunk is stored with the **course code + name as Chroma metadata** (e.g. `course: "CS 391L — Machine Learning"`), and the course name is also prepended to the chunk text. This is essential here: a raw chunk like *"~20 hrs/week, autograder is unforgiving"* is useless unless the system knows which course it's about — critical for both retrieval (queries name courses) and source attribution in the answer.
 
 **Reasoning:** Reviews are self-contained semantic units, so splitting on review boundaries keeps each opinion intact and prevents cross-review contamination. Fixed-size windowing would cut opinions in half and merge unrelated students. The ~500-token cap matches the embedding model's comfortable input range while keeping rare long reviews from dominating a single chunk.
 
-**Final chunk count:** _TBD — record after running ingestion across all 10 files._
+**Final chunk count:** **760** across the 10 course files (328 reviews; 432 of those chunks are sub-split parts of reviews longer than the 256-token window). Avg 210 tokens/chunk, max 255 — within the project's 50–2,000 guidance.
 
 ---
 
@@ -92,11 +92,11 @@
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | How many hours per week do students report spending on CS 391L Machine Learning? | _TBD — fill with the hour range students actually cite_ |
-| 2 | According to reviews, which is more difficult: CS 394D Deep Learning or CS 388 Natural Language Processing, and why? | _TBD — name the harder course + the cited reason (math, projects, autograder)_ |
-| 3 | What do students recommend doing to prepare before taking CS 394R Reinforcement Learning? | _TBD — list the prereqs/prep students mention_ |
-| 4 | How do CS 395T Optimization and CS 395T Online Learning and Optimization differ in workload and content? | _TBD — must correctly distinguish the two same-numbered courses (disambiguation test)_ |
-| 5 | How is grading structured in CS 389L Automated Logical Reasoning — exams, projects, or both? | _TBD — describe the grading breakdown students report_ |
+| 1 | How many hours per week do students report spending on CS 391L Machine Learning? | Most reports cluster at **10–15 hrs/week** — 15 is the single most common (20 reviews), 10 next (14); full range ~5–30. A correct answer cites the ~10–15 typical figure, not one exact number. |
+| 2 | According to reviews, which is more difficult: CS 394D Deep Learning or CS 388 Natural Language Processing, and why? | **Roughly comparable** — by average difficulty rating they are nearly tied, NLP marginally higher (~4.7 vs ~4.4 out of 7). Both are project-heavy (NLP's open-ended final project; DL's PyTorch assignments). Claiming a large gap either way is wrong. |
+| 3 | What do students recommend doing to prepare before taking CS 394R Reinforcement Learning? | **Take Deep Learning (and ideally NLP) first** — RL gives almost no PyTorch intro but later programming assignments require it. Be very comfortable with **Python** (class objects/inheritance) and especially **Probability & Statistics** (conditional expectation); little linear algebra and only basic calculus needed. |
+| 4 | How do CS 395T Optimization and CS 395T Online Learning and Optimization differ in workload and content? | **Workload is nearly identical (~10–11 hrs/week avg for both).** The difference is content: Optimization is the foundational convex-optimization course (LP, duality, KKT, gradient-descent methods, Newton); Online Learning and Optimization builds on it (students recommend taking Optimization first) and is split into an optimization first half + an online-learning second half. |
+| 5 | How is grading structured in CS 389L Automated Logical Reasoning — exams, projects, or both? | **Quiz- and assignment-based, not traditional exams:** weekly quizzes ~50%, programming assignments ~30%, written homework ~20%. Reviews stress the weekly quizzes (half the grade, one attempt) as the dominant and hardest component. |
 
 ---
 
