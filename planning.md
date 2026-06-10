@@ -47,15 +47,15 @@
 
 **Approach:** Review-boundary chunking. Each file holds multiple student reviews separated by a `---` marker; the primary split is on that marker, so **one chunk = one complete student review**. A size cap is applied only as a safety net for unusually long reviews.
 
-**Chunk size:** Variable, bounded. A chunk is whatever one review contains (typically ~50–250 words). If a single review exceeds **~500 tokens**, it is sub-split into ~500-token windows.
+**Chunk size:** Variable, bounded. A chunk is whatever one review contains (typically ~50–250 words). If a single review exceeds **256 tokens**, it is sub-split into ≤256-token windows. Average chunk is ~210 tokens. (Revised down from an initial ~500-token plan once we confirmed the embedding model's real limit — see Reasoning.)
 
-**Overlap:** **~50 tokens**, applied *only* when a long review is sub-split. No overlap is used between separate reviews — bleeding one student's opinion into another's chunk would pollute retrieval (e.g. mixing a "loved it" review into a "hated it" one).
+**Overlap:** **~40 tokens**, applied *only* when a long review is sub-split. No overlap is used between separate reviews — bleeding one student's opinion into another's chunk would pollute retrieval (e.g. mixing a "loved it" review into a "hated it" one).
 
 **Preprocessing (before chunking):** each msaihub review has structured fields (overall/difficulty/professor/lectures/textbook ratings, workload hrs/week, posted date) followed by a prose body. We **preserve the structured fields as labeled lines** inside the chunk — they directly answer the eval questions (workload, difficulty, grading) and embed well alongside the prose. We normalize whitespace, drop `#` comment lines and unfilled `[PASTE ...]` placeholders, and leave a field blank if the site doesn't show it.
 
 **Course attribution:** every chunk is stored with the **course code + name as Chroma metadata** (e.g. `course: "CS 391L — Machine Learning"`), and the course name is also prepended to the chunk text. This is essential here: a raw chunk like *"~20 hrs/week, autograder is unforgiving"* is useless unless the system knows which course it's about — critical for both retrieval (queries name courses) and source attribution in the answer.
 
-**Reasoning:** Reviews are self-contained semantic units, so splitting on review boundaries keeps each opinion intact and prevents cross-review contamination. Fixed-size windowing would cut opinions in half and merge unrelated students. The ~500-token cap matches the embedding model's comfortable input range while keeping rare long reviews from dominating a single chunk.
+**Reasoning:** Reviews are self-contained semantic units, so splitting on review boundaries keeps each opinion intact and prevents cross-review contamination. Fixed-size windowing would cut opinions in half and merge unrelated students. The 256-token cap matches `all-MiniLM-L6-v2`'s actual input limit — it truncates anything beyond 256 tokens, so a larger chunk would be silently cut off when embedded. (We initially planned ~500 but lowered it once we confirmed the model's limit.)
 
 **Final chunk count:** **760** across the 10 course files (328 reviews; 432 of those chunks are sub-split parts of reviews longer than the 256-token window). Avg 210 tokens/chunk, max 255 — within the project's 50–2,000 guidance.
 
@@ -124,7 +124,7 @@
 
 ```mermaid
 flowchart LR
-    A["1. Document Ingestion<br/>documents/*.txt<br/>(reviews copied from msaihub.com)"]
+    A["1. Document Ingestion<br/>documents/*.txt<br/>(reviews scraped from msaihub.com)"]
     B["2. Chunking<br/>split on '---' review boundary<br/>+ attach course metadata<br/>(custom Python)"]
     C["3. Embedding + Vector Store<br/>all-MiniLM-L6-v2<br/>(sentence-transformers)<br/>-> ChromaDB"]
     D["4. Retrieval<br/>embed query, top-k=5<br/>cosine search in ChromaDB"]
@@ -140,8 +140,8 @@ flowchart LR
 
 | Stage | Tool / library |
 |-------|----------------|
-| Ingestion | plain `.txt` files in `documents/` (manual copy/paste; `pdfplumber` only if any PDFs) |
-| Chunking | custom Python (split on `---`, course metadata, ~500-token cap) |
+| Ingestion | plain `.txt` files in `documents/` (scraped from msaihub.com via a browser-console script) |
+| Chunking | custom Python (split on `---`, course metadata, 256-token cap) |
 | Embedding | `all-MiniLM-L6-v2` via `sentence-transformers` |
 | Vector store | `chromadb` (persistent, cosine similarity) |
 | Retrieval | ChromaDB query, top-k = 5 |
@@ -163,7 +163,7 @@ flowchart LR
      with my specified chunk size and overlap" is a plan. -->
 
 **Milestone 3 — Ingestion and chunking:**
-Tool: Claude (Claude Code). Input: the **Documents** and **Chunking Strategy** sections above. Ask it to implement `load_documents()` (read every `documents/*.txt`, derive the course name from the filename/table) and `chunk_text()` (split on the `---` review marker, normalize whitespace, enforce the ~500-token cap with ~50-token overlap on long reviews, attach `course` metadata to each chunk). Expected output: a list of `{text, course, source_file}` chunk objects. Verify by printing the chunk count and spot-checking that no chunk merges two reviews and every chunk carries its course tag.
+Tool: Claude (Claude Code). Input: the **Documents** and **Chunking Strategy** sections above. Ask it to implement `load_documents()` (read every `documents/*.txt`, derive the course name from the filename/table) and `chunk_text()` (split on the `---` review marker, normalize whitespace, enforce the 256-token cap with ~40-token overlap on long reviews, attach `course` metadata to each chunk). Expected output: a list of `{text, course, source_file}` chunk objects. Verify by printing the chunk count and spot-checking that no chunk merges two reviews and every chunk carries its course tag.
 
 **Milestone 4 — Embedding and retrieval:**
 Tool: Claude. Input: the **Retrieval Approach** section. Ask it to embed all chunks with `all-MiniLM-L6-v2`, store them in a persistent ChromaDB collection (text + `course` metadata), and implement `retrieve(query, k=5)`. Expected output: a query function returning the top-5 chunks with course + score. Verify against the **Evaluation Plan** questions — especially that the CS 395T disambiguation query returns the correct course's chunks; if not, add metadata filtering.
